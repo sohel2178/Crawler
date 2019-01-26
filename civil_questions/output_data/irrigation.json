@@ -1,0 +1,1370 @@
+{
+    "questions": [
+        {
+            "question": "Borrow pits should preferably be located in",
+            "answers": [
+                "field on the left side of the canal",
+                "field on the right side of the canal",
+                "fields on both sides of the canal",
+                "central half width of the section of the canal."
+            ]
+        },
+        {
+            "question": "Irrigation canals are generally aligned along",
+            "answers": [
+                "ridge line",
+                "contour line",
+                "valley line",
+                "straight line."
+            ]
+        },
+        {
+            "question": "The length of a meander is the distance along the river between the tangent point of one curve to the tangent point of",
+            "answers": [
+                "reverse curve",
+                "next curve of the same order",
+                "reverse curve plus the width of the river",
+                "none of these."
+            ]
+        },
+        {
+            "question": "If B and d are the bed width and depth of a channel in metres, the combined losses due to evaporation and seepage in cumecs per kilometre length of the channel, is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Pick up the incorrect statement from the following",
+            "answers": [
+                "Side walls of a venturi head flume are splayed out from the end of the throat at 1 : 10 for a length of 4.5 m",
+                "Length of side walls should be such that the width of the flume is made equal to 2/3rd the bed width of the distributary",
+                "Once the width of the flume becomes 2/3rd of the width of the distributary, the splayed walls are increased to 1 in 3 to get full bed width",
+                "None of these."
+            ]
+        },
+        {
+            "question": "The difference in level between the top of a bank and supply level in a canal, is called",
+            "answers": [
+                "berm",
+                "free board",
+                "height of bank",
+                "none of these."
+            ]
+        },
+        {
+            "question": "F.S.L. of a canal at its head with respect to parent channel is kept",
+            "answers": [
+                "at the same level",
+                "15 cm lower",
+                "15 cm higher",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The measure to remove water logging of land, is",
+            "answers": [
+                "to reduce percolation from canals and water courses",
+                "to increase outflow from the ground water reservoir",
+                "both (a) and (b)",
+                "neither (a) nor (b)"
+            ]
+        },
+        {
+            "question": "Attracting groynes are built",
+            "answers": [
+                "perpendicular to the bank",
+                "inclined down stream",
+                "inclined up stream",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Retrogression of the bed level of a river downstream a weir, occurs due to",
+            "answers": [
+                "heavy impact of water",
+                "increase of the bed level",
+                "less percentage of silt",
+                "soft soil strata."
+            ]
+        },
+        {
+            "question": "According to G.W. Pickles the effect of confining the flood water of a river between levee, is to increase",
+            "answers": [
+                "rate of flood wave",
+                "water surface elevation during floods",
+                "maximum discharge",
+                "velocity and scouring action",
+                "surface slope of streams above the leveed portion."
+            ]
+        },
+        {
+            "question": "In a canal syphon, the flow is",
+            "answers": [
+                "under atmospheric pressure",
+                "pipe flow",
+                "with critical velocity",
+                "under negative pressure."
+            ]
+        },
+        {
+            "question": "A water-logged land is found suitable for cultivation due to",
+            "answers": [
+                "ease of tillage for preparation of the field for optimum condition of germination",
+                "absence of aeration of soil from root zone of the plant",
+                "regular supply of water to plants from the water table by capillary action",
+                "none of these."
+            ]
+        },
+        {
+            "question": "When a canal and a drainage approach each other at the same level, the structure so provided, is",
+            "answers": [
+                "an aqueduct",
+                "a syphon",
+                "a level crossing",
+                "inlet and outlet."
+            ]
+        },
+        {
+            "question": "For smooth entry of water in a canal, the angle between head regulator and water is generally kept",
+            "answers": [
+                "80\u00b0",
+                "90\u00b0",
+                "110\u00b0",
+                "120\u00b0"
+            ]
+        },
+        {
+            "question": "If L is total length of a canal in kilometres, P is total perimeter of its lining in metres and C is the cost of lining per square metre, the additional expenditure involved on lining, is",
+            "answers": [
+                "1000 PLC",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Pick up the incorrect statement from the following:",
+            "answers": [
+                "In free flooding irrigation, water is admitted at one corner of a field and is allowed to spread over the entire area",
+                "In check method of irrigation, the field is divided into smaller compartments and water is admitted to each in turn",
+                "In furrow irrigation water is admitted between the rows of plants in the field",
+                "None of these."
+            ]
+        },
+        {
+            "question": "Fundamental momentum equation for a hydraulic jump, is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "In a Sarda type fall, the rectangular crest, may be used for discharge upto",
+            "answers": [
+                "6 cumecs",
+                "10 cumecs",
+                "14 cumecs",
+                "20 cumecs",
+                "25 cumecs."
+            ]
+        },
+        {
+            "question": "When a canal is carried over a natural drainage, the structure provided, is known as",
+            "answers": [
+                "syphon",
+                "aqueduct",
+                "super passage",
+                "syphon-aqueduct."
+            ]
+        },
+        {
+            "question": "For the stability of a structure against seepage pressure according to Khosla's creep theory, the critical gradient is",
+            "answers": [
+                "zero",
+                "0.25",
+                "0.50",
+                "0.75",
+                "1.00"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following",
+            "answers": [
+                "Approach of the water line in a flumed channel section should not be steeper than ",
+                "Departure of the water line from a flumed channel section should not be steeper than 30\u00b0",
+                "Approach of the water line should not be steeper than 30\u00b0 and departure line not steeper than  in a flumed channel section",
+                "Approach and departure of the water line in a flumed channel section, should not be steeper than "
+            ]
+        },
+        {
+            "question": "Groynes are generally built",
+            "answers": [
+                "perpendicular to the bank",
+                "inclined up stream up to 30\u00b0",
+                "inclined down stream upto 30\u00b0",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The top of the capillary zone",
+            "answers": [
+                "lies below the water table at every point",
+                "lies above the water table at every point",
+                "coincides the water table at every point",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Pick up the incorrect statement from the following. Culturable commanded area is the gross area of an irrigation canal system less",
+            "answers": [
+                "populated area",
+                "alkaline area",
+                "forest area",
+                "fallow land."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following",
+            "answers": [
+                "In a level crossing, a crest with its top at the canal F.S.L. is provided across the drainage at its up-stream junction with canal",
+                "In a level crossing a regulator is provided across the drainage at its down-stream",
+                "In a level crossing, a cross regulator is provided on the canal below the crossing",
+                "All the above."
+            ]
+        },
+        {
+            "question": "For the design of major hydraulic structures on the canals, the method generally preferred to, is based on",
+            "answers": [
+                "Bligh's theory",
+                "Electrical analogy method",
+                "The relaxation method",
+                "Khosla's method of independent variables."
+            ]
+        },
+        {
+            "question": "For designing the venturi head,",
+            "answers": [
+                "width of the throat should not be less than one-third of the bed width of main canal",
+                "width of the throat should not be less than the width obtained from the formula B = Q / 1.2d3/2, where d is the difference in levels of F.S.L. and sill",
+                "minimum throat width should not be less than 60 cm",
+                "length of the throat should be 2.5 times the depth measured to F.S.L. in the main canal",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The sinuosity of a meander is the ratio of",
+            "answers": [
+                "meander length and the width of meander",
+                "meander length and half width of the river",
+                "curved length and the straight distance",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The top soil of a water logged field becomes more alkaline and infertile if its pH value is",
+            "answers": [
+                "6",
+                "8",
+                "9",
+                "10",
+                "11"
+            ]
+        },
+        {
+            "question": "The main function of a diversion head works of a canal from a river, is",
+            "answers": [
+                "to remove silt",
+                "to control floods",
+                "to store water",
+                "to raise water level",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Side slopes generally kept for canals in loam soil, are :",
+            "answers": [
+                "1 : 1 in cutting and  : 1 in filling",
+                " : 1 in cutting and 2 : 1 in filling",
+                "Neither (a) nor (b)",
+                "Both (a) and (b)"
+            ]
+        },
+        {
+            "question": "When a canal flowing under pressure is carried below a natural drainage such that its F.S.L. does not touch the underside of the supporting structure, the structure so provided, is called",
+            "answers": [
+                "syphon",
+                "aqueduct",
+                "super passage",
+                "syphon-aqueduct."
+            ]
+        },
+        {
+            "question": "For the conditions enumerated to provide a crossing at C1 You will probably provide",
+            "answers": [
+                "an aqueduct",
+                "a super-passage",
+                "a syphon aqueduct",
+                "none of these."
+            ]
+        },
+        {
+            "question": "If the straight sides of a triangular section of a lined canal with circular bottom of radius R, make an angle \u03b8 with horizontal, the perimeter of the canal is",
+            "answers": [
+                "R(\u03b8 + tan \u03b8)",
+                "2R(\u03b8 + tan \u03b8)",
+                "R(\u03b8 + cos \u03b8)",
+                "2R(\u03b8 + cos \u03b8)",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The crest level of a canal diversion head work, depends upon",
+            "answers": [
+                "F.S.L. of the canal",
+                "discharge perimeters",
+                "pond level",
+                "all the above",
+                "none these."
+            ]
+        },
+        {
+            "question": "The depth of rice root zone, is",
+            "answers": [
+                "50 cm",
+                "60 cm",
+                "70 cm",
+                "80 cm",
+                "90 cm"
+            ]
+        },
+        {
+            "question": "The intensity of irrigation means",
+            "answers": [
+                "percentage of culturable commanded area to be irrigated annually",
+                "percentage of gross commanded area to be irrigated annually",
+                "percentage of the mean of culturable commanded area and the gross commanded area to be irrigated annually",
+                "total depth of water supplied by the number of waterings."
+            ]
+        },
+        {
+            "question": "The saturation line is the line up to which banks get saturated after the canal runs for some time. The saturation gradient in ordinary loam soil, is generally",
+            "answers": [
+                "2 : 1",
+                "3 : 1",
+                "4 : 1",
+                "5 : 1",
+                "6 : 1"
+            ]
+        },
+        {
+            "question": "The depth of the crest of a scouring sluice below the crest of a head regulator, is generally kept",
+            "answers": [
+                "0.20 m",
+                "1.20 m",
+                "2.20 m",
+                "3.20 m",
+                "4.90 m"
+            ]
+        },
+        {
+            "question": "The discharge over a trapezoidal crest of a Sarda fall with free over fall conditions, is",
+            "answers": [
+                "0.45 2g . LH3/2 (H/B)1/3",
+                "0.45 2g . LH2/3 (H/B)2/3",
+                "0.45 2g . LH3/2 (H/B)1/6",
+                "0.45 2g . LH1/6 (H/B)3/2"
+            ]
+        },
+        {
+            "question": "If q is the discharge per unit width of a channel and D1 D2 are the depths of water before and after hydraulic jump, the following relationship is true",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "A river training work is generally required when the river is",
+            "answers": [
+                "meandering",
+                "aggrading",
+                "degrading",
+                "all the above."
+            ]
+        },
+        {
+            "question": "For loss of head in a canal inverted syphon barrel, the factor in the Unwin formula  is a coefficient for loss of head due to",
+            "answers": [
+                "friction",
+                "exit",
+                "entry",
+                "gradient"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "If the flexibility is more than one, the outlet is hyper-proportional",
+                "If the setting of an outlet is higher than that required for proportionality, the outlet is hyper-proportional",
+                "If the setting of an outlet is lower than that required for proportionality, the outlet is sub-proportional",
+                "If the flexibility is zero, it is a rigid module",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "Duty of canal water is defined as the total area irrigated by the discharge averaging one unit during the base period of the duty",
+                "Duty of canal water is usually calculated at the head discharge of a channel",
+                "Duty of canal water at the head of a channel and at the outlet of a distributary, differ considerably due to progressive losses of water",
+                "Duty of canal water at the outlet of a distributary, is generally known as outlet factor or outlet discharge factor",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Water-shed line is abondened for aligning an irrigation canal if",
+            "answers": [
+                "water shed forms a sharp loop",
+                "canal has to take off from a river",
+                "towns and villages are located on the water shed line",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Pick up the incorrect statement from the following",
+            "answers": [
+                "A bank in the cross-section of a canal is provided on the right",
+                "A bank in the cross-section of a canal is provided on the left",
+                "A 'dowla' in the cross-section of a canal is provided on the left",
+                "None of these."
+            ]
+        },
+        {
+            "question": "For a given discharge in a channel, Blench curves give the relationship between the loss of head (HL) and",
+            "answers": [
+                "specific energy up-stream",
+                "specific energy down-stream",
+                "critical depth of water down-stream",
+                "depth of water down-stream"
+            ]
+        },
+        {
+            "question": "A deficit of sediments in flowing water may cause a river",
+            "answers": [
+                "meandering type",
+                "aggrading type",
+                "degrading type",
+                "sub-critical type."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "The full supply level of a canal should be above ground level",
+                "According to Lacey, regime conditions require a particular slope for a given discharge and silt factor",
+                "In case the ground slope is less than the required bed slope, the silt factor must be reduced by permitting the entry of coarse silt",
+                "All the above."
+            ]
+        },
+        {
+            "question": "If \u0394 is the depth of water in metres, B is the number of days of base period and D is the duty in hactare/cumec, the relationship which holds good, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Meandering of a river generally occurs, in",
+            "answers": [
+                "rocky stage",
+                "delta stage",
+                "boulder stage",
+                "trough stage."
+            ]
+        },
+        {
+            "question": "The consumptive use of water for a crop",
+            "answers": [
+                "is measured as the volume of water per unit area",
+                "is measured as depth of water on irrigated area",
+                "may be supplied partly by precipitation and partly by irrigation",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The velocity of drainage water in the barrels of a syphon-aqueduct, is normally limited to",
+            "answers": [
+                "1 to 2 m per second",
+                "2 to 3 m per second",
+                "3 to 4 m per second",
+                "4 to 5 m per second."
+            ]
+        },
+        {
+            "question": "A fall in a canal bed is generally provided, if",
+            "answers": [
+                "ground slope exceeds the designed bed slope",
+                "designed bed slope exceeds the ground slope",
+                "ground slope is practically the same as the designed bed slope",
+                "none of these."
+            ]
+        },
+        {
+            "question": "According to Khosla, the exist gradient of surface flow",
+            "answers": [
+                "depends upon the b/d ratio",
+                "is independent of the b/d ratio",
+                "is independent of the depths of d/s cut off walls",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "Gravity water is harmful to crops",
+                "Hygroscopic water remains attached to soil molecules by chemical bond",
+                "Capillary moisture held in the soil pores against gravity by surface tension, is utilised by plants",
+                "All the above."
+            ]
+        },
+        {
+            "question": "If the irrigation efficiency is 80%, conveyance losses are 20% and the actual depth of watering is 16 cm, the depth of water required at the canal outlet, is",
+            "answers": [
+                "10 cm",
+                "15 cm",
+                "20 cm",
+                "25 cm",
+                "30 cm"
+            ]
+        },
+        {
+            "question": "The scour depth D of a river during flood, may be calculated from the Lacey's equation",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "If V0 is the critical velocity of a channel, its silt transporting power, according to Kennedy, is proportional to",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The useful moisture of soil, is equal to its",
+            "answers": [
+                "field capacity",
+                "saturation capacity",
+                "moisture content at permanent wilting point",
+                "difference between filed capacity and permanent wilting point within the root zone of plants."
+            ]
+        },
+        {
+            "question": "Canals taken off from ice-fed perennial rivers, are known",
+            "answers": [
+                "permanent canals",
+                "ridge canals",
+                "perennial canals",
+                "inundation canals",
+                "ice canals."
+            ]
+        },
+        {
+            "question": "The down stream expansion head of a guide bank is extended to subtend an angle at the centre, equal to",
+            "answers": [
+                "30\u00b0",
+                "45\u00b0",
+                "60\u00b0",
+                "90\u00b0"
+            ]
+        },
+        {
+            "question": "Trial procedure of canal design by Kennedy's theory is based upon the equation",
+            "answers": [
+                "Q = A . Y",
+                "",
+                "",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The main cause of silting up a channel,",
+            "answers": [
+                "non-regime section",
+                "inadequate slope",
+                "defective head regulator",
+                "defective outlets",
+                "all the above."
+            ]
+        },
+        {
+            "question": "In north Indian Plains, optimum depth of kor watering for wheat, is",
+            "answers": [
+                "23.0 cm",
+                "19.0 cm",
+                "17.5 cm",
+                "13.5 cm",
+                "12.0 cm"
+            ]
+        },
+        {
+            "question": "Bed bars in a canal are provided",
+            "answers": [
+                "to watch the general behaviour of canal",
+                "to measure the discharge",
+                "to raise the supply level",
+                "to control the silting",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The most suitable location of a canal head work, is",
+            "answers": [
+                "boulders stage of the river",
+                "delta stage of the river",
+                "rock stage of the river",
+                "trough stage of the river."
+            ]
+        },
+        {
+            "question": "Useful soil moisture for plant growth, is",
+            "answers": [
+                "capillary water",
+                "gravity water",
+                "hygroscopic water",
+                "chemical water",
+                "all the above."
+            ]
+        },
+        {
+            "question": "A hydraulic structure is designed to withstand",
+            "answers": [
+                "seepage forces",
+                "hydraulic jump",
+                "hydraulic pressure",
+                "all the above."
+            ]
+        },
+        {
+            "question": "In gravity canals, F.S.L. is",
+            "answers": [
+                "always at the ground level",
+                "always below the ground level",
+                "generally 4 to 5 metres above the ground level",
+                "only a few cm above the ground level."
+            ]
+        },
+        {
+            "question": "If d1 is the depth of cutting, d2 is the height of the bank from bed level r2 : 1 and r1 : 1 are the slopes in filling and cutting respectively, the horizontal distance n between the bed and bank, is",
+            "answers": [
+                "x = r1 d1",
+                "x = r2 d2",
+                "x = d1 / r1",
+                "x = d2 / r2"
+            ]
+        },
+        {
+            "question": "The structure constructed to allow drainage water to flow under pressure through an inverted syphon below a canal, is called",
+            "answers": [
+                "syphon",
+                "super passage",
+                "aqueduct",
+                "super-aqueduct",
+                "syphon aqueduct."
+            ]
+        },
+        {
+            "question": "The optimum depth of kor watering for a rice crop, is",
+            "answers": [
+                "23.0 cm",
+                "19.0 cm",
+                "17.5 cm",
+                "13.5 cm",
+                "12.0 cm"
+            ]
+        },
+        {
+            "question": "Bligh's theory of seepage assumes",
+            "answers": [
+                "equal weightage to the horizontal and vertical creep",
+                "more weightage to horizontal creep than vertical creep",
+                "less weightage to horizontal creep than vertical creep",
+                "loss of head follows the sine curve."
+            ]
+        },
+        {
+            "question": "The Lacey's regime velocity is proportional to",
+            "answers": [
+                "R1/2 S3/4",
+                "Q3/4 S1/3",
+                "R3/4 S1/3",
+                "R2/3 S1/2"
+            ]
+        },
+        {
+            "question": "A hydraulic jump is generally formed when a stream moving with",
+            "answers": [
+                "a hyper-critical velocity meets a stream moving with a critical velocity",
+                "a hyper-critical velocity meets a stream moving with a hyper-critical velocity",
+                "A hyper-critical velocity meets a stream moving with a sub-critical velocity",
+                "a sub-critical velocity meets a stream moving with a hyper-critical velocity."
+            ]
+        },
+        {
+            "question": "For a unique design of a channel by Kennedy's theory",
+            "answers": [
+                "its breadth must only be known",
+                "its depth must only be known",
+                "its breadth and depth ratio must only be known",
+                "all the above."
+            ]
+        },
+        {
+            "question": "In a barrage, the crest level is kept",
+            "answers": [
+                "low with large gates",
+                "high with large gates",
+                "high with no gates",
+                "low with no gates."
+            ]
+        },
+        {
+            "question": "For a standing crop, the consumptive use of water is equal to the depth of water",
+            "answers": [
+                "transpired by the crop",
+                "evaporated by the crop",
+                "transpired and evaporated by the crop",
+                "used by the crop in transpiration, evaporation and also the quantity of water evaporated from adjacent soil."
+            ]
+        },
+        {
+            "question": "The state of the soil when plants fail to extract sufficient water for their requirements, is",
+            "answers": [
+                "maximum saturated point",
+                "permanent wilting point",
+                "ultimate utilisation point",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The field capacity of a soil is 25%, its permanent wilting point is 15% and specific dry unity weight is 1.5. If the depth of root zone of a crop, is 80 cm, the storage capacity of the soil, is",
+            "answers": [
+                "8 cm",
+                "10 cm",
+                "12 cm",
+                "14 cm",
+                "16 cm"
+            ]
+        },
+        {
+            "question": "Solution of Laplacian equation in three dimensions  of water in a syphon, is done by",
+            "answers": [
+                "analytical method",
+                "Khosla's method",
+                "method of relaxation",
+                "Unwin's method."
+            ]
+        },
+        {
+            "question": "The length and width of a meander and also the width of the river, vary roughly as",
+            "answers": [
+                "square root of the discharge",
+                "discharge",
+                "square of the discharge",
+                "cube of the discharge."
+            ]
+        },
+        {
+            "question": "Regime conditions in a channel may occur if",
+            "answers": [
+                "discharge is constant",
+                "channel flows uniformly in incoherent alluvium as that transported in suspension",
+                "silt grade and silt charge are constant",
+                "all the above."
+            ]
+        },
+        {
+            "question": "If the optimum depth of kor watering for a crop is 15.12 cm, the outlet factor for the crop for four week period in hectares per cumec, is",
+            "answers": [
+                "1000",
+                "1200",
+                "1400",
+                "1600",
+                "2000"
+            ]
+        },
+        {
+            "question": "If H and d are the water depth and drop in the bed level at a Sarda fall, the width B of the trapezoidal crest, is given by",
+            "answers": [
+                "B = 0.22 H + d",
+                "B = 0.33 H + d",
+                "B = 0.44 H + d",
+                "B = 0.55 H + d"
+            ]
+        },
+        {
+            "question": "According to Bligh's creep theory, percolating water flows along",
+            "answers": [
+                "straight path under the foundation of the dam",
+                "circular path under the foundation of the dam",
+                "the outline of the base of the foundation of the dam",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The width of a meander belt is the transverse distance between",
+            "answers": [
+                "apex point of one curve and apex point of the reserve curve",
+                "apex point and the crossing",
+                "two banks of meandering river",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The sensitivity of a rigid module, is",
+            "answers": [
+                "2.00",
+                "1.50",
+                "1.00",
+                "0.50",
+                "zero"
+            ]
+        },
+        {
+            "question": "An outlet which maintains a constant discharge irrespective of fluctuation in the water levels of the supplying channel or water course, is known as",
+            "answers": [
+                "non-modular outlet",
+                "semi-modular outlet",
+                "flexible modular outlet",
+                "right modular outlet."
+            ]
+        },
+        {
+            "question": "Canals constructed for draining off water from water logged areas, are known",
+            "answers": [
+                "drains",
+                "inundation canals",
+                "valley canals",
+                "contour canals",
+                "ridge canals."
+            ]
+        },
+        {
+            "question": "A minimum of 90 cm free board is provided if the discharge in the canal is between",
+            "answers": [
+                "30 to 33 cumecs",
+                "30 to 60 cumecs",
+                "Over 60 cumecs",
+                "Over 100 cumecs"
+            ]
+        },
+        {
+            "question": "If D is the depth of water upstream of the throat above its sill, B is the width of the throat, to achieve critical flow in an open venturi flume, the theoretical maximum flow Q, is",
+            "answers": [
+                "Q = 1.71 BD1/2",
+                "Q = 1.71 BD",
+                "Q = 1.71 BD3/2",
+                "Q = 1/71 BD2/3",
+                "none of these."
+            ]
+        },
+        {
+            "question": "If straight sides of a triangular section of a lined canal with circular bottom of radius R, make an angle \u03b8 with horizontal, the area of its cross-section, is",
+            "answers": [
+                "R(\u03b8 + tan \u03b8)",
+                "R(\u03b8 + cot \u03b8)",
+                "R2(\u03b8 + tan \u03b8)",
+                "R2(\u03b8 + cot \u03b8)",
+                "R(\u03b8 + tan \u03b8)"
+            ]
+        },
+        {
+            "question": "Lacy's regime condition is obtained if",
+            "answers": [
+                "silt grade in the channel is variable",
+                "discharge in the channel is variable",
+                "silt charge in the channel is variable",
+                "channel flows in unlimited, incoherent alluvium of the same character as that transported material."
+            ]
+        },
+        {
+            "question": "In Montague type fall",
+            "answers": [
+                "a straight glacis is provided",
+                "a circular glacis is provided",
+                "a parabolic glacis is provided",
+                "no glacis is provided."
+            ]
+        },
+        {
+            "question": "If the straight sides of a triangular section of a lined canal with circular bottom of radius D, make an angle \u03b8 with horizontal, the hydraulic mean depth is",
+            "answers": [
+                "D",
+                "D/2",
+                "D/3",
+                "D/4",
+                "D/5"
+            ]
+        },
+        {
+            "question": "If water table is comparatively high, the irrigation canal becomes useless, due to",
+            "answers": [
+                "large amount of seepage",
+                "water logging of the cultivated areas",
+                "uncertain water demand",
+                "spread of malaria",
+                "all the above."
+            ]
+        },
+        {
+            "question": "A river is said to be of",
+            "answers": [
+                "aggrading type if it builds up its bed to a certain slope",
+                "degrading type if it cuts its bed to a certain slope",
+                "meandering type if it flows in sinuous curve",
+                "all the above."
+            ]
+        },
+        {
+            "question": "A land is said to be water-logged if its soil pores within",
+            "answers": [
+                "a depth of 40 cm are saturated",
+                "a depth of 50 cm are saturated",
+                "root zone of the crops are saturated",
+                "all the above."
+            ]
+        },
+        {
+            "question": "In case of a trapezoidal notch fall",
+            "answers": [
+                "top width of the notch is kept between 3/4 th of full water depth above the sill of the notch",
+                "top length of the piers should not be less than their thickness",
+                "splay up stream from the notch section is 45\u00b0",
+                "splay down stream from the notch section is",
+                "all the above."
+            ]
+        },
+        {
+            "question": "If D1 and D2 are depths of water upstream and down stream of a hydraulic jump, the loss of head at the jump, is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "If Dc is the critical depth, D is the depth of water down stream and HL is the total head loss at the cistern of a vertical fall, the depth x of the cistern below the bed level down stream suggested by Blench, is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The uplift pressure on the roof of an inverted syphon, is maximum when",
+            "answers": [
+                "drain in running dry",
+                "canal is running dry",
+                "canal is running with F.S.L.",
+                "drain is running with H.F.L."
+            ]
+        },
+        {
+            "question": "In rigid module, the discharge",
+            "answers": [
+                "is independent of water levels in the distributary and water course",
+                "depends upon the water level in distributary",
+                "depends upon the water level in the water course",
+                "depends upon the water levels of both, i.e. distributary and water course",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The ratio of the rate of change of discharge of an outlet and parent channel, is known as",
+            "answers": [
+                "efficiency",
+                "sensitivity",
+                "flexibility",
+                "modular limit."
+            ]
+        },
+        {
+            "question": "Cross regulators in main canals are provided",
+            "answers": [
+                "to regulate water supply in the distributaries",
+                "to increase water head upstream when a main canal is running with low supplies",
+                "to overflow excessive flow water",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The ratio of the head recovered to the head put in, is known as",
+            "answers": [
+                "efficiency",
+                "sensitivity",
+                "flexibility",
+                "modular limit."
+            ]
+        },
+        {
+            "question": "The level of the fioor of a syphon aqueduct can be obtained",
+            "answers": [
+                "by subtracting the depth of the culvert from the canal bed level",
+                "by subtracting the thickness of culvert plus the depth of the culvert from the canal bed level",
+                "both (a) and (b)",
+                "none of these."
+            ]
+        },
+        {
+            "question": "A fall which maintains its depth, is",
+            "answers": [
+                "a trapezoidal notch fall",
+                "a low weir fall",
+                "a rectangular notch fall",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The water face of the guide banks, is protected by",
+            "answers": [
+                "one men stone pitching",
+                "two man stone pitching",
+                "three man stone pitching",
+                "four man stone pitching",
+                "five man stone pitching."
+            ]
+        },
+        {
+            "question": "Effective precipitation for a crop may be defined as",
+            "answers": [
+                "total precipitation minus the loss due to evaporation",
+                "total precipitation minus the loss due to infiltration",
+                "total precipitation during the crop period",
+                "available water stored in soil within root zone of the crop."
+            ]
+        },
+        {
+            "question": "If average particle size of the silt in millimetres is m, the Lacey's silt factor f is proportional to",
+            "answers": [
+                "m",
+                "m3",
+                "m1/2",
+                "m1/3",
+                "m2/3"
+            ]
+        },
+        {
+            "question": "Lane's weighted creep theory assumes",
+            "answers": [
+                "equal weightage to horizontal and vertical creeps",
+                "double weightage to horizontal creep and one weightage to vertical creep",
+                "triple weightage to horizontal creep and one weightage to vertical creep",
+                "triple weightage to vertical creep and one weightage to horizontal creep",
+                "double weightage to vertical creep and one weightage to horizontal creep."
+            ]
+        },
+        {
+            "question": "Disposal of extra excavated earth of canals, is utilised to provide a spoil bank on",
+            "answers": [
+                "left side",
+                "right side",
+                "both sides",
+                "all the above."
+            ]
+        },
+        {
+            "question": "If A is the area of the surface, x is the depth of its C.G. from the surface of the water and \u03c9 is the density of water, then",
+            "answers": [
+                "total pressure on the surface is equal to \u03c9 x",
+                "depth of the point at which total pressure acts is equal to its moment of inertia divided by A x",
+                "depth of the centre of pressure is 2/3H vertically below the surface",
+                "all the above."
+            ]
+        },
+        {
+            "question": "V and R are the regime mean velocity and hydraulic mean depth respectively in metres. Lacey's silt factor f is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following",
+            "answers": [
+                "Escapes are essential safety valves in a canal system",
+                "The capacity of escapes should not be less than the capacity of the canal at its location",
+                "The escapes must lead the surplus water to natural drainages",
+                "The escapes are aligned to take advantage of contours of lower values",
+                "All the above."
+            ]
+        },
+        {
+            "question": "According to Kennedy, the critical velocity (V0) in metres in a channel is the mean velocity which keeps the channel free from silting or scouring. Its value is given by (where m is critical velocity ratio and D is the depth of the channel).",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "According to Lacey, depth of scour in a river depends upon the straightness of the reach. If D is the depth of scour in regime flow in a right angled bend, it is",
+            "answers": [
+                "1.25 D",
+                "1.50 D",
+                "1.75 D",
+                "2.00 D"
+            ]
+        },
+        {
+            "question": "The width of a dowla is generally kept between 30 to 60 cm and its height above the road level should invariably be more than",
+            "answers": [
+                "10 cm",
+                "20 cm",
+                "30 cm",
+                "40 cm"
+            ]
+        },
+        {
+            "question": "The field capacity of a soil depends upon",
+            "answers": [
+                "capillary tension in soil",
+                "porosity of soil",
+                "both (a) and (b)",
+                "neither (a) nor (b)."
+            ]
+        },
+        {
+            "question": "Finally formed berms in canals are provided for",
+            "answers": [
+                "protection of banks erosion by the waves",
+                "control of seepage losses",
+                "strengthening of banks",
+                "all the above."
+            ]
+        },
+        {
+            "question": "An outlet is said to be proportional if its flexibility, is",
+            "answers": [
+                "zero",
+                "less than one",
+                "more than one",
+                "one"
+            ]
+        },
+        {
+            "question": "The ratio of the discharge over a trapezoidal crest to a rectangular crest of Sarda falls of identical parameters, is",
+            "answers": [
+                "1.084",
+                "1.074",
+                "1.064",
+                "1.054",
+                "2.053"
+            ]
+        },
+        {
+            "question": "For standing crops in undulating sandy fields, the best method of irrigation, is",
+            "answers": [
+                "sprinkler irrigation",
+                "free flooding",
+                "check method",
+                "furrow method",
+                "none of these."
+            ]
+        },
+        {
+            "question": "In a syphon aqueduct",
+            "answers": [
+                "drainage passes over the canal and F.S.L. of the canal is below the bottom of the drainage trough",
+                "drainage passes over the canal and F.S.L. of the canal is above the bottom of the drainage trough",
+                "canal passes over the drainage and H.F.L. of the drainage is above the bottom of the canal trough",
+                "canal passes over the drainage and H.F.L. of the drainage is below the bottom of the canal trough."
+            ]
+        },
+        {
+            "question": "Which one of the following statements is correct ?",
+            "answers": [
+                "The canal system and the drainage system are complementary",
+                "The canal system runs on ridges, gets divided into smaller channels and spreads its water on the land",
+                "The drainage system runs along the lowest line, collects drainage water from the slopes and joins the main stream",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Garnett's diagrams are used for graphical solution of design equations of a canal by",
+            "answers": [
+                "Lacey's theory",
+                "Kennedy's theory",
+                "Gibb's theory",
+                "Lindlay theory."
+            ]
+        },
+        {
+            "question": "A current meter measures the velocity of flow, if it is held",
+            "answers": [
+                "on the surface of water",
+                "at the bottom of channel",
+                "at any point within the cross-section",
+                "none of these."
+            ]
+        },
+        {
+            "question": "In a concrete canal the approximate permissible velocity of water should not exceed",
+            "answers": [
+                "0.5 m/sec",
+                "1 m/sec",
+                "1.5 m/sec",
+                "2 m/sec",
+                "2.5 m/sec"
+            ]
+        },
+        {
+            "question": "Pick up the correct sequence of the part of a canal system from the following",
+            "answers": [
+                "Head work-distributary-branch canal-minor",
+                "Head works-main canal-branch canal-dis-tributary-minor",
+                "Head works-main canal-branch canal-minor-distributary",
+                "Heads works-branch canal-main canal distributary, minor."
+            ]
+        },
+        {
+            "question": "A counter berm is",
+            "answers": [
+                "a horizontal benching provided on the inside slope",
+                "a horizontal benching provided on the outside slope",
+                "a vertical benching provided on the outer edge of the bank",
+                "a vertical benching provided on the inner edge of the bank."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "Water table generally follows the ground surface above it with a few exceptions",
+                "Static level of water in an open well indicates the position of the water table",
+                "Saturated pores of a soil in the capillary zone above water table have negative pressure",
+                "At water table, hydrostatic pressure is zero",
+                "All the above."
+            ]
+        },
+        {
+            "question": "For diversion of flood water of rivers, the type of canal constructed, is",
+            "answers": [
+                "ridge canal",
+                "perennial canal",
+                "inundation canal",
+                "canal."
+            ]
+        },
+        {
+            "question": "To control the silt entry into a distributary at head regulator, King's vanes are provided which are the walls",
+            "answers": [
+                "of R.C.C. or steel plate 8 cm thick",
+                "of height l/3rd to l/4th the depth of water in the main canal",
+                "spaced at interval of  times their heights",
+                "extending about one metre beyond a line drawn at an inclination of 2 : 1 to the axis of main canal",
+                "all the above."
+            ]
+        },
+        {
+            "question": "According to Lacey, in regime conditions",
+            "answers": [
+                "silt is kept in suspension by vertical components of eddies",
+                "entire cross-section of the channel is generated at all points by the forces normal to the wetted perimeter",
+                "both (a) and (b)",
+                "neither (a) nor (b)."
+            ]
+        },
+        {
+            "question": "Process of meandering is due to",
+            "answers": [
+                "sediment load of streams",
+                "discharge and hydraulic properties of streams",
+                "relative erodibility of the bed and banks",
+                "all the above."
+            ]
+        },
+        {
+            "question": "If the height of the hydraulic gradient line above the floor of thickness t is h and the specific gravity of the material of the floor is G, the minimum thickness t of the floor down stream of the crestwall, is given by the equation",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "For cereal crops the most commonly adopted method of irrigation, is",
+            "answers": [
+                "free flowing method",
+                "check method",
+                "furrow method",
+                "sprinkling method."
+            ]
+        },
+        {
+            "question": "While deciding the alignment of a proposed canal taking off from a river at B, three alignments of approximately equal lengths are available. These cross a drainages at C1, C2 and C3 where drainage bed levels C1 > C2 > C3, you will provide at site C3",
+            "answers": [
+                "an aqueduct",
+                "a syphon aqueduct",
+                "a super passage",
+                "a syphon."
+            ]
+        },
+        {
+            "question": "The ratio of the rate of change of discharge of an outlet to the rate of change in level of water surface in a distributary at its normal depth, is known as",
+            "answers": [
+                "efficiency",
+                "sensitivity",
+                "flexibility",
+                "modular limit."
+            ]
+        },
+        {
+            "question": "Lacey's equation for calculating flood discharge in rivers, is",
+            "answers": [
+                "V = 10.8 R1/2 S1/2",
+                "V = 10.8 R2/3 S1/2",
+                "V = 10.8 R2/3 S1/3",
+                "V = 10.8 R1/3 S2/3"
+            ]
+        },
+        {
+            "question": "The most suitable section of a lined canal, is",
+            "answers": [
+                "triangular section with circular bottom for small canals",
+                "trapezoidal section with rounded corners for large canals",
+                "rectangular section with rounded corners for large canals",
+                "both (a) and (b)",
+                "both (a) and (c)"
+            ]
+        },
+        {
+            "question": "To hold hydraulic jumps, baffle walls are provided in",
+            "answers": [
+                "Sarda type falls",
+                "English type falls",
+                "Montague type falls",
+                "Vertical type falls."
+            ]
+        }
+    ]
+}

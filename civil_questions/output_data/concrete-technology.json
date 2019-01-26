@@ -1,0 +1,2288 @@
+{
+    "questions": [
+        {
+            "question": "For quality control of Portland cement, the test essentially done is",
+            "answers": [
+                "setting time",
+                "soundness",
+                "tensile strength",
+                "consistency",
+                "all the above."
+            ]
+        },
+        {
+            "question": "If 1500 g of water is required to have a cement paste 1875 g of normal consistency, the percentage of water is,",
+            "answers": [
+                "20%",
+                "25%",
+                "30%",
+                "35%",
+                "40%"
+            ]
+        },
+        {
+            "question": "Under normal conditions using an ordinary cement, the period of removal of the form work, is :",
+            "answers": [
+                "7 days for beam soffits",
+                "14 days for bottom slabs of spans 4.6 m and more",
+                "21 days for bottom beams over 6 m spans",
+                "2 days for vertical sides of columns",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Wp and Wf are the weights of a cylinder containing partially compacted and fully compacted concrete. If the compaction factor  is 0.95, the workability of concrete is",
+            "answers": [
+                "extremely low",
+                "very low",
+                "low",
+                "high",
+                "none of these."
+            ]
+        },
+        {
+            "question": "For given water content, workability decreases if the concrete aggregates contain an excess of",
+            "answers": [
+                "thin particles",
+                "flat particles",
+                "elongated particles",
+                "flaky paticles",
+                "all the above."
+            ]
+        },
+        {
+            "question": "M10 grade of concrete approximates",
+            "answers": [
+                "1 : 3 : 6 mix",
+                "1 : 1 : 2 mix",
+                "1 : 2 : 4 mix",
+                "1 : 1.5 : 3 mix",
+                "none of these."
+            ]
+        },
+        {
+            "question": "For ensuring quality of concrete, use",
+            "answers": [
+                "single sized aggegates",
+                "two sized aggregate",
+                "graded aggregates",
+                "coarse aggregates."
+            ]
+        },
+        {
+            "question": "According to I.S. : 456, the number of grades of concrete mixes, is",
+            "answers": [
+                "3",
+                "4",
+                "5",
+                "6",
+                "7"
+            ]
+        },
+        {
+            "question": "The mixture of different ingredients of cement, is burnt at",
+            "answers": [
+                "1000\u00b0C",
+                "1200\u00b0C",
+                "1400\u00b0C",
+                "1600\u00b0C",
+                "1800\u00b0C"
+            ]
+        },
+        {
+            "question": "The risk of segregation is more for",
+            "answers": [
+                "wetter mix",
+                "larger proportion of maximum size aggregate",
+                "coarser grading",
+                "all the above."
+            ]
+        },
+        {
+            "question": "After casting, an ordinary cement concrete on drying",
+            "answers": [
+                "expands",
+                "mix",
+                "shrinks",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Hydration of cement is due to chemical action of water with",
+            "answers": [
+                "Tricalcium silicate and dicalcium silicate",
+                "Dicalcium silicate and tricalcium aluminate",
+                "Tricalcium aluminate and tricalcium alumino ferrite",
+                "All the above."
+            ]
+        },
+        {
+            "question": "To obtain cement dry powder, lime stones and shales or their slurry, is burnt in a rotary kiln at a temperature between",
+            "answers": [
+                "1100\u00b0 and 1200\u00b0C",
+                "1200\u00b0 and 1300\u00b0C",
+                "1300\u00b0 and 1400\u00b0C",
+                "1400\u00b0 and 1500\u00b0C",
+                "1500\u00b0 and 1600\u00b0C"
+            ]
+        },
+        {
+            "question": "Permissible compressive strength of M 300 concrete grade is",
+            "answers": [
+                "100 kg/cm2",
+                "150 kg/cm2",
+                "200 kg/cm2",
+                "250 kg/cm2",
+                "300 kg/cm2"
+            ]
+        },
+        {
+            "question": "The standard sand now a days used in India, is obtained from",
+            "answers": [
+                "Jaipur (Rajasthan)",
+                "Jullundur (Punjab)",
+                "Hyderabad (Andhra Pradesh)",
+                "Ennore (Madras)",
+                "Cuttuck (Orissa)."
+            ]
+        },
+        {
+            "question": "The maximum amount of dust which may be permitted in aggregates is",
+            "answers": [
+                "5% of the total aggregates for low workability with a coarse grading",
+                "10% of the total aggregates for low workability with a fine grading",
+                "20% of the total aggregates for a mix having high workability with fine grading",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Proper proportioning of concrete, ensures",
+            "answers": [
+                "desired strength and workability",
+                "desired durability",
+                "water tightness of the structure",
+                "resistance to water",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The bulk density of aggregates does not depend upon :",
+            "answers": [
+                "size and shape of aggregates",
+                "specific gravity of aggregates",
+                "grading of aggregates",
+                "size and shape of the container",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Curing",
+            "answers": [
+                "reduces the shrinkage of concrete",
+                "preserves the properties of concrete",
+                "prevents the loss of water by evaporation",
+                "all of the above."
+            ]
+        },
+        {
+            "question": "While compacting the concrete by a mechanical vibrator, the slump should not exceed",
+            "answers": [
+                "2.5 cm",
+                "5.0 cm",
+                "7.5 cm",
+                "10 cm",
+                "15 cm"
+            ]
+        },
+        {
+            "question": "Construction joints are provided",
+            "answers": [
+                "where B.M. and S.F. are small",
+                "where the member is supported by other member",
+                "at 18 m apart in huge structures",
+                "in concrete wall at sill level of windows",
+                "all the above."
+            ]
+        },
+        {
+            "question": "An aggregate is said to be flaky if its least dimension is less than",
+            "answers": [
+                "1/5th of mean dimension",
+                "2/5th of mean dimension",
+                "3/5th of mean dimension",
+                "4/5th of mean dimension",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The following proportion of the ingredients of concrete mix, is not in conformation to arbitrary method of proportioning",
+            "answers": [
+                "1 : 1 : 2",
+                "1 : 2 : 4",
+                "1 : 3 : 6",
+                "1 : 2 : 8",
+                "1 : 4 : 10"
+            ]
+        },
+        {
+            "question": "The increased cohesiveness of concrete, makes it",
+            "answers": [
+                "less liable to segregation",
+                "more liable to segregation",
+                "more liable to bleeding",
+                "more liable for surface scaling in frosty weather",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The ratio of the length to breadth of a wooden float, is",
+            "answers": [
+                "4.5",
+                "5.5",
+                "6.5",
+                "7.5",
+                "8.5"
+            ]
+        },
+        {
+            "question": "To ensure constant moisture content in aggregates",
+            "answers": [
+                "area of each aggregate pile should be large",
+                "height of each aggregate pile should not exceed 1.50 m",
+                "aggregate pile should be left for 24 hours before aggregates are used",
+                "conical heaps of aggregates should be avoided to prevent moisture variation",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Workability improved by adding",
+            "answers": [
+                "air-entraining agent",
+                "foaming agent",
+                "oily-agent",
+                "aluminium compound",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The commonly used material in the manufacture of cement is",
+            "answers": [
+                "sand stone",
+                "slate",
+                "lime stone",
+                "graphite."
+            ]
+        },
+        {
+            "question": "If 20 kg of coarse aggregate is sieved through 80 mm, 40 mm, 20 mm, 10 mm, 4.75 mm, 2.36 mm, 1.18 mm, 600 micron, 300 micron and 150 micron standard sieves and the weights retained are 0 kg, 2 kg, 8 kg, 6 kg, 4 kg respectively, the fineness modulus of the aggregate, is",
+            "answers": [
+                "7.30",
+                "7.35",
+                "7.40",
+                "7.45",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Curing a concrete for long period ensures better",
+            "answers": [
+                "volume stability",
+                "strength",
+                "water resistance",
+                "water tightness and durability",
+                "all the above."
+            ]
+        },
+        {
+            "question": "For the construction of cement concrete floor, the maximum permissible size of aggregate, is",
+            "answers": [
+                "4 mm",
+                "6 mm",
+                "8 mm",
+                "10 mm",
+                "12 mm"
+            ]
+        },
+        {
+            "question": "The process of proper and accurate measurement of concrete ingredients for uniformity of proportion, is known",
+            "answers": [
+                "grading",
+                "curing",
+                "mixing",
+                "batching",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "Insufficient quantity of water makes the concrete mix harsh",
+                "Insufficient quantity of water makes the concrete unworkable",
+                "Excess quantity of water makes the concrete segregated",
+                "Excess quantity of water causes bleeding in concrete",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The preliminary test is repeated if the difference of compressive strength of three test specimens, exceeds",
+            "answers": [
+                "5 kg/cm2",
+                "8 kg/cm2",
+                "10 kg/cm2",
+                "12 kg/cm2",
+                "15 kg/cm2"
+            ]
+        },
+        {
+            "question": "Pick up the correct proportions of chemical ingredients of cement",
+            "answers": [
+                "Lime : Silica : Alumina : Iron oxide : 63 : 22 : 6 : 3",
+                "Silica : Lime : Alumina : Iron oxide : 63 : 22 : 6 : 3",
+                "Alumina : Silica : Lime : Iron oxide : 63 : 22 : 6 : 3",
+                "Iron oxide : Alumina : Silica : Lime : 63 : 22 : 6 : 3"
+            ]
+        },
+        {
+            "question": "Transport of concrete by pumps, is done for a distance of",
+            "answers": [
+                "100 m",
+                "200 m",
+                "300 m",
+                "400 m",
+                "none of these."
+            ]
+        },
+        {
+            "question": "If X, Y and Z are the fineness modulli of coarse, fine and combined aggregates, the percentage (P) of fine aggregates to combined aggregates, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Slump test is done for",
+            "answers": [
+                "clay",
+                "sand",
+                "lime",
+                "concrete."
+            ]
+        },
+        {
+            "question": "The high strength of rapid hardening cement at early stage, is due to its",
+            "answers": [
+                "finer grinding",
+                "burning at high temperature",
+                "increased lime cement",
+                "higher content of tricalcium."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "The weight of ingredients of concrete mix, is taken in kilograms",
+                "Water and aggregates are measured in litres",
+                "The finished concrete is measured in cubic metres",
+                "20 bags of cement make one tonne",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Concrete mainly consists of",
+            "answers": [
+                "cement",
+                "aggregates",
+                "admixture",
+                "water",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Vicat's apparatus is used for",
+            "answers": [
+                "fineness test",
+                "consistency test",
+                "setting time test",
+                "soundness test",
+                "compressive strength test."
+            ]
+        },
+        {
+            "question": "M 150 grade of concrete approximates",
+            "answers": [
+                "1 : 3 : 6 mix",
+                "1 : 1 :2 mix",
+                "1 : 2 : 4 mix",
+                "1 : 1.5 : 3 mix",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Workability of concrete is measured by",
+            "answers": [
+                "Vicat apparatus test",
+                "Slump test",
+                "Minimum void method",
+                "Talbot Richard test."
+            ]
+        },
+        {
+            "question": "The rock which is not calcareous, is :",
+            "answers": [
+                "lime stone",
+                "macl",
+                "chalk",
+                "laterite",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Internal friction between the ingredients of concrete, is decreased by using",
+            "answers": [
+                "less water",
+                "fine aggregates",
+                "rich mix",
+                "more water and coarse aggregates",
+                "none of these."
+            ]
+        },
+        {
+            "question": "For road pavements, the cement generally used, is",
+            "answers": [
+                "ordinary Portland cement",
+                "rapid hardening cement",
+                "low heat cement",
+                "blast furnace slag cement",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Construction joints are generally provided in concrete",
+            "answers": [
+                "roads",
+                "retaining walls",
+                "lining of canals",
+                "lining of tunnels",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Separation of coarse aggregates from mortar during transportation, is known",
+            "answers": [
+                "bleeding",
+                "creeping",
+                "segregation",
+                "shrinkage",
+                "none of these."
+            ]
+        },
+        {
+            "question": "According to the recommendations of IS : 456-1978, the expansion joints",
+            "answers": [
+                "are provided where plane changes abruptly",
+                "are provided to ensure minimum resistance",
+                "are supported on separate columns",
+                "do not carry reinforcement across them",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Grading of sand causes great variation in",
+            "answers": [
+                "workability of concrete",
+                "strength of concrete",
+                "durability of concrete",
+                "handing and placing of concrete",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Shrinkage in concrete can be reduced by using",
+            "answers": [
+                "low water cement ratio",
+                "less cement in the concrete",
+                "proper concrete mix",
+                "presaturated aggregates",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Ordinary concrete is not used for concrete grade",
+            "answers": [
+                "M 100",
+                "M 150",
+                "M 200",
+                "M 250",
+                "M 400"
+            ]
+        },
+        {
+            "question": "1.S. Sieve Nos. 10 mm and 4.75 mm are geneally used for grading of",
+            "answers": [
+                "coarse aggregates",
+                "fine aggregates",
+                "neither (a) nor (b)",
+                "both (a) and (b)",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "The free water is the amount of water added while mixing and the amount of water held on the surface of the aggregates prior to mixing",
+                "The total water is the free water and the amount actually absorbed by the aggregates",
+                "Neither (a) nor (b)",
+                "Both (a) and (b)."
+            ]
+        },
+        {
+            "question": "Addition of pozzolana to ordinary port land cement, causes",
+            "answers": [
+                "decrease in early strength",
+                "reduction in chemical action with sulphates",
+                "increase in shrinkage",
+                "reduction bleeding",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Too wet concrete may cause",
+            "answers": [
+                "weakness of concrete",
+                "excessive laitance",
+                "segregation",
+                "lower density",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Addition of pozzolana to cement causes",
+            "answers": [
+                "reduction in permeability",
+                "loss of heat of hydration",
+                "reduction in bleeding",
+                "increase in curing time",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Hardening of cement occurs at",
+            "answers": [
+                "rapid rate during the first few days and afterwards it continues to increase at a decreased rate",
+                "slow rate during the first few days and afterwards it continues to increase at a rapid rate",
+                "uniform rate throughout its age",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "Lime in excess, causes the cement to expand and disintegrate",
+                "Silica in excess, causes the cement to set slowly",
+                "Alumina in excess, reduces the strength of the cement",
+                "Magnesium oxide in excess, remains in free state and makes the cement unsound",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Batching error means inaccuracy in the quantity of",
+            "answers": [
+                "aggregates",
+                "cement",
+                "water",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following i.",
+            "answers": [
+                "Higher workability indicates unexpected increase in the moisture content",
+                "Higher workability indicates deficiency of sand",
+                "If the concrete mix is dry, the slump is zero",
+                "Concrete mix having zero slump, is unsuitable for high strength.",
+                "All the above."
+            ]
+        },
+        {
+            "question": "You are asked to construct a massive dam, the type of cement you will use, is",
+            "answers": [
+                "ordinary Portland cement",
+                "rapid hardening cement",
+                "low heat cement",
+                "blast furnace slag cement",
+                "white cement."
+            ]
+        },
+        {
+            "question": "The produce impermeable concrete",
+            "answers": [
+                "thorough mixing of concrete is required",
+                "proper compaction of concrete is required",
+                "proper curing of concrete is required",
+                "properly graded and non-porous aggregates are requied",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Water required per bag of cement, is",
+            "answers": [
+                "7 kg",
+                "14 kg",
+                "21 kg",
+                "28 kg",
+                "35 kg"
+            ]
+        },
+        {
+            "question": "Pick up the incorrect statement from the following:",
+            "answers": [
+                "The bottom and top ends of slump mould are parallel to each other",
+                "The axis of the mould is perpendicular to the end faces",
+                "The internal surface of the mould is kept clean and free from set cement",
+                "The mould is in the form of a frustum of hexagonal pyramid",
+                "None of these."
+            ]
+        },
+        {
+            "question": "ISI has specified full strength of concrete after",
+            "answers": [
+                "7 days",
+                "14 days",
+                "21 days",
+                "28 days",
+                "none of these."
+            ]
+        },
+        {
+            "question": "For construction of structures in sea water, the cement generally preferred to, is",
+            "answers": [
+                "Portland-pozzolana cement",
+                "quick setting cement",
+                "low heat Portland cement",
+                "rapid hardening cement",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Percentage of pozzolanic material containing clay upto 80% used for the manufacture of pozzolana cement, is",
+            "answers": [
+                "30%",
+                "40%",
+                "50%",
+                "60%",
+                "70%"
+            ]
+        },
+        {
+            "question": "For batching 1:3:6 concrete mix by volume, the ingredients required per bag of 50 kg cement, are:",
+            "answers": [
+                "70 litres of sand and 120 litres of aggregates",
+                "70 kg of sand and 140 litres of aggregates",
+                "105 litres of sand and 140 litres of aggregates",
+                "105 litres of sand and 210 litres of aggregates",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The process of hardening the concrete by keeping its surface moist is known",
+            "answers": [
+                "placing",
+                "wetting",
+                "curing",
+                "compacting",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The grade of concrete not recommended by I.S. : 456, is",
+            "answers": [
+                "M 100",
+                "M 200",
+                "M 300",
+                "M 400",
+                "M 500"
+            ]
+        },
+        {
+            "question": "C.R.R.I. charts are used to obtain a relatioship between strength of concrete and",
+            "answers": [
+                "water cement ratio",
+                "workability",
+                "grading of aggregate",
+                "fineness modulus",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Proper batching ensures",
+            "answers": [
+                "economy",
+                "durability",
+                "workability",
+                "strength",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Workability of concrete for a given water content is good if the aggregates, are",
+            "answers": [
+                "rounded aggregate",
+                "irregular aggregate",
+                "angular aggregate",
+                "flaky aggregates."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "Bulking of sand is caused due to formation of a thin film of surface moisture",
+                "Fine sand bulks more than coarse sand",
+                "With 10% moisture content by weight, the bulking of sand is increased by 50%.",
+                "The volume of fully saturated sand, is equal to the volume of dry and loose sand",
+                "All the above."
+            ]
+        },
+        {
+            "question": "For compacting plain concrete road surface of thickness less than 20 cm, we use",
+            "answers": [
+                "internal vibrator",
+                "screed vibrator",
+                "form vibrator",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "Construction joints are necessarily planned for their locations",
+                "Expansion joints are provided to accommodate thermal expansion",
+                "Construction joints are provided to control shrinkage cracks",
+                "Expansion joints need not be provided in foundation concrete",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "Segregation is necessary for a workable concrete",
+                "Consistency does not affect the workability of concrete",
+                "If the slump increases, workability decreases",
+                "If the concrete mix is dry, the slump is maximum",
+                "None of these."
+            ]
+        },
+        {
+            "question": "Specified compressive strengh of concrete is obtained from cube tests at the end of",
+            "answers": [
+                "3 days",
+                "7 days",
+                "14 days",
+                "21 days",
+                "28 days."
+            ]
+        },
+        {
+            "question": "An aggregate is said to be flaky, if its least dimension is less than",
+            "answers": [
+                "2/3 mean dimension",
+                "3/4 mean dimension",
+                "3/5 mean dimension",
+                "5/8 mean dimension",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Pick up the incorrect statement from the following:",
+            "answers": [
+                "A rich mix of concrete possesses higher strength than that a lean mix of desired workability with excessive equantity of water",
+                "The strength of concrete decreases as the water cement ratio increases",
+                "If the water cement ratio is less than 0.45, the concrete is not workable and causes honey-combed structure",
+                "Good compaction by mechanical vibrtions, increases the strength of concrete",
+                "None of these."
+            ]
+        },
+        {
+            "question": "The percentage of the aggregate of F.M. 2.6 to be combined with coarse aggregate of F.M. 6.8 for obtaining the aggregates of F.M. 5.4, is",
+            "answers": [
+                "30%",
+                "40%",
+                "50%",
+                "60%."
+            ]
+        },
+        {
+            "question": "The final operation of finishing floors, is known as",
+            "answers": [
+                "screeding",
+                "floating",
+                "trowelling",
+                "finishing",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The internal dimensions of a ware house are 15 m x 5.6 m, and the maximum height of piles is 2.70 m, the maximum number of bags to be stored in two piles, are",
+            "answers": [
+                "1500 bags",
+                "2000 bags",
+                "2500 bags",
+                "3000 bags",
+                "4000 bags"
+            ]
+        },
+        {
+            "question": "For an ordinary Portland cement",
+            "answers": [
+                "residual does not exceed 10% when sieved through IS Sieve No. 9",
+                "soundness varies from 5 to 10 mm",
+                "initial setting time is not less than 30 minutes",
+                "compressive stress after 7 days, is not less than 175 kg/cm2",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The maximum thickness of concrete floor of a cement warehouse, is",
+            "answers": [
+                "10 cm",
+                "15 cm",
+                "20 cm",
+                "25 cm",
+                "30 cm"
+            ]
+        },
+        {
+            "question": "A construction joint is provided where",
+            "answers": [
+                "bending moment is small",
+                "shear force is small",
+                "the member is supported by other member",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The compaction of concrete, improves",
+            "answers": [
+                "density",
+                "strength",
+                "durability",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "Water cement paste hardens due to hydration",
+                "During hardening cement binds the aggregates together",
+                "Cement provides strength, durability and water tightness to the concrete",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The light weight aggregates are obtained from",
+            "answers": [
+                "sedimentary rocks",
+                "metamorphic rocks",
+                "igneous rocks",
+                "volcanic source."
+            ]
+        },
+        {
+            "question": "If the depth of moist sand in a cylinder is 15 cm and the depth of the sand when fully inundated with water is 12 cm, the bulking of the moist sand, is",
+            "answers": [
+                "10%",
+                "12%",
+                "15%",
+                "20%",
+                "25%."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "According to the petrological characteristics, concrete aggregates are classified as heavy weight, normal weight and light weight",
+                "According to the shape of the particles, concrete aggregates are classified as rounded irregular, angular and flaky",
+                "According to the surface texture of the particles, the concrete aggregates are classified as glassy, smooth, granular, rough, crystalline, honey combed and porous",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Segregation is responsible for",
+            "answers": [
+                "honey-combed concrete",
+                "porous layers in concrete",
+                "surface scaling in concrete",
+                "sand streaks in concrete",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Addition of pozzolana to cement",
+            "answers": [
+                "decreases workability",
+                "increases strength",
+                "increases heat of hydration",
+                "decreases curing time",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The datum temperature for maturity by Plowman, is",
+            "answers": [
+                "23\u00b0C",
+                "0\u00b0",
+                "- 5.6\u00b0C",
+                "- 11.7\u00b0C"
+            ]
+        },
+        {
+            "question": "Pick up the incorrect statement from the following:",
+            "answers": [
+                "The degree of grinding of cement, is called fineness",
+                "The process of changing cement paste into hard mass, is known as setting of cement",
+                "The phenomenon by virtue of which cement does not allow transmission of sound, is known as soundness of cement",
+                "The heat generated during chemical reaction of cement with water, is known as heat of hydration",
+                "None of these."
+            ]
+        },
+        {
+            "question": "Permissible compressive strength of M 150 concrete grade is",
+            "answers": [
+                "100 kg/cm2",
+                "150 kg/cm2",
+                "200 kg/cm2",
+                "250 kg/cm2",
+                "300 kg/cm2"
+            ]
+        },
+        {
+            "question": "Slump test of concrete is a measure ofits",
+            "answers": [
+                "consistency",
+                "compressive strength",
+                "tensile strength",
+                "impact value."
+            ]
+        },
+        {
+            "question": "Pozzolana cement is used with confidence for construction of",
+            "answers": [
+                "dams",
+                "massive foundations",
+                "abutments",
+                "R.C.C. structures",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Water cement ratio is",
+            "answers": [
+                "volume of water to that of cement",
+                "weight of water to that of cement",
+                "weight of concrete to that of water",
+                "volume of concrete to that of water",
+                "both (a) and (b) of the above."
+            ]
+        },
+        {
+            "question": "Efflorescence in cement is caused due to an excess of",
+            "answers": [
+                "alumina",
+                "iron oxide",
+                "silica",
+                "alkalis",
+                "magnesium oxide."
+            ]
+        },
+        {
+            "question": "If the engineer-in-charge approves, the 10 cm cubes may be used for the work test of concrete provided maximum nominal size of aggregate, does not exceed",
+            "answers": [
+                "10 cm",
+                "15 cm",
+                "20 cm",
+                "25 cm",
+                "30 cm"
+            ]
+        },
+        {
+            "question": "The diameter of the Vicat plunger is 10 mm and its length varies from",
+            "answers": [
+                "20 mm to 30 mm",
+                "30 mm to 40 mm",
+                "40 mm to 50 mm",
+                "50 mm to 60 mm",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The shrinkage of concrete",
+            "answers": [
+                "is proportional to water content is the mix",
+                "is proportional to cement concrete",
+                "increases with age of concrete",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The ratio of various ingredients (cement, sand, aggregates) in concrete of grade M 200, is",
+            "answers": [
+                "1 : 2 : 4",
+                "1 : 3 : 6",
+                "1 :   : 3",
+                "1 : 1 : 2",
+                "4 : 2 : 1"
+            ]
+        },
+        {
+            "question": "Separation of water or water sand cement from a freshly concrete, is known",
+            "answers": [
+                "bleeding",
+                "creeping",
+                "segregation",
+                "flooding",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Slump test of concrete is a meausre ofits",
+            "answers": [
+                "consistency",
+                "compressive strength",
+                "tensile strength",
+                "impact value."
+            ]
+        },
+        {
+            "question": "According to Water-Cement Ratio Law, the strength of workable plastic concrete",
+            "answers": [
+                "depends upon the amount of water used in the mix",
+                "does not depend upon the quality of cement mixed with aggregates",
+                "does not depend upon the quanity of cement mixed with aggregates",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Pick up the incorrect statement from the following:",
+            "answers": [
+                "In properly graded aggregates, bulk density is more",
+                "In single size aggregates, bulk density is least",
+                "In single size aggregates, bulk density is maximum",
+                "None of these."
+            ]
+        },
+        {
+            "question": "Saw dust can be rendered chemically inert by boiling it in water containing",
+            "answers": [
+                "ferrous sulphate",
+                "potassium chloride",
+                "ammonia",
+                "nitric acid",
+                "sulphuric acid."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "High percentage of C3S and low percentage of C2S cause rapid hardening",
+                "High percentage of C3S and low percentage of C2S make the cement less resistive to chemical attack",
+                "Low percentage of C3S and high percentage of C2S contribute to slow hardening",
+                "Low percentage of C3S and high percentage of C2S provide greater resistance to chemical attack",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The factor which affects workability, is",
+            "answers": [
+                "water content and its temperature",
+                "shape and size of the aggregates",
+                "grading and surface textures of the aggregates",
+                "air entraining agents",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The cement whose strength is a little lower than the ordinary cement during the first three months but attains afterwards the same strength, is known as",
+            "answers": [
+                "low-heat Portland cement",
+                "rapid hardening Portland cement",
+                "Portland blast slag cement",
+                "Portland pozzolana cement",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "Sand stones may be divided into calcareous, siliceous and ferrugineous sand stones",
+                "Concrete using sand stones, cracks due to excessive shrinkage",
+                "Very hard and close grained crystallined lime stones are suitable aggregates but provide low strength",
+                "Broken bricks produce a concrete having good fire resisting qualities",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "Water enables chemical reaction to take place with cement",
+                "Water lubricates the mixture of gravel, sand and cement",
+                "Only a small quantity of water is required for hydration of cement",
+                "Strength of concrete structure largely depends upon its workability",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Pick up the incorrect statement applicable to the field test of good cement.",
+            "answers": [
+                "When one thrusts one's hand into a bag of cement, one should feel warm",
+                "The colour of the cement is bluish",
+                "A handful of cement thrown into a bucket of water should sink immediately",
+                "By rubbing cement in between fingers, one should feed rough",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "Calcium chloride acts as a retarder",
+                "Gypsum (calcium sulphate) acts as an accelerator",
+                "Gypsum (calcium sulphate) acts as a retarder",
+                "Calcium chloride acts as an accelerator",
+                "Both (c) and (d)."
+            ]
+        },
+        {
+            "question": "Joints in concrete structures, are provided",
+            "answers": [
+                "to reduce the tensile stresses likely to be developed due to evaporation of water",
+                "to minimise the change in the dimensions of the slab",
+                "to minimise the necessary cracking",
+                "all the above."
+            ]
+        },
+        {
+            "question": "If the effective working time is 7 hours and per batch time of concrete is 3 minutes, the output of a concrete mixer of 150 litre capacity, is",
+            "answers": [
+                "15, 900 litres",
+                "16, 900 litres",
+                "17, 900 litres",
+                "18, 900 litres"
+            ]
+        },
+        {
+            "question": "The condition not applicable to water cement ratio law, is",
+            "answers": [
+                "internal moisture conditions on hydration continue till complete strength is gained",
+                "concrete specimens may be tested at any temperature",
+                "concrete specimens need be of same age",
+                "concrete specimens need be of same size",
+                "none of these."
+            ]
+        },
+        {
+            "question": "High temperature",
+            "answers": [
+                "increases the strength of concrete",
+                "decreases the strength of concrete",
+                "has no effect on the strength of concrete",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The bulk density of aggregates, is generally expressed as",
+            "answers": [
+                "tonnes/cubic metre",
+                "kg/cubic metre",
+                "kg/litre",
+                "g/cm3",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The grade of concrete M 150 means that compressive strength of a 15 cm cube after 28 days, is",
+            "answers": [
+                "100 kg/cm2",
+                "150 kg/cm2",
+                "200 kg/cm2",
+                "250 kg/cm2",
+                "300 kg/cm2"
+            ]
+        },
+        {
+            "question": "Allowable shear strength of concrete, depends upon",
+            "answers": [
+                "shear strength",
+                "tensile strength",
+                "compressive strength",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The most useless aggregate is one whose surface texture is",
+            "answers": [
+                "smooth",
+                "granular",
+                "glassy",
+                "honey combed and porous."
+            ]
+        },
+        {
+            "question": "To obtain a very high strength concrete, use very fine grained",
+            "answers": [
+                "Granite",
+                "Magnetite",
+                "Barite",
+                "Volcanic scoria."
+            ]
+        },
+        {
+            "question": "Concrete containing",
+            "answers": [
+                "silicious aggregates, has higher co-efficient of expansion",
+                "igneous aggregates, has intermediate coefficient of expansion",
+                "lime stones, has lowest co-efficient of expansion",
+                "All the above."
+            ]
+        },
+        {
+            "question": "An ordinary Portland cement when tested for its fineness, should not leave any residue on I.S. seive No. 9, more than",
+            "answers": [
+                "5%",
+                "10%",
+                "15%",
+                "20%",
+                "25%"
+            ]
+        },
+        {
+            "question": "The top diameter, bottom diameter and the height of a slump mould are :",
+            "answers": [
+                "10 cm, 20 cm, 30 cm",
+                "10 cm, 30 cm, 20 cm",
+                "20 cm, 10 cm, 30 cm",
+                "20 cm, 30 cm, 10 cm",
+                "30 cm, 20 cm, 10 cm"
+            ]
+        },
+        {
+            "question": "Workability of concrete mix with low water cement ratio is determined by",
+            "answers": [
+                "tensile strength test",
+                "slump test",
+                "compaction factor test",
+                "flexural strength test",
+                "none of these."
+            ]
+        },
+        {
+            "question": "While designing an air entrained concrete",
+            "answers": [
+                "water cement ratio is reduced",
+                "proportion of aggregates is reduced",
+                "an allowance for the entrained air is made",
+                "strength of the concrete, is reduced",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Pick up the incorrect statemnt from the following. For performing compressive strength test of cement",
+            "answers": [
+                "cement and standard sand mortar are used in the ratio of 1 : 3",
+                "water is added at the rate of  + 3.0 percentage of water where P is the percentage of water for standard consistency",
+                "A cube mould of 10 cm x 10 cm x 10 cm is used",
+                "The perpared moulds are kept in a atmosphere of 50% relative humidity",
+                "The temperature of water in the submerged tank for curing moulds, should be 27\u00b0 \u00b1 2\u00b0C."
+            ]
+        },
+        {
+            "question": "For concreting tunnel linings, tran-portation of concrete is done by",
+            "answers": [
+                "pans",
+                "wheel borrows",
+                "containers",
+                "pumps",
+                "belt conveyors."
+            ]
+        },
+        {
+            "question": "The operation of removing humps and hollows of uniform concrete surface, is known as",
+            "answers": [
+                "floating",
+                "screeding",
+                "trowelling",
+                "finishing",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The void ratio of",
+            "answers": [
+                "single size coarse aggregate is roughly 0.45.",
+                "graded coarse aggregate is roughly 0.040",
+                "fine aggregate is roughly 0.45",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The type of aggregates not suitable for high strength concrete and for pavements subjected to tension, is",
+            "answers": [
+                "rounded aggregate",
+                "irregular aggregate",
+                "angular aggregate",
+                "flaky aggregate",
+                "none of these."
+            ]
+        },
+        {
+            "question": "For the construction of R.C.C. slabs, columns, beams, walls, etc. the grade of concrete mix used, is",
+            "answers": [
+                "1 : 3 : 6",
+                "1 :  : 3",
+                "1 : 2 : 4",
+                "1 : 1 : 2",
+                "1 : 4 : 8."
+            ]
+        },
+        {
+            "question": "The type of aggregates of same nominal size, which contain less voids when compacted, are",
+            "answers": [
+                "rounded spherical",
+                "irregular",
+                "flaky",
+                "none of these."
+            ]
+        },
+        {
+            "question": "For the construction of cement con-certe dams, the maximum permissible size of the aggregates, is",
+            "answers": [
+                "40 mm",
+                "50 mm",
+                "60 mm",
+                "70 mm",
+                "80 mm"
+            ]
+        },
+        {
+            "question": "Permissible compressive strength of M 200 concrete grade is",
+            "answers": [
+                "100 kg/cm2",
+                "150 kg/cm2",
+                "200 kg/cm2",
+                "250 kg/cm2",
+                "300 kg/cm2"
+            ]
+        },
+        {
+            "question": "For preparing a test-specimen, it is necessary",
+            "answers": [
+                "to mix cement and fine aggregate by dry hand",
+                "to mix coarse aggregates",
+                "to mix water to the cement, fine aggregates and coarse aggregates",
+                "to oil inner surface of the mould and the base plate, before placing concrete",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The aggregate containing moisture in pores and having its suface dry, is known as",
+            "answers": [
+                "moist aggregates",
+                "very dry aggregates",
+                "dry aggregates",
+                "saturated surface dry aggregate",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The commercial name of white and coloured cement in India, is",
+            "answers": [
+                "colocrete",
+                "rainbow cement",
+                "silvicrete",
+                "snowcem",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "An increase in water content must be accompanied by an increase in cement content",
+                "Angular and rough aggregates reduce the workability of the concrete",
+                "Large size aggregates increase the workability due to lesser surface area",
+                "The slump of the concrete mix decreases due to an increase in temperature",
+                "All the above."
+            ]
+        },
+        {
+            "question": "To hydrate 500kg of cement full water needed, is",
+            "answers": [
+                "100 kg",
+                "110 kg",
+                "120 kg",
+                "130 kg",
+                "140 kg"
+            ]
+        },
+        {
+            "question": "Concrete gains strength due to",
+            "answers": [
+                "chemical reaction of cement with sand and coarse aggregates",
+                "evaporation of water from concrete",
+                "hydration of cement",
+                "All the above."
+            ]
+        },
+        {
+            "question": "If aggregates completely pass through a sieve of size 75 mm and are retained on a sieve of size 60 mm, the particular aggregate will be flaky if its minimum dimension is less than",
+            "answers": [
+                "20.5 mm",
+                "30.5 mm",
+                "40.5 mm",
+                "50.5 mm",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Non-uniform compaction may cause the concrete",
+            "answers": [
+                "porous",
+                "non-homogeneous",
+                "reduced strength",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Log Angles machine is used to test the aggregate for",
+            "answers": [
+                "crushing strength",
+                "impact value",
+                "abrasion resistance",
+                "water absorption",
+                "none of these."
+            ]
+        },
+        {
+            "question": "If fineness modulus of sand is 2.5, it is graded as",
+            "answers": [
+                "very fine sand",
+                "fine sand",
+                "medium sand",
+                "coarse sand",
+                "very coarse sand."
+            ]
+        },
+        {
+            "question": "Pozzolanic properties exist in",
+            "answers": [
+                "shales",
+                "fly ash",
+                "pumicite",
+                "diatomaceous clay",
+                "all the above."
+            ]
+        },
+        {
+            "question": "An aggregate which passes through 25 mm I.S. sieve and is retained on 20 mm sieve, is said to be flaky if its least dimension is less than",
+            "answers": [
+                "22.5 mm",
+                "18.5 mm",
+                "16.5 mm",
+                "15.5 mm",
+                "13.5 mm."
+            ]
+        },
+        {
+            "question": "Expansion joints are provided if the length of concrete structures exceeds",
+            "answers": [
+                "10 m",
+                "15 m",
+                "15 m",
+                "35 m",
+                "45 m"
+            ]
+        },
+        {
+            "question": "Workability improved by adding",
+            "answers": [
+                "fly ash",
+                "hydrated lime",
+                "calcium chloride",
+                "bentonite",
+                "all the above."
+            ]
+        },
+        {
+            "question": "If the slump of a concrete mix is 60 mm, its workability is",
+            "answers": [
+                "very low",
+                "low",
+                "medium",
+                "high",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "Sand obtained from pits, is washed to remove clay and silt",
+                "Sand obtained from flooded pits, need not be washed before use",
+                "Sea shore sand contains chlorides which cause effloresance",
+                "The chloride in sea shore sand and shingle may cause corrosion of reinforcement if the concrete is porous",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The strength and quality of concrete, depend upon:",
+            "answers": [
+                "grading of aggregates",
+                "surface area of aggregates",
+                "shape of aggregates",
+                "surface texture of aggregates",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The process of mixing, transporting, placing and compacting concrete using Ordinary Port land Cement should not take more than",
+            "answers": [
+                "30 minutes",
+                "40 minutes",
+                "60 minutes",
+                "75 minutes",
+                "90 minutes."
+            ]
+        },
+        {
+            "question": "Pick up the incorrect statement from the following. While performing preliminary test on concrete",
+            "answers": [
+                "proportions of the material and water should be the same as to be used at the work site",
+                "cement should be mixed by hand in order to maintain uniformity",
+                "concrete mix should be stored in air-tight containers",
+                "concrete ingredients should be kept at a temperature of 37\u00b0 \u00b1 2\u00b0C",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Sand requiring a high water cement ratio, belongs to",
+            "answers": [
+                "Zone I",
+                "Zone II",
+                "Zone III",
+                "Zone IV."
+            ]
+        },
+        {
+            "question": "Ordinary Portland cement is manufactured from",
+            "answers": [
+                "lime stone and clay",
+                "gypsum and lime",
+                "pozzolana",
+                "lime, pozzolana and clay."
+            ]
+        },
+        {
+            "question": "A flaky aggregate is said to be elongated if its length is",
+            "answers": [
+                "equal to the mean size",
+                "twice the mean size",
+                "thrice the mean size",
+                "four times the mean size",
+                "five times the mean size."
+            ]
+        },
+        {
+            "question": "To prevent segregation, the maximum height for placing concrete, is",
+            "answers": [
+                "100 cm",
+                "125 cm",
+                "150 cm",
+                "200 cm",
+                "250 cm"
+            ]
+        },
+        {
+            "question": "If the various concrete ingredients i.e. cement, sand and aggregates are in the ratio of 1:3:6, the grade of concrete, is",
+            "answers": [
+                "M 100",
+                "M 150",
+                "M 200",
+                "M 250",
+                "M 300"
+            ]
+        },
+        {
+            "question": "Water cement ratio is generally expressed in volume of water required per",
+            "answers": [
+                "10 kg",
+                "20 kg",
+                "30 kg",
+                "40 kg",
+                "50 kg"
+            ]
+        },
+        {
+            "question": "For a good concrete",
+            "answers": [
+                "aggregates should be hard and durable",
+                "cement should be sufficient to produce the required strength",
+                "water should be free from organic materials",
+                "mixing of ingredients should be done thoroughly so as to produce homogeneity",
+                "All the above."
+            ]
+        },
+        {
+            "question": "If the effective plan area of a warehouse is 54 sq. m, and maximum height of piles permitted is 270 cm, the number of cement bags to be stored, is",
+            "answers": [
+                "2000 bags",
+                "2200 bags",
+                "2400 bags",
+                "2700 bags",
+                "3000 bags"
+            ]
+        },
+        {
+            "question": "Gypsum is added for",
+            "answers": [
+                "colour",
+                "strength",
+                "controlling setting time",
+                "none of these."
+            ]
+        },
+        {
+            "question": "A concrete having a slump of 6.5 cm, is said to be",
+            "answers": [
+                "dry",
+                "earth moist",
+                "semi-plastic",
+                "plastic",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Strength of concrete with passage of time",
+            "answers": [
+                "increases",
+                "decreases",
+                "fluctuates",
+                "remains constant."
+            ]
+        },
+        {
+            "question": "Cement used for normal concrete construction, is obtained by burning a mixture of",
+            "answers": [
+                "silicious and argillaceous materials",
+                "argilaceous and calcareous materials",
+                "silicious and catcareous materials",
+                "silicious, argillaceous and calcareous materials",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "The concrete gains strength due to hydration of cement",
+                "The concrete cured at a temperature below 23\u00b0C, gains strength up to 28 days",
+                "The concrete does not set at freezing point",
+                "The strength of concrete increases with its age",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Pick up the incorrect statement from the following:",
+            "answers": [
+                "Admixtures accelerate hydration",
+                "Admixtures make concrete water proof",
+                "Admixtures make concrete acid proof",
+                "Admixtures give high strength",
+                "None of these."
+            ]
+        },
+        {
+            "question": "Higher workability of concrete is required if the structure is",
+            "answers": [
+                "made with cement concrete",
+                "thick and reinfored",
+                "thin and heavily reinforced",
+                "thick and heavily reinfored."
+            ]
+        },
+        {
+            "question": "Setting time of cement increases by adding",
+            "answers": [
+                "gypsum",
+                "hydrogen peroxide",
+                "calcium chloride",
+                "sodium oxide",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The dimensions of a 35 litre forma for measuring aggregates by volume, are :",
+            "answers": [
+                "length 30 cm, breadth 25 cm, height 30 cm",
+                "length 39 cm, breadth 25 cm, height 32 cm",
+                "length 27 cm, breadth 27 cm, height 48 cm",
+                "length 220 cm, breadth 25 cm, height 40 cm",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The shuttering of a hall measuring 4 m x 5 m, can be removed after",
+            "answers": [
+                "5 days",
+                "7 days",
+                "10 days",
+                "14 days",
+                "21 days"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "There should not be any loss of cement from the charged drum of the mixer",
+                "Cement should be mixed for at least one minute",
+                "10% of water is placed in the rotating drum before adding dry material",
+                "10% of water is added after placing the other ingredients in the drum",
+                "All the above."
+            ]
+        },
+        {
+            "question": "If 50 kg of fine aggregates and 100 kg of coarse agregates are mixed in a concrete whose water cement ratio is 0.6, the weight of water required for harsh mix, is",
+            "answers": [
+                "8 kg",
+                "10 kg",
+                "12 kg",
+                "14 kg",
+                "15 kg."
+            ]
+        },
+        {
+            "question": "The entrained air in concrete",
+            "answers": [
+                "increases workability",
+                "decreases workability",
+                "decreases resistance to weathering",
+                "increases strength",
+                "neither affects workability nor strength."
+            ]
+        },
+        {
+            "question": "Pick up the incorrect statement from the following:",
+            "answers": [
+                "Tricalcium silicate (C3S) hydrates rapidly",
+                "Tricalcium silicate (C3S) generates more heat of hydration",
+                "Tricalcium silicate (C3S) develops early strength",
+                "Tricalcium silicate (C3S) has more resistance to sulphate attack",
+                "None of these."
+            ]
+        },
+        {
+            "question": "Permissible compressive strength of M 200 concrete grade is",
+            "answers": [
+                "100 kg/cm2",
+                "150 kg/cm2",
+                "200 kg/cm2",
+                "250 kg/cm2",
+                "300 kg/cm2"
+            ]
+        },
+        {
+            "question": "In slump test, each layer of concrete is compacted by a steel rod 60 cm long and of 16 mm diameter for",
+            "answers": [
+                "20 times",
+                "25 times",
+                "30 times",
+                "40 times",
+                "50 times"
+            ]
+        },
+        {
+            "question": "If the average compressive strength is 4000 kg/cm2 and standard deviation is 500, the co-efficient of variation is",
+            "answers": [
+                "10%",
+                "12.5%",
+                "15%",
+                "18.5 %",
+                "20%"
+            ]
+        },
+        {
+            "question": "For preparing ordinary concrete, the quantity of water used, is",
+            "answers": [
+                "5% by weight of aggregates plus 20% of weight of cement",
+                "10% by weight of aggregates plus 10% of weight of cement",
+                "5% by weight of aggregates plus 30% of weight of cement",
+                "30% by weight of aggregates plus 10% of weight of cement",
+                "none of these."
+            ]
+        },
+        {
+            "question": "According to IS : 382-1963, a good aggregate should be",
+            "answers": [
+                "chemically inert",
+                "sufficiently strong",
+                "hard and durable",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The 28 days cube strength of mass concrete using aggregates of maximum size 5 cm for gravity dams should be",
+            "answers": [
+                "between 150 to 300 kg/cm2",
+                "between 350 to 600 kg/cm2",
+                "between 150 to 500 kg/cm2",
+                "below 200 kg/cm2",
+                "none of these."
+            ]
+        },
+        {
+            "question": "If P, Y and Z are the weights of cement, fine aggregates and coarse aggregates respetively and W/C is the water cement ratio, the minimum quantity of water to be added to first batch, is obtained by the equation",
+            "answers": [
+                "0.1P + 0.3Y + 0.1Z = W/C x P",
+                "0.3P + 0.1Y + 0.01Z = W/C x P",
+                "0.4P + 0.2Y + 0.01Z = W/C x P",
+                "0.5P + 0.3Y + 0.01Z = W/C x P",
+                "0.2P + 0.5Y + 0.1Z = W/C x P"
+            ]
+        },
+        {
+            "question": "For the construction of thin R.C.C. structures, the type of cement to be avoided, is",
+            "answers": [
+                "ordinary Portland cement",
+                "rapid hardening cement",
+                "low heat cement",
+                "blast furnace slag cement",
+                "sulphate resisting cement."
+            ]
+        },
+        {
+            "question": "Vicat apparatus is used for",
+            "answers": [
+                "fineness test",
+                "consistency test",
+                "test for setting time",
+                "test for tensile strength",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Pick up the incorrect statement from the following:",
+            "answers": [
+                "Space between the exterior walls of a warechouse and bag piles should be 30 cm",
+                "Cement bags should preferably be piled on wooden planks",
+                "Cement bags should be placed such that bags of one layer does not touch the bags of the adjacent layer",
+                "Width and height of the pile should not exceed 3 m and 2.70 m respectively",
+                "None of these."
+            ]
+        },
+        {
+            "question": "For the construction of the retaining structures, the type of concrete mix to be used, is",
+            "answers": [
+                "1 : 3 : 6",
+                "1 : 2 :4",
+                "1 :  : 3",
+                "1 : l : 2",
+                "1 : 4 : 8."
+            ]
+        },
+        {
+            "question": "An ideal ware house, is provided",
+            "answers": [
+                "water proof masonry walls",
+                "water proof roof",
+                "few windows which remain generally closed",
+                "15 cm thick concrete floor laid on a dry course of soling",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Concrete is unsuitable for compaction by a vibrator if it is",
+            "answers": [
+                "dry",
+                "earth moist",
+                "semi-plastic",
+                "plastic",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Inert material of a cement concrete mix, is",
+            "answers": [
+                "water",
+                "cement",
+                "aggregate",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Sands of zone I are",
+            "answers": [
+                "coarse",
+                "medium",
+                "medium to fine",
+                "fine."
+            ]
+        },
+        {
+            "question": "The lower water cement ratio in concrete, introduces",
+            "answers": [
+                "smaller creep and shrinkage",
+                "greater density and smaller permeability",
+                "improved frost resistance",
+                "greater wear resistance and improved bond strength",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The cement becomes useless if its absorbed moisture content exceeds",
+            "answers": [
+                "1%",
+                "2%",
+                "3%",
+                "4%",
+                "5%"
+            ]
+        },
+        {
+            "question": "A concrete using an air entrained cement",
+            "answers": [
+                "has strength less than 10% to 15%",
+                "has more resistance to weathering",
+                "is more plastic and workable",
+                "is free from segregation and bleeding",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "The maximum size of a coarse aggregate, is 75 mm and minimum 4.75 mm",
+                "The maximum size of the fine aggregate, is 4.75 mm and minimum 0.075 mm",
+                "The material having particles of size varying from 0.06 mm to 0.002 mm, is known as silt",
+                "The material having particles of size less than 0.002 mm, is known as clay",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Placing of concrete should preferably be done at a temperature of",
+            "answers": [
+                "0\u00b0C",
+                "10\u00b0C",
+                "20\u00b0C",
+                "23\u00b0C",
+                "27 \u00b1 2\u00b0C"
+            ]
+        },
+        {
+            "question": "The aggregate impact value of the aggregate used in",
+            "answers": [
+                "building concrete is less than 45",
+                "road pavement concrete is less than 30",
+                "runway concrete is less than 30",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The maximum percentage of chemical ingredient of cement is that of",
+            "answers": [
+                "magnesium oxide",
+                "iron oxide",
+                "aluminium",
+                "lime",
+                "silica."
+            ]
+        },
+        {
+            "question": "Pick up the incorrect statement from the following:",
+            "answers": [
+                "Workability of the concrete mix decreases with an increase in the moisture content",
+                "Concrete for which preliminary tests are conducted, is called controlled concrete",
+                "Bulking of sand depends upon the fineness of grains",
+                "Concrete mix 1 : 6 : 12, is used for mass concrete in piers.",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Sand generally contains salt if it is obtained from:",
+            "answers": [
+                "nala beds",
+                "river beds",
+                "sea beds",
+                "all the above",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The impurity of mixing water which affects the setting time and strength of concrete, is",
+            "answers": [
+                "sodium sulphates",
+                "sodium chlorides",
+                "sodium carbonates and bicarbonates",
+                "calcium chorides",
+                "calcium bicarbonates"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "Continuous grading is not necessary for obtaining a minimum of air voids",
+                "The omission of a certain size of aggregate is shown by a straight horizontal line on the grading curve",
+                "The omission of a certain size of aggregate in concrete increases the workability but also increases the liability to segregation",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Di-calcium silicate (C2S)",
+            "answers": [
+                "hydrates rapidly",
+                "generates less heat of hydration",
+                "hardens rapidly",
+                "provides less ultimate strength to cement",
+                "has less resistance to sulphate attack."
+            ]
+        },
+        {
+            "question": "On a grading curve, the gap grading is represented by",
+            "answers": [
+                "a horizontal line",
+                "a vertical line",
+                "N.W. inclined line",
+                "N.E. inclined line",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Bulking of sand is",
+            "answers": [
+                "mixing of different sizes of sand particles",
+                "mixing of lime with sand",
+                "maximum water with sand",
+                "swelling of sand when wetted."
+            ]
+        },
+        {
+            "question": "Curing of pavements, floors, roofs and slabs, is done by",
+            "answers": [
+                "membrane method",
+                "ponding method",
+                "covering surface with bags",
+                "sprinkling water method",
+                "shading concrete method."
+            ]
+        },
+        {
+            "question": "Pick up the incorrect statement from the following:",
+            "answers": [
+                "With passage of time, the strength of cement increases",
+                "With passage of time, the strength of cement decreases",
+                "After a period of 24 months, the strength of cement reduces to 50%",
+                "The concrete made with storage deteriorated cement, gains strength with time",
+                "None of these."
+            ]
+        },
+        {
+            "question": "The surface where two successive placements of concrete meet, is known as",
+            "answers": [
+                "Contraction joint",
+                "Expansion joint",
+                "Construction joint",
+                "both (a) and (b)",
+                "both (6) and (c)."
+            ]
+        },
+        {
+            "question": "An excess of flaky particles in concrete aggregates",
+            "answers": [
+                "decreases the workability",
+                "increases the quantity of water and sand",
+                "affects the durability of concrete",
+                "more than 15% are not desirable",
+                "all the above."
+            ]
+        },
+        {
+            "question": "1.S.I. has specified the full strength of concrete after",
+            "answers": [
+                "7 days",
+                "14 days",
+                "21 days",
+                "28 days",
+                "35 days"
+            ]
+        },
+        {
+            "question": "For given workability the grading requiring the least amount of water is one that gives",
+            "answers": [
+                "greatest surface area for the given cement and aggregates",
+                "least surface area for the given cement and aggregates",
+                "least weight for the given cement and aggregates",
+                "greatest weight for the given cement and aggregates",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The minimum percentage of chemical ingredient of cement is that of",
+            "answers": [
+                "magnesium oxide",
+                "iron oxide",
+                "alumina",
+                "lime",
+                "silica."
+            ]
+        },
+        {
+            "question": "The specifications of a cement bag for storage, are",
+            "answers": [
+                "weight 50 kg",
+                "height 18 cm",
+                "plan area 3000 sq. cm",
+                "volume 35 litres",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The bulk density of aggregates, depends upon",
+            "answers": [
+                "shape",
+                "grading",
+                "compaction",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "The bulk density of fine aggregate is usually about 10 per cent more than that of coarse aggregate of similar composition",
+                "The specific gravity of aggregate is important for the determination of the moisture content",
+                "The absorption and porosity of an aggregate influence the property of the concrete",
+                "A highly absorptive aggregate reduces the workability of concrete considerably",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Horizontal construction joints in concrete walls are generally provided at",
+            "answers": [
+                "soffit level",
+                "window sill level",
+                "floor level",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "Construction joints in columns are provided a few cm below the junction of beam",
+                "Construction joints in columns are provided at the bottom haunching",
+                "Construction joints in beams and slabs are provided within middel third",
+                "Constructionjoints are generally provided in positions subjected to least shear force",
+                "All the above."
+            ]
+        },
+        {
+            "question": "For a concrete mix 1:3:6 and water cement ratio 0.6 both by weight, the quantity of water required per bag, is",
+            "answers": [
+                "10 kg",
+                "12 kg",
+                "14 kg",
+                "16 kg",
+                "20 kg"
+            ]
+        },
+        {
+            "question": "The concrete mix which causes difficulty in obtaining a smooth finish, possess",
+            "answers": [
+                "segregation",
+                "internal friction",
+                "hardness",
+                "bleeding",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Le-Chatelier's apparatus is used for testing",
+            "answers": [
+                "soundness of cement",
+                "hardness of cement",
+                "strength of cement",
+                "durability of cement."
+            ]
+        },
+        {
+            "question": "'Ware house pack' of cement means",
+            "answers": [
+                "full capacity of the ware house",
+                "pressure exertion of the bags of upper layers",
+                "pressure compaction of the bags on lower layers",
+                "packing the ware house",
+                "none of these."
+            ]
+        },
+        {
+            "question": "In the method of voids for determination of the quantity of cement paste, it is assumed that",
+            "answers": [
+                "Voids in coarse aggregates are filled by fine aggregates",
+                "Voids in fine aggregates are filled by the cement paste",
+                "Volume of fine aggregates is equal to total voids in coarse aggregates plus 10% extra",
+                "Volume of cement paste required is equal to total volume of voids in fine aggregates plus 15% extra",
+                "All the above."
+            ]
+        },
+        {
+            "question": "If a grading curve is horizontal bet-wen the portions of 20 mm I.S. Sieve and 4.75 mm I.S. Sieve, the graded aggregates do not contain",
+            "answers": [
+                "20 mm particles",
+                "10 mm particles",
+                "4.75 mm particles",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The size of fine aggregates does not exceed",
+            "answers": [
+                "2.75 mm",
+                "3.00 mm",
+                "3.75 mm",
+                "4.75 mm",
+                "5.75 mm"
+            ]
+        },
+        {
+            "question": "An aggregate is known as cyclopean aggregate if its size is more than",
+            "answers": [
+                "4.75 mm",
+                "30 mm",
+                "60 mm",
+                "75 mm",
+                "90 mm."
+            ]
+        },
+        {
+            "question": "The main object of compaction of concrete, is:",
+            "answers": [
+                "to eliminate air holes",
+                "to achieve maximum density",
+                "to provide initimate contact between the concrete and embedded materials",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "The quality of water governs the strength of concrete",
+                "The quantity of water required for concreting, depends upon the grading of aggregate amd method of compaction",
+                "10% excess of water reduces the strength of concrete by 15%",
+                "30% excess of water reduces the strength of concrete by 50%",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Particles of 0.002 mm size are that of",
+            "answers": [
+                "clay",
+                "sand",
+                "gravel",
+                "none of these."
+            ]
+        }
+    ]
+}

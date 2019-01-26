@@ -1,0 +1,2835 @@
+{
+    "questions": [
+        {
+            "question": "A district road with a bituminous pavement has a horizontal curve of 1000 m for a design speed of 75 km ph. The super-elevation is",
+            "answers": [
+                "1 in 40",
+                "1 in 50",
+                "1 in 60",
+                "1 in 70",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The minimum value of camber provided for thin bituminous surface hill roads, is",
+            "answers": [
+                "2.2%",
+                "2.5%",
+                "3.0%",
+                "3.5%"
+            ]
+        },
+        {
+            "question": "Design of horizontal and vertical alignments, super-elevation, sight distance and grades, is worst affected by",
+            "answers": [
+                "width of the vehicle",
+                "length of the vehicle",
+                "height of the vehicle",
+                "speed of the vehicle"
+            ]
+        },
+        {
+            "question": "Thickness of a pavement may be reduced considerably by",
+            "answers": [
+                "compaction of soil",
+                "stabilisation of soil",
+                "drainage of soil",
+                "combination of all the above."
+            ]
+        },
+        {
+            "question": "The total length of a valley formed by two gradients - 3% and + 2% curve between the two tangent points to provide a rate of change of centrifugal acceleration 0.6 m/sec2, for a design speed 100 km ph, is",
+            "answers": [
+                "16.0 m",
+                "42.3 m",
+                "84.6 m",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Traffic engineering only includes",
+            "answers": [
+                "planning of regulatory measures",
+                "design and application of control devices",
+                "analysis of traffic characteristics",
+                "traffic opeation",
+                "all the above."
+            ]
+        },
+        {
+            "question": "For the movement of vehicles at an intersection of two roads, without any interference, the type of grade separator generally preferred to, is",
+            "answers": [
+                "delta",
+                "trumpet",
+                "diamond interchange",
+                "clover leaf."
+            ]
+        },
+        {
+            "question": "If the ruling gradient on any highway is 3%, the gradient provided on the curve of 300 metre radius, is",
+            "answers": [
+                "2.00%",
+                "2.25%",
+                "2.50%",
+                "2.75%",
+                "3.00%"
+            ]
+        },
+        {
+            "question": "As per recommendations of I.R.C., traffic volume study is carried out for rural roads for 7 days continuously during",
+            "answers": [
+                "harvesing",
+                "lean season",
+                "harvesting and lean season",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The minimum ratio of the radii of two circular curves of a compound curve, is kept",
+            "answers": [
+                "1.25",
+                "1.5",
+                "1.75",
+                "2.0"
+            ]
+        },
+        {
+            "question": "Border Roads Organisation for hilly regions, was formed in",
+            "answers": [
+                "1947",
+                "1954",
+                "1958",
+                "1960",
+                "1962"
+            ]
+        },
+        {
+            "question": "Pick up the incorrect statement from the following. The super-elevation on roads is",
+            "answers": [
+                "directly proportional to width of pavement",
+                "directly proportional to velocity of vehicles",
+                "inversely proportional to acceleration due to gravity",
+                "inversely proportional to the radius of curvature."
+            ]
+        },
+        {
+            "question": "The weaving length of a roadway is the distance",
+            "answers": [
+                "between the channelising islands",
+                "equal to half circumference",
+                "equal to total width of adjoining radial roads",
+                "equal to diameter of rotary."
+            ]
+        },
+        {
+            "question": "Road makers along roads from the edge of a kerb should not be less than",
+            "answers": [
+                "40 cm",
+                "45 cm",
+                "50 cm",
+                "55 cm",
+                "60 cm"
+            ]
+        },
+        {
+            "question": "Traffic surveys are carried out",
+            "answers": [
+                "to know the type of traffic",
+                "to determine the facilities to traffic regulations",
+                "to design proper drainage system",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The formula for calculating the depth of concrete pavements suggested by Goldbeck, is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "If A is the projected area of a vehicle in square metres, V is speed of the vehicles in kilometres per hour and C is a constant, then the wind resistance R to the moving vehicles, is given by",
+            "answers": [
+                "R = CAV",
+                "R = CAV2",
+                "R = CAV3",
+                "",
+                "R = C2AV"
+            ]
+        },
+        {
+            "question": "The usual width of parapet walls along Highways in hilly region, is",
+            "answers": [
+                "50 cm",
+                "60 cm",
+                "70 cm",
+                "80 cm",
+                "100 cm"
+            ]
+        },
+        {
+            "question": "The road foundation for modern highways construction, was developed by",
+            "answers": [
+                "Tresguet",
+                "Telford",
+                "Macadam",
+                "Tresguet and Telford simultaneously",
+                "Telford and Macadam simultaneously."
+            ]
+        },
+        {
+            "question": "If N is deviation angle the length L of a parabolic vetical curve for overtaking sight distance S, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                "Both (A) and (C)"
+            ]
+        },
+        {
+            "question": "If C is basic capacity per lane, V is velocity in km/hour, S is stopping distance pluslength of the vehicles in metres, the formula  is applicable to",
+            "answers": [
+                "district roads",
+                "two lane roads",
+                "two lane roads in one direction",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Width of vehicles affects the width of",
+            "answers": [
+                "lanes",
+                "shoulders",
+                "parking spaces",
+                "all the above."
+            ]
+        },
+        {
+            "question": "First operation during the detailed survey of a hill road, is",
+            "answers": [
+                "hydrological and soil surveys",
+                "adjustment of alignment along with curves",
+                "derivation of longitudinal and cross-sections",
+                "fixation of Bench Marks",
+                "staking the ground."
+            ]
+        },
+        {
+            "question": "The period of long term plan for the development of roads in India, known as Bombay Plan (Aug. 1958), is",
+            "answers": [
+                "5 years",
+                "10 years",
+                "15 years",
+                "20 years",
+                "25 years"
+            ]
+        },
+        {
+            "question": "In water bound macadam roads, binding material, is",
+            "answers": [
+                "sand",
+                "stone dust",
+                "cement",
+                "brick dust."
+            ]
+        },
+        {
+            "question": "According to Highway Research Board of U.S.A. practical land width, is",
+            "answers": [
+                "2.7 m",
+                "3.0 m",
+                "3.3 m",
+                "3.6 m",
+                "4.5 m"
+            ]
+        },
+        {
+            "question": "Design of flexible pavements is based on",
+            "answers": [
+                "mathematical analysis",
+                "empirical formulae",
+                "a compromise of pure theory and pure empirical formula",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The efficiency of the brakes of a vehicle depends upon",
+            "answers": [
+                "condition of road surface",
+                "condition of the tyres",
+                "presence of the show moisture",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Maximum super-elevation on hill roads should not exceed",
+            "answers": [
+                "5%",
+                "7%",
+                "8%",
+                "10%",
+                "15%"
+            ]
+        },
+        {
+            "question": "The type of transition curves generally provided on hill roads, is",
+            "answers": [
+                "circular",
+                "cubic parabola",
+                "Lemniscate",
+                "spiral."
+            ]
+        },
+        {
+            "question": "The maximum safe speed on roads, depends on the",
+            "answers": [
+                "type of the highway",
+                "type of road surface",
+                "type of curves",
+                "sight distance",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The basic formula for determination of pavement thickness was first suggested by",
+            "answers": [
+                "Spanglar",
+                "Picket",
+                "Kelly",
+                "Goldbeck"
+            ]
+        },
+        {
+            "question": "Increase in traffic volume, due to increase in transport vehicles, is known as",
+            "answers": [
+                "development traffic",
+                "normal traffic growth",
+                "generated traffic growth",
+                "current traffic",
+                "none of these."
+            ]
+        },
+        {
+            "question": "If R is the radius of a main curve and L is the length of the transition curve, the shift of the curve, is",
+            "answers": [
+                "L/24 R",
+                "L2/24 R",
+                "L3/24 R",
+                "L4/24 R",
+                "L/12 R"
+            ]
+        },
+        {
+            "question": "The weight of vehicles affects",
+            "answers": [
+                "pavement thickness",
+                "ruling gradient",
+                "limiting gradient",
+                "design of bridges",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "During reconnaissance, the general route of the alignment is selected",
+                "After reconnaissance, a trace is cut for the alignment",
+                "Last stage is the detailed surveys for desired geometries'of the highway",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Deviation of the alignment of a trace cut may be permitted in areas involving",
+            "answers": [
+                "land slides",
+                "sand dunes",
+                "dens",
+                "none of these."
+            ]
+        },
+        {
+            "question": "If cross slope of a country is 10% to 25%, the terrain is classified as",
+            "answers": [
+                "rolling",
+                "mountainous",
+                "steep",
+                "plain."
+            ]
+        },
+        {
+            "question": "Shoulders for high traffic volume roads, should",
+            "answers": [
+                "be stable throughout the year to be used by vehicles in the case of emergency",
+                "support and protect the ends of carriage ways",
+                "not allow entrance of water to sub-grade",
+                "all the above."
+            ]
+        },
+        {
+            "question": "According to the recommendations of Nagpur Conference, the width formation of an ideal National Highway in hard rock cutting, is",
+            "answers": [
+                "8.9 m",
+                "7.9 m",
+                "6.9 m",
+                "6.5 m",
+                "7.5 m"
+            ]
+        },
+        {
+            "question": "The absolute minimum radius of horizontal curve for a design speed 60 km ph is",
+            "answers": [
+                "131 m",
+                "210 m",
+                "360 m",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Volume of traffic which would immediately use a new road or an improved one when opened to traffic, is known",
+            "answers": [
+                "development traffic",
+                "current traffic",
+                "general traffic",
+                "normal traffic growth."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "Safety fences are provided on either side of a roadway if embankments are in excess of 6 metres",
+                "Safety fences are provided on outside of the curves of radii less than 750 m if the embankments are between 3 metres and 6 metres",
+                "Guard stones are provided at 2.5 metres intervals if embankments are between 1.6 metres to 3 metres",
+                "All the above."
+            ]
+        },
+        {
+            "question": "In India the modes of transportation, in the order of their importance, are",
+            "answers": [
+                "air transport, shipping, roads, railways",
+                "shipping, roads, railways, air transport",
+                "roads, railways, air transport, shipping",
+                "railways, roads, shipping, air transport",
+                "shipping, railways, roads, air transport."
+            ]
+        },
+        {
+            "question": "On the recommendations of Indian Road Congress, the ruling gradient in plains, is",
+            "answers": [
+                "1 in 15",
+                "1 in 20",
+                "1 in 30",
+                "1 in 45",
+                "1 in 100"
+            ]
+        },
+        {
+            "question": "The head light of vehicles should be such that its lower beam illuminates objects at",
+            "answers": [
+                "10 m",
+                "20 m",
+                "30 m",
+                "40 m",
+                "50 m"
+            ]
+        },
+        {
+            "question": "The length of the side of warning sign boards of roads is",
+            "answers": [
+                "30 cm",
+                "40 cm",
+                "45 cm",
+                "50 cm"
+            ]
+        },
+        {
+            "question": "A single lane carriage way whenever changes to two-lane carriage way, is affected through a taper of",
+            "answers": [
+                "1 in 10",
+                "1 in 15",
+                "1 in 20",
+                "1 in 15 to 1 in 20"
+            ]
+        },
+        {
+            "question": "The wall constructed for the stability of an excavated portion of a road on the hill side, is known as",
+            "answers": [
+                "retaining wall",
+                "breast wall",
+                "parapet wall",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Maximum number of passenger cars that can pass a given point on a road during one hour under the most ideal road way and traffic conditions, is known as",
+            "answers": [
+                "traffic density",
+                "basic capacity of traffic lane",
+                "possible capacity of traffic lane",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Reinforcement in cement concrete slab of road pavements, is placed",
+            "answers": [
+                "longitudinally",
+                "transversely",
+                "longitudinally and transversely",
+                "in the form of welded wire mesh",
+                "none of these."
+            ]
+        },
+        {
+            "question": "If d is the thickness of a concrete pavement, the equivalent radius b of resisting section for an interior loading, is",
+            "answers": [
+                "b = 0.6 + d2 - 0.675 d",
+                "b = 1.6 + d2 + 0.675 d",
+                "b = 1.6 + d2 - 3.675 d",
+                "b = 1.6 + d2 - 0.675 d"
+            ]
+        },
+        {
+            "question": "According to IRC : 52-1973, for a single lane National Highway in hilly region,",
+            "answers": [
+                "width of the carriageway must be 3.75 m",
+                "shoulders on either side must be 1.25 m",
+                "total width of the road-way must be 6.25 m",
+                "total of the above."
+            ]
+        },
+        {
+            "question": "If x% is the gradient of an alignment and y% is the gradient after proper superelevation along a curved portion of a highway, the differential grade along the curve, is",
+            "answers": [
+                "(x + y)%",
+                "(x - y)%",
+                "(y - x)%",
+                "(x x y)%",
+                "(y + x)%"
+            ]
+        },
+        {
+            "question": "In an ideal transition curve, the radius of curvature",
+            "answers": [
+                "is constant",
+                "at any point is directly proportional to its distance from the point of commencement",
+                "is inversely proportional to the radius of main curve",
+                "is directly proportional to the radius of main curve"
+            ]
+        },
+        {
+            "question": "On concrete roads, the camber generally provided, is",
+            "answers": [
+                "1 in 20 to 1 in 24",
+                "1 in 30 to 1 in 48",
+                "1 in 36 to 1 in 48",
+                "1 in 48 to 1 in 60",
+                "1 in 60 to 1 in 72"
+            ]
+        },
+        {
+            "question": "While calculating the sight distances, the driver's eye above road surface, is assumed",
+            "answers": [
+                "90 cm",
+                "100 cm",
+                "110 cm",
+                "120 cm",
+                "150 cm"
+            ]
+        },
+        {
+            "question": "If the number of lanes on the carriageway of a road is more than two, the total width of lane ways is equal to 3.0 m",
+            "answers": [
+                "+ 0.60 m",
+                "+ 0.70 m",
+                "+ 0.80 xn",
+                "+ 0.90 m",
+                "+ 1.50 m"
+            ]
+        },
+        {
+            "question": "Minimum thickness of a layer of fine sand required to cut off capillary rise of water completely, should be",
+            "answers": [
+                "40 cm",
+                "52 cm",
+                "64 cm",
+                "76 cm",
+                "80 cm"
+            ]
+        },
+        {
+            "question": "If W is the weight of a vehicle negotiating an upgrade 1 : S along a track having co-efficient of resistance \u03bc, the tractive force T is given by",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "If L is the length of a moving vehicle and R is the radius of curve, the extra mechanical width b to be provided on horizontal curves,",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The desirable camber for straight cement concrete roads, is",
+            "answers": [
+                "1 in 33 to 1 in 25",
+                "1 in 40 to 1 in 33",
+                "1 in 150 to 1 in 140",
+                "1 in 160 to 1 in 140",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Minimum permissible speed on high speed roads, is decided on the basis of",
+            "answers": [
+                "15 percentile cumulative frequency",
+                "20 percentile cumulative frequency",
+                "30 percentile cumulative frequency",
+                "40 percentile cumulative frequency."
+            ]
+        },
+        {
+            "question": "The ideal shape of a transition curve, is",
+            "answers": [
+                "clothoid",
+                "cubic spiral",
+                "cubic parabola",
+                "lamniscate",
+                "none of these."
+            ]
+        },
+        {
+            "question": "At a road junction, 7 cross conflict points are severe if",
+            "answers": [
+                "both are one-way roads",
+                "both are two-way roads",
+                "one is two-way road and other is one-way road",
+                "none of these."
+            ]
+        },
+        {
+            "question": "To indicate proper control of consistency of a freshly mixed concrete for pavement construction, the slump should be between",
+            "answers": [
+                "3 to 5 cm",
+                "4 to 6 cm",
+                "5 to 7 cm",
+                "7 to 10 cm",
+                "10 to 12 cm"
+            ]
+        },
+        {
+            "question": "Driving vehicles on wet surfaced roads, is dangerous because it may",
+            "answers": [
+                "skid",
+                "slip",
+                "overturn",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The width of different roads as recommended in Nagpur plan by the Indian Road Conference for hilly region, is",
+            "answers": [
+                "same for National Highways",
+                "different for National Highways",
+                "same for State Highways",
+                "same for Major District roads."
+            ]
+        },
+        {
+            "question": "If N is the algebraic difference of grades, S is the head light beam distance in metres, the length (L) of a valley curve, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "If D is the degree of a curve, the percentage reduction of gradient, is",
+            "answers": [
+                "0.01 D",
+                "0.02 D",
+                "0.03 D",
+                "0.04 D",
+                "0.005 D"
+            ]
+        },
+        {
+            "question": "Any gradient on a road is said to be an exceptional gradient, if it is",
+            "answers": [
+                "more than ruling gradient",
+                "less than average gradient",
+                "more than floating gradient",
+                "less than minimum gradient or more than maximum gradient."
+            ]
+        },
+        {
+            "question": "For the administration of road transport, a Motor Vehicle Act was enacted in",
+            "answers": [
+                "1927",
+                "1934",
+                "1939",
+                "1947",
+                "1950"
+            ]
+        },
+        {
+            "question": "The absolute minimum sight distance required for stopping a vehicle moving with a speed of 80 km ph, is",
+            "answers": [
+                "120 m",
+                "200 m",
+                "640 m",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Along high ways confirmatory route markers are generally fixed",
+            "answers": [
+                "before the crossing on the left side",
+                "after the crossing on the left side",
+                "before the crossing on the right side",
+                "after the crossing on the right side."
+            ]
+        },
+        {
+            "question": "Length of vehicles does not affect",
+            "answers": [
+                "extra widening",
+                "minimum radius of turning",
+                "passing sight distance",
+                "width of shoulders",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Road width 8.8 m of two lane National highways or State highways in mountainous terrain",
+            "answers": [
+                "excludes the width of parapet (0.6 m)",
+                "excludes the width of side drain (0.6 m)",
+                "excludes the width of parapet and side drain",
+                "includes the width of parapet and side drain"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "Long tangent sections exceeding 3 km in length should be avoided",
+                "Curve length should be at least 150 metres for a deflection angle of 5 degress",
+                "For every degree decrease in the deflection angle, 30 metre length of curve to be increased",
+                "If the deflection angle is less than 1\u00b0, no curve is designed",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Transverse joints are provided at distances varying from",
+            "answers": [
+                "10 m to 15 m",
+                "12 m to 18 m",
+                "16 m to 24 m",
+                "17 m to 27 m",
+                "25 m to 35 m"
+            ]
+        },
+        {
+            "question": "If N is the algebraic difference of grades, S is the minimum sight distance in metres, the length (L) of a summit curve is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                "none of these."
+            ]
+        },
+        {
+            "question": "If N is the net difference of grades, S is the minimum overtaken sight distance in metres, the length (L) of a summit curve, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "Seasonal cycle of traffic volume during April and November, is usually near the annual average",
+                "Mid-winter seasonal cycle of traffic is least",
+                "Mid-summer seasonal cycle of traffic is highest",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The advantage of providing superelevation on roads, is",
+            "answers": [
+                "higher speed of vehicles",
+                "increased volume of traffic",
+                "reduced maintenance cost of the roads",
+                "draining off rain water quickly",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The shape of a vertical curve, is",
+            "answers": [
+                "parabolic",
+                "elliptical",
+                "circular",
+                "spiral",
+                "all the above."
+            ]
+        },
+        {
+            "question": "To prevent movement of moisture from subgrade to road pavement at the same level as that of water-table, thickness of a cut off layer of coarse sand, is",
+            "answers": [
+                "15 cm",
+                "20 cm",
+                "30 cm",
+                "45 cm",
+                "none of these."
+            ]
+        },
+        {
+            "question": "For Indian conditions, the water bound macadam roads, are suitable if daily traffic does not exceed",
+            "answers": [
+                "2000 tonnes",
+                "2500 tonnes",
+                "3000 tonnes",
+                "3500 tonnes"
+            ]
+        },
+        {
+            "question": "If h1 is the height of the driver's eye and h2 is the height of an obstruction above road surface, then, for a minimum sight distance S, the length of the vertical curve should be greater than",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "For maximum strength and durability minimum percentage of cement, by weight is",
+            "answers": [
+                "15%",
+                "20%",
+                "25%",
+                "30%",
+                "33%"
+            ]
+        },
+        {
+            "question": "Camber in pavements is provided by",
+            "answers": [
+                "straight line method",
+                "parabola method",
+                "straight at the edges and parabolic at the crown",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The minimum design speed of various types of highways in plain terrain is the same as the ruling design speed of",
+            "answers": [
+                "rolling terrain",
+                "mountainous terrain",
+                "steep terrain",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Passing zones are generally not provided on",
+            "answers": [
+                "summit curves",
+                "horizontal curves",
+                "two lane highways",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The normal road width of National and State highways",
+            "answers": [
+                "is kept 45 m",
+                "in plain and rolling terrain built-up area, is 30 m",
+                "in mountainous built-up area is 20 m",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The extra widening of pavements recommended by Indian Roads Congress for hill roads having radius 150 metres, is",
+            "answers": [
+                "1.5 m",
+                "1.0 m",
+                "0.5 m",
+                "0.0 m",
+                "2.0 m"
+            ]
+        },
+        {
+            "question": "The steepest gradient permitted on roads which, in ordinary conditions, does not exceed, is known",
+            "answers": [
+                "ruling gradient",
+                "maximum gradient",
+                "exceptional gradient",
+                "floating gradient",
+                "all the above."
+            ]
+        },
+        {
+            "question": "For night travel, the length of a valley curve should be such that the head light beam distance is the same as",
+            "answers": [
+                "stopping sight distance",
+                "overtaking sight distance",
+                "sum of (a) and (b)",
+                "difference of (a) and (b)"
+            ]
+        },
+        {
+            "question": "Stability of hill slopes depends upon",
+            "answers": [
+                "nature of the slope",
+                "angle of the slope",
+                "geological conditions",
+                "ground water conditions",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Selection of the routes, of highways depends upon",
+            "answers": [
+                "feasibility of attaining ruling gradient",
+                "avoidance of cutting hard rocks",
+                "minimum number of bridges",
+                "minimum possible length of alignment",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The first stage of deciding the alignment of a hill road, is",
+            "answers": [
+                "reconnaissance",
+                "detailed survey",
+                "trace-out",
+                "preliminary survey."
+            ]
+        },
+        {
+            "question": "While designing hair pin bends on higways, the minimum",
+            "answers": [
+                "designed speed is 20 km/hour",
+                "gradient is 1 in 40",
+                "gradient is 1 in 200",
+                "superelevations is 1 in 10",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Pick up the incorrect statement from the following:",
+            "answers": [
+                "Tresguet did not provide the top camber for the drainage of surface water",
+                "Tresguet provided the top camber for the drainage of surface water",
+                "Telford provided two layers of stones in the central 5.4 m width and one layer was provided on the sides",
+                "Macadam provided a camber to the formation at the dug-up state, to drain percolated water."
+            ]
+        },
+        {
+            "question": "Cement grouted pavement is classified as",
+            "answers": [
+                "rigid pavement",
+                "semi-rigid pavement",
+                "flexible pavement",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Intermediate catch water drains are provided only, if",
+            "answers": [
+                "catchment area of the watershed above road is large",
+                "intensity of rainfall is heavy",
+                "single catch water drain is inadequate",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "Minimum desirable width of medians on rural highways is 5 metres",
+                "Minimum width of medians should be 3 metres",
+                "On long bridges and viaducts, the width of medians should be 1.5 m",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Floating gradients are generally provided",
+            "answers": [
+                "along maximum gradients",
+                "along minimum gradients",
+                "at summit curves",
+                "at valley curves",
+                "every where."
+            ]
+        },
+        {
+            "question": "Raising of outer edge of a road with respect to inner edge, is known",
+            "answers": [
+                "super elevation",
+                "cant",
+                "banking",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Width of the shoulders of carriage way is generally kept",
+            "answers": [
+                "100 cm",
+                "125 cm",
+                "150 cm",
+                "200 cm",
+                "250 cm"
+            ]
+        },
+        {
+            "question": "The correct formula for calculating superelevation for the hill roads, is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The inventor of road making as a building science, was",
+            "answers": [
+                "Sully",
+                "Tresguet",
+                "Telford",
+                "Macadam."
+            ]
+        },
+        {
+            "question": "An upgrade g1% is followed by a downgrade g2%. The equation of the parabolic curve of length L to be introduced, is given by",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Area of steel required per metre width of pavement for a length of 20 m for design wheel load 6300 kg and permissible stress in steel 1400 kg/cm2, is",
+            "answers": [
+                "70 kg/sq cm",
+                "80 kg/sq cm",
+                "90 kg/sq cm",
+                "100 kg/sq cm"
+            ]
+        },
+        {
+            "question": "Design of horizontal curves on highways, is based on",
+            "answers": [
+                "design speed of vehicles",
+                "permissible friction on the road surface",
+                "permissible centrifugal ratio",
+                "permissible maximum super-elevation",
+                "all the above."
+            ]
+        },
+        {
+            "question": "If no super elevation is provided on a road along curves, pot holes may develop at",
+            "answers": [
+                "inner edge of the road",
+                "outer edge of the road",
+                "centre of the road",
+                "no where on the road."
+            ]
+        },
+        {
+            "question": "Enoscope is used to determine",
+            "answers": [
+                "spot speed",
+                "average speed",
+                "travel time",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The width of road pavements, depends upon",
+            "answers": [
+                "width of traffic lane",
+                "number of traffic",
+                "width of median strip",
+                "all the above."
+            ]
+        },
+        {
+            "question": "If L is the length of vehicles in metres, C is the clear distance between two consecutive vehicles (stopping sight distance), V is the speed of vehicles in km/hour, the maximum number N of vehicles/hour, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The minimum vertical clearance of overhanging cliffs or any other structure above the surface of a hill road, should be",
+            "answers": [
+                "3 m",
+                "4 m",
+                "5 m",
+                "6 m",
+                "4.5 m"
+            ]
+        },
+        {
+            "question": "Speed regulations on roads is decided on the basis of",
+            "answers": [
+                "60 percentile cumulative frequency",
+                "75 percentile cumulative frequency",
+                "80 percentile cumulative frequency",
+                "85 percentile cumulative frequency."
+            ]
+        },
+        {
+            "question": "Reconnaissance is best done with the help of",
+            "answers": [
+                "aerial photographic survey",
+                "condastral surveys",
+                "topographical surveys",
+                "triangulation surveys",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The usual width of side drains along Highways in hilly region, is",
+            "answers": [
+                "50 cm",
+                "60 cm",
+                "70 cm",
+                "80 cm",
+                "100 cm"
+            ]
+        },
+        {
+            "question": "Normal formation width of a hill road for one-way traffic, is",
+            "answers": [
+                "3.6 m",
+                "4.8 m",
+                "6.6 m",
+                "7.2 m",
+                "8 m"
+            ]
+        },
+        {
+            "question": "The most commonly adopted method to provide super-elevation on roads, is by pivoting the road surface about",
+            "answers": [
+                "outer edge so that the inner edge is lowered",
+                "crown so that outer edge is raised and inner edge is lowered",
+                "inner edge so that outer edge is raised",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Minimum thickness of the base of a flexible pavement, is",
+            "answers": [
+                "10 cm",
+                "15 cm",
+                "20 cm",
+                "25 cm",
+                "30 cm."
+            ]
+        },
+        {
+            "question": "One-way streets are generally provided in crowded cities as, these",
+            "answers": [
+                "are inexpensive means of traffic flow",
+                "reduce delays to vehicles",
+                "permit higher speed",
+                "reduce the number of accidents",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The perpendicular offset from the tan-get to the central point of the circular curve, is",
+            "answers": [
+                "R sin \u03b8/2",
+                "R cos \u03b8/2",
+                "R (1 - cos \u03b8/2)",
+                "R (1 - sin \u03b8/2)",
+                "none of these."
+            ]
+        },
+        {
+            "question": "An Executive Engineer of roads, executes works under direct control of",
+            "answers": [
+                "Superintending Engineer",
+                "Secretary to the Govt",
+                "Chief Engineer",
+                "None of these."
+            ]
+        },
+        {
+            "question": "Newly constructed pavement with ordinary Portland cement attains its working strength after",
+            "answers": [
+                "7 days",
+                "14 days",
+                "21 days",
+                "28 days",
+                "42 days"
+            ]
+        },
+        {
+            "question": "Curves in the same direction separated by short tangents, are called",
+            "answers": [
+                "simple circular curves",
+                "compound curves",
+                "transition curves",
+                "broken-back curves.",
+                "None of these."
+            ]
+        },
+        {
+            "question": "When an up gradient of a highway meets a downgrade, the vertical curve provided, is known as",
+            "answers": [
+                "valley curve",
+                "sag curve",
+                "summit curve",
+                "all the above."
+            ]
+        },
+        {
+            "question": "If the coefficient of friction on the road surface is 0.15 and a maximum super-elevation 1 in 15 is provided, the maximum speed of the vehicles on a curve of 100 metre radius, is",
+            "answers": [
+                "32.44 km/hour",
+                "42.44 kg/hour",
+                "52.44 km/hour",
+                "62.44 km/hour",
+                "72.44 km/hour"
+            ]
+        },
+        {
+            "question": "The maximum distance of the apex of a vertical curve of length L from the point of intersection of two grades + g1%, and - g2% (g1 > g2), is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The wall constructed for the stability of a back filling portion of a road on the down hill side, is known as",
+            "answers": [
+                "retaining wall",
+                "breast wall",
+                "parapet wall",
+                "all the above."
+            ]
+        },
+        {
+            "question": "If the velocity of moving vehicles on a road is 24 km/per hour, stopping distance is 19 metres and average length of vehicles is 6 metres, the basic capacity of lane, is",
+            "answers": [
+                "500 vehicles per hour",
+                "700 vehicles per hour",
+                "1000 vehicles per hour",
+                "1250 vehicles per hour"
+            ]
+        },
+        {
+            "question": "If the rate of change of grade permitted along a vertical curve is r and total change of grade is g%, the length L of the curve to be provided, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                "none of these."
+            ]
+        },
+        {
+            "question": "In case of a multi-lane road, overtaking is generally permitted",
+            "answers": [
+                "from right",
+                "from left",
+                "from both sides right and left",
+                "not at all."
+            ]
+        },
+        {
+            "question": "The pavement width of a road depends upon",
+            "answers": [
+                "terrain",
+                "type of traffic",
+                "number of lanes",
+                "all the above."
+            ]
+        },
+        {
+            "question": "For a vehicle moving with a speed of 80 km per hour, the brake reaction time, in ordinary cases, is",
+            "answers": [
+                "1 sec",
+                "1.5 sec",
+                "2.0 sec",
+                "2.5 sec",
+                "3.0 sec"
+            ]
+        },
+        {
+            "question": "The desirable camber for straight roads with thin bituminous surfacing, is",
+            "answers": [
+                "1 in 33 to 1 in 25",
+                "1 in 40 to 1 in 33",
+                "1 in 150 to 1 in 140",
+                "1 in 160 to 1 in 140",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Minimum stopping distance for moving vehicles on road with a design speed of 80 km/hour, is",
+            "answers": [
+                "80 m",
+                "100 m",
+                "120 m",
+                "150 m",
+                "200 m"
+            ]
+        },
+        {
+            "question": "If the radii of a compound curve and a reverse curve are respectively the same, the length of common tangent",
+            "answers": [
+                "of compound curve will be more",
+                "of reverse curve will be more",
+                "of both curves will be equal",
+                "none of these."
+            ]
+        },
+        {
+            "question": "If cross slope of a country is greater than 60%, the terrain is classified as",
+            "answers": [
+                "rolling",
+                "mountainous",
+                "steep",
+                "plain."
+            ]
+        },
+        {
+            "question": "Side drains on both sides of a hill road, are essential when the road is",
+            "answers": [
+                "along the spur curves",
+                "along the re-entrant curves",
+                "in cutting",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Parapet walls along hill roads, are provided",
+            "answers": [
+                "to retain the back filling",
+                "to prevent the hill from sliding",
+                "to prevent the wheels of the vehicle from coming on the retaining wall",
+                "none of these."
+            ]
+        },
+        {
+            "question": "From the point of tangency before an intersection, the route markers are fixed at a distance of",
+            "answers": [
+                "15 m to 30 m",
+                "20 m to 35 m",
+                "40 m to 50 m",
+                "50 m to 75 m",
+                "100 m to 150"
+            ]
+        },
+        {
+            "question": "A gradient along which the vehicle does not require any tractive effort to maintain a specified speed, is known as",
+            "answers": [
+                "ruling gradient",
+                "pushing gradient",
+                "floating gradient",
+                "minimum gradient"
+            ]
+        },
+        {
+            "question": "The traffic carrying capacity of a single lane, depends on",
+            "answers": [
+                "type of the vehicles",
+                "level crossings",
+                "road intersections",
+                "surface texture",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The number of vehicles moving in a specified direction on a roadway that pass a given point during specified unit of time, is called",
+            "answers": [
+                "traffic volume",
+                "traffic density",
+                "basic capacity",
+                "traffic capacity."
+            ]
+        },
+        {
+            "question": "Bottom-most component of a flexible pavement, is",
+            "answers": [
+                "subgrade",
+                "sub-base",
+                "base",
+                "base course."
+            ]
+        },
+        {
+            "question": "If V is the design speed in km/hour and R is the radius of the curve of a hill road, the super-elevation",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Pavement is said to be flexible if it contains",
+            "answers": [
+                "water bound macadam surface",
+                "stabilised soil base constructed of lime cement or tar",
+                "bitumen-bound stone layer of varying aggregates",
+                "lean concrete base",
+                "all the above."
+            ]
+        },
+        {
+            "question": "In ideal pavement is constructed with",
+            "answers": [
+                "bricks",
+                "hard soil",
+                "Portland cement concrete",
+                "tar",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Round-abouts are not suitable if number of vehicles exceed",
+            "answers": [
+                "3000",
+                "4000",
+                "5000",
+                "6000"
+            ]
+        },
+        {
+            "question": "For a comfortable travel on Highways, the centrifugal ratio should not exceed",
+            "answers": [
+                "0.10",
+                "0.15",
+                "0.20",
+                "0.25",
+                "0.30"
+            ]
+        },
+        {
+            "question": "If V is speed in km/hour and R is radius of the curve, the superelevation e is equal to",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The traffic manoeuvre means",
+            "answers": [
+                "diverging",
+                "merging",
+                "crossing",
+                "all the above."
+            ]
+        },
+        {
+            "question": "To compensate the loss of tractive force of vehicles along curves of radius R, the percentage reduction of gradient, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The width formation of a road means the width of",
+            "answers": [
+                "carriageway",
+                "pavement and shoulders",
+                "embankment at ground level",
+                "embankment at the top level."
+            ]
+        },
+        {
+            "question": "If P is the number of vehicles per day at last census, r is the increase in traffic and n is the number of years passed after last census, number of vehicles A per day for design, is",
+            "answers": [
+                "P (1 + r)n",
+                "P (1 - r)n",
+                "P (1 + r)-n+5",
+                "P (1 + r)5n"
+            ]
+        },
+        {
+            "question": "Hill roads are",
+            "answers": [
+                "provided camber along spur curves",
+                "provided camber along valley curves",
+                "seldom provided a camber",
+                "None of these."
+            ]
+        },
+        {
+            "question": "For a poorly graded sub-grade soil, thickness of sub-base, is",
+            "answers": [
+                "10 cm",
+                "15 cm",
+                "20 cm",
+                "25 cm",
+                "30 cm"
+            ]
+        },
+        {
+            "question": "For clear distinct vision, images of obstructions should fall on the retina with a cone of",
+            "answers": [
+                "2\u00b0",
+                "3\u00b0",
+                "4\u00b0",
+                "5\u00b0",
+                "6\u00b0"
+            ]
+        },
+        {
+            "question": "The distance travelled by a moving vehicle during perception and brake reaction times, is known as",
+            "answers": [
+                "sight distance",
+                "stopping distance",
+                "lag distance",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Following type of pavement is generally known as flexible pavement",
+            "answers": [
+                "water-bound macadam roads",
+                "stabilised soil roads",
+                "road constructed with various layers of building material well compacted",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The minimum width of the pavement of a National Highway should be",
+            "answers": [
+                "4.7 m",
+                "5.7 m",
+                "6.7 m",
+                "7.7 m",
+                "8.0 m"
+            ]
+        },
+        {
+            "question": "If the radius of curvature of a hill road is 50 m, the percentage grade compensation should be",
+            "answers": [
+                "60/R",
+                "70/R",
+                "75/R",
+                "80/R",
+                "100/R"
+            ]
+        },
+        {
+            "question": "In scanty rainfall regions, the camber provided will be",
+            "answers": [
+                "nil",
+                "flatter",
+                "steeper",
+                "None of these."
+            ]
+        },
+        {
+            "question": "An exceptional grade may be provided upto 1 in 12 along hill roads, if the length does not exceed",
+            "answers": [
+                "45 m per km",
+                "60 m per km",
+                "75 m per km",
+                "90 m per km",
+                "100 m per km"
+            ]
+        },
+        {
+            "question": "The head of public works department of any Indian state, is",
+            "answers": [
+                "Transport Minister",
+                "Chief Engineer",
+                "Superintending Engineer",
+                "Executive Engineer."
+            ]
+        },
+        {
+            "question": "If a Lemniscate curve having an angle of deflection \u0394, is transitional throughout, the maximum polar angle is",
+            "answers": [
+                "\u0394/2",
+                "\u0394/3",
+                "\u0394/4",
+                "\u0394/5",
+                "\u0394/6"
+            ]
+        },
+        {
+            "question": "On most smooth hard surfaced roads, rolling resistance to moving vehicles, ranges from",
+            "answers": [
+                "5 kg to 7 kg/tonne",
+                "7 kg to 9 kg/tonne",
+                "9 kg to 11 kg/tonne",
+                "11 kg to 13 kg/tonne",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Pick up the incorrect statement from the following. The width of the right-of-way is decided so as to accommodate",
+            "answers": [
+                "formation width",
+                "side slopes",
+                "horizontal curve",
+                "vertical curve",
+                "provision of future widening."
+            ]
+        },
+        {
+            "question": "Formation width of a hill road is the distance between",
+            "answers": [
+                "outer end of side drain to outer end of parapet wall",
+                "outer end of side drain to inner end of parapet wall",
+                "inner end of side drain to outer end of parapet wall",
+                "inner end of side drain to inner end of parapet wall",
+                "none of these."
+            ]
+        },
+        {
+            "question": "California Bearing Ratio method of designing flexible pavements is more accurate as it involves",
+            "answers": [
+                "characteristics of soils",
+                "traffic intensities",
+                "character of the road making materials",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Longitudinal pavement lines marked broken in white paint",
+            "answers": [
+                "are for the guidance of the drivers",
+                "are not to be crossed over",
+                "may be crossed over at the discretion of the driver",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Design of flexible pavement, involves",
+            "answers": [
+                "wheel loads",
+                "intensity of traffic",
+                "climate of the region",
+                "sub-grade conditions",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Design of highways is based on",
+            "answers": [
+                "axle loads",
+                "axle spacings",
+                "wheel bases",
+                "over all length",
+                "all the above."
+            ]
+        },
+        {
+            "question": "On a pavement with parabolic camber, the angle of inclination of the vehicles will be",
+            "answers": [
+                "more at the crown",
+                "less at the edges",
+                "more at the edges",
+                "same at the edges as well as at the crown",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The difference in gradients after full super-elevation and the initial alignment of a road, is known as",
+            "answers": [
+                "ruling gradient",
+                "rising gradient",
+                "compensated gradient",
+                "differential gradient",
+                "none of these."
+            ]
+        },
+        {
+            "question": "If the radius of a main curve is 300 m and length of the transition curve is 100 m, the angle with tangent to locate the junction point, is",
+            "answers": [
+                "1\u00b0 11'",
+                "2\u00b0 11'",
+                "3\u00b0 11'",
+                "4\u00b0 11'"
+            ]
+        },
+        {
+            "question": "Minimum radius of a simple circular curve deflecting through 5\u00b0, is",
+            "answers": [
+                "1618.9 m",
+                "1816.9 m",
+                "1718.9 m",
+                "1817.9 m"
+            ]
+        },
+        {
+            "question": "When a number of hair pin bends are introduced, a minimum intervening distance in between is kept",
+            "answers": [
+                "20 m",
+                "40 m",
+                "60 m",
+                "100 m"
+            ]
+        },
+        {
+            "question": "If the designed speed on a circular curve of radius 1400 m is 80 km/hour, no superelevation is provided, if the camber, is",
+            "answers": [
+                "4%",
+                "3%",
+                "2%",
+                "1.7%"
+            ]
+        },
+        {
+            "question": "Width of a rotary round should be equal to",
+            "answers": [
+                "twice the width of narrowest radial road",
+                "width of the widest road",
+                "width of the widest road plus the width of one lane",
+                "width of the widest road plus 2 metres."
+            ]
+        },
+        {
+            "question": "To prevent movement of moisture from subgrade to road pavement on embankments about 0.6 m to 1 m higher than water table, the thickness of cut off layer of coarse sand used, is",
+            "answers": [
+                "15 cm",
+                "20 cm",
+                "30 cm",
+                "45 cm",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The statement, regarding the size of stones used at the wearing surface. \"The size of a stone used on a road must be in due proportion to the space occupied by a wheel of ordinary dimensions on a smooth level surface. The point of contact will be found to be longitudinal about 2.5 cm and every piece of stone put into the road which exceeds 2.5 cm in any of its dimension is mischievious\" was made by",
+            "answers": [
+                "Telford",
+                "Macadam",
+                "Tresguet",
+                "Sully."
+            ]
+        },
+        {
+            "question": "If L metres is the distance between extreme axles of a vehicle, its gross load should not exceed",
+            "answers": [
+                "1525 (L + 4.3) - 14.7 L2",
+                "1526 (L + 5.3) - 14.7 L2",
+                "1525 (L + 6.3) - 14.7 L2",
+                "1525 (L + 7.3) - 14.7 L2",
+                "1526 (L + 8.3) - 14.7 L2"
+            ]
+        },
+        {
+            "question": "For a 6.6 m wide two lane pavement, berms are provided on either side having a width of",
+            "answers": [
+                "l.00 m",
+                "1.25 m",
+                "1.50 m",
+                "1.75 m",
+                "2.00 m"
+            ]
+        },
+        {
+            "question": "For the design of cement concrete pavement for corner loading, Indian Road Congress recommends the use of",
+            "answers": [
+                "Westergard's formula",
+                "Kelly's formula",
+                "Goldbeck's formula",
+                "Spanlar's formula",
+                "Picker's formula."
+            ]
+        },
+        {
+            "question": "1.R.T.D.A. (Indian Roads and Transport Development Association) was set up at Bombay in",
+            "answers": [
+                "1907",
+                "1917",
+                "1927",
+                "1937",
+                "1942"
+            ]
+        },
+        {
+            "question": "The total value of extra widening required at a horizontal curve on a two lane hill road of radius 42 m for a design speed of 50 kmph and for vehicles with wheel base 6 m, is",
+            "answers": [
+                "0.500 m",
+                "0.589 m",
+                "1.089 m",
+                "0.089 m"
+            ]
+        },
+        {
+            "question": "Depth of reinforcement below the surface of a concrete pavement, is generally kept",
+            "answers": [
+                "5 cm",
+                "6 cm",
+                "7 cm",
+                "8 cm",
+                "9 cm"
+            ]
+        },
+        {
+            "question": "If V is the design speed of vehicles in km/hour, the change of radial acceleration in metres/sec3, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Volume of traffic which is due to improvement carried out in adjacent area, is known as",
+            "answers": [
+                "development traffic",
+                "generated traffic growth",
+                "normal traffic growth",
+                "current traffic."
+            ]
+        },
+        {
+            "question": "Roughness index of roads, is expressed as",
+            "answers": [
+                "size of the stone on the pavement",
+                "number of patches on the pavement",
+                "cumulative deformation of surface per horizontal distance",
+                "type of the road surface."
+            ]
+        },
+        {
+            "question": "If N is deviation angle, the length L, of a parabolic vertical curve for safe stopping distance S, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                "both (a) and (b)"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "The height of head light above road surface, is taken as 0.75 m",
+                "The beam of head light is up to one degree upwards from the grade of road",
+                "While designing the valley curve, the height of the object is assumed nil",
+                "All the above"
+            ]
+        },
+        {
+            "question": "Degree of a road curve is defined as the angle in degrees subtended at the centre by an arc of",
+            "answers": [
+                "10 metres",
+                "20 metres",
+                "25 metres",
+                "30 metres",
+                "50 metres"
+            ]
+        },
+        {
+            "question": "The tangent length of a simple circular curve of radius R deflecting through \u03b8\u00b0, is",
+            "answers": [
+                "R tan \u03b8",
+                "R tan \u03b8/2",
+                "R sin \u03b8",
+                "R sin \u03b8/2",
+                "R cot \u03b8/2"
+            ]
+        },
+        {
+            "question": "Which one of the following transportation systems is not used for the conveyance of passengers in India?",
+            "answers": [
+                "railways",
+                "roads",
+                "shipping",
+                "air lines",
+                "pipe lines."
+            ]
+        },
+        {
+            "question": "Thickness of broken line markings on multi-lane road for lanes is generally kept",
+            "answers": [
+                "10 cm",
+                "12 cm",
+                "15 cm",
+                "18 cm",
+                "20 cm"
+            ]
+        },
+        {
+            "question": "If a Lemniscate curve of transition throughout is introduced to connect two parallel roads, the maximum polar angle of the curve, is",
+            "answers": [
+                "10\u00b0",
+                "15\u00b0",
+                "20\u00b0",
+                "30\u00b0",
+                "45\u00b0"
+            ]
+        },
+        {
+            "question": "If the cross slope of a country is 25% to 60%, the terrain is classified as",
+            "answers": [
+                "plain",
+                "rolling",
+                "steep",
+                "mountainous."
+            ]
+        },
+        {
+            "question": "Setting out of Lemniscate transition curves, is done with",
+            "answers": [
+                "perpendicular offsets",
+                "radial offsets",
+                "deflection angles",
+                "polar deflection angles."
+            ]
+        },
+        {
+            "question": "Reference pillars fixed on the centre line of a proposed road, provide the following information:",
+            "answers": [
+                "reduced distance (R.D.)",
+                "horizontal distance of road from the centre line",
+                "reduced level at the top of pillar",
+                "formation level of the road",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The normal road land width for a major district road in open area, is",
+            "answers": [
+                "45 m",
+                "25 m",
+                "15 m",
+                "12 m"
+            ]
+        },
+        {
+            "question": "On earth roads, the camber should preferably be",
+            "answers": [
+                "1 in 20 to 1 in 24",
+                "1 in 30 to 1 in 48",
+                "1 in 15 to 1 in 20",
+                "1 in 10 to 1 in 15",
+                "1 in 10 to 1 in 12"
+            ]
+        },
+        {
+            "question": "The convexity provided to the carriageway between the crown and edge of the pavement, is known as",
+            "answers": [
+                "super-elevation",
+                "camber",
+                "height of the pavement",
+                "None of these."
+            ]
+        },
+        {
+            "question": "Alignment of highways in hilly regions, is decided on",
+            "answers": [
+                "long stretch of very hard cutting",
+                "number of river crossings",
+                "natural unstable areas",
+                "saddles or passes",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The standard equation of a cubical spiral transition curve provided on roads, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                "none of these."
+            ]
+        },
+        {
+            "question": "If At is the area of steel cross-section, t is working stress, L is width of road and W is weight of slab per square metre, the spacing of the tie bars for a longitudinal joint, is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The gradients of trace cuts for hilly roads, are kept",
+            "answers": [
+                "equal to ruling gradient",
+                "10 tO 20 per cent easier than ruling gradients",
+                "10 to 20 per cent steeper than ruling gradients",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The width of the right of way in urban area, is kept between 24 m to 60 m for",
+            "answers": [
+                "National Highways",
+                "State Highways",
+                "Both (a) and (b)",
+                "None of these."
+            ]
+        },
+        {
+            "question": "The safe length L of a valley curve for night travel is",
+            "answers": [
+                "",
+                "",
+                "neither (a) nor (b)",
+                "both (a) and (b)"
+            ]
+        },
+        {
+            "question": "If the rate of change of the super-elevation along a curved portion of a 7 metre wide road is 1 in 150 and the maximum super-elevation allowed is 1 in 15, the maximum length of the transition curve to be provided at either end, is",
+            "answers": [
+                "65 m",
+                "70 m",
+                "75 m",
+                "80 m",
+                "90 m"
+            ]
+        },
+        {
+            "question": "The full width of land acquired before finalising a highway, alignment is known",
+            "answers": [
+                "width of formation",
+                "right of way",
+                "carriage way",
+                "roadway."
+            ]
+        },
+        {
+            "question": "Retaining walls are generally constructed with dry rubble stones with 60 cm top width and",
+            "answers": [
+                "1 : 2 front batter",
+                "1 : 3 front batter",
+                "1 : 4 front batter",
+                "1 : 5 front batter"
+            ]
+        },
+        {
+            "question": "The ability of a driver to stop the vehicle moving with the designed speed, depends upon:",
+            "answers": [
+                "perception time",
+                "brake reaction time",
+                "efficiency of the brakes",
+                "frictional resistance between road surface and vehicle",
+                "all the above."
+            ]
+        },
+        {
+            "question": "To prevent compressive stresses in a rigid concrete pavement, the joint prvoided, is",
+            "answers": [
+                "expansion joint",
+                "contraction joint",
+                "hinged joint",
+                "all the above."
+            ]
+        },
+        {
+            "question": "In case of cement concrete pavements, pick up the incorrect statement",
+            "answers": [
+                "tractive resistance is low",
+                "initial cost of construction is high",
+                "initial cost of construction is low",
+                "visibility during nights is high",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The radius of curvature provided along a transition curve, is",
+            "answers": [
+                "minimum at the beginning",
+                "same throughout its length",
+                "equal to the radius of circular curve",
+                "varying from infinity to the radius of circular curve."
+            ]
+        },
+        {
+            "question": "If V is the velocity in km.p.h., t the brake reaction time in seconds and \u03b7 the efficiency of the brakes, the stopping distance S of the vehicle, is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "During last phase of the reconnaissance, details of the grade line is recorded on 2 metre poles to indicate",
+            "answers": [
+                "direction of the proposed alignment",
+                "distance between the previous and forward pegs",
+                "relative elevations of pegs",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Concrete pavement is provided if daily traffic per lane exceeds",
+            "answers": [
+                "500 tonnes",
+                "750 tonnes",
+                "1000 tonnes",
+                "1250 tonnes",
+                "1300 tonnes"
+            ]
+        },
+        {
+            "question": "If d is the economic designed depth of a slab, the thickness of the cement concrete pavement slab at interior, is kept",
+            "answers": [
+                "1.275 d",
+                "1.125 d",
+                "0.85 d",
+                "0.75 d",
+                "0.60 d"
+            ]
+        },
+        {
+            "question": "If the elevations along a road increase, the slope of the road along the longitudinal direction, is known as",
+            "answers": [
+                "gradient",
+                "grade",
+                "positive grade",
+                "negative grade."
+            ]
+        },
+        {
+            "question": "Pick up the incorrect statement from the following:",
+            "answers": [
+                "Highways are always constructed in straight line",
+                "Highways may be provided horizontal curves",
+                "Highways may be provided vertical curves",
+                "Highways may be provided both horizontal and vertical curves."
+            ]
+        },
+        {
+            "question": "If the width of carriage way is 12.5 metres, outer edge 50 cm higher than the inner edge, the required super elevation is",
+            "answers": [
+                "50 cm",
+                "1 in 25",
+                "1 in 400",
+                "1 in 40",
+                "1 in 24"
+            ]
+        },
+        {
+            "question": "In cement concrete pavements, tensile stress is due to :",
+            "answers": [
+                "bending or deflection under wheel loads",
+                "difference in temperature of the top and bottom of pavement",
+                "contraction of slab during falling temperature",
+                "all the above."
+            ]
+        },
+        {
+            "question": "If L is the length of the transition curves provided on either side of a circular curve of radius R, the maximum angle of deflection with tangent for the junctions of the transition curve and circular curve, is",
+            "answers": [
+                "L/R",
+                "L/2R",
+                "L/3R",
+                "L/4R",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Interior thickness of concrete road slab for design wheel load 6300 kg and permissible flexural stress 21 kg/cm2, is",
+            "answers": [
+                "17.0 cm",
+                "25.5 cm",
+                "34.0 cm",
+                "42.5 cm",
+                "50.0 cm"
+            ]
+        },
+        {
+            "question": "If R is the radius of a main circular curve, \u0394 is the angle of deflection and \u03b1 is the polar deflection angle of any point, its radial distance is",
+            "answers": [
+                "3 R sin \u0394/3 sin 2\u03b1",
+                "3 R sin \u0394/2 sin 3\u03b1",
+                "3 R sin \u0394/3 sin \u03b1/2",
+                "3 R sin 2\u0394 sin \u03b1"
+            ]
+        },
+        {
+            "question": "Super-elevation on roads in snow bound areas, should generally not exceed",
+            "answers": [
+                "15%",
+                "12%",
+                "10%",
+                "7%",
+                "6%"
+            ]
+        },
+        {
+            "question": "If the width of a pavement slab is 7.5 m, thickness 20 cm and working stress 1400 kg/cm2, spacing of 10 mm tie bars for the longitudinal joint, is",
+            "answers": [
+                "10 cm",
+                "20 cm",
+                "30 cm",
+                "40 cm",
+                "50 cm"
+            ]
+        },
+        {
+            "question": "Minimum number of 50 kg cement bags per cubic metre of concrete for a mix corresponding to crushing strength 280 kg/cm2 at 28 days, are",
+            "answers": [
+                "5.0",
+                "6.5",
+                "7.0",
+                "7.5",
+                "8.0"
+            ]
+        },
+        {
+            "question": "Three points, A, B and C 500 m apart on a straight road have 500 m, 505 m and 510 m as their reduced levels. The road is said to have",
+            "answers": [
+                "no gradient between A and C",
+                "a positive gradient between A and C",
+                "a negative gradient between A and C",
+                "a negative gradient between A and B",
+                "a positive gradient between A and B followed by a negative gradient between B to C."
+            ]
+        },
+        {
+            "question": "In a braking test, a vehicle travelling at 36 km ph was stopped at a braking distance of 8.0 m. The average value of the vehicle's skid resistance (friction coefficient) is",
+            "answers": [
+                "0.64",
+                "6.25",
+                "0.16",
+                "none of these"
+            ]
+        },
+        {
+            "question": "If present A.D.T. is 5000 vehicles and annual increase is 10%, the average future flow after 5 years will be",
+            "answers": [
+                "6050 vehicles",
+                "7050 vehicles",
+                "8050 vehicles",
+                "9050 vehicles"
+            ]
+        },
+        {
+            "question": "To prevent a head-on-collision of vehicles travelling in opposite directions along four-lane roads",
+            "answers": [
+                "markings on the road are provided",
+                "physical dividers are provided",
+                "area dividers are provided",
+                "medians of wide area are provided",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "Detailed survey is carried out for a strip of land about 15 m on either side of the trace cut along straight portions",
+                "Detailed survey is carried out for a strip of land about 30 m at sharp curves",
+                "Levels are taken along the trace cut at an interval of 20 m",
+                "Contour interval is generally adopted at 2 metres vertical interval",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The G.T. road from Lahore to Calcutta in undivided India, was constructed during",
+            "answers": [
+                "3495-3500 BC",
+                "265-270 BC",
+                "1540-1545 AD",
+                "1440-1450"
+            ]
+        },
+        {
+            "question": "Indian Road Congress (I.R.C.) was founded and constituted with its head quarters at New Delhi, in",
+            "answers": [
+                "1924",
+                "1927",
+                "1930",
+                "1934",
+                "1942"
+            ]
+        },
+        {
+            "question": "Extra widening required at a horizontal curve on a single lane hill road of radius 80 m for a design speed of 50 km ph and for a vehicle with wheel base 6.0 m is",
+            "answers": [
+                "0.225 m",
+                "0.589 m",
+                "1.250 m",
+                "none of these"
+            ]
+        },
+        {
+            "question": "The normal road land width for a National or State highway, in open areas should be",
+            "answers": [
+                "45 m",
+                "30 m",
+                "24 m",
+                "20 m"
+            ]
+        },
+        {
+            "question": "Excessive camber on pavements may cause",
+            "answers": [
+                "deterioration of central portion",
+                "slip of the speedy vehicles towards the edges",
+                "erosion of the berms",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The type of curves generally provided on highways, is",
+            "answers": [
+                "critical curve",
+                "transition curve",
+                "vertical curve",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The safe stopping sight distance D, may be computed from the equation",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Non-passing sight distance along a road is the longest distance at which the driver of a moving vehicle, may see an obstacle on the pavement",
+            "answers": [
+                "10 cm high",
+                "25 cm high",
+                "50 cm high",
+                "100 cm high",
+                "150 cm high"
+            ]
+        },
+        {
+            "question": "The minimum road width is taken",
+            "answers": [
+                "9 m",
+                "12 m",
+                "16 m",
+                "20 m"
+            ]
+        },
+        {
+            "question": "If cross slope of a country is upto 10% the terain is classified as",
+            "answers": [
+                "plain",
+                "rolling",
+                "mountainous",
+                "steep."
+            ]
+        },
+        {
+            "question": "When each particle of aggregates is thinly coated with cement paste, a heterogeneous solid is formed, which is known as",
+            "answers": [
+                "hydration",
+                "gel",
+                "concrete",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Gradient resistance of moving vehicles along down slopes, is",
+            "answers": [
+                "+ 7 kg/tonne",
+                "+ 9 kg/tonne",
+                "- 9 kg/tonne",
+                "- 7 kg/tonne"
+            ]
+        },
+        {
+            "question": "Thickness of broken centre line markings for a four lane road, is generally kept",
+            "answers": [
+                "10 cm",
+                "12 cm",
+                "15 cm",
+                "18 cm",
+                "20 cm"
+            ]
+        },
+        {
+            "question": "Maximum number of vehicles that can pass a given point on a lane during one hour without creating unreasonable delay, is known as",
+            "answers": [
+                "traffic density of lane",
+                "basic capacity of lane",
+                "probable capacity of lane",
+                "practical capacity of lane."
+            ]
+        },
+        {
+            "question": "The desirable camber for straight roads with water bound macadam or gravel surface, is",
+            "answers": [
+                "1 in 33 to 1 in 25",
+                "1 in 40 to 1 in 33",
+                "1 in 150 to 1 in 140",
+                "1 in 160 to 1 in 140",
+                "none of these."
+            ]
+        },
+        {
+            "question": "In case of a hair pin bend of a highway,",
+            "answers": [
+                "minimum radius of inner curve is 14 m",
+                "minimum radius of transition is 15 m",
+                "circular compound curve may be provided",
+                "minimum road way width at apex for single lane highway, is 9 m",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Before providing super-elevation on roads, the portion of the carriageway between the crown and the outer edge is made",
+            "answers": [
+                "to have a reduced fall",
+                "horizontal",
+                "to have slope of the camber on the other half of the carriageway",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Customers prefer parking of their vehicles at",
+            "answers": [
+                "90\u00b0 to aisles",
+                "85\u00b0 to aisles",
+                "80\u00b0 to aisles",
+                "75\u00b0 to aisles",
+                "60\u00b0 to aisles"
+            ]
+        },
+        {
+            "question": "Reduction of load capacity in a ruling gradient of",
+            "answers": [
+                "1 in 10, is 10%",
+                "1 in 15, is 15%",
+                "1 in 20, is 10%",
+                "1 in 25, is 25%",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Over taking time required for a vehicle with design speed 50 km ph and overtaking acceleration 1.25 m/sec2 to overtake a vehicle moving at a speed 30 km ph, is",
+            "answers": [
+                "5.0 secs",
+                "6.12 secs",
+                "225.48 secs",
+                "30 secs"
+            ]
+        },
+        {
+            "question": "The maximum comfortable retardation applied to moving vehicles, is",
+            "answers": [
+                "3.42 m/sec2",
+                "4.42 m/sec2",
+                "5.56 m/sec2",
+                "7.80 m/sec2",
+                "10   m/sec2"
+            ]
+        },
+        {
+            "question": "The width of pavement in addition to a gravelled berm 1 m on either side for a two directional traffic recommended by Nagpur Conference of Chief Engineers, is",
+            "answers": [
+                "4.7 m",
+                "5.7 m",
+                "6.7 m",
+                "7.7 m",
+                "8.7 m"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "The corss fall of the shoulder should be at least 0.5% steeper than camber",
+                "On superelevated sections, the shoulders should be provided a cross fall equal to camber",
+                "Earthern roads in general are provided steepest crossfall",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The camber on pavements, is provided by",
+            "answers": [
+                "straight line method",
+                "parabolic method",
+                "straight line and parabolic at crown",
+                "elliptical method",
+                "circular method."
+            ]
+        },
+        {
+            "question": "The standard equation of a cubic parabolic transition curve provided on roads, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The maximum radial distance of a Lemniscate curve, having maximum polar angle a, is",
+            "answers": [
+                "3 R sin \u03b1",
+                "3 R sin2\u03b1",
+                "3 R sin 2\u03b1",
+                "3 R sin \u03b1/2",
+                "none of these."
+            ]
+        },
+        {
+            "question": "According to Indian Road Congress, the width of carriageway, is",
+            "answers": [
+                "3.75 m for single lane",
+                "7.0 m for two lanes without raised kerbs",
+                "7.5 m for two lanes with raised kerbs",
+                "10.5 m for three lanes pavements",
+                "All the above"
+            ]
+        },
+        {
+            "question": "The minimum cross fall of shoulders is kept",
+            "answers": [
+                "0.5%",
+                "1.0%",
+                "1.5%",
+                "2.5%",
+                "3%"
+            ]
+        },
+        {
+            "question": "While calculating the overtaking sight distance, the height of the object above road surface, is assumed",
+            "answers": [
+                "Zero",
+                "50 cm",
+                "75 cm",
+                "100 cm",
+                "120 cm"
+            ]
+        },
+        {
+            "question": "Set-back distance is the distance between",
+            "answers": [
+                "road land boundary and building line",
+                "road land boundary and control line",
+                "building line and control line",
+                "road land boundary and control line."
+            ]
+        },
+        {
+            "question": "Horizontal curves on highways are provided",
+            "answers": [
+                "to break the monotony of driving",
+                "to discourage the tendency to increase speed",
+                "to decrease the mental strain on drivers",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The width of the right of way, is influenced by",
+            "answers": [
+                "formation width",
+                "shoulders or berms",
+                "classification of road",
+                "availability of funds",
+                "all the above."
+            ]
+        },
+        {
+            "question": "On the recommendations of Nagpur Conference, the minimum width of a village road may be",
+            "answers": [
+                "2.45 m",
+                "2.75 m",
+                "3.66 m",
+                "4.90 m",
+                "5.00 m"
+            ]
+        },
+        {
+            "question": "In retaining and breast walls, weep holes are provided at",
+            "answers": [
+                "50 cm vertical height and 50 cm centre to centre horizontally",
+                "100 cm vertical height and 100 cm centre to centre horizontally",
+                "100 cm vertical height and 120 cm centre to centre horizontally",
+                "120 cm vertical height and 100 cm centre to centre horizontally."
+            ]
+        },
+        {
+            "question": "In complex situations, total time required for a driver to form a judgement and to act, may be taken as",
+            "answers": [
+                "1.0 sec",
+                "1.5 sec",
+                "2.0 sec",
+                "2.5 sec",
+                "3.0 sec"
+            ]
+        },
+        {
+            "question": "At intersection of roads, the traffic volume study is carried out to ascertain the number of vehicles",
+            "answers": [
+                "moving along straights",
+                "turning left",
+                "turning right",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Widening of the roads on curves in hilly region, is done",
+            "answers": [
+                "on the outer side",
+                "on the inner side",
+                "on the outer and inner sides equally",
+                "less on outer side and more on inner side."
+            ]
+        },
+        {
+            "question": "For a properly designed vehicle, the resistance generally ignored, is",
+            "answers": [
+                "wind resistance",
+                "rolling resistance",
+                "grade resistance",
+                "axle resistance",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The top height of a route marker above crown level is",
+            "answers": [
+                "1.50 m",
+                "1.75 m",
+                "2.00 m",
+                "2.25 m"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "Borrow pits are located out side the right of way",
+                "Borrow pits may be located on either side of the right of way",
+                "Spoil bank is located on one side of the right of way",
+                "All the above."
+            ]
+        },
+        {
+            "question": "If E is the modulus of elasticity of the concrete in kg/cm2, d is the slab thickness in cm, is the Poisson's ratio for the concrete, k is the sub-grade modulus kg/cm3, the radius r of relative stiffness in cm,",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "When load is applied on concrete pavement",
+            "answers": [
+                "away from edges, the maximum bending moment is negative",
+                "away from edges, the maximum bending moment cause compression",
+                "on the edges, the maximum stress is parallel to the edge of the slab",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Pick up the incorrect statement from the following. On highways circular curves may be",
+            "answers": [
+                "simple curves",
+                "compound curves",
+                "reverse curves",
+                "vertical curves",
+                "all the above."
+            ]
+        },
+        {
+            "question": "An ideal vertical curve is",
+            "answers": [
+                "true spiral",
+                "cubic spiral",
+                "cubic parabala",
+                "lamniscate",
+                "none of these."
+            ]
+        },
+        {
+            "question": "At a road junction, 16 cross conflict points are severe, if",
+            "answers": [
+                "both are one-way roads",
+                "both are two-way roads",
+                "one is two-way road and other is one-way road",
+                "none of these."
+            ]
+        },
+        {
+            "question": "To ensure that bullock carts may not overturn on curves, the maximum value of super-elevation, recommended by I.R.C., is",
+            "answers": [
+                "1 in 10",
+                "1 in 12",
+                "1 in 15",
+                "1 in 20",
+                "1 in 25"
+            ]
+        },
+        {
+            "question": "If V is speed of a moving vehicle, r is radius of the curve, g is the acceleration due to gravity, W is the width of the carriageway, the super elevation is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "Various geometric design features and generally guided by ruling design speed",
+                "The design speed for a given highway should preferably be uniform",
+                "Abrupt change in the design speed should not be permitted",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The ratio of maximum deviation angle and maximum polar deflection angle of a Lemniscate curve, is",
+            "answers": [
+                "2",
+                "3",
+                "4",
+                "5",
+                "6"
+            ]
+        },
+        {
+            "question": "If brakes of vehicles are effective, the vehicle-running at 30 km/hour comes to a stop in",
+            "answers": [
+                "10 metres",
+                "12 metres",
+                "15 metres",
+                "18 metres"
+            ]
+        },
+        {
+            "question": "Full amount of extra width of a pavement on the curve, is provided at",
+            "answers": [
+                "beginning of the transition curve",
+                "centre of the transition curve",
+                "beginning of the circular curve",
+                "centre of the circular curve."
+            ]
+        },
+        {
+            "question": "Roadway width for a National highways and State highways (two-lanes) is",
+            "answers": [
+                "12 m",
+                "9 m",
+                "9.5 m",
+                "15 m"
+            ]
+        },
+        {
+            "question": "The distance travelled by revolving the wheel of a vehicle more than its circumferential movement, is known as",
+            "answers": [
+                "slip",
+                "skid",
+                "neither (a) nor (b)",
+                "both (a) and (b)"
+            ]
+        },
+        {
+            "question": "If the difference in elevation of an edge of the pavement 9 m wide and its crown is 15 cm, the camber of the pavement, is",
+            "answers": [
+                "1 in 60",
+                "1 in 45",
+                "1 in 30",
+                "1 in 15",
+                "1 in 7.5"
+            ]
+        },
+        {
+            "question": "If degree of a road curve is defined by assuming the standard length of an arc as 30 metres, the radius of 1\u00b0 curve is equal",
+            "answers": [
+                "1719 m",
+                "1146 m",
+                "1046 m",
+                "1619 m",
+                "1573 m"
+            ]
+        },
+        {
+            "question": "For calculating the tractive force along an upgrade of an asphalt road, the most probable value of the co-efficient of traction resistance \u03bc is assumed",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The minimum superelevation in rolling terrain in plains, is limited to",
+            "answers": [
+                "4%",
+                "5%",
+                "6%",
+                "7%",
+                "10%"
+            ]
+        },
+        {
+            "question": "Traffic census is carried out for",
+            "answers": [
+                "speed and delay study",
+                "road parking study",
+                "traffic volume study",
+                "origin and destination study",
+                "all the above."
+            ]
+        },
+        {
+            "question": "In a right angle bend of a road provided with a transition throughout, the maximum polar angle will be",
+            "answers": [
+                "10\u00b0",
+                "15\u00b0",
+                "20\u00b0",
+                "30\u00b0",
+                "45\u00b0"
+            ]
+        },
+        {
+            "question": "Minimum radius of curvature of National Highways or State highways in hill region free from snow, is kept",
+            "answers": [
+                "60 m",
+                "50 m",
+                "33 m",
+                "30 m",
+                "25 m"
+            ]
+        },
+        {
+            "question": "The best compromise between the increase of the length of a highway and reduction in its load carrying capacity, is the ruling gradient",
+            "answers": [
+                "1 in 10",
+                "1 in 15",
+                "1 in 20",
+                "1 in 25",
+                "l in 30"
+            ]
+        }
+    ]
+}

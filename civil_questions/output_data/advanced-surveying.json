@@ -1,0 +1,1840 @@
+{
+    "questions": [
+        {
+            "question": "The point on the celestial sphere vertically below the observer's position, is called",
+            "answers": [
+                "zenith",
+                "celestial point",
+                "nadir",
+                "pole."
+            ]
+        },
+        {
+            "question": "The parallax equation  is applicable to entire overlap of the photographs only if parallax is measured",
+            "answers": [
+                "normal to base line",
+                "parallel to base line",
+                "both (a) and (b)",
+                "neither (a) nor (b)."
+            ]
+        },
+        {
+            "question": "The stereo plotting instruments are generally manufactured on the principle of",
+            "answers": [
+                "optical projection",
+                "optical mechanism projection",
+                "mechanical projection",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Latitude of a place is the angular distance from",
+            "answers": [
+                "Greenwich to the place",
+                "equator to the poles",
+                "equator to the nearer pole",
+                "equator to the nearer pole along the meridian of the place",
+                "none of these."
+            ]
+        },
+        {
+            "question": "International date line is located along",
+            "answers": [
+                "standard meridian",
+                "Greenwich meridian",
+                "equator",
+                "180\u00b0 longitude",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The shortest distance between two places measured along the surface of the earth, is",
+            "answers": [
+                "length of the equator between their longitudes",
+                "length of the parallel between their longitudes",
+                "length of the arc of the great circle passing through them",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The correction for parallax, is",
+            "answers": [
+                "- 8\".8 cos \u03b1",
+                "+ .8\" sin \u03b1",
+                "+ 8\".8 cos \u03b1",
+                "- 8\".8 cos \u03b1."
+            ]
+        },
+        {
+            "question": "The angle between the plane of the equator and the plane of the ecliptic, is known as obliquity of the ecliptic and its value is",
+            "answers": [
+                "22\u00b0 30'",
+                "23\u00b0 27'",
+                "23\u00b0 30'",
+                "24\u00b0 0'."
+            ]
+        },
+        {
+            "question": "Systematic errors",
+            "answers": [
+                "always follow some definite mathematical law",
+                "can be removed by applying corrections to the observed values",
+                "either make the result too great or too small",
+                "are also known as cumulative errors",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Perspective centre relates to",
+            "answers": [
+                "parallel projection",
+                "orthogonal projection",
+                "central projection",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The most convenient co-ordinate system for specifying the relative positions of heavenly bodies on the celestial sphere, is",
+            "answers": [
+                "altitude and azimuth system",
+                "declination and hour angle system",
+                "declination and right ascension system",
+                "declination and altitude system",
+                "azimuth and declination system."
+            ]
+        },
+        {
+            "question": "In a tropical year, the number of sidereal days, are",
+            "answers": [
+                "365",
+                "365.2224",
+                "365.2422",
+                "366.2422",
+                "366.2224."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "Sidereal time at any instant is equal to the hour angle of the first point of Aries",
+                "Local sidereal time of any place is equal to the right ascension of its meridian",
+                "Sidereal time is equal to the right ascension of a star at its upper transit",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Polaris is usually observed for the determination of the azimuth when it is",
+            "answers": [
+                "at culmination",
+                "at elongation",
+                "neither at culmination nor at elongation",
+                "either at culmination or at elongation."
+            ]
+        },
+        {
+            "question": "The latitude (\u03bb) of a place and the altitude (\u03b1) of the pole are related by",
+            "answers": [
+                "\u03bb = \u03b1",
+                "\u03bb = 90\u00b0 - \u03b1",
+                "\u03bb = \u03b1 - 90\u00b0",
+                "\u03bb = 180\u00b0 - \u03b1."
+            ]
+        },
+        {
+            "question": "If \u03b1, H, A and \u03b4 be the altitude, hour angle, azimuth and declination of a circumpolar star at its elongation, in latitude \u03bb, the following relation holds good",
+            "answers": [
+                "",
+                "",
+                "",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Places having same latitude",
+            "answers": [
+                "lie on the parallel of the latitude",
+                "are equidistant from the nearer pole",
+                "are equidistant from both the poles",
+                "are equidistant from the equator",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The relation between the air base (B), photographic base (b), flying height (H) and the focal length (f) of a vertical photograph, is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The difference in longitude of two places expressed in time is equal to the difference in their",
+            "answers": [
+                "sidereal time",
+                "apparent solar time",
+                "mean solar time",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The scale of a vertical photograph of focal length f taken from height of H metres above M.S.L., at a point of reduced level h, is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "If the general ground level of any area is 10% of the flying height, the principal points may be used as the centres of radial directions for small scale mapping even in tilted photograph up to",
+            "answers": [
+                "1\u00b0",
+                "2\u00b0",
+                "3\u00b0",
+                "4\u00b0"
+            ]
+        },
+        {
+            "question": "The station which is selected close to the main triangulation station, to avoid intervening obstruction, is not known as",
+            "answers": [
+                "satellite station",
+                "eccentric station",
+                "false station",
+                "pivot station."
+            ]
+        },
+        {
+            "question": "The relief displacement of a minar 72 m high on photograph is 7.2 mm and its top appears 10 cm away from principal point. The flying height of the camera, is",
+            "answers": [
+                "500 m",
+                "1000 m",
+                "1500 m",
+                "2000 m."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following. The difference between the longitudes of the places is obtained.",
+            "answers": [
+                "by subtracting their longitudes if places are in the same hemisphere",
+                "by adding their longitudes if places are in the different hemispheres",
+                "by subtracting the sum of their longitudes exceeding 180\u00b0 from 360\u00b0 if places are in different hemispheres",
+                "all the above."
+            ]
+        },
+        {
+            "question": "While making astronomical observations, the observer is mainly concerned with",
+            "answers": [
+                "the direction of the vertical, the axis of rotation of the instrument",
+                "the direction of the poles of the celestial sphere",
+                "the direction of the star from the instrument",
+                "all the above."
+            ]
+        },
+        {
+            "question": "At western elongation, the pole star moves",
+            "answers": [
+                "eastward",
+                "westward",
+                "northward",
+                "southward."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "Refraction correction is zero when the celestial body is in the zenith",
+                "Refraction correction is 33' when the celestial body is on the horizon",
+                "Refraction correction of celestial bodies depends upon their altitudes",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The hour angle of the heavenly body for Greenwich meridian equals the hour angle of the body for any other meridian + longitude :",
+            "answers": [
+                "mean sun",
+                "true sun",
+                "vernal equinox",
+                "star",
+                "all the above."
+            ]
+        },
+        {
+            "question": "By raising the z-column of right projector, maximum y-parallax is introduced in the model at",
+            "answers": [
+                "position 1",
+                "position 2",
+                "position 4",
+                "position 6",
+                "position 4 and 6."
+            ]
+        },
+        {
+            "question": "The height displacement on a vertical photograph",
+            "answers": [
+                "increases as the horizontal distance increases from the principal point",
+                "increases as the ground elevation increases",
+                "decreases as the flying height increases",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The equation which is obtained by multiplying each equation by the coefficient of its un-knowns and by adding the equations thus formed, is known as",
+            "answers": [
+                "observation equation",
+                "conditional equation",
+                "normal equation",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Accidental errors",
+            "answers": [
+                "do not follow any definite mathematical law",
+                "cannot be removed by applying corrections to the observed values",
+                "are generally small",
+                "are also known as compensating errors",
+                "all the above."
+            ]
+        },
+        {
+            "question": "If \u03b8 and \u03b4 be the latitude of a place and declination of a star respectively, the upper culmination of the star will be north of zenith if its zenith distance, is",
+            "answers": [
+                "\u03b4 - \u03b8",
+                "\u03b8 - \u03b4",
+                "\u03b8 + \u03b4",
+                "."
+            ]
+        },
+        {
+            "question": "In a tropical year, the number of sidereal days are",
+            "answers": [
+                "one less than mean solar days",
+                "one more than mean solar days",
+                "equal to mean solar days",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The position of a heavenly body on the celestial sphere can be completely specified by",
+            "answers": [
+                "its altitude and azimuth",
+                "its declination and hour angle",
+                "its declination and right ascension",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The angle between the axis of earth and the vertical at the station of observation is called",
+            "answers": [
+                "astronomical latitude",
+                "astronomical co-latitude",
+                "co-declination of star",
+                "declination of star."
+            ]
+        },
+        {
+            "question": "For any star to be a circumpolar star, its",
+            "answers": [
+                "declination must be 0\u00b0",
+                "declination must be 90\u00b0",
+                "distance from the pole must be less than the latitude of the observer",
+                "hour angle must be 180\u00b0."
+            ]
+        },
+        {
+            "question": "The elevation of the star at elongation is obtained by",
+            "answers": [
+                "sin \u03b1 = sin \u03c6 cosec \u03b4",
+                "sin \u03b1 = sin \u03c6 sec \u03b4",
+                "sin \u03b1 = cos \u03c6 sec \u03b4",
+                "sin \u03b1 = cos \u03c6 cosec \u03b4."
+            ]
+        },
+        {
+            "question": "The necessary geometrical condition for triangulation adjustment, is :",
+            "answers": [
+                "The sum of the angles around a station should be 360\u00b0",
+                "The sum of the three angles of a plane triangle should be 180\u00b0",
+                "The sum of the eight angles of a braced quadrilateral should be 360\u00b0",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The correction applied to the measured base of length L is",
+            "answers": [
+                "",
+                " where w is the weight of tape/m",
+                " where h is height difference of end supports",
+                "Reduction to mean sea level = ",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The angle between the direction of star and the direction of earth's axis of rotation is called",
+            "answers": [
+                "co-declination",
+                "co-latitude",
+                "declination",
+                "latitude."
+            ]
+        },
+        {
+            "question": "If v, t and  are the ground speed of the aircraft, the shutter speed of the camera and the scale of the photograph respectively, then the amount of image displacement",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "The angle between the plane of the negative and the horizontal plane containing perspective axis is the tilt of the photograph",
+                "The direction of maximum tilt is defined by the photo principal line",
+                "The principal plane is truly vertical plane which contains perspective centre as well as principal point and plumb point",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The circle in which a plane tangent to the earth's surface at the point of observation, intersects the celestial sphere, is called",
+            "answers": [
+                "visible horizon",
+                "sensible horizon",
+                "celestial horizon",
+                "true horizon",
+                "none of the above."
+            ]
+        },
+        {
+            "question": "If \u03b8 and \u03b4 be the latitude of an observer and declination of a heavenly body respectively, the upper culmination of the body will be south of zenith if its zenith distance, is",
+            "answers": [
+                "\u03b4 - \u03b8",
+                "\u03b8 - \u03b4",
+                "\u03b8 + \u03b4",
+                "(\u03b8 - \u03b4)."
+            ]
+        },
+        {
+            "question": "Invar tapes used for measuring base lines, is made of nickel-iron alloy containing nickel",
+            "answers": [
+                "24%",
+                "36%",
+                "40%",
+                "60%."
+            ]
+        },
+        {
+            "question": "Triangulation surveys are carried out for locating",
+            "answers": [
+                "control points for surveys of large areas",
+                "control points for photogrammetric surveys",
+                "engineering works, i.e. terminal points of long tunnels, bridge abutments, etc.",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The movement of the projector in y-direction, introduces in the model a y-parallax",
+            "answers": [
+                "maximum at position 1",
+                "maximum at position 2",
+                "maximum at position 5 and 6",
+                "maximum at positions 3 and 4",
+                "equally throughout the model."
+            ]
+        },
+        {
+            "question": "In field astronomy, the quantities observed are entirely",
+            "answers": [
+                "lengths",
+                "angles",
+                "heights",
+                "all of these."
+            ]
+        },
+        {
+            "question": "The orthogonal projection of the perspective centre on a tilted photograph, is called",
+            "answers": [
+                "nadir",
+                "isocentre",
+                "principal point",
+                "plumb point."
+            ]
+        },
+        {
+            "question": "The principal plane contains",
+            "answers": [
+                "nadir point",
+                "iso centre",
+                "principal point",
+                "principal axis and principal line",
+                "all the above.."
+            ]
+        },
+        {
+            "question": "The point where vertical line passing through the perspective centre intersects the plane of the photograph, is known as",
+            "answers": [
+                "photo plumb point",
+                "plumb point",
+                "nadir point",
+                "isocentre",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "Aerial photographs may be either vertical or oblique",
+                "Vertical photographs are taken with the axis of camera pointing vertically downward",
+                "Vertical photographs are used for most accurate maps",
+                "On oblique photographs, scale variation is larger as compared to that of vertical photographs",
+                "all the above."
+            ]
+        },
+        {
+            "question": "An aerial photograph may be assumed as",
+            "answers": [
+                "parallel projection",
+                "orthogonal projection",
+                "central projection",
+                "none of these."
+            ]
+        },
+        {
+            "question": "If the equatorial distance between two meridians is 100 km, their distance at 60\u00b0 latitude will be",
+            "answers": [
+                "1000 km",
+                "800 km",
+                "600 km",
+                "500 km",
+                "400 km."
+            ]
+        },
+        {
+            "question": "The rate of change of parallax dp/dh with respect to change in h, may be expressed as",
+            "answers": [
+                "fB/(H - h)",
+                "fB/(H - h)2",
+                "fB/(H + h)",
+                "fB/(H + h)2."
+            ]
+        },
+        {
+            "question": "The displacement of the pictured position of a point of h elevation on a vertical photograph taken with a camera of 30 cm focal length, from an altitude of 3000 m, is",
+            "answers": [
+                "4.4 mm",
+                "5.5 mm",
+                "6.5 mm",
+                "7.5 mm",
+                "10 mm"
+            ]
+        },
+        {
+            "question": "The net ground area of a vertical photograph 20 cm x 20 cm on scale 1 : 10,000 having overlaps 60% and 30%, is",
+            "answers": [
+                "0.50 sq km",
+                "0.56 sq km",
+                "0.60 sq km",
+                "0.64 sq km."
+            ]
+        },
+        {
+            "question": "If 16 flight lines are run perpendicular to an area 30 km wide, their spacings on a photographical map on scale 1 : 50,000 , will be",
+            "answers": [
+                "1 cm",
+                "2 cm",
+                "3 cm",
+                "4 cm",
+                "5 cm."
+            ]
+        },
+        {
+            "question": "The scale of a tilted photograph of focal length f taken from an altitude H, along the plate parallel through principal point is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The position of the sun when its north declination is maximum is known as",
+            "answers": [
+                "vernal equinox",
+                "Autumnal equinox",
+                "summer solstice",
+                "winter solstice."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "the vertical plane containing the zenith, the station of observation and the celestial pole is the observer's meridian plane.",
+                "the angle between the direction of star in vertical plane and the direction of the star in horizontal plane is called the altitude of the star.",
+                "the complement of the altitude of star is called the zenith distance of the star.",
+                "all the above."
+            ]
+        },
+        {
+            "question": "For mapping any country",
+            "answers": [
+                "geodetic triangulation of greatest possible sides and accuracy is carried out",
+                "primary triangles are broken down into secondary triangles of somewhat lesser accuracy",
+                "secondary triangles are further broken into third and fourth order triangles, the points of which are used for detail surveys",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The foot of the perpendicular on the picture plane through the optical centre of the camera lens, is known as",
+            "answers": [
+                "isocentre",
+                "principal point",
+                "perspective centre",
+                "plumb line."
+            ]
+        },
+        {
+            "question": "The point where a vertical line through the optical centre of the camera lens intersects the ground, is known as",
+            "answers": [
+                "ground principal point",
+                "ground plumb point",
+                "iso-centre",
+                "perspective centre."
+            ]
+        },
+        {
+            "question": "At eastern elongation, the pole star moves",
+            "answers": [
+                "eastward",
+                "westward",
+                "northward",
+                "southward."
+            ]
+        },
+        {
+            "question": "Circumpolar stars",
+            "answers": [
+                "rotate round the north pole",
+                "rotate round the celestial pole",
+                "remain always above the horizon",
+                "are seldom seen near the pole star",
+                "none of these."
+            ]
+        },
+        {
+            "question": "By applying clockwise swing to right projector, maximum y-parallax is introduced in the model at",
+            "answers": [
+                "position 1",
+                "position 2",
+                "position 4",
+                "position 6."
+            ]
+        },
+        {
+            "question": "The scale of the photography taken from a height of 300 m, with a camera of focal length 15 cm, is",
+            "answers": [
+                "1 : 10,000",
+                "1 : 15,000",
+                "1 : 20,000",
+                "1 : 30,000."
+            ]
+        },
+        {
+            "question": "A nautical mile is",
+            "answers": [
+                "one minute arc of the great circle passing through two points",
+                "one minute arc of the longitude",
+                "6080 ft",
+                "1855.109 m",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The following points form a pair of homologous points :",
+            "answers": [
+                "Photo principal point and ground principal point",
+                "Photo isocentre and ground isocentre",
+                "Photo plumb point and ground plumb point",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The latitude of the observer's position, is",
+            "answers": [
+                "elevation of the elevated pole",
+                "declination of the observer's zenith",
+                "angular distance along the observer's meridian between equator and the observer",
+                "north or south according as the observer is north of equator or south of equator",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The maximum error in radial line assumption, is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The moon rotates round the earth once in every",
+            "answers": [
+                "29 days",
+                "29.35 days",
+                "29.53 days",
+                "30 days."
+            ]
+        },
+        {
+            "question": "The First Point of Aeries",
+            "answers": [
+                "is the point in the celestial sphere where zero meridian crosses the celestial equator",
+                "is usually denoted by the Greek letter \u03b3",
+                "is located near the very conspicuous rectangle of stars in the constellations of Pegasus and Andromeda.",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The parallax of a point on the photograph is due to",
+            "answers": [
+                "ground elevation",
+                "flying height",
+                "length of air base",
+                "focal length of the camera.",
+                "all the above."
+            ]
+        },
+        {
+            "question": "A star may culminate at zenith if its declination is",
+            "answers": [
+                "greater than the longitude of the place",
+                "less than the latitude of the place",
+                "equal to the latitude of the place",
+                "none of these."
+            ]
+        },
+        {
+            "question": "For adjusting a quadrilateral whose both the diagonals are observed, the equations of conditions involved, are",
+            "answers": [
+                "two angle equations and two side equations",
+                "one angle equation and three side equations",
+                "three angle equations and one side equation",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The nearest star is so far away from the earth that the directions to it from two diametrically opposite points on the earth differs less than",
+            "answers": [
+                "0.01 second",
+                "0.001 second",
+                "0.0001 second",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The station where observations are not made, but the angles at the station are used in triangulation series, is known as",
+            "answers": [
+                "satellite station",
+                "subsidiary station",
+                "pivot station",
+                "main station."
+            ]
+        },
+        {
+            "question": "Spring tides are caused when",
+            "answers": [
+                "sun and moon are in line with earth",
+                "solar tidal force acts opposite to lunar tidal force",
+                "solar tidal force and lunar tidal force both coincide",
+                "none of these."
+            ]
+        },
+        {
+            "question": "\u03b1 and \u03b2 are the angles subtended by a point of elevation h at their air station with respective plumb points. Photo scale and focal length of the lens being S and f respectively. Parallax displacement of the point due to relief, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "."
+            ]
+        },
+        {
+            "question": "Longitude of a place is the angular distance between the meridian of the place and",
+            "answers": [
+                "the standard meridian",
+                "the international date line",
+                "that of Greenwich",
+                "both (a) and (c) of above."
+            ]
+        },
+        {
+            "question": "The average eye base is assumed as",
+            "answers": [
+                "58 mm",
+                "60 mm",
+                "62 mm",
+                "64 mm",
+                "72 mm."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "One degree of longitude has greatest value at the equator",
+                "One degree of longitude has greatest value at the poles",
+                "One degree of longitude has the same value everywhere",
+                "One degree of latitude decreases from the equator to the poles",
+                "One degree of latitude has greatest value at the poles."
+            ]
+        },
+        {
+            "question": "Pick up the incorrect statement from the following :",
+            "answers": [
+                "Latitudes north of the equator are taken as positive",
+                "Latitudes south of the equator are taken as negative",
+                "Longitudes east of Greenwich are taken as negative",
+                "Longitudes west of Greenwich are taken as positive.",
+                "Both (c) and (d) of the above."
+            ]
+        },
+        {
+            "question": "To obtain photographs of an area of 1000 m average elevation, on scale 1 : 30, 000, with a camera of 30 cm focal length, the flying height is",
+            "answers": [
+                "4000 m",
+                "5000 m",
+                "6000 m",
+                "7000 m."
+            ]
+        },
+        {
+            "question": "If the image of a triangulation station of R.L. 500 m is 4 cm from the principal point of a vertical photo taken from an altitude of 2000 m, above datum, the height displacement will be",
+            "answers": [
+                "2 mm",
+                "4 mm",
+                "6 mm",
+                "8 mm",
+                "10 mm."
+            ]
+        },
+        {
+            "question": "Rotation of the camera at exposure about its vertical axis, is known as",
+            "answers": [
+                "swing",
+                "tilt",
+                "tip",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The difference of height of two points whose parallax difference is 0.8 mm on a pair of stereo pair taken from a height H is 100 m. If mean photo base is 95.2 mm, the flying height is",
+            "answers": [
+                "8,000 m",
+                "10,000 m",
+                "12,000 m",
+                "14,000 m"
+            ]
+        },
+        {
+            "question": "The scale of a tilted photograph of focal length f, taken from an altitude H, along the plate parallel through plumb point, is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The flying height of the camera is 1, 000 m above mean ground level, the distance of the top of a Minar from a nadir point is 10 cm and the relief displacement of Minar is 7.2 mm. The height of the Minar, is",
+            "answers": [
+                "52 m",
+                "62 m",
+                "72 m",
+                "82 m."
+            ]
+        },
+        {
+            "question": "On vertical photographs, height displacement is",
+            "answers": [
+                "positive for points above datum",
+                "negative for points below datum",
+                "zero for points vertically below the air station",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Assuming human normal vision distance 25 cm, smallest measurable angle 20\", and introcular distance 6.5 cm, the smallest depth to be discerned is",
+            "answers": [
+                "0.1 mm",
+                "0.5 mm",
+                "1.00 mm",
+                "1.1 mm."
+            ]
+        },
+        {
+            "question": "The main object of the astronomer to obtain",
+            "answers": [
+                "astronomical latitude",
+                "astronomical longitude",
+                "astronomical bearing",
+                "all of these."
+            ]
+        },
+        {
+            "question": "If f is the focal length of the camera lens and \u03b8 is the angle of tilt, the distance of the plumb point from the principal point will be",
+            "answers": [
+                "f sin \u03b8",
+                "f cos \u03b8",
+                "f tan \u03b8",
+                "f sec \u03b8."
+            ]
+        },
+        {
+            "question": "Pick up the incorrect statement from the following. High oblique photographs",
+            "answers": [
+                "may have tilt up to 30\u00b0",
+                "may include the image of the horizon",
+                "may not include the image of the horizon",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The altitudes of a circumpolar star at culminations are 70\u00b0 and 10\u00b0, both culminations being north of zenith. The latitude of the place, is",
+            "answers": [
+                "80\u00b0",
+                "70\u00b0",
+                "60\u00b0",
+                "50\u00b0",
+                "40\u00b0."
+            ]
+        },
+        {
+            "question": "The true and mean suns occupy the same meridian at the same time on",
+            "answers": [
+                "April 15",
+                "June 14",
+                "September 1",
+                "December 25",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The prime vertical passes through",
+            "answers": [
+                "the east point of the horizon",
+                "the west point of the horizon",
+                "the zenith point of the observer",
+                "the nadir point of horizon",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "The principal point coincides with plumb point on a true vertical photograph",
+                "The top of a hill appears on a truly vertical photograph at greater distance than its bottom from the principal point",
+                "The top of a hill is represented on a vertical photograph at larger scale than the area of a nearby valley",
+                "The planimetric displacement of the point due to relief on a truly vertical photograph is directly proportional to its distance from the principal point and also its elevation",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Homologous point is",
+            "answers": [
+                "photo principal point",
+                "ground principal point",
+                "ground isocentre",
+                "photo isocentre",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "North end of the polar axis is known as north pole",
+                "South end of the polar axis is known as south pole",
+                "Point where polar axis when produced northward intersects the celestial sphere, is known as north celestial pole",
+                "Point where polar axis when produced southward intersects the celestial sphere, is known as south celestial pole",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The latitude of a place was obtained by subtracting the declination of a star from its zenith distance, the observed star was between",
+            "answers": [
+                "horizon and equator",
+                "zenith and pole",
+                "equator and zenith",
+                "pole and horizon."
+            ]
+        },
+        {
+            "question": "If S is the sum of three angles of a spherical triangle, the spherical excess equals",
+            "answers": [
+                "S - 90\u00b0",
+                "S - 180\u00b0",
+                "S - 270\u00b0",
+                "S - 360\u00b0."
+            ]
+        },
+        {
+            "question": "The want of correspondence in stereo-photographs",
+            "answers": [
+                "is a good property",
+                "is a function of tilt",
+                "is not affected by the change of flying height between photographs",
+                "is minimum when \u03b8 is 3\u00b0."
+            ]
+        },
+        {
+            "question": "The latitude of a place was obtained by subtracting the zenith distance of a star from its declination, the observed star was between",
+            "answers": [
+                "horizon and equator",
+                "equator and zenith",
+                "zenith and pole",
+                "pole and horizon."
+            ]
+        },
+        {
+            "question": "When a star is between the pole and the horizon, the relationship between latitude (\u03bb), zenith distance (z) and declination \u03b4, is",
+            "answers": [
+                "\u03b8 = z + \u03b4",
+                "\u03b8 = \u03b4 - z",
+                "\u03b8 = 180\u00b0 - (z + \u03b4)",
+                "\u03b8 = (z + \u03b4) - 180\u00b0."
+            ]
+        },
+        {
+            "question": "The distance between the minor control point and the principal point should be equal to",
+            "answers": [
+                "base line of the left photograph of stereo pair",
+                "base line of the right photograph of stereo pair",
+                "sum of the base lines of stereo pair",
+                "mean of the base lines of the stereo pair."
+            ]
+        },
+        {
+            "question": "The great circle whose plane is perpendicular to the axis of rotation of the earth, is called",
+            "answers": [
+                "equator",
+                "terrestrial equator",
+                "0\u00b0 latitude",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The Polaris describes a small circle round the pole whose radius is approximately",
+            "answers": [
+                "1\u00b0",
+                "2\u00b0",
+                "3\u00b0",
+                "4\u00b0."
+            ]
+        },
+        {
+            "question": "The plane at right angle to the zenith-nadir line and passing through the centre of the earth, is called",
+            "answers": [
+                "rational horizon",
+                "true horizon",
+                "celestial horizon",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "The plane passing through the perspective centre of a stereo pair and a ground point, is known as basal plane",
+                "Each pair of image points on stereo pair have their own basal plane",
+                "Relative orienation means reconstructing the basal plane",
+                "Relative orientation of the model is achieved only when five points within the model are cleared of Y-parallax",
+                "All the above."
+            ]
+        },
+        {
+            "question": "If \u03b1 is the observed altitude, the refraction correction in seconds, is",
+            "answers": [
+                "58\" cot \u03b1",
+                "58\" tan \u03b1",
+                "58 sin \u03b1",
+                "58 cos \u03b1."
+            ]
+        },
+        {
+            "question": "The value of geo-centric parallax to be added to the observed altitude of sun is",
+            "answers": [
+                "9\" cos \u03b1",
+                "9\" sin \u03b1",
+                "9\" tan \u03b1",
+                "9\" cot \u03b1."
+            ]
+        },
+        {
+            "question": "With standard meridian as 82\u00b0 30' E the standard time at longitude 90\u00b0 E is 8 h 30 m. The local mean time at the place will be",
+            "answers": [
+                "7 h 00 m",
+                "7 h 30 m",
+                "8 h 00 m",
+                "8 h 30 m",
+                "9 h 00 m."
+            ]
+        },
+        {
+            "question": "A star is said to elongate",
+            "answers": [
+                "when the star momentarily moves vertically",
+                "when the angle at the star of the spherical triangle is 90\u00b0",
+                "when the star's declination is greater than the observer's latitude",
+                "all the above."
+            ]
+        },
+        {
+            "question": "According to Napier's Rules of circular parts for a right angled triangle, sine of middle part equals the product of",
+            "answers": [
+                "tangents of two adjacent parts",
+                "sines of two adjacent parts",
+                "cosines of two adjacent parts",
+                "cosines of two opposite parts",
+                "both (a) and (b) above."
+            ]
+        },
+        {
+            "question": "The difference of parallax for a given difference in elevation is independent of",
+            "answers": [
+                "focal length of the camera",
+                "overall size of the photo graphs",
+                "percentage of overlap",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Limiting gradient for locating the base line on evenly-sloping ground, is",
+            "answers": [
+                "1 in 12",
+                "1 in 10",
+                "1 in 8",
+                "1 in 6."
+            ]
+        },
+        {
+            "question": "Polaris is usually observed for the determination of the latitude when it is",
+            "answers": [
+                "at culmination",
+                "at elongation",
+                "neither at culmination nor at elongation",
+                "either at culmination or at elongation."
+            ]
+        },
+        {
+            "question": "Homologous points are",
+            "answers": [
+                "opposite corners of a photograph",
+                "nodal points of the camera lens",
+                "corresponding points on the ground and photograph",
+                "plumb points of stereo pair of photographs."
+            ]
+        },
+        {
+            "question": "The station pointer is generally used in",
+            "answers": [
+                "Triangulation surveying",
+                "Astronomical surveying",
+                "Hydrographical surveying",
+                "Photogrammetric surveying."
+            ]
+        },
+        {
+            "question": "The angular distance of a heavenly body from the equator, measured along its meridian, is called",
+            "answers": [
+                "declination",
+                "altitude",
+                "zenith distance",
+                "co-latitude."
+            ]
+        },
+        {
+            "question": "The length of a parallel of \u03bb latitude between two meridians is equal to difference in logitudes multiplied by",
+            "answers": [
+                "sin \u03bb",
+                "cos \u03bb",
+                "tan \u03bb",
+                "cot \u03bb."
+            ]
+        },
+        {
+            "question": "The nautical mile is the length of",
+            "answers": [
+                "1 minute of latitude",
+                "1 minute of longitude",
+                "1 degree of latitude",
+                "1 degree of longitude."
+            ]
+        },
+        {
+            "question": "The meridian of a place is",
+            "answers": [
+                "a great circle passing through the place and the poles",
+                "a great circle whose plane is perpendicular to the axis of rotation and it also passes through the place",
+                "a semi-circle which passes through the place and is terminated at the poles",
+                "an arc of the great circle which passes through the place and is perpendicular to the equator."
+            ]
+        },
+        {
+            "question": "The negative sign is assigned to",
+            "answers": [
+                "reduction to mean sea level",
+                "correction for horizontal alignment",
+                "correction for slope",
+                "correction for slope",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "The star's movement is apparent due to the actual steady rotation of the earth about its axis",
+                "The stars move round in circular concentrated parts",
+                "The centre of the circular paths of stars is the celestial pole",
+                "The axis of rotation is a fixed direction of a particular diameter of the celestial sphere either end of which is a pole",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The method of surveying by triangula-tion was first introduced by the Dutchman Snell in",
+            "answers": [
+                "1600",
+                "1615",
+                "1630",
+                "1650",
+                "1680."
+            ]
+        },
+        {
+            "question": "Right ascension of a heavenly body is its equatorial angular distance measured",
+            "answers": [
+                "westward from the first point of Libra",
+                "eastward from the first point of Aeries",
+                "westward from the first point of Aeries",
+                "eastward from the first point of Libra."
+            ]
+        },
+        {
+            "question": "Pick up the incorrect statement from the following. In a spherical triangle",
+            "answers": [
+                "every angle is less than two right angles",
+                "sum of the three angles is equal to two right angles",
+                "sum of the three angles less than six right angles and greater than two right angles",
+                "if the sum of any two sides is \u03c0, the sum of the angles opposite them is also \u03c0",
+                "sum of any two sides is greater than the third."
+            ]
+        },
+        {
+            "question": "The great circle along which the sun appears to trace on the celestial sphere with earth as centre during the year, is called",
+            "answers": [
+                "equator",
+                "celestial equator",
+                "ecliptic",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The normal longitudinal overlap is generally kept",
+            "answers": [
+                "50%",
+                "60%",
+                "70%",
+                "75%."
+            ]
+        },
+        {
+            "question": "Pick up the in-correct statement from the folowing :",
+            "answers": [
+                "Correction for refraction is always negative",
+                "Correction for parallax is always positive",
+                "Correction for semi-diameter is always negative",
+                "Correction for dip is always negative",
+                "None of these."
+            ]
+        },
+        {
+            "question": "If E is the spherical excess and R the radius of the earth, the surface area of the triangle, is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Triangulation surveys are carried out for providing",
+            "answers": [
+                "planimetric control",
+                "height control",
+                "both planimetric and height control",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Sidereal day",
+            "answers": [
+                "is the period of time taken by the earth in making a complete rotation with reference to stars",
+                "is slightly shorter than an ordinary solar day",
+                "is divided into the conventional hours, minutes and seconds",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement for horizontal photographs.",
+            "answers": [
+                "Parallel lines do not appear parallel in central projection",
+                "The two sides of a road meet at the vanishing point",
+                "The lines parallel to the negative plane are projected as parallel lines",
+                "All the above."
+            ]
+        },
+        {
+            "question": "If the altitudes of a star at its upper and lower transits are 60\u00b0 30' and 19\u00b0 30' respectively, the latitude of the place, is",
+            "answers": [
+                "30\u00b0",
+                "35\u00b0",
+                "40\u00b0",
+                "45\u00b0."
+            ]
+        },
+        {
+            "question": "The point on the photograph where bisector between the vertical line through optical centre of the camera lens and the plate perpendicular meets, is known as",
+            "answers": [
+                "principal point",
+                "isocentre",
+                "plumb point",
+                "perspective centre."
+            ]
+        },
+        {
+            "question": "In a truly vertical photograph,",
+            "answers": [
+                "principal point coincides the isocentre",
+                "iso-centre coincides the plumb point",
+                "plumb point coincides the principal point",
+                "principal point, iso-centre and plumb point coincide",
+                "all the above."
+            ]
+        },
+        {
+            "question": "23 cm x 23 cm photographs are taken from a flying height with a camera of focal length of 3600 m and 15.23 cm respectively. A parallax difference of 0.01 mm represents",
+            "answers": [
+                "1 m",
+                "2 m",
+                "3 m",
+                "4 m",
+                "5 m."
+            ]
+        },
+        {
+            "question": "For a spherical triangle ABC, pick up incorrect statement",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                "none of these."
+            ]
+        },
+        {
+            "question": "A plate parallel is the line on the plane of the negative",
+            "answers": [
+                "parallel to the principal line",
+                "perpendicular to the principal line",
+                "along the bisector of the angle between the principal line and a perpendicular line through principal plane",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The great circle which passes through the zenith, nadir and the poles, is known as",
+            "answers": [
+                "meridian",
+                "vertical circle",
+                "prime vertical",
+                "none of these."
+            ]
+        },
+        {
+            "question": "In triangulation surveys",
+            "answers": [
+                "the area is divided into triangular figures",
+                "control stations are located from which detailed surveys are carried out",
+                "sides are not measured excepting the base line",
+                "angular measurements are only resorted to",
+                "all the above."
+            ]
+        },
+        {
+            "question": "If two points differing by 1\u00b0 of latitude and of the same longitude is 110 km apart on the earth, then two astronomical positions on the moon is about",
+            "answers": [
+                "10 km",
+                "25 km",
+                "30 km",
+                "50 km."
+            ]
+        },
+        {
+            "question": "The distance between the projection centre and the photograph, is called",
+            "answers": [
+                "principal distance",
+                "principal line",
+                "isocentric distance",
+                "focal length."
+            ]
+        },
+        {
+            "question": "The zenith is the point on the celestial sphere",
+            "answers": [
+                "east of observer",
+                "west of observer",
+                "north of observer",
+                "south of observer",
+                "above the observer."
+            ]
+        },
+        {
+            "question": "Equation of time which is the difference between apparent solar time and mean solar time at any instant, vanishes during one year",
+            "answers": [
+                "once",
+                "twice",
+                "thrice",
+                "four times",
+                "five times."
+            ]
+        },
+        {
+            "question": "To have greatest coverage of the area, the type of photography used, is",
+            "answers": [
+                "high oblique",
+                "low oblique",
+                "vertical",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The sidereal day is the time interval between two successive upper transits of",
+            "answers": [
+                "mean sun",
+                "first point of Aries",
+                "first point of Libra",
+                "the polar star",
+                "moon."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "the horizontal direction of the pole is called astronomical north.",
+                "the angle between the direction of true north and the direction of a survey line is called astronomical bearing",
+                "the astronomical bearing is generally called azimuth",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Pick up the in-correct statement from the following :",
+            "answers": [
+                "Apparent solar time is measured from the lower transit of the true sun",
+                "Mean solar time is measured from the lower transit of the mean sun",
+                "Sidereal time is measured from the lower transit of the first point of Aries",
+                "Sidereal time is measured from the upper transit of the first point of Aries."
+            ]
+        },
+        {
+            "question": "The declination and right ascension of the sun becomes 23\u00b0 27' N and 90\u00b0 respectively on",
+            "answers": [
+                "March 21",
+                "June 21",
+                "September 21",
+                "December 22."
+            ]
+        },
+        {
+            "question": "If \u03b4 is the declination of the Polaris and \u03bb is the latitude of the place, the azimuth of the polaris, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "."
+            ]
+        },
+        {
+            "question": "Stellar astronomy deals with",
+            "answers": [
+                "plane surveying",
+                "geodetic surveying",
+                "star observations",
+                "planet observations."
+            ]
+        },
+        {
+            "question": "If a star whose declination is 60\u00b0 N culminates at zenith, its altitude at the lower culmination, is",
+            "answers": [
+                "10\u00b0",
+                "20\u00b0",
+                "30\u00b0",
+                "40\u00b0",
+                "60\u00b0."
+            ]
+        },
+        {
+            "question": "The longitudes of two places at latitude 60\u00b0 N are 93\u00b0 E and 97\u00b0 W. Their departure is",
+            "answers": [
+                "5100 nautical miles",
+                "5700 nautical miles",
+                "120 nautical miles",
+                "500 nautical miles",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The point at which sun's declination changes from north to south, is known as",
+            "answers": [
+                "first point of Aeries",
+                "first point of Libra",
+                "vernal Equinox",
+                "autumnal Equinox",
+                "both (b) and (d) of the above."
+            ]
+        },
+        {
+            "question": "Pick up the incorrect statement from the following :",
+            "answers": [
+                "In truly vertical photographs without relief angles are true at the plumb point",
+                "In tilted photographs without relief, angles are true at the iso-centre",
+                "In tilled photographs with relief, angles are true at the principal point.",
+                "none of these."
+            ]
+        },
+        {
+            "question": "A star in northern sphere is said to transit",
+            "answers": [
+                "when its altitude is maximum",
+                "when its azimuth is 180\u00b0",
+                "when it is in south",
+                "all the above."
+            ]
+        },
+        {
+            "question": "In observations of equal precision, the most probable values of the observed quantities are those that render the sum of the squares of the residual errors a minimum, is the fundamental principle of",
+            "answers": [
+                "Gauss' Mid Latitude formula",
+                "Delamber's method",
+                "Legendr's method",
+                "Least square method."
+            ]
+        },
+        {
+            "question": "Pick up the incorrect statement from the following. The angular distance of hevenly bodies on observer's meridian measured from the pole, is",
+            "answers": [
+                "co-declination",
+                "co-altitude",
+                "co-latitude",
+                "polar distance",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "Centre of the celestial sphere is taken as the position of the observer",
+                "Centre of the celestial sphere is taken as the centre of the earth",
+                "stars move and maintain their relative positions",
+                "Celestial bodies though fixed, appear to revolve from east to west round the celestial pole.",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Parallax bar measures",
+            "answers": [
+                "parallax",
+                "height",
+                "parallax difference",
+                "height difference."
+            ]
+        },
+        {
+            "question": "The altitude of a heavenly body is its angular distance, measured on the vertical circle passing through the body, above",
+            "answers": [
+                "equator",
+                "horizon",
+                "pole",
+                "none of these."
+            ]
+        },
+        {
+            "question": "In a spherical triangle ABC, right angled at C, sin b equals",
+            "answers": [
+                "sin a cos A",
+                "cos a sin A",
+                "tan a cot A",
+                "cot A tan a",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "Ursa Minor's remains always north of pole star",
+                "Polar star remains always north of Polaris",
+                "Polaris remains always north of Ursa Minor's",
+                "Ursa Minor's pole star and polaris are the names of the same star."
+            ]
+        },
+        {
+            "question": "In a spherical triangle ABC right angled at C, sin b equals to",
+            "answers": [
+                "sin c sin B",
+                "cos c cos B",
+                "tan c tan B",
+                "sin c cos B",
+                "cos c sin B."
+            ]
+        },
+        {
+            "question": "The slotted template method",
+            "answers": [
+                "is prepared, by graphical method",
+                "is suitable for large areas with less control",
+                "is rapid and accurate",
+                "may be done on any scale",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The declination and right ascension of the sun becomes 23\u00b0 27' S and 270\u00b0 respectively on",
+            "answers": [
+                "March 21",
+                "June 21",
+                "September 21",
+                "December 22."
+            ]
+        },
+        {
+            "question": "The product of the distances of plumb point and horizon point of a vertical photograph from its principal point, is",
+            "answers": [
+                "f2",
+                "2f2",
+                "3f2",
+                "f",
+                "f"
+            ]
+        },
+        {
+            "question": "The principal line is the line joining the principal point and",
+            "answers": [
+                "nadir",
+                "isocentre",
+                "perspective centre",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Longitudes are measured from 0\u00b0 to",
+            "answers": [
+                "180\u00b0 eastward",
+                "180\u00b0 westward",
+                "180\u00b0 east or westward",
+                "360\u00b0 eastward",
+                "360\u00b0 westward."
+            ]
+        },
+        {
+            "question": "If the distance between the projectors is altered by a movement along X-axis of one projector,",
+            "answers": [
+                "the length of the air base is increased",
+                "the scale of the model is altered",
+                "y-parallax is not affected",
+                "relative orientation is not affected",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Rotation of the camera at exposure about horizontal axis normal to the line of flight, is known as",
+            "answers": [
+                "swing",
+                "tilt",
+                "tip",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The solar tidal force divided by lunar tidal force is",
+            "answers": [
+                "",
+                "",
+                "",
+                "."
+            ]
+        },
+        {
+            "question": "At lower culmination, the pole star moves",
+            "answers": [
+                "eastward",
+                "westward",
+                "northward",
+                "southward."
+            ]
+        },
+        {
+            "question": "If \u03b4 is the declination of the star and \u03c6 is the latitude of the observer, then the azimuth of the star at elongation is given by",
+            "answers": [
+                "sin z = sec \u03c6 . cos \u03b4",
+                "cos z = sec \u03c6 . cos \u03b4",
+                "tan z = sec \u03c6 . cos \u03b4",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The altitudes of a circumpolar star at culminations are 70\u00b0 and 10\u00b0, both culminations being north of zenith. The declination of the star, is",
+            "answers": [
+                "80\u00b0",
+                "70\u00b0",
+                "60\u00b0",
+                "50\u00b0",
+                "40\u00b0."
+            ]
+        },
+        {
+            "question": "The angle between the observer's meridian and declination circle of a heavenly body, is known as",
+            "answers": [
+                "hour angle",
+                "azimuth",
+                "right ascension",
+                "declination."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "The measured stereoscopic base of photographs is obtained by dividing the air base in metres by the mean scale of the photograph",
+                "The difference between the absolute parallax of two points depends upon the difference in their elevations",
+                "The line joining the principal point of a photograph and the transferred principal point of the adjoining photograph, is called stereoscopic base",
+                "all the above."
+            ]
+        },
+        {
+            "question": "For plane ground the scale of a vertical photograph will be same as that of a tiled photograph along the photo parallel through",
+            "answers": [
+                "isocentre",
+                "plumb point",
+                "principal point",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The sun's declination remains north between",
+            "answers": [
+                "March 21 to June 21",
+                "June 21 to September 21",
+                "September 21 to December 21",
+                "December 21 to Mach 21",
+                "both (a) and (b) of above."
+            ]
+        },
+        {
+            "question": "H is the flying height above mean ground level and f is the principal distance of a vertical photograph. The mean scale of the photographs is",
+            "answers": [
+                "H . f",
+                "",
+                "",
+                "H + f",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The time interval between successive transits of the moon, is",
+            "answers": [
+                "24 hours 10 minutes",
+                "20 hours 25 minutes",
+                "24 hours 50 minutes",
+                "23 hours 50 minutes",
+                "23 hours 25 minutes."
+            ]
+        },
+        {
+            "question": "At the first point of Aeries, the sun moves",
+            "answers": [
+                "northward",
+                "southward",
+                "from south to north of the equator",
+                "from north to south of the equator."
+            ]
+        },
+        {
+            "question": "The declination and right ascension of the sun are each equal to zero on",
+            "answers": [
+                "March 21",
+                "June 21",
+                "September 21",
+                "December 22."
+            ]
+        },
+        {
+            "question": "From the principal point the horizon point lies on the principal line at a distance of",
+            "answers": [
+                "f tan \u03b8",
+                "f sin \u03b8",
+                "f cot \u03b8",
+                "f cos \u03b8."
+            ]
+        },
+        {
+            "question": "The polaris remains below horizon at",
+            "answers": [
+                "10\u00b0 N",
+                "50\u00b0 N Latitude",
+                "equator",
+                "5\u00b0 S latitude."
+            ]
+        },
+        {
+            "question": "If \u03b4 is the declination of the star and \u03c6 is the latitude of the observer then the hour angle of the star at elongation is given by",
+            "answers": [
+                "sin H = tan \u03c6 . cot \u03b4",
+                "cos H = tan \u03c6 . cot \u03b4",
+                "tan H = tan \u03c6 . cot \u03b4",
+                "none of these."
+            ]
+        },
+        {
+            "question": "At upper culmination, the pole star moves",
+            "answers": [
+                "eastward",
+                "westward",
+                "northward",
+                "southward."
+            ]
+        },
+        {
+            "question": "G.M.T. corresponding to given mean time, equals",
+            "answers": [
+                "L.M.T. - East longitude in time",
+                "L.M.T. + East longitude in time",
+                "L.M.T. - West longitude in time",
+                "none of the these."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "the sun's right ascension increases for 0 h to 24 h when it returns to the First point of Aries",
+                "the maximum declination of the sun increases up to 23\u00b0 N on about 21st June",
+                "the minimum declination of the sun is zero' on 22nd September",
+                "the maximum declination of the sun is about 23\u00b0 S on 21st December",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Latitude of the observer's position is equal to altitude of",
+            "answers": [
+                "north pole",
+                "pole star",
+                "celestial pole",
+                "all the above."
+            ]
+        }
+    ]
+}

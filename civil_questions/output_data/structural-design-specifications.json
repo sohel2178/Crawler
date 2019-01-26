@@ -1,0 +1,1400 @@
+{
+    "questions": [
+        {
+            "question": "The area of the concrete in compression plus the area of reinforcement transferred on the basis of modular ratio, is called",
+            "answers": [
+                "transferred section",
+                "equivalent section",
+                "cracked section",
+                "none of these."
+            ]
+        },
+        {
+            "question": "If D is the overall thickness of the slab, the diameter of the reinforcing bars should not exceed",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The gap between web plates and flange plates for fillet welds should not be more than",
+            "answers": [
+                "0.5 mm",
+                "0.75 mm",
+                "1.0 mm",
+                "1.25 mm",
+                "1.5 mm"
+            ]
+        },
+        {
+            "question": "A continuous beam shall be deemed to be a deep beam if the ratio of its effective span to overall depth, is",
+            "answers": [
+                "2.0",
+                "2.5",
+                "less than 2",
+                "less than 2.5"
+            ]
+        },
+        {
+            "question": "The depth 'd' of webs without horizontal stiffeners and consisting of tongue plates is taken lesser than the depth of the girder between the flanges less the sum of the depth of the tongue plates, and",
+            "answers": [
+                "eight times the sum of the thickness of tongue plates",
+                "six times the sum of the thickness of tongue plates",
+                "four times the sum of the thickness of tongue plates",
+                "None of the above."
+            ]
+        },
+        {
+            "question": "For design of a column the eccentricity of loading shall be taken as the distance from the assumed point of application of the load to the centroid of the column, subject to a minimum of",
+            "answers": [
+                "10 mm",
+                "20 mm",
+                "30 mm",
+                "40 mm",
+                "50 mm"
+            ]
+        },
+        {
+            "question": "If l is the effective span in metres and D is overall depth of the section in mm, the structure may be accepted after 24 hour load test, provided the maximum deflection in mm is less than",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The approximate value of torsion constant k for a box of depth d, width b, and having uniform thickness t, is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "In the formula a + bk for the calculation of the net effective section of single angles in tension connected by one leg only, the value of k, is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The concrete is deemed not to comply with the strength requirements if the strength is less than the greater of",
+            "answers": [
+                "characteristic strength minus 1.35 times the standard deviation",
+                "0.8 times the characteristic strength",
+                "the average strength of all the samples is less than the characteristic strength plus  times the standard deviation.",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The maximum area of compression reinforcement in a beam of cross section B x D is limited to",
+            "answers": [
+                "0.02 BD",
+                "0.03 BD",
+                "0.04 BD",
+                "0.05 BD"
+            ]
+        },
+        {
+            "question": "Moist curing of the exposed surfaces of concrete is done at least for",
+            "answers": [
+                "3 days",
+                "5 days",
+                "7 days",
+                "14 days"
+            ]
+        },
+        {
+            "question": "Pick up the incorrect statement from the following:",
+            "answers": [
+                "The gross section of the web of rolled I-beams is the depth of the beam multiplied by the web thickness",
+                "The gross section of the web of channels is the depth of the web multiplied by its thickness",
+                "The gross section of the web of plate girders is the depth of the web plate multiplied by its thinkness",
+                "None of these."
+            ]
+        },
+        {
+            "question": "If the ratio of effective span to overall depth of a simply supported beam is equal or greater than 1 but less than or equal to 2, the lever arm, is",
+            "answers": [
+                "0.2 (l + 2D)",
+                "0.3 (l + 3D)",
+                "0.2 (l + 3D)",
+                "0.3 (l + 2D)"
+            ]
+        },
+        {
+            "question": "If the slenderness ratio of a column is more than 160, the compressive stress obtained by the secant formula is multiplied by a factor in which value of x is",
+            "answers": [
+                "0.9",
+                "1.1",
+                "1.2",
+                "1.5",
+                "None of these."
+            ]
+        },
+        {
+            "question": "For battened struts, the effective length is increased by",
+            "answers": [
+                "5%",
+                "7.5%",
+                "10%",
+                "12.5%",
+                "15%"
+            ]
+        },
+        {
+            "question": "The maximum horizontal deflection of a column of actual length L, when subjected to lateral forces, may be upto",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The test strength of the sample is taken as the average of the strength of",
+            "answers": [
+                "2 specimens",
+                "3 specimens",
+                "4 specimens",
+                "5 specimens"
+            ]
+        },
+        {
+            "question": "The maximum deflection of a structure should not normally exceed lesser of the span/350 or",
+            "answers": [
+                "10 mm",
+                "15 mm",
+                "20 mm",
+                "25 mm"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement regarding columns.",
+            "answers": [
+                "The cross sectional area of longitudinal reinforcement, should not be less than 0.8% nor more than 4% of its gross sectional area",
+                "The minimum of longitudinal bars provided in rectangular and circular columns are 4 and 6 respectively",
+                "In helically reinforced column, the minimum number of longitudinal reinforcement should be six",
+                "If the effective length of a column is less than three times its lateral dimension, it is generally called a pedestal",
+                "All the above."
+            ]
+        },
+        {
+            "question": "For heavily reinforced concrete member, the nominal maximum size of the aggregates should be restricted to",
+            "answers": [
+                "5 mm less than the minimum clear distance between the main bars",
+                "5 mm less than the minimum cover to the reinforcement",
+                "smaller of (a) and (b)",
+                "greater of (a) and (b)"
+            ]
+        },
+        {
+            "question": "The minimum pitch i.e.,  the distance between centres of rivet holes is not less than",
+            "answers": [
+                "1.5 times the hole diameter",
+                "2.0 times the hole diameter",
+                "2.5 times the hole diameter",
+                "3.0 times the hole diameter",
+                "None of these."
+            ]
+        },
+        {
+            "question": "Dispersion of load through the flange to web is considered as dispersed uniformly at an angle \u03b8\u00b0 is",
+            "answers": [
+                "10\u00b0",
+                "15\u00b0",
+                "20\u00b0",
+                "25\u00b0",
+                "30\u00b0"
+            ]
+        },
+        {
+            "question": "The grade of concrete generally not used in the reinforced concrete, is",
+            "answers": [
+                "M 10",
+                "M 15",
+                "M 20",
+                "M 40"
+            ]
+        },
+        {
+            "question": "The outstand of stiffeners should be (where t is the thickness of flat).",
+            "answers": [
+                "6 t",
+                "8 t",
+                "10 t",
+                "12 t"
+            ]
+        },
+        {
+            "question": "For the plain reinforcing bars in compression, the permissible design bond stress in tension, is increased by",
+            "answers": [
+                "10%",
+                "15%",
+                "20%",
+                "25%",
+                "30%"
+            ]
+        },
+        {
+            "question": "The cover to the main reinforced may be reduced up to one third of the specified cover but not less than",
+            "answers": [
+                "5 mm",
+                "7 mm",
+                "10 mm",
+                "15 mm"
+            ]
+        },
+        {
+            "question": "The maximum compressive strength on 15 cm cubes of M 20 grade concrete at 7 days, should be a minimum of",
+            "answers": [
+                "7 N/mm2",
+                "10 N/mm2",
+                "15 N/mm2",
+                "20 N/mm2"
+            ]
+        },
+        {
+            "question": "The reduced level of third floor of a building near a column is 205.350 m. The reduced levels of the undersides of four beams supporting the fourth floor framing into the column mutually perpendicular are 208.350 m, 208.450 m, 208.500 m and 208.550 m. The supported length of the column is",
+            "answers": [
+                "3.000 m",
+                "3.100 m",
+                "3.150 m",
+                "3.200 m"
+            ]
+        },
+        {
+            "question": "The distance between, rivet line and the nearest edge of a joint not exposed to weather, is taken (where t is thickness in mm of the thinner outside plate).",
+            "answers": [
+                "6 t",
+                "8 t",
+                "10 t",
+                "12 t"
+            ]
+        },
+        {
+            "question": "Pick up the correct precaution while spilicing the reinforcing bars",
+            "answers": [
+                "These are provided away from the sections of maximum stress",
+                "These are staggered",
+                "These are provided if the B.M. is more than 50% of M.R.",
+                "Not more than half the bars are spliced at a section",
+                "All the above."
+            ]
+        },
+        {
+            "question": "If \u0394 is the deviation of the individual test strength from the average of n samples, the standard deviation of concrete of the given grade is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The over all depth of a solid slab is 20 cm and effective depth is 15 cm. The horizontal distance between parallel main reinforcement should not be more than",
+            "answers": [
+                "30 cm",
+                "40 cm",
+                "45 cm",
+                "60 cm"
+            ]
+        },
+        {
+            "question": "The ratio of minimum compressive strength on 15 cm cubes prepared with the concrete of M 20 grade and M 40 grade, at 7 days should be at least",
+            "answers": [
+                "1/3",
+                "1/2",
+                "3/2",
+                "2.0"
+            ]
+        },
+        {
+            "question": "The minimum compressive strength on 15 cm cubes of M 30 grade concrete at 7 days, should be a minimum of",
+            "answers": [
+                "7 N/mm2",
+                "10 N/mm2",
+                "20 N/mm2",
+                "30 N/mm2"
+            ]
+        },
+        {
+            "question": "The grade of plain concrete to be used in sea water or structures exposed to sea water, should be",
+            "answers": [
+                "M lO",
+                "M 15",
+                "M 20",
+                "M 30"
+            ]
+        },
+        {
+            "question": "In case of continuous beams, the distance between the points of zero moment, may be obtained as (where l is the effective span).",
+            "answers": [
+                "0.5 l",
+                "0.6 l",
+                "0.7 l",
+                "0.8 l"
+            ]
+        },
+        {
+            "question": "The reinforcing bars in beams are not bundled in contact if the diameter of the bars, exceeds",
+            "answers": [
+                "12 mm",
+                "20 mm",
+                "35 mm",
+                "30 mm",
+                "36 mm"
+            ]
+        },
+        {
+            "question": "For the reinforced concrete member totally immersed in sea water, the normal cover provided for the reinforcing bars is further increased by",
+            "answers": [
+                "10 mm",
+                "20 mm",
+                "30 mm",
+                "40 mm",
+                "50 mm"
+            ]
+        },
+        {
+            "question": "The effective and actual lengths of a cantilever are same if continuous at the support,",
+            "answers": [
+                "unstrained against torsion at the support and free at the end",
+                "with partial restraint against torsion of the support and free at the end",
+                "restrained against torsion at the support and free at the end",
+                "none of the these."
+            ]
+        },
+        {
+            "question": "The value of fbct in the formula  for calculating the thickness of a Rectangular base, according to IS : 800-1982, is",
+            "answers": [
+                "1500 kg/cm2",
+                "1650 kg/cm2",
+                "1800kg/cm2",
+                "1890 kg/cm2"
+            ]
+        },
+        {
+            "question": "The slenderness ratio of single angle discontinuous struts conmected by a single rivet or bolt, shall not exceed",
+            "answers": [
+                "110",
+                "130",
+                "150",
+                "180"
+            ]
+        },
+        {
+            "question": "In adverse circumtances, the reinforced concrete member immersed in sea water or subjected to sea spray, the maximum permissible cover for the reinforcing bars, should not exceed",
+            "answers": [
+                "40 mm",
+                "50 mm",
+                "60 mm",
+                "70 mm",
+                "75 mm"
+            ]
+        },
+        {
+            "question": "If a column is subjected to dead load and super imposed load only, the maximum ratio  should not be greater than",
+            "answers": [
+                "180",
+                "250",
+                "350",
+                "400"
+            ]
+        },
+        {
+            "question": "If the dimensions of a rectangular section of a short column are 15 cm x 20 cm, its unsupported length should be restricted to",
+            "answers": [
+                "9.0 m",
+                "10.0 m",
+                "11.0 m",
+                "12.0 m"
+            ]
+        },
+        {
+            "question": "The designed transverse shear in lacing is assumed as",
+            "answers": [
+                "2.5% of axial load",
+                "3% of axial load",
+                "3.5% of axial load",
+                "4% of axial load."
+            ]
+        },
+        {
+            "question": "For the stability of a structural part, the weight or anchorage should be",
+            "answers": [
+                "1.2 times the minimum overturning moment due to dead load",
+                "1.4 times the minimum overturning moment due to dead load",
+                "sum of (a) and (b)",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The creep coefficient i.e. the ratio of ultimate creep and elastic strain after",
+            "answers": [
+                "7 days is 2.2",
+                "28 days is 1.6",
+                "365 days is 1.1",
+                "all the above."
+            ]
+        },
+        {
+            "question": "For rolled I-beams and channels, permissible tensile and compressive stresses does not exceed",
+            "answers": [
+                "1400 kg/cm2",
+                "1500 kg/cm2",
+                "1650 kg/cm2",
+                "1800 kg/cm2"
+            ]
+        },
+        {
+            "question": "In compression members, the lap length of a bar should not be less than",
+            "answers": [
+                "12 \u03c6",
+                "16 \u03c6",
+                "20 \u03c6",
+                "24 \u03c6",
+                "30 \u03c6"
+            ]
+        },
+        {
+            "question": "The permissible bending stresses Pbet for steel slab bases should not exceed",
+            "answers": [
+                "1500 kg/cm2",
+                "1650 kg/cm2",
+                "1800 kg/cm2",
+                "1890 kg/cm2"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "The diameter of a rivet, before driving is taken as the nominal diameter of the rivet",
+                "The diameter of the rivet hole is taken as the gross area of the rivet",
+                "For rivets of nominal diameters less than 25 mm, the diameter of the rivet hole is taken as the nominal diameter of the rivet plus 1.5 mm",
+                "For rivets of nominal diameters exceeding 25 mm, the diameter of the rivet hole is taken as the nominal diameter of the rivet plus 2 mm",
+                "All the above."
+            ]
+        },
+        {
+            "question": "For nominal mix concrete M 15, the required weight of fine and coarse aggregates is 350 kg and the volume of water is",
+            "answers": [
+                "30 litres",
+                "32 litres",
+                "34 litres",
+                "45 litres"
+            ]
+        },
+        {
+            "question": "The maximum characteristic strength of the stirrups reinforcement, is taken",
+            "answers": [
+                "350 N/mm2",
+                "375 N/mm2",
+                "395 N/mm2",
+                "415 N/mm2",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "The distance between centres of two adjacent rivets in line with the direction of stress shall not exceed 16 t or 200 mm whichever is less in tension members",
+                "The distance between the centres of two adjacent rivets in line with the direction of stress shall not exceed 12 t or 203 mm whichever is less in compression members",
+                "The minimum pitch of rivets should not be less than 2.5 times the diameter of the rivet hole",
+                "The distance between centres of any two consecutive rivets in a line adjacent and parallel to an edge of an outside plate shall hot exceed 100 mm + 4 t or 200 mm whichever is less both in compression and tension",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Moist sand may contain surface water by mass upto",
+            "answers": [
+                "7.5%",
+                "5.0%",
+                "2.5%",
+                "1.25%"
+            ]
+        },
+        {
+            "question": "The minimum horizontal distance between two parallel main reinforcing bars, is",
+            "answers": [
+                "the diameter of the bar if their diameters are same",
+                "the diameter of the longer bar if their diameters are unequal",
+                "5 mm more than nominal maximum size of the coarse aggragate",
+                "greatest value of the above."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "For steel castings, the minimum tensile strength is 41 kg/mm2 and minimum yield stress is 20.5 kg/mm2",
+                "For mild steel the minimum tensile strength is 44 kg/mm2 and minimum elongation of 23% on a gauge length of 5.65A",
+                "For high tensile steel, the minimum tensile strength is 58 kg/mm2",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "The unit weight of plain concrete is assumed as 2400 N/m3",
+                "The unit weight of reinforced concrete is assumed as 2500 N/m3",
+                "The dead load includes self weight of the structural member plus weight of finishes and walls or partitions",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The spans of filler joists supporting a slab may be considered approximately equal if the longest span does not exceed the shortest span more than",
+            "answers": [
+                "5%",
+                "10%",
+                "15%",
+                "20%"
+            ]
+        },
+        {
+            "question": "The thickness of the steel",
+            "answers": [
+                "exposed to weather and accessible for repainting, should be not less than 6 mm",
+                "in main members not directly exposed to weather should not be less than 6 mm",
+                "in secondary members not directly exposed to weather shall be not less than 4.5 mm",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Bending moment values for filler joists",
+            "answers": [
+                "near middle of end span is + ",
+                "at support next to end support is - ",
+                "at middle of interior spans is + ",
+                "at other interior supports is - ",
+                "all the above."
+            ]
+        },
+        {
+            "question": "A solid slab spanning in two directions at right angles and carrying a uniformly distributed load, is supported on beams. If the length of two such beams A and B perpendicular to each other are x and y (x<y), the load shared by the beam A, is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The anchorage value of standard U-type hook of a reinforcing bar of diameter d in tension, is",
+            "answers": [
+                "4 d",
+                "8 d",
+                "12 d",
+                "16 d",
+                "20 d"
+            ]
+        },
+        {
+            "question": "A simply supported beam shall be deemed to be a deep beam if the ratio of its effective span to overall depth, is",
+            "answers": [
+                "2.0",
+                "2.5",
+                "less than 2",
+                "less than 2.5"
+            ]
+        },
+        {
+            "question": "For concreting of heavily reinforced sections without vibration, the workability of concrete should be",
+            "answers": [
+                "very low",
+                "low",
+                "medium",
+                "high."
+            ]
+        },
+        {
+            "question": "If b is actual width of a flange, Dt is the thickness of the flange, b\u03c9 is the breath of the web, lo is the distance between the points of zero moments in a beam, the effective width of the flange, is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The thickness 't' of a rectangular column base which is provided for distributing the load uniformly, is calculated from the formula",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "In the formula a + bk for the calculation of the net effective section of single tee in tension connected by flange to the same side of the same side of the gusset, the value of 'k' is taken",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "All reinforcement should be free from",
+            "answers": [
+                "loose mill scales",
+                "loose rust",
+                "paints",
+                "oil",
+                "all the above."
+            ]
+        },
+        {
+            "question": "If fck is the characteristic cube strength of concrete in N/mm2, the modulus of elasticity of structural concrete Ec = afck where the value of a, is",
+            "answers": [
+                "5900",
+                "5800",
+                "5700",
+                "5600",
+                "5500"
+            ]
+        },
+        {
+            "question": "The effective depth of a shallow beam is the distance between",
+            "answers": [
+                "maximum compression and tension fibres",
+                "neutral axis and maximum compression fibre",
+                "neutral axis and maximum tension fibre",
+                "maximum compression fibre and the centroid of the tension reinforcement",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The minimum area of cross section of reinforcement in either direction of a slab should not be less than ...... of the slab cross section",
+            "answers": [
+                "0.75%",
+                "0.10%",
+                "0.15%",
+                "0.20%"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "The effective span of a simply supported beam is clear span plus its effective depth or centre to centre of supports whichever is less",
+                "The effective span of a simply supported slab is clear span plus its effective depth or centre to centre of supports whichever is less",
+                "The effective span of a continuous beam or slab is the clear span plus its effective depth or centre to centre of supports whichever is less, provided the width of the support is less than of clear span",
+                "For spans with roller or rocker bearing, the effective span is the distance between the centres of bearings",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement for the web stiffeners.",
+            "answers": [
+                "vertical stiffeners are spaced at a distance not greater than 1.5 d and not less than 0.33 d",
+                "d is the distance between flange angles or the clear distance between flanges",
+                "for horizontal stiffeners, d is the clear distance between the horizontal stiffener and the tension flange",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Removal of props under",
+            "answers": [
+                "slabs spanning upto 4.5 m is 7 days",
+                "slabs spanning more than 4.5 m is 14 days",
+                "beams spanning upto 6 m is 14 days",
+                "beams spanning more than 6 m is 21 days",
+                "all the above."
+            ]
+        },
+        {
+            "question": "To achieve uniform colour and consistency of the concrete by using ordinary Portland cement, the mixing time may be",
+            "answers": [
+                " to 1 minute",
+                "1 to  minutes",
+                " to 2 minutes",
+                "2 to  minutes",
+                "none of these."
+            ]
+        },
+        {
+            "question": "For calculating critical compression stress in bending Cs for sections symmetrical about the x-x axis, from the formula , the value of G is taken",
+            "answers": [
+                "0.2 E",
+                "0.3 E",
+                "0.4 E",
+                "0.5 E"
+            ]
+        },
+        {
+            "question": "For the proportions",
+            "answers": [
+                "1 :  the maximum size of aggregates, is 10 mm",
+                "1 : 2 the maximum size of aggregates, is 20 mm",
+                "1 :  the maximum size of aggregates, is 40 mm",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Columns are designed for a minimum eccentricity equal to 1/30 (unsupported length ofthe column), subject to a minimum of",
+            "answers": [
+                "5 mm",
+                "10 mm",
+                "15 mm",
+                "20 mm"
+            ]
+        },
+        {
+            "question": "The minimum diameter of longitudinal reinforcement of a column should not be less than",
+            "answers": [
+                "6 mm",
+                "8 mm",
+                "10 mm",
+                "12 mm",
+                "20 mm"
+            ]
+        },
+        {
+            "question": "For all practical purposes, the modulus of elasticity of steel is assumed",
+            "answers": [
+                "200 kN/mm2",
+                "225 kN/mm2",
+                "250 kN/mm2",
+                "275 kN/mm2"
+            ]
+        },
+        {
+            "question": "The grade of reinforced concrete to be used in sea water or structures exposed to sea water should be",
+            "answers": [
+                "M 10",
+                "M 15",
+                "M 20",
+                "M 30"
+            ]
+        },
+        {
+            "question": "If the specified thickness of a footing is 100 cm, the depth of the form work may be tolerated from",
+            "answers": [
+                "- 2 mm to + 2 mm",
+                "- 3 mm to + 3 mm",
+                "- 4 mm to + 4 mm",
+                "- 5 mm to + 5 mm"
+            ]
+        },
+        {
+            "question": "If the main reinforcement of the slab is parallel to a T-beam, the transverse reinforcement at mid span of the slab is provided at least ......of main reinforcement",
+            "answers": [
+                "40%",
+                "50%",
+                "60%",
+                "70%."
+            ]
+        },
+        {
+            "question": "For achieving suitably a low permeability",
+            "answers": [
+                "strong and dense aggregates are used",
+                "low water - cement ratio is used",
+                "proper curing is done for hydration",
+                "proper compaction is done",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Minimum thickness of steel work directly exposed to weather and accessible for cleaning and repainting, the thickness should be not less than",
+            "answers": [
+                "4 mm",
+                "6 mm",
+                "8 mm",
+                "7 mm"
+            ]
+        },
+        {
+            "question": "In limit state method, the design bond stress of M 30 grade concrete for plain bars in tension, is",
+            "answers": [
+                "l.O N/mm2",
+                "1.2 N/mm2",
+                "1.4 N/mm2",
+                "1.5 N/mm2"
+            ]
+        },
+        {
+            "question": "If the end of a beam of span L carrying a designed load W is partially restrained by a built up wall, it is designed to resist the negative moment at the face of the support, equal to",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Generally acceptable nominal size of aggregates for reinforced concrete, is",
+            "answers": [
+                "10 mm",
+                "15 mm",
+                "20 mm",
+                "25 mm",
+                "40 mm"
+            ]
+        },
+        {
+            "question": "For spans upto 10 m, the safe span to depth ratio for",
+            "answers": [
+                "cantilever is 7",
+                "simply supported beams is 20",
+                "continuous beams is 26",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The angle of inclination of the lacing bars with axis of the member is kept between",
+            "answers": [
+                "20\u00b0 and 50\u00b0",
+                "30\u00b0 and 60\u00b0",
+                "40\u00b0 and 70\u00b0",
+                "50\u00b0 and 80\u00b0"
+            ]
+        },
+        {
+            "question": "The distance of the critical section for shear from the periphery of the column or drop panal is at a distance (where d is effective depth of flat slab).",
+            "answers": [
+                "d",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "If fck is characteristic compressive strength of concrete, the flexural and split tensile strength fcr = afck N/mm2 where the value of a is",
+            "answers": [
+                "0.4",
+                "0.5",
+                "0.6",
+                "0.7",
+                "0.8"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "Net sectional area of a tension member is its gross area less deductions for holes",
+                "Gross diameter of river hole is 1.5 mm in excess of its normal diameter if it is greater than 25 mm",
+                "Gross diameter of the rivet hole is 2.0 mm in excess of its normal diameter if it is greater than 25 mm",
+                "The total deduction area for the holes is obtained by the product of the thickness and sum of the diameters of the holes in any chain across the member",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The value of the constant K in the formula  for determining the minimum area of tension reinforcement in a beam is",
+            "answers": [
+                "0.95",
+                "0.90",
+                "0.85",
+                "0.80"
+            ]
+        },
+        {
+            "question": "The concrete may be accepted if the average equivalent cube strength of the cores, is at least 85% of the cube strength of the concrete grade at the specified age and no individual core possesses strength less than",
+            "answers": [
+                "90%",
+                "85%",
+                "80%",
+                "75%",
+                "70%"
+            ]
+        },
+        {
+            "question": "The slenderness ratio of a tie in a roof truss if subjected to action of wind and seismic forces, should not be greater than",
+            "answers": [
+                "180",
+                "210",
+                "250",
+                "350"
+            ]
+        },
+        {
+            "question": "For concreting of shallow sections with vibration, the work ability of concrete should be",
+            "answers": [
+                "very low",
+                "low",
+                "medium",
+                "high."
+            ]
+        },
+        {
+            "question": "The slenderness effect of a wall is considered if the effective height of the wall exceeds the thickness",
+            "answers": [
+                "8 times",
+                "10 times",
+                "12 times",
+                "16 times"
+            ]
+        },
+        {
+            "question": "For design purpose, the moment at the support where two unequal spans or spans not equally loaded meet, is",
+            "answers": [
+                "lesser value",
+                "greater value",
+                "average of two values",
+                "none of these."
+            ]
+        },
+        {
+            "question": "As per IS : 800-1982, the coefficient of expansion for steel per degree centigrade per unit length, is",
+            "answers": [
+                "0.000011",
+                "0.000012",
+                "0.000013",
+                "0.000014"
+            ]
+        },
+        {
+            "question": "When bending occurs about both axes of the member, the value of fbe in the formula |> 1 is taken",
+            "answers": [
+                "higher value",
+                "lower value",
+                "sum of the two",
+                "difference of the two."
+            ]
+        },
+        {
+            "question": "The flat slab is a reinforced concrete slab with or without drops and is supported",
+            "answers": [
+                "on columns without column head",
+                "on columns with column head",
+                "on beams",
+                "None of these."
+            ]
+        },
+        {
+            "question": "The ratio of the effective length to the least radius of gyration of a tie member of a roof truss, which gets subjected to reversal of stress shall not exceed",
+            "answers": [
+                "180",
+                "200",
+                "240",
+                "350"
+            ]
+        },
+        {
+            "question": "The value of E for allowable compressive stress for columns, in the formula  is taken as",
+            "answers": [
+                "2000000 kg/cm2",
+                "2044000 kg/cm2",
+                "2045000 kg/cm2",
+                "2047000 kg/cm2"
+            ]
+        },
+        {
+            "question": "The structure which is subjected to an imposed load after 72 hours for a period of 24 hours, is deemed to be unacceptable if it fails to recover the net deflection less than",
+            "answers": [
+                "90%",
+                "85%",
+                "80%",
+                "75%"
+            ]
+        },
+        {
+            "question": "The pitch of transverse reinforcement of a column is taken as",
+            "answers": [
+                "least lateral diamension of the compression member",
+                "sixteen times the smallest diameter of the longitudinal reinforcement of the column",
+                "forty eight times the diameter of the transverse reinforcement",
+                "least value of the above."
+            ]
+        },
+        {
+            "question": "The pH value of water to be used in concrete shall generally be",
+            "answers": [
+                "not more than 7",
+                "not less than 6",
+                "not less than 5",
+                "not more than 6"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement applicable to cased columns.",
+            "answers": [
+                "Single I-beam or channels back with or without flange plates may be used",
+                "The overall dimensions of the steel section do not exceed 750 x 450 mm over plate if used",
+                "The column is unpainted and is solidly encased in ordinary dense concrete with 10 mm aggregates having a minimum of cube strength 160 kg/cm2 at 28 days",
+                "The surface and edges of the steel column should be provided a concrete cover not less than 50 mm",
+                "All the above."
+            ]
+        },
+        {
+            "question": "M 30 grade concrete means, its compressive strength of 15-cm cube, is 30 N/mm2 after",
+            "answers": [
+                "3 days",
+                "7 days",
+                "21 days",
+                "28 days"
+            ]
+        },
+        {
+            "question": "If the ratio of effective span to overall depth of a simply supported beam is less than 1, the lever arm is",
+            "answers": [
+                "0.3l",
+                "0.4l",
+                "0.5l",
+                "0.6l"
+            ]
+        },
+        {
+            "question": "If the ends of the compression flanges of simply supported girders are fully restrained against lateral bending, the effective length is taken as",
+            "answers": [
+                "span",
+                "0.85 x span",
+                "0.7 x span",
+                "0.5 x span"
+            ]
+        },
+        {
+            "question": "The individual part of the structures is subjected to a load test for 24 hours by applying a load equal to full dead load of the structure plus",
+            "answers": [
+                "imposed load",
+                "1.15 times imposed load",
+                "1.25 times imposed load",
+                "1.3 times imposed load."
+            ]
+        },
+        {
+            "question": "The width of lacing bars in mm is kept",
+            "answers": [
+                "equal to nominal rivet diameter",
+                "twice the nominal rivet diameter",
+                "thrice the nominal rivet diameter",
+                "maximum of the above rounded to nearest 5 mm."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "The cover of a longitudinal reinforcing bar in a column is kept not less than the diameter of the bar or 40 mm",
+                "The cover of a longitudinal reinforcing bar in beam is kept not less than the diameter of the bar or 25 mm",
+                "The end cover of a longitudinal reinforcing bar in a beam is kept not less than twice the diameter or 25 mm",
+                "The cover for tensile reinforcement in a slab is kept not less than diameter of the bar or 15 mm",
+                "All the above"
+            ]
+        },
+        {
+            "question": "The minimum thickness of the web plate for a crane gantry plate girder with a lifting load exceeding 15 tonnes, is",
+            "answers": [
+                "4 mm",
+                "5 mm",
+                "6 mm",
+                "8 mm"
+            ]
+        },
+        {
+            "question": "The greater clear dimension of web of thickness't' should not exceed",
+            "answers": [
+                "180 t",
+                "200 t",
+                "240 t",
+                "270 t"
+            ]
+        },
+        {
+            "question": "The thickness of the rectangular plate for the cap or base of a solid round steel columns, is calculated from the formula  where d is",
+            "answers": [
+                "the reduced diameter of the column",
+                "the dimension of the base",
+                "the diameter of the base",
+                "the diameter of the top."
+            ]
+        },
+        {
+            "question": "For under water concreting.",
+            "answers": [
+                "at least 10 percent more cement is required as compared to dry conditions",
+                "the volume of coarse aggregates shall not be less than one and half times and not more than twice that of fine aggregate",
+                "the slump should not be less than 100 mm and not more than 180 mm",
+                "dewatering by pumping is not done or until 24 hours thereafter",
+                "All the above"
+            ]
+        },
+        {
+            "question": "Creep of concrete is assumed proportional to the stress if the stress does not exceed .......of the characteristic compressive strength",
+            "answers": [
+                "15%",
+                "20%",
+                "25%",
+                "33%",
+                "50%"
+            ]
+        },
+        {
+            "question": "The characteristic strength of concrete is the strength of material if its test result is not less than",
+            "answers": [
+                "2%",
+                "3%",
+                "4%",
+                "5%",
+                "10%"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "Flange joints are preferably located at points of maximum stress",
+                "The area of splice plates should be 5% in excess of flange elements spliced",
+                "The C.G. of the flange splice should coincide with that of the element spliced",
+                "For welding flange splice, complete penetration butt welds should be used",
+                "None of these."
+            ]
+        },
+        {
+            "question": "If a and b are the sides of a square column and its base, the thickness of the base may be calculated from the formula",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The minimum length of the side or diameter of the column base shall not be less than (where d is the minimum diameter of the column).",
+            "answers": [
+                "(d + 75) mm",
+                "1.2 (d - 75) mm",
+                "1.5 (d + 75) mm",
+                "1.6 (d + 75) mm"
+            ]
+        },
+        {
+            "question": "The thickness of flat double lacing, is taken (where l is the effective length of the bar).",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Minimum thickness of steel work directly exposed to weather but not accessible for cleaning and repainting, the thickness should be not less than",
+            "answers": [
+                "4 mm",
+                "6 mm",
+                "7 mm",
+                "8 mm"
+            ]
+        },
+        {
+            "question": "The side face reinforcement is provided if the depth of the web of a beam exceeds",
+            "answers": [
+                "600 mm",
+                "650 mm",
+                "700 mm",
+                "750 mm",
+                "800 mm"
+            ]
+        },
+        {
+            "question": "The staggered pitch is the distance between two consecutive rivets measured",
+            "answers": [
+                "parallel to the direction of stress in the member",
+                "perpendicular to the direction of stress in the member",
+                "diagonally",
+                "none of these."
+            ]
+        },
+        {
+            "question": "For nominal mix concrete M 20, the required quantity of water per 50 kg. of cement, is",
+            "answers": [
+                "60 litres",
+                "45 litres",
+                "34 litres",
+                "30 litres"
+            ]
+        },
+        {
+            "question": "The ratio  of the lacing bars for compression members shall not exceed",
+            "answers": [
+                "80",
+                "120",
+                "145",
+                "200"
+            ]
+        },
+        {
+            "question": "Four reinforcing bars of 30 mm diameter each, are bundled in contact. The lower two bars extend up to end supports. The distance between the points of termination of the upper bars, is kept",
+            "answers": [
+                "zero",
+                "1.2 m",
+                "0.9 m",
+                "0.75 m"
+            ]
+        },
+        {
+            "question": "If b is the width of a beam, x is the spacing of the stirrup and fc is the characteristic strength of stirrups, the minimum cross sectional area of stirrup legs, should be equal or greater than",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The maximum spacing of shear reinforcement should not exceed 0.75 d subject to a minimum of",
+            "answers": [
+                "300 mm",
+                "350 mm",
+                "400 mm",
+                "450 mm",
+                "500 mm"
+            ]
+        },
+        {
+            "question": "The development length of each bar of three bars bundled together is increased by",
+            "answers": [
+                "10%",
+                "20%",
+                "33%",
+                "50%"
+            ]
+        },
+        {
+            "question": "The actual length of a column provided with a cap and base, is the distance between",
+            "answers": [
+                "top of the base and underside of the cap",
+                "bottom of the base and underside of the cap",
+                "top of the base and top of the cap",
+                "bottom of the base and top of the cap."
+            ]
+        },
+        {
+            "question": "The maximum bending moment in a purlin of length L when subjected to a distributed load \u03c9, is assumed",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "A column of rectangular section is considered short, if both the slenderness ratios are less than",
+            "answers": [
+                "8",
+                "10",
+                "12",
+                "16"
+            ]
+        },
+        {
+            "question": "The tolerances for the form work of columns and beams range from",
+            "answers": [
+                "- 3 mm to + 6 mm",
+                "- 4 mm to + 8 mm",
+                "- 6 mm to + 12 mm",
+                "- 8 mm to + 12 mm"
+            ]
+        },
+        {
+            "question": "The effective length of lacing is the distance",
+            "answers": [
+                "between the inner end rivets of the bar for single lacing",
+                "0.7 of the distance between the inner end rivets of the bar for double lacing",
+                "between the inner ends of effective lengths of welds connecting the members",
+                "0.7 of the distance stated in (c)",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The total area of side face reinforcement, in case of a deep beam should not be less than",
+            "answers": [
+                "0.1% of web area",
+                "0.2% of web area",
+                "0.3% of web area",
+                "0.4% of web area."
+            ]
+        },
+        {
+            "question": "As per IS : 1982, the permissible axial tension in rolled I-beams and channels, is",
+            "answers": [
+                "1500 kg/cm2",
+                "1800 kg/cm2",
+                "1400 kg/cm2",
+                "1420 kg/cm2"
+            ]
+        },
+        {
+            "question": "The thickness of flat single lacing is, taken (where l is effective length of the bar).",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The average 28 days compressive strength of at least three 15 cm concrete cubes prepared with available water as compared to the average strength of three similer concrete cubes prepared with distilled water, should be at least",
+            "answers": [
+                "70%",
+                "80%",
+                "90%",
+                "95%"
+            ]
+        },
+        {
+            "question": "In the formula ",
+            "answers": [
+                "A and B are the dimensions of the column",
+                "A and B are the dimensions of the base plate",
+                "A is the greater projection of the plate beyond the column",
+                "B is the lesser projection of the plate beyond the column",
+                "Both (c) and (d) of above."
+            ]
+        },
+        {
+            "question": "For deformed reinforcing bars, the permissible design bond stress may be increased by",
+            "answers": [
+                "20%",
+                "30%",
+                "40%",
+                "50%",
+                "60%"
+            ]
+        },
+        {
+            "question": "The maximum pitch of rivets for compression and tension members should not exceed",
+            "answers": [
+                "32 t",
+                "200 mm",
+                "40 t",
+                "300 mm",
+                "both (a) and (d)"
+            ]
+        },
+        {
+            "question": "Minimum diameter of the lateral ties should not be less than",
+            "answers": [
+                "4 mm",
+                "5 mm",
+                "6 mm",
+                "10 mm"
+            ]
+        },
+        {
+            "question": "If fbt and fs are the numerical values of bending tension and shear stresses, the equivalent stress fe, is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The ratio of the effective lengths of two columns, one effectively held in position at one end and partially restrained at the other end, and the other effectively held in position at one end and free at the other end, is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        }
+    ]
+}

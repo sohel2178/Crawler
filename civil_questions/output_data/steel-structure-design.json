@@ -1,0 +1,2217 @@
+{
+    "questions": [
+        {
+            "question": "The effective length of a compression member of length L held in position and restrained in direction at one end and effectively restrained in direction but not held in position at the other end, is",
+            "answers": [
+                "L",
+                "0.67 L",
+                "0.85 L",
+                "1.5 L",
+                "2 L "
+            ]
+        },
+        {
+            "question": "The ratio of shearing stress to shearing strain within elastic limit, is known as",
+            "answers": [
+                "modulus of elasticity",
+                "shear modulus of elasticity",
+                "bulk modulus of elasticity",
+                "tangent modulus of elasticity",
+                "all the above."
+            ]
+        },
+        {
+            "question": "For determination of allowable stress in axial compression, Indian Standard Institution has adopted",
+            "answers": [
+                "Euler's formula",
+                "Rankine formula",
+                "Engesser formula",
+                "Secant formula",
+                "Perry Robertson formula."
+            ]
+        },
+        {
+            "question": "The method of design of steel framework for greatest rigidity and economy in weight, is known as",
+            "answers": [
+                "simply design",
+                "semi-rigid design",
+                "fully rigid design",
+                "none of these."
+            ]
+        },
+        {
+            "question": "If the pitch is 6 cm and rivet value is 4 tonnes, the number of rivets required for a riveted connection carrying an eccentric load of 15 tonnes at a distance of 30 cm from the centre line, is",
+            "answers": [
+                "6",
+                "8",
+                "10",
+                "12",
+                "15"
+            ]
+        },
+        {
+            "question": "In plastic analysis, the shape factor for circular sections, is",
+            "answers": [
+                "1.5",
+                "1.6",
+                "1.697",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The critical stress on a column for elastic buckling given by Euler's formula, is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "A beam is defined as a structural member subjected to",
+            "answers": [
+                "axial loading",
+                "transverse loading",
+                "axial and transverse loading",
+                "none of these."
+            ]
+        },
+        {
+            "question": "According to IS : 800 - 71, the minimum thickness of a vertically stiffened web plate, shall not be less than",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                "none of these."
+            ]
+        },
+        {
+            "question": "A fillet weld may be termed as",
+            "answers": [
+                "mitre weld",
+                "concave weld",
+                "convex weld",
+                "all the above."
+            ]
+        },
+        {
+            "question": "If the moment of inertia of a section about its axis is I and its effective sectional area is A, its radius of gyration r about the axis, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The critical load for a column of length I hinged at both ends and having flexural rigidity El, is given by",
+            "answers": [
+                "",
+                "",
+                "",
+                "none of these"
+            ]
+        },
+        {
+            "question": "Slenderness ratio of a compression member is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "Vertical stiffeners may be placed in pairs one on each side of the web",
+                "Single vertical stiffeners may be placed alternately on opposite sides of the web",
+                "Horizontal stiffeners may be placed in pairs one on each side of the web",
+                "Horizontal stiffeners may be placed alternately on opposite sides of the web",
+                "All the above."
+            ]
+        },
+        {
+            "question": "A structural member subjected to compressive stress in a direction parallel to its longitudinal axis, is generally known as",
+            "answers": [
+                "column",
+                "stanchion",
+                "post",
+                "strut",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The equivalent axial tensile load Pe, which produces an average axial tensile stress in the section equivalent to the combined stress due to axial tension P and bending M, at the extreme fibre of the section, is given by (where Z is the section modulus of the section).",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Live load",
+            "answers": [
+                "varies in magnitude",
+                "varies in position",
+                "is expressed as uniformly distributed load",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The most economical section for a column, is",
+            "answers": [
+                "rectangular",
+                "solid round",
+                "flat strip",
+                "tubular section",
+                "hexagonal."
+            ]
+        },
+        {
+            "question": "If the depth of two column sections are equal, then the column splice is provided",
+            "answers": [
+                "with filler plates",
+                "with bearing plates",
+                "with filler and hearing plates",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The distance between e.g. of compression and e.g. of tension flanges of a plate girder, is known as",
+            "answers": [
+                "overall depth",
+                "clear depth",
+                "effective depth",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Web crippling generally occurs at the point where",
+            "answers": [
+                "bending moment is maximum",
+                "shearing force is minimum",
+                "concentrated loads act",
+                "deflection is maximum",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Pick up the incorrect statement from the following:",
+            "answers": [
+                "The nominal diameter of a rivet is its diameter before driving",
+                "The gross diameter of a rivet is the diameter of rivet hole",
+                "The gross area of a rivet is the cross-sectional area of the rivet hole",
+                "The diameter of a rivet hole is equal to the nominal diameter of the rivet plus 1.5 mm",
+                "None of these."
+            ]
+        },
+        {
+            "question": "The allowable stress in axial tension for rolled I-sections and channels, is taken as",
+            "answers": [
+                "1420 kg/cm2",
+                "1500 kg/cm2",
+                "2125 kg/cm2",
+                "1810 kg/cm2"
+            ]
+        },
+        {
+            "question": "When a tension member is made of four angles with a plate as a web, the allowance for holes is made as",
+            "answers": [
+                "two holes for each angle and one hole for the web",
+                "one hole for each angle and one hole for the web",
+                "one hole for each angle and two holes for the web",
+                "two holes for each angle and two holes for the web",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The failure of a web plate takes place by yielding if the ratio of the clear depth to thickness of the web, is less than",
+            "answers": [
+                "45",
+                "55",
+                "60",
+                "75",
+                "82"
+            ]
+        },
+        {
+            "question": "The minimum edge distance of a rivet line connecting two or more plates, is kept equal to 37 mm plus (where t is the thickness in mm of the thinner outside plate).",
+            "answers": [
+                "2 t",
+                "4 t",
+                "6 t",
+                "8 t",
+                "10 t"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "Dead load includes self-weight of the structure and super-imposed loads permanently attached to the structure",
+                "Dead loads change their positions and vary in magnitude",
+                "Dead loads are known in the beginning of the design",
+                "None of these."
+            ]
+        },
+        {
+            "question": "The maximum permissible slenderness ratio of a member carrying loads resulting from wind, is",
+            "answers": [
+                "180",
+                "200",
+                "250",
+                "300",
+                "350"
+            ]
+        },
+        {
+            "question": "If d is the distance between the flange angles, the vertical stiffeners in plate girders are spaced not greater than",
+            "answers": [
+                "d",
+                "1.25 d",
+                "1.5 d",
+                "1.75 d"
+            ]
+        },
+        {
+            "question": "If the unsupported length of a stanchion is 4 metres and least radius of gyration of its cross-section is 5, the slenderness ratio of the stanchion, is",
+            "answers": [
+                "60",
+                "70",
+                "80",
+                "90",
+                "100"
+            ]
+        },
+        {
+            "question": "The area Ap of cover plates in one flange of a built up beam, is given by",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The average shear stress for rolled steel beam section, is",
+            "answers": [
+                "845 kg/cm2",
+                "945 kg/cm2",
+                "1025 kg/cm2",
+                "1500 kg/cm2",
+                "1875 kg/cm2"
+            ]
+        },
+        {
+            "question": "For a rectangular section, the ratio of the maximum and average shear stresses, is",
+            "answers": [
+                "1.5",
+                "2.0",
+                "2.5",
+                "3.0",
+                "4.0"
+            ]
+        },
+        {
+            "question": "To keep the intensity of bearing pressure between the column base and concrete compressive and to vary from zero to , the ratio of the moment M to the axial load P should be",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The cross-section of a standard fillet is a triangle whose base angles are",
+            "answers": [
+                "45\u00b0 and 45\u00b0",
+                "30\u00b0 and 60\u00b0",
+                "40\u00b0 and 50\u00b0",
+                "20\u00b0 and 70\u00b0"
+            ]
+        },
+        {
+            "question": "Secant formula for direct stress in compression, is applicable only for slenderness ratio upto",
+            "answers": [
+                "120",
+                "130",
+                "140",
+                "150",
+                "160"
+            ]
+        },
+        {
+            "question": "A second horizontal stiffener is always placed at the neutral axis of the girder if the thickness of the web is less than",
+            "answers": [
+                "d/250 for structural steel",
+                "d/225 for high tensile steel",
+                "both (c) and (b)",
+                "neither (a) nor (b)"
+            ]
+        },
+        {
+            "question": "The rolled steel I-sections are most commonly used as beams because these provide",
+            "answers": [
+                "large moment of inertia with less cross-sectional area",
+                "large moment of resistance as compared to other section",
+                "greater lateral stability",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The thickness t of a single flat lacing should not be less than",
+            "answers": [
+                "1/30 th length between inner end rivets",
+                "1/40 th length between inner end rivets",
+                "1/50 th length between inner end rivets",
+                "1/60 th length between inner end rivets",
+                "none of these."
+            ]
+        },
+        {
+            "question": "For the steel member exposed to weather and accessible for repainting, the thickness of steel should not be less than (excepting the webs of Indian Standard rolled steel joists and channels).",
+            "answers": [
+                "4 mm",
+                "6 mm",
+                "8 mm",
+                "10 mm"
+            ]
+        },
+        {
+            "question": "The permissible stress in bending for rolled steel I-beams and channels, is",
+            "answers": [
+                "1500 kg/cm2",
+                "1575 kg/cm2",
+                "945 kg/cm2",
+                "1650 kg/cm2",
+                "1875 kg/cm2"
+            ]
+        },
+        {
+            "question": "Column footing is provided",
+            "answers": [
+                "to spread the column load over a larger area",
+                "to ensure that intensity of bearing pressure between the column footing and soil does not exceed permissible bearing capacity of the soil",
+                "to distribute the column load over soil through the column footing",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "When the gauge distance is larger than the pitch, the failure of the section may occur in a zig-zag line",
+                "When the gauge distance is smaller than the pitch, the failure of the section may occur in a straight right angle section through the centre of rivet holes",
+                "When the gauge distance and pitch are both equal, the failure to the section becomes more likely as the diameter of the holes increases",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The ratio of longitudinal stress to strain within eiastic limit, is known as",
+            "answers": [
+                "modulus of elasticity",
+                "shear modulus of elasticity",
+                "bulk modulus of elasticity",
+                "tangent modulus of elasticity",
+                "all the above."
+            ]
+        },
+        {
+            "question": "If flexural rigidity of a column whose length is L and the loaded end is free, is El, the critical load will be",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "For a column of height L fixed in position and direction both at its top and bottom, its effective length, is",
+            "answers": [
+                "L",
+                "L",
+                "(1/2)*L",
+                "2L"
+            ]
+        },
+        {
+            "question": "In a tension member if b is width of plate, t is thickness of plate, p is staggered pitch, g is gauge distance, n is number of rivet holes in zig-zag line, n is number of gauge spaces, d is gross diameter of rivets, then the net sectional area Anet of the plate, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Net sectional area of a tension member, is equal to its gross section area",
+            "answers": [
+                "plus the area of the rivet holes",
+                "divided by the area of rivet holes",
+                "multiplied by the area of the rivet holes",
+                "minus the area of the rivet holes",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The distance measured along one rivet line from the centre of a rivet to the centre of adjoining rivet on an adjacent parallel rivet line, is called",
+            "answers": [
+                "pitch of rivet",
+                "gauge distance of rivet",
+                "staggered pitch",
+                "all the above",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Tongue plates are provided in a steel girder at",
+            "answers": [
+                "the upper flange",
+                "the lower flange",
+                "the upper end of the web",
+                "the lower end of the web",
+                "the upper and lower ends of the web."
+            ]
+        },
+        {
+            "question": "The effective length L of a simply supported beam with ends restrained against torsion, and also the ends of compression flange partially restrained against lateral bending, is given by",
+            "answers": [
+                "L = span",
+                "L = 0.85 span",
+                "L = 0.75 span",
+                "L = 0.7 span",
+                "L = 1.25 span"
+            ]
+        },
+        {
+            "question": "Rolled steel beams are designated by Indian Standard series and its",
+            "answers": [
+                "weight per metre and depth of its section",
+                "depth of section and weight per metre",
+                "width of flange and weight per metre",
+                "weight per metre and flange width."
+            ]
+        },
+        {
+            "question": "The spans are considered approximately equal if the longest span does not exceed the shortest span by more than",
+            "answers": [
+                "5%",
+                "10%",
+                "15%",
+                "20%"
+            ]
+        },
+        {
+            "question": "If the depth of the section of an upper column is smaller than the lower column",
+            "answers": [
+                "filler plates are provided with column splice",
+                "bearing plates are provided with column splice",
+                "neither filler plates nor bearing plates are provided with column splice",
+                "filler plates and bearing plates are provided with column splice",
+                "none of these."
+            ]
+        },
+        {
+            "question": "A tension member, if subjected to possible reversal of stress due to wind, the slenderness ratio of the member should not exceed",
+            "answers": [
+                "180",
+                "200",
+                "250",
+                "300",
+                "350"
+            ]
+        },
+        {
+            "question": "An axial loaded column is supported on a slab base whose projection is 8 cm. If the intensity of pressure from concrete is 40 kg/cm2 and allowable bending stress in slab base is 1890 kg/cm2, the thickness (t) of the slab base, is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "If P is the load applied to a bracket with an eccentricity e, the resisting moment F exerted by a rivet at a distance rn from the centre of gravity, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The effective length of a weld, is taken as the actual length",
+            "answers": [
+                "minus the size of weld",
+                "minus twice the size of weld",
+                "plus the size of weld",
+                "plus twice the size of weld",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The permissible bearing stress in steel, is",
+            "answers": [
+                "1500 kg/cm2",
+                "1890 kg/cm2",
+                "2025 kg/cm2",
+                "2340 kg/cm2",
+                "2250 kg/cm2"
+            ]
+        },
+        {
+            "question": "The main assumption of the method of simple design of steel frame work, is :",
+            "answers": [
+                "beams are simply supported",
+                "all connections of beams, girders and trusses are virtually flexible",
+                "members in compression are subjected to forces applied at appropriate eccentricities",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Strengths of a rivet in single shearing, in bearing and in tearing are 3425 kg, 4575 kg and 5025 kg respectively. If the load in the member is 35 tonnes, the number of rivets required, is",
+            "answers": [
+                "10",
+                "11",
+                "12",
+                "13",
+                "15"
+            ]
+        },
+        {
+            "question": "In a fillet weld placed on the sides of the base, the metal experiences",
+            "answers": [
+                "shear",
+                "tension",
+                "compression",
+                "bending",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The bending moment for filler joists at the middle of at intermediate span, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The Indian standard code which deals with steel structures, is",
+            "answers": [
+                "IS : 875",
+                "IS : 800",
+                "IS : 456",
+                "IS : 1893"
+            ]
+        },
+        {
+            "question": "When two plates are placed end to end and are joined by two cover plates, the joint is known as",
+            "answers": [
+                "lap joint",
+                "butt joint",
+                "chain riveted lap joint",
+                "zig-zag riveted lap joint",
+                "double cover butt joint."
+            ]
+        },
+        {
+            "question": "The moment of the couple set up in a section of a beam by the logitudinal compressive and tensile force, is known as",
+            "answers": [
+                "bending moment",
+                "moment of resistance",
+                "flexural stress moment",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "The minimum pitch should not be less than 2.5 times the gross diameter of the river",
+                "The minimum pitch should not be less than 12 times the gross diameter of the rivet",
+                "The maximum pitch should not exceed 10 times the thickness or 150 mm whichever is less in compression",
+                "All the above."
+            ]
+        },
+        {
+            "question": "In a member subjected to an axial tensile force and bending moment, the maximum allowable stress in axial tension is ft and the maximum allowable bending stress in tension is fht. If ft and fht are their corresponding actual axial tensile and bending stresses, the relationship which holds goods is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "A major beam in a building structure, is known as",
+            "answers": [
+                "a girder",
+                "a floor beam",
+                "a main beam",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Rolled steel Tee-sections are used",
+            "answers": [
+                "as columns",
+                "with flat strips to connect plates in steel rectangular tanks",
+                "as built up sections to resist axial tension",
+                "none of these."
+            ]
+        },
+        {
+            "question": "A compression member consisting of angle sections may be a",
+            "answers": [
+                "continuous member",
+                "discontinuous single angle strut",
+                "discontinuous double angle strut",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The equivalent axial load is obtained from the fomula",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                "none of these."
+            ]
+        },
+        {
+            "question": "According to IS : 800-1962 the permissible bending stress in steel slab plates, is",
+            "answers": [
+                "1500 kg/cm2",
+                "1420 kg/cm2",
+                "2125 kg/cm2",
+                "1890 kg/cm2"
+            ]
+        },
+        {
+            "question": "A simply supported beam carrying a central load, will be safe in deflection if the ratio of its span to depth, is",
+            "answers": [
+                "< 19",
+                "< 24",
+                "> 19",
+                "> 24",
+                "> 37"
+            ]
+        },
+        {
+            "question": "For double angles carrying tension, placed back to back and connected to either side of the gusset plate, the sectional area of the section, is equal to cross sectional area of",
+            "answers": [
+                "the section",
+                "the section plus area of rivet holes",
+                "the section minus area of rivet holes",
+                "tthe section multiplied by the area of the rivet hole."
+            ]
+        },
+        {
+            "question": "When a load is transferred through one surface to another surface in contact, the stress is known as",
+            "answers": [
+                "tensile stress",
+                "compressive stress",
+                "shearing stress",
+                "working stress",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The most commonly used sections in lateral system to carry shear force in built up columns, are",
+            "answers": [
+                "rolled steel flats",
+                "rolled angles",
+                "rolled channels",
+                "all the above."
+            ]
+        },
+        {
+            "question": "If p and d are pitch and gross diameter of rivets, the efficiency (\u03b7) of the riveted joint, is given by",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "For steel members not exposed to weather, the thickness of steel should not be less than",
+            "answers": [
+                "4.5 mm",
+                "6 mm",
+                "8 mm",
+                "10 mm"
+            ]
+        },
+        {
+            "question": "The minimum pitch of rivet holes of diameter d should not be less than",
+            "answers": [
+                "d",
+                "1.25 d",
+                "1.5 d",
+                "2 d",
+                "2.5 d"
+            ]
+        },
+        {
+            "question": "A long plate girder is subjected to a maximum bending moment M in which permitted allowable bending stress is fb. The economical depth de and the thickness of the web tw, is given by",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The beams supporting the steps of a stair are generally known as",
+            "answers": [
+                "headers",
+                "trimmers",
+                "stringers",
+                "spandrel beams."
+            ]
+        },
+        {
+            "question": "In a grillage column footing maximum bending moment M occurs at the centre of grillage beams. Its value is (where P, L and a are axial load, length of the beam and length of the column base respectively).",
+            "answers": [
+                "M = P(L - a)",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "For a steel grillage footing to support two unequal column loads",
+            "answers": [
+                "line of action of the resultant of two column loads, is made to coincide with the centre of gravity of the base of the footing",
+                "trapezoidal shape is used for the base footing",
+                "projections of beams on either side in lower tier are such that bending moments under columns are equal",
+                "bending moment under the columns are kept equal to the bending moment between to two columns",
+                "all the above."
+            ]
+        },
+        {
+            "question": "In case of cantilever fillers, the ratio of the span L to depth d, should not exceed",
+            "answers": [
+                "4",
+                "8",
+                "12",
+                "16",
+                "20"
+            ]
+        },
+        {
+            "question": "The rivets which are heated and then driven in the field, are known",
+            "answers": [
+                "power driven shop rivets",
+                "power driven field rivets",
+                "hand driven rivets",
+                "cold driven rivets",
+                "field rivets."
+            ]
+        },
+        {
+            "question": "The strength of a riveted lap joint is equal to its",
+            "answers": [
+                "shearing strength",
+                "bearing strength",
+                "tearing strength",
+                "least of (a), (b) and (c)",
+                "greatest of (a) (b) and (c)."
+            ]
+        },
+        {
+            "question": "The slenderness ratio of a column is zero when its length",
+            "answers": [
+                "is zero",
+                "is equal to its radius of gyration",
+                "is supported on all sides throughout its length",
+                "is between the points of zero moments."
+            ]
+        },
+        {
+            "question": "If f is the maximum allowable bending stress in a tension member whose radius of gyration is r and depth is 2y, the required cross sectional area A is given by",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The main advantage of a steel member, is :",
+            "answers": [
+                "its high strength",
+                "its gas and water tightness",
+                "its long service life",
+                "all the above."
+            ]
+        },
+        {
+            "question": "A 20 mm dia steel bar which is subjected to an axial tension of 2300 kg/cm2 produces a strain of 0.004 cm. If Young's modulus of steel is 2.1 x 106 kg/cm2, the bar is",
+            "answers": [
+                "in the elastic range",
+                "in the plastic range",
+                "at yield point",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Poisson's ratio for steel within elastic limit, ranges from",
+            "answers": [
+                "0.15 to 0.20",
+                "0.25 to 0.24",
+                "0.25 to 0.33",
+                "0.33 to 0.35",
+                "0.45 to 0.50"
+            ]
+        },
+        {
+            "question": "For eccentrically loaded columns, the bending factor is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "When a large value of radius of gyration is not required",
+            "answers": [
+                "channels are placed back to back",
+                "channel flanges are kept inward",
+                "channel flanges are kept outward",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The maximum axial load which is just sufficient to keep a column in a small deflected shape, is called",
+            "answers": [
+                "crippling load",
+                "buckling load",
+                "critical load",
+                "all the above."
+            ]
+        },
+        {
+            "question": "If the slenderness ratio is greater than 160, the allowable stress in axial compression is multiplied by a factor (1.2 - (l/xy) where x is",
+            "answers": [
+                "200",
+                "400",
+                "600",
+                "800",
+                "1000"
+            ]
+        },
+        {
+            "question": "The effective length of a compression member of length L, held in position and restrained in direction at both ends, is",
+            "answers": [
+                "L",
+                "0.67 L",
+                "0.85 L",
+                "1.5 L",
+                "2 L"
+            ]
+        },
+        {
+            "question": "Spans of continuous fillers are considered approximately equal if the longest span does not exceed the shortest span by more than",
+            "answers": [
+                "5%",
+                "10%",
+                "15%",
+                "20%",
+                "25%"
+            ]
+        },
+        {
+            "question": "The gross diameter of a rivet is the diameter of",
+            "answers": [
+                "cold rivet before driving",
+                "rivet after driving",
+                "rivet hole",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Diameter of a rivet hole is made larger than the diameter of the rivet by",
+            "answers": [
+                "1.0 mm for rivet diameter upto 12 mm",
+                "1.5 mm for rivet diameter exceeding 25 mm",
+                "2.0 mm for rivet diameter over 25 mm",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Number of rivets required in a joint, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                "none of these."
+            ]
+        },
+        {
+            "question": "When a tension member consists of two channel sections, the allowance for rivet hole is made for two holes from",
+            "answers": [
+                "each web",
+                "each flange",
+                "both webs",
+                "each web or one hole from each flange whichever is more",
+                "each web or one hole from each flange whichever is less."
+            ]
+        },
+        {
+            "question": "If d is the distance between the flange angles, the vertical stiffeners in plate girders without horizontal stiffeners, are spaced at a distance not less than",
+            "answers": [
+                "0.15 d",
+                "0.22 d",
+                "0.33 d",
+                "0.44 d"
+            ]
+        },
+        {
+            "question": "A column splice is used to increase",
+            "answers": [
+                "length of the column",
+                "strength of the column",
+                "cross-sectional area of the column",
+                "none of these."
+            ]
+        },
+        {
+            "question": "If W and L are the total superimposed load and the span of a plate girder in metres, the approximate self weight (W) of the girder, is taken as",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "If d is the clear depth of a plate girder, t is the minimum required thickness of the web, C is the maximum clear distance between vertical stiffeners, the moment of inertia of a pair of stiffeners about the centre line of the web, is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The ratio of the span L of the filler joists to the depth d from the under side of the joist to the top of the structural concrete, should not exceed",
+            "answers": [
+                "60",
+                "45",
+                "35",
+                "25",
+                "20"
+            ]
+        },
+        {
+            "question": "The maximum tensile and compressive bending stress in extreme fibres of rolled I-sections and channels on the effective section, is",
+            "answers": [
+                "1500 kg/cm2",
+                "1420 kg/cm2",
+                "1650 kg/cm2",
+                "2285 kg/cm2"
+            ]
+        },
+        {
+            "question": "Perforated cover plates are particularly suitable for built up sections consisting of",
+            "answers": [
+                "channels placed back to back",
+                "channels placed toe to toe",
+                "four angle box section",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The tensile strength of mild steel for bolts and nuts should not be less than",
+            "answers": [
+                "32 kg/mm2",
+                "36 kg/mm2",
+                "40 kg/mm2",
+                "44 kg/mm2"
+            ]
+        },
+        {
+            "question": "A riveted joint may experience",
+            "answers": [
+                "shear failure",
+                "shear failure of plates",
+                "bearing failure",
+                "bearing failure of rivets",
+                "all the above."
+            ]
+        },
+        {
+            "question": "With a percentage increase of carbon in steel, decreases its",
+            "answers": [
+                "strength",
+                "hardness",
+                "brittleness",
+                "ductility."
+            ]
+        },
+        {
+            "question": "In a built up beam actual bending compressive stress fbc is given by (when y1 is the distance of the edge of the beam from the neutral axis).",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "In double lacing, the thickness t of flat lacing is",
+            "answers": [
+                "t < 1/40 th length between inner end rivets",
+                "t < 1/50 th length between inner end rivets",
+                "t < 1/60 th length between inner end rivets",
+                "t < 1/70 th length between inner end rivets",
+                "none of these."
+            ]
+        },
+        {
+            "question": "When the length of a tension member is too long",
+            "answers": [
+                "a wire rope is used",
+                "a rod is used",
+                "a bar is used",
+                "a single angle is used."
+            ]
+        },
+        {
+            "question": "An imaginary line along which rivets are placed, is known as",
+            "answers": [
+                "rivet line",
+                "scrieve line",
+                "back line",
+                "gauge line",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The allowable stress in axial tension is generally kept less if thickness of the member is more than",
+            "answers": [
+                "10 mm",
+                "12 mm",
+                "15 mm",
+                "20 mm",
+                "22 mm"
+            ]
+        },
+        {
+            "question": "The maximum permissible slenderness ratio of compression member carrying dead and superimposed load, is",
+            "answers": [
+                "180",
+                "200",
+                "250",
+                "300",
+                "350"
+            ]
+        },
+        {
+            "question": "The safe working pressure for a spherical vessel 1.5 m diameter and having 1.5 cm thick wall not to exceed tensile stress 50kg/cm2 , is",
+            "answers": [
+                "16 kg/cm2",
+                "18 kg/cm2",
+                "20 kg/cm2",
+                "22 kg/cm2"
+            ]
+        },
+        {
+            "question": "Lug angle is",
+            "answers": [
+                "used with single angle member",
+                "not used with double angle member",
+                "used with channel member",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Effective length of a column effectively held in position and restrained in direction at both ends, is",
+            "answers": [
+                "L",
+                "0.67 L",
+                "0.85 L",
+                "1.5 L",
+                "2 L"
+            ]
+        },
+        {
+            "question": "A riveted joint many experience",
+            "answers": [
+                "tearing failure of plates",
+                "bearing failure of plates",
+                "splitting failure of plates at the edges",
+                "bearing failure of rivets",
+                "all the above."
+            ]
+        },
+        {
+            "question": "If a pair of angles placed back to back in tension are connected by one leg of each angle, the net effective area of the section, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                "none of these."
+            ]
+        },
+        {
+            "question": "IS : 800 - 1971 recommends that in a splice plate the number of rivets carrying calculated shear stress through a packing greater than 6 mm thick, is to be increased by 2.5% for every",
+            "answers": [
+                "1.00 mm thickness of packing",
+                "1.50 mm thickness of packing",
+                "2.0 mm thickness of packing",
+                "2.50 mm thickness of packing",
+                "3.0 mm thickness of packing."
+            ]
+        },
+        {
+            "question": "To keep the intensity of bearing pressure between the column base and concrete, compressive throughout the length of the column base, the ratio of the moment M to axial load P should be",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "When the upper column does not provide full bearing area over lower column, the column splice is provided with the following assumption",
+            "answers": [
+                "bearing plate is assumed as a short beam to transmit the axial load to the lower column section",
+                "axial load is assumed to be taken by flanges",
+                "load transmitted from the flanges of upper column and reactions from the flanges of lower columns are equal and form a couple",
+                "all the above."
+            ]
+        },
+        {
+            "question": "For a steel member of slenderness ratio 350, the allowable stress is 76 kg/cm2 if it is",
+            "answers": [
+                "HTW grade of thickness exceeding 32 mm",
+                "HT grade of thickness exceeding 45 mm",
+                "HT grade of thickness not exceeding 45 mm",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The permissible stress to which a structural member can be subjected to, is known as",
+            "answers": [
+                "bearing stress",
+                "working stress",
+                "tensile stress",
+                "compressive stress",
+                "all the above."
+            ]
+        },
+        {
+            "question": "If M is the moment due to a couple in a bearing plate whose width is b and allowable bending stress is P, the thickness (t) of the bending plate of the column splice, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Tacking rivets in compression plates not exposed to the weather, have a pitch not exceeding 300 mm or",
+            "answers": [
+                "16 times the thickness of outside plate",
+                "24 times the thickness of outside plate",
+                "32 times the thickness of outside plate",
+                "36 times the thickness of outside plate."
+            ]
+        },
+        {
+            "question": "Effective length of a column effectively held in position and restrained in direction at one end but neither held in position nor restrained in direction at the other end, is",
+            "answers": [
+                "L",
+                "0.67 L",
+                "0.85 L",
+                "1.5 L",
+                "2 L "
+            ]
+        },
+        {
+            "question": "For columns whose slenderness ratio is upto 160, the secant formula for the determination of allowable stress, is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The effective length of a double angle strut with angles placed back to back and connected to both the sides of a gusset plate, by not less than two rivets, is",
+            "answers": [
+                "0.5 L",
+                "0.67 L",
+                "0.85 L",
+                "L",
+                "2 L"
+            ]
+        },
+        {
+            "question": "According to the Unwin's formula, if t is thickness of the plate in mm, the nominal diameter of the rivet, is",
+            "answers": [
+                "d = 1.91 t",
+                "d = 1.91 t2",
+                "d = 1.91 t",
+                "d = 1.91 t",
+                "d = 2.3 t"
+            ]
+        },
+        {
+            "question": "A single angle in tension is connected by one leg only. If the areas of connecting and outstanding legs are respectively a and b, net effective area of the angle, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The central deflection of a simply supported steel beam of length L with a concentrated load W at the centre, is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "If L is the overall length of a combined footing having A as its area, d being the distance between the centre of gravity of the base and centre of the base, the larger width b is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "On eccentrically loaded columns, the equivalent axial load may be obtained by",
+            "answers": [
+                "adding the axial load, eccentric load, the product of the bending moment due to eccentric load and the appropriate bending factor",
+                "adding the axial load and eccentric load and subtracting the product of bending moment and appropriate bending factor",
+                "dividing the sum of axial load and eccentric load by the product of the bending moment and appropirate bending factor",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The distance between the outer faces of flanges of a plate girder, is known as",
+            "answers": [
+                "overall depth",
+                "clear depth",
+                "effective depth",
+                "none of these."
+            ]
+        },
+        {
+            "question": "To the calculated area of cover plates of a built-up beam, an allowance for rivet holes to be added, is",
+            "answers": [
+                "10%",
+                "13%",
+                "15%",
+                "18%",
+                "20%."
+            ]
+        },
+        {
+            "question": "The connection of one beam to another beam by means of an angle at the bottom and an angle at the top, is known as",
+            "answers": [
+                "unstiffened seated connection",
+                "stiffened seated connection",
+                "seated connection",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Allowable working stress corresponding to the slenderness ratio of double angles placed back to back and connected to one side of a gusset plate, is reduced to",
+            "answers": [
+                "50%",
+                "60%",
+                "70%",
+                "80%",
+                "40%"
+            ]
+        },
+        {
+            "question": "Bulb angles are used in",
+            "answers": [
+                "column building",
+                "bridge building",
+                "ship building",
+                "water tank building."
+            ]
+        },
+        {
+            "question": "Effective sectional area of a compression member is :",
+            "answers": [
+                "gross sectional area - area of rivet hole",
+                "gross sectional ares + area of rivet hole",
+                "gross sectional ares x area of rivet hole",
+                "gross sectional ares + area of rivet hole."
+            ]
+        },
+        {
+            "question": "A fillet weld whose axis is parallel to the direction of the applied load, is known as",
+            "answers": [
+                "diagonal filler weld",
+                "end fillet weld",
+                "side fillet weld",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Assuming the values of maximum deviation \u0394P and \u0394E to be 25% of the computed value of P and E respectively, the minimum value of the factor of safety is",
+            "answers": [
+                "1.00",
+                "0.67",
+                "1.67",
+                "2.67",
+                "none of these."
+            ]
+        },
+        {
+            "question": "In case horizontal stiffeners are not used, the distance between vertical legs of flange angles at the top and bottom of a plate girder, is known as",
+            "answers": [
+                "overall depth",
+                "clear depth",
+                "effective depth",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Rolled steel angle sections are classified as",
+            "answers": [
+                "equal angles",
+                "unequal angles",
+                "bulb angles",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Factor of safety is the ratio of",
+            "answers": [
+                "yield stress to working stress",
+                "tensile stress to working stress",
+                "compressive stress to working stress",
+                "bearing stress to working stress",
+                "bearing stress to yield stress."
+            ]
+        },
+        {
+            "question": "Cold driven rivets range from",
+            "answers": [
+                "6 to 10 mm in diameter",
+                "10 to 16 mm in diameter",
+                "12 to 22 mm in diameter",
+                "22 to 32 mm in diameter",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The main type of butt joints, is a double cover",
+            "answers": [
+                "shear riveted joint",
+                "chain riveted joint",
+                "zig-zag riveted joint",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Outstanding length of a compression member consisting of a channel, is measured as",
+            "answers": [
+                "half of the nominal width",
+                "nominal width of the section",
+                "from the edge to the first row of rivets",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The equivalent axial load may be defined as the load which produces a stress equal to",
+            "answers": [
+                "maximum stress produced by the eccentric load",
+                "maximum stressed fibre",
+                "bending stress",
+                "none of these."
+            ]
+        },
+        {
+            "question": "If d is the distance between the flange angles of a plate girder, vertical stiffeners are provided at a distance not greater than",
+            "answers": [
+                "d but not less than 0.20 d",
+                "1.25 d but not less than 0.33 d",
+                "1.5 d but not less than 0.33 d",
+                "2.0 d but not less than 0.50 d",
+                "2.5 d but not less than 0.50 d"
+            ]
+        },
+        {
+            "question": "The beam outside a wall upto floor level above it, is known as",
+            "answers": [
+                "rafter",
+                "purlin",
+                "spandrel beam",
+                "lintel",
+                "none of these."
+            ]
+        },
+        {
+            "question": "A structural member subjected to tensile force in a direction parallel to its logitudinal axis, is generally known as",
+            "answers": [
+                "a tie",
+                "a tie member",
+                "a tension member",
+                "all the above."
+            ]
+        },
+        {
+            "question": "For the economical design of a combined footing to support two equal column loads, the projections of beams in lower tier are kept such that bending moment under column is equal to",
+            "answers": [
+                "bending moment at the centre of the beam",
+                "half the bending moment at the centre of the beam",
+                "twice the bending moment at the centre of the beam",
+                "none of these."
+            ]
+        },
+        {
+            "question": "In rolled steel beams, shear force is mostly resisted by",
+            "answers": [
+                "web only",
+                "flanges only",
+                "web and flanges together",
+                "none of these."
+            ]
+        },
+        {
+            "question": "When plates are exposed to weather, tacking rivets are provided at a pitch in line not exceeding (where t is the thickness of the outside plate).",
+            "answers": [
+                "8 t",
+                "16 t",
+                "24 t",
+                "32 t",
+                "48 t"
+            ]
+        },
+        {
+            "question": "The greatest gauge of long rivets should not exceed (where d is the diameter of the holes).",
+            "answers": [
+                "2 d",
+                "4 d",
+                "6 d",
+                "8 d",
+                "10 d"
+            ]
+        },
+        {
+            "question": "Maximum permissible slenderness ratio of a member normally acting as a tie in a roof truss, is",
+            "answers": [
+                "180",
+                "200",
+                "250",
+                "300",
+                "350"
+            ]
+        },
+        {
+            "question": "If d is the distance between the flange angles,",
+            "answers": [
+                "vertical stiffeners are provided in steel plate girders if the web is less than d/85",
+                "vertical stiffeners are provided in high tensile steel plate girders if the web is less than d/175",
+                "horizontal stiffeners are provided in high tensile girder steel plate if the web is less than d/180",
+                "horizontal stiffeners are provided in steel plate girders if the web is less than d/200",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The side thrust T on the tie rods provided at the end beam of jack arch of rise R, is calculated from the formula",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "When the depth of a plate girder is at least n times the depth of vertical leg of the flange angles, the girder is known as deep plate girder, if n is",
+            "answers": [
+                "2",
+                "4",
+                "6",
+                "8",
+                "10"
+            ]
+        },
+        {
+            "question": "Stiffeners are used in a plate girder",
+            "answers": [
+                "to reduce the compressive stress",
+                "to reduce the shear stress",
+                "to take the bearing stress",
+                "to avoid bulking of web plate."
+            ]
+        },
+        {
+            "question": "The channels get twisted symmetrically with regard to its axis",
+            "answers": [
+                "parallel to flanges",
+                "parallel to web",
+                "perpendicular to flanges",
+                "perpendicular to web."
+            ]
+        },
+        {
+            "question": "The stiff portion of a bearing stiffener is taken equal to",
+            "answers": [
+                "depth of the beam",
+                " th depth of the beam",
+                "depth of the beam",
+                " depth of the beam."
+            ]
+        },
+        {
+            "question": "Effective length of a column effectively held in position at both ends and restrained in direction at one end, is",
+            "answers": [
+                "L",
+                "0.67 L",
+                "0.85 L",
+                "1.5 L",
+                "2 L"
+            ]
+        },
+        {
+            "question": "The strength of ISA 125 = 75 x 10 mm used as a tie member with its longer leg connected at the ends by 27 mm diameter rivets, is",
+            "answers": [
+                "26,000 kg",
+                "26,025 kg",
+                "26,050 kg",
+                "26,075 kg",
+                "27,000 kg"
+            ]
+        },
+        {
+            "question": "The gross section of the web of a beam is defined as",
+            "answers": [
+                "depth of the beam multiplied by its web thickness",
+                "width of the flange multiplied by its web thickness",
+                "sum of the flange width and depth of the beam multiplied by the web thickness",
+                "none of these."
+            ]
+        },
+        {
+            "question": "If fbt and fc are the co-existent bending tensile stress and shear stress in a member, the equivalent stress fc is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "For simply supported beams, the maximum permitted deflection, is",
+            "answers": [
+                "1/325 of the span",
+                "1/350 of the span",
+                "1/375 of the span",
+                "1/400 of the span",
+                "none of these."
+            ]
+        },
+        {
+            "question": "In a truss girder of a bridge, a diagonal consists of mild steel flat 4001.S.F. and carries a pull of 80 tonnes. If the grossdiameter of the rivet is 26 mm, the number of rivets required in the splice, is",
+            "answers": [
+                "6",
+                "7",
+                "8",
+                "9",
+                "12"
+            ]
+        },
+        {
+            "question": "Design of a riveted joint, is based on the assumption:",
+            "answers": [
+                "Load is uniformly distributed among all the rivets",
+                "Shear stress on a rivet is uniformly distributed over its gross area",
+                "Bearing stress is uniform between the contact surfaces of the plate and the rivet",
+                "Bearing stress in the rivet is neglected",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "The steel beams placed in plain cement concrete, are known as reinforced beams",
+                "The filler joists are generally continuous over three-supports only",
+                "Continuous fillers are connected to main beams by means of cleat angles",
+                "Continuous fillers are supported by main steel beams",
+                "All the above."
+            ]
+        },
+        {
+            "question": "When a column is subjected to eccentric load having eccentricity ex, with respect to x-axis and eccentricity ey with respect to y-axis the column is subjected to moment in two directions and the equivalent axial load, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The value of f.o.s 'm' in the formula for safe compressive stress for a column is taken as ",
+            "answers": [
+                "1.5",
+                "1.6",
+                "1.68",
+                "1.88"
+            ]
+        },
+        {
+            "question": "Maximum permissible slenderness ratio of compression members which carry dead and superimposed load, is",
+            "answers": [
+                "350",
+                "250",
+                "180",
+                "80",
+                "75"
+            ]
+        },
+        {
+            "question": "If the area of cross-section of a single angle discontinuous strut is 30 cm2 and allowable working stress corresponding to its slenderness ratio is 625 kg/cm2, the safe load carrying capacity of the member, is",
+            "answers": [
+                "10 tonnes",
+                "12 tonnes",
+                "15 tonnes",
+                "18 tonnes",
+                "20 tonnes"
+            ]
+        },
+        {
+            "question": "According to I.S. : 800 - 1871, lacing bars resist transverse shear equal to",
+            "answers": [
+                "1.0% of the axial load",
+                "2.0% of the axial load",
+                "2.5% of the axial load",
+                "3.0% of the axial load",
+                "4.0% of the axial load."
+            ]
+        },
+        {
+            "question": "The greatest permissible clear dimension of the web of thickness t in the panel of a plate girder, is restricted to",
+            "answers": [
+                "180 t",
+                "220 t",
+                "230 t",
+                "260 t",
+                "270 t"
+            ]
+        },
+        {
+            "question": "As per ISI, rolled steel beam sections are classified into",
+            "answers": [
+                "two series",
+                "three series",
+                "four series",
+                "five series."
+            ]
+        },
+        {
+            "question": "Water pressure in a 80 cm water main is 10 kg/cm2. The minimum thickness of the metal required for the water main, not to be stressed more than 200 kg/cm2, is",
+            "answers": [
+                "1 cm",
+                "1.5 cm",
+                "2 cm",
+                "2.5 cm",
+                "3 cm"
+            ]
+        },
+        {
+            "question": "In a tension member if one or more than one rivet holes are off the line, the failure of the member depends upon :",
+            "answers": [
+                "pitch",
+                "gauge",
+                "diameter of the rivet holes",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The size of a butt weld is specified by the effective throat thickness which in the case of incomplete penetration, is taken as",
+            "answers": [
+                " of the thickness of thicker part",
+                " of the thickness of thicker part",
+                " of the thickness of thinner part",
+                " of the thickness of thinner part",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The thickness of the web of a mild steel plate girder is less than d/200. If only one horizontal stiffener is used, it is placed at",
+            "answers": [
+                "the neutral axis of the section",
+                "2/3rd of the depth of the neutral axis from the compression flange",
+                "2/5th of the depth of the neutral axis from the compression flange",
+                "2/5th of the height of the neutral axis from tension flange",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The load on a lintel is assumed as uniformly distributed if the height of the masonry above it, is upto a height of",
+            "answers": [
+                "the effective span",
+                "1.25 times the effective span",
+                "1.50 times the effective span",
+                "2.0 times the effective span",
+                "2.5 times the effective span."
+            ]
+        },
+        {
+            "question": "Working shear stress on the gross area of a rivet as recommended by Indian Standards, is",
+            "answers": [
+                "785 kg/cm2",
+                "1025 kg/cm2",
+                "2360 kg/cm2",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "Loaded columns are supported on column bases",
+                "Column bases transmit the column load to the concrete foundation",
+                "Column load is spread over a large area on concrete",
+                "In column bases, intensity of pressure on concrete block is assumed to be uniform",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The ratio of hydrostatic stress to the volumetric strain within the elastic range, is called",
+            "answers": [
+                "modulus of elasticity",
+                "shear modulus of elasticity",
+                "bulk modulus of elasticity",
+                "tangent modulus of elasticity",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The deflection of beams may be decreased by",
+            "answers": [
+                "increasing the depth of beam",
+                "increasing the span",
+                "decreasing the depth of beam",
+                "increasing the width of beam",
+                "none of these."
+            ]
+        },
+        {
+            "question": "For a cantilever beam of length L built-in at the support and restrained against torsion at the free end, the effective projecting length l is",
+            "answers": [
+                "l = 0.7L",
+                "l = 0.75L",
+                "l = 0.85L",
+                "l = 0.5L",
+                "l = L"
+            ]
+        },
+        {
+            "question": "In a built up section carrying a tensile force, the flanges of two channels are turned outward",
+            "answers": [
+                "to simplify the transverse connections",
+                "to minimise lacing",
+                "to have greater lateral rigidity",
+                "all the above",
+                "none of the above."
+            ]
+        },
+        {
+            "question": "If P is the wind pressure in kg/cm2, v is the velocity in km/hour and K is a constant of proportionality, then",
+            "answers": [
+                "P = K/v2",
+                "v = K/P2",
+                "P = Kv2",
+                "P = Kv"
+            ]
+        },
+        {
+            "question": "Length of an outstanding leg of a vertical stiffener, may be taken equal to",
+            "answers": [
+                "th of clear depth of the girder plus 15 mm",
+                "th of clear depth of the girder plus 20 mm",
+                "th of clear depth of the girder plus 25 mm",
+                "th of clear depth of the girder plus 50 mm",
+                "th of clear depth of the girder plus 50 mm."
+            ]
+        },
+        {
+            "question": "Efficiency of a riveted joint is defined as the ratio of",
+            "answers": [
+                "least strength of a riveted joint to the strength of solid plate",
+                "greatest strength of a riveted joint to the strength of solid plate",
+                "least strength of a riveted plate to the greatest strength of the riveted joint",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The stress in the wall of a thin cylinder subjected to internal pressure, is",
+            "answers": [
+                "hoop compression",
+                "shear",
+                "torsional shear",
+                "hoop tension."
+            ]
+        },
+        {
+            "question": "The diameter of a bolt hole is taken as the nominal diameter of the bolt plus",
+            "answers": [
+                "1.0 mm",
+                "1.2 mm",
+                "1.4 mm",
+                "1.6 mm",
+                "1.5 mm"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "Tacking rivets are used if the minimum distance between centres of two adjacent rivets exceeds 12 t or 200 mm, whichever is less",
+                "Tacking rivets are not considered to calculate stress",
+                "Tacking rivets are provided throughout the length of a compression member composed of two components back to back",
+                "All the above."
+            ]
+        },
+        {
+            "question": "In a grillage footing, the maximum shear force occurs at the",
+            "answers": [
+                "edge of grillage beam",
+                "edge of base plate",
+                "centre of grillage beam",
+                "centre of base plate."
+            ]
+        },
+        {
+            "question": "If d is the diameter of column, D is the side of square base, W is total axial load and p is the allowable bending stress, the thickness (t) of the base plate, is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Modified moment of inertia of sections with a single web, is equal to moment of inertia of the section about Y-Y axis at the point of maximum bending moment and is multiplied by the ratio of",
+            "answers": [
+                "area of compression flange at the minimum bending moment to the corresponding area at the point of maximum bending moment",
+                "area of tension flange at the minimum bending moment of the corresponding area at the point of maximum bending moment",
+                "total area of flanges at the maximum bending moment to the corresponding area at the point of maximum bending moment",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Rivets subjected to shear and an externally applied tensile force, should be so proportioned that",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "According to IS: 800-1962, the coefficient of expansion of steel per degree centigrade per unit length, is taken as",
+            "answers": [
+                "0.000008",
+                "0.000010",
+                "0.000012",
+                "0.000014",
+                "0.000016"
+            ]
+        },
+        {
+            "question": "For a cantilever beam of length L continuous at the support and unrestrained against torsion at the support and free at the end, the effective length l is equal to",
+            "answers": [
+                "l = L",
+                "l = 2L",
+                "l = 0.5L",
+                "l = 3L",
+                "l = 3.5L"
+            ]
+        },
+        {
+            "question": "On steel structures the dead load is the weight of",
+            "answers": [
+                "steel work",
+                "material fastened to steel work",
+                "material supported permanently",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The net area of round bars to resist the tension, is the area of cross section at",
+            "answers": [
+                "mid-section",
+                "root of the thread",
+                "difference of (a) and (b)",
+                "none of these."
+            ]
+        },
+        {
+            "question": "With usual notations of the letters, the shear stress fs at any point of the cross-section is given by",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The least permissible clear dimension of the web of thickness t in the panel of a plate girder, is restricted to",
+            "answers": [
+                "150 t",
+                "160 t",
+                "170 t",
+                "180 t",
+                "200 t"
+            ]
+        },
+        {
+            "question": "Long column is one",
+            "answers": [
+                "which is more than 3 m long",
+                "whose lateral dimension is less than 25 cm",
+                "which is free at its top",
+                "which has a ratio of effective length and least lateral dimension more than 15."
+            ]
+        },
+        {
+            "question": "Rolled steel beams are :",
+            "answers": [
+                "mainly used to resist bending stress",
+                "used as independent sections to resist compressive stress",
+                "used as independent sections to resist tensile stress",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Tacking rivets in tension members, are provided at a pitch in line not exceeding",
+            "answers": [
+                "25 cm",
+                "50 cm",
+                "75 cm",
+                "100 cm"
+            ]
+        },
+        {
+            "question": "The effective length of a compression member of length L held in position at both ends but not restrained in direction, is",
+            "answers": [
+                "L",
+                "0.67 L",
+                "0.85 L",
+                "1.5 L",
+                "2 L"
+            ]
+        },
+        {
+            "question": "When the ratio of the moment M to axial load P is greater than, the resultant of the compressive bearing pressure which acts at a distance Y from one side, is given by",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Under a concentrated load, bearing stress fb in a beam, is given by (where b is the length of the bearing plate and h is the depth of the root of the fillet).",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "If R is the reaction on the bearing plate, the minimum moment of. inertia of the bearing stiffener provided at the support of a plate girder of overall depth D, the maximum thickness of the compression flange T, carrying total load W, is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "A beam may be designed as a cased beam if",
+            "answers": [
+                "section is of double open channel form with the webs not less than 40 mm apart",
+                "overall depth and width of the steel section do not exceed 750 and 450 mm respectively.",
+                "beam is solidly encased in concrete with 10 mm aggregate having 28 days strength 160 kg/cm2",
+                "width of the solid casing is kept at least 100 mm more than the width of the steel flange and having a concrete cover of 50 mm",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The economical depth d of a web plate in which allowable bearing stress is fb, and the maximum bending moment is M, as suggested by Rawater and Clark, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "For a single section used as a tension member, the given area is assumed",
+            "answers": [
+                "20% to 30% in excess of the net area",
+                "30% to 40% in excess of the net area",
+                "40% to 50% in excess of the net area",
+                "50% to 60% in excess of the net area",
+                "60% to 70% in excess of the net area."
+            ]
+        },
+        {
+            "question": "The minimum width B of a solid casing for a cased beam, is equal to",
+            "answers": [
+                "B = b + 25 mm",
+                "B = b + 50 mm",
+                "B = b + 75 mm",
+                "B = b + 100 mm",
+                "B = b + 125 mm"
+            ]
+        },
+        {
+            "question": "Design of a riveted joint is based on the assumption:",
+            "answers": [
+                "Bending stress in rivets is accounted for",
+                "Riveted hole is assumed to be completely filled by the rivet",
+                "Stress in the plate in not uniform",
+                "Friction between plates is taken into account",
+                "None of these."
+            ]
+        },
+        {
+            "question": "A web plate is called unstiffened if the ratio of clear depth to thickness is less than",
+            "answers": [
+                "35",
+                "50",
+                "60",
+                "85",
+                "90"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "The slenderness ratio of lacing bars for compression members should not exceed 145",
+                "The minimum width of lacing bar connected with rivets of nominal diameter 16 mm, is kept 50 mm",
+                "The minimum thickness of a flat lacing bar is kept equal to one-fortieth of its length between inner end rivets",
+                "The angle of inclination of lacing bars and the axis of the members should be between 40\u00b0 and 70\u00b0",
+                "All the above."
+            ]
+        },
+        {
+            "question": "If P is the allowable bending stress in a slab, whose greater and lesser projections from the column faces, are A and B, the thickness (t) of the slab base, is (where w is the intensity of earth pressure.)",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "If the thickness of a structural member is small as compared to its length and width, it is classified as",
+            "answers": [
+                "one dimensional",
+                "two dimensional",
+                "three dimensional",
+                "none of these."
+            ]
+        },
+        {
+            "question": "In factory buildings, the horizontal beams spanning between the wall columns supporting a wall covering, are called",
+            "answers": [
+                "stringers",
+                "trimmers",
+                "girts",
+                "lintels."
+            ]
+        },
+        {
+            "question": "A column is carrying an axial load W and an eccentric load P. If A is its cross-sectional area, ex and ey are the eccentricities and Pxx and Zyy the section modulli, the equivalent axial load is obtained from the formula,",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "The ends of a strut, are connected together with two rivets",
+                "The members of strut will have at least two connections spaced equidistant in their length",
+                "The members when separated back-to-back, the connecting rivets should pass through solid washer or packing",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Rise of a Jack arch is kept about",
+            "answers": [
+                "1/2 to 1/3 of the span",
+                "1/3 to 1/4 of the span",
+                "1/4 to 1/8 of the span",
+                "1/8 to 1/12 of the span."
+            ]
+        },
+        {
+            "question": "If N is the number of rivets in the joint, the strength of a riveted joint against shearing of rivets, is given by",
+            "answers": [
+                "Ps = N x (\u03c0/4) d2 x Ps",
+                "Ps = N x (d x t x ps)",
+                "Ps = N x (p - d) x t x Ps",
+                "Ps = N x (P + d) x t x ps.",
+                "none of these."
+            ]
+        },
+        {
+            "question": "For steel members exposed to weather and not accessible for repainting, the thickness of steel should not be less than",
+            "answers": [
+                "4.5 mm",
+                "6 mm",
+                "8 mm",
+                "10 mm"
+            ]
+        },
+        {
+            "question": "Compression members composed of two channels back-to-back and separated by a small distance are connected together by riveting so that the minimum slenderness ratio of each member between the connections, does not exceed",
+            "answers": [
+                "40",
+                "50",
+                "60",
+                "70"
+            ]
+        }
+    ]
+}

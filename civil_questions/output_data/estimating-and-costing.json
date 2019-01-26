@@ -1,0 +1,896 @@
+{
+    "questions": [
+        {
+            "question": "Pick up the excavation where measurements are made in square metres for payment.",
+            "answers": [
+                "Ordinary cuttings up to 1 m",
+                "surface dressing up to 15 cm depths",
+                "Surface excavation up to 30 cm depths",
+                "Both (b) and (c)",
+                "Both (a) and (b)"
+            ]
+        },
+        {
+            "question": "The expected out turn of 2.5 cm cement concrete floor per manson per day",
+            "answers": [
+                "2.5 sqm",
+                "5.0 sqm",
+                "7.5 sqm",
+                "10 sqm"
+            ]
+        },
+        {
+            "question": "A portion of an embankment having a uniform up-gradient 1 in 500 is circular with radius 1000 m of the centre line. It subtends 180\u00b0 at the centre. If the height of the bank is 1 m at the lower end, and side slopes 2:1, the earth work involved.",
+            "answers": [
+                "26, 000 m3",
+                "26, 500 m3",
+                "27, 000 m3",
+                "27, 500 m3"
+            ]
+        },
+        {
+            "question": "The correct prismoidal formula for volume is",
+            "answers": [
+                "D [first area + last area + \u2211 Even area + 2 \u2211 odd areas]",
+                " [first area + last area + 4 \u2211 Even area + 2 \u2211 odd areas]",
+                " [first area + last area + 2 \u2211 Even area + 4 \u2211 odd areas]",
+                " [first area + last area + 2 \u2211 Even area + 4 \u2211 odd areas]."
+            ]
+        },
+        {
+            "question": "The order of booking dimensions is",
+            "answers": [
+                "Length, breadth, height",
+                "Breadth, length, height",
+                "Height, breadth, length",
+                "None of these."
+            ]
+        },
+        {
+            "question": "As per Indian Standard Specifications, the peak discharge for domestic purposes per capita per minute, is taken",
+            "answers": [
+                "1.80 litres for 5 to 10 users",
+                "1.20 litres for 15 users",
+                "1.35 for 20 users",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Pick up the item of work not included in the plinth area estimate",
+            "answers": [
+                "Wall thickness",
+                "Room area",
+                "Verandah area",
+                "W.C. area",
+                "Courtyard area."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "The bent up bars at a support resist the negative bending moment",
+                "The bent up bars at a support resist the sharing force",
+                "The bending of bars near supports is generally at 45\u00b0",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The brick work is measured in sq metre, in case of",
+            "answers": [
+                "Honey comb brick work",
+                "Brick flat soling",
+                "Half brick walls or the partition",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Brick walls are measured in sq. m if the thickness of the wall is",
+            "answers": [
+                "10 cm",
+                "15 cm",
+                "20 cm",
+                "None of these."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement in case of water supply.",
+            "answers": [
+                "Pipes laid in trenches and pipes fixed to walls are measured separately",
+                "Cutting through walls and floors are included with the item",
+                "Pipes are classified according to their sizes and quality",
+                "In laying pipes, the method of jointing and fixing is specifically specified",
+                "All the above."
+            ]
+        },
+        {
+            "question": "In case of laying gullies, siphons, intercepting traps, the cost includes",
+            "answers": [
+                "Setting and laying",
+                "Bed concreting",
+                "Connection to drains",
+                "All of these."
+            ]
+        },
+        {
+            "question": "In long and short wall method of estimation, the length of long wall is the centre to centre distance between the walls and",
+            "answers": [
+                "breadth of the wall",
+                "half breadth of wall on each side",
+                "one fourth breadth of wall on each side",
+                "None of these."
+            ]
+        },
+        {
+            "question": "The height of the sink of wash basin above floor level is kept",
+            "answers": [
+                "60 cm",
+                "70 cm",
+                "75 cm to 80 cm",
+                "80 cm"
+            ]
+        },
+        {
+            "question": "While preparing a detailed estimate",
+            "answers": [
+                "Dimension should be measured correct to 0.01 m",
+                "Area should be measured correct to 0.01 sqm",
+                "Volume should be measured correct to O.Olcum",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Pick up the incorrect statement regarding a master trap from the following :",
+            "answers": [
+                "It is provided in between the lower end of the house drain and the street sewer",
+                "It is provided a cleaning eye at the top of the trap",
+                "The height of fresh air inlet pipe fixed vertically with wall is 3 m",
+                "The mica flap valve which opens inwards only, is fitted at the top of the inlet pipe",
+                "The water seal is less than that of ordinary traps."
+            ]
+        },
+        {
+            "question": "The concrete work for the following part of the building of specified thickness is measured in square metres",
+            "answers": [
+                "Root slabs",
+                "Floors",
+                "D.P.C.",
+                "Wall panels",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "The estimated value of the work excluding the amount for contigencies, work charged establishment, tool and plants, is called work value",
+                "The actual expenditure involved to complete a work including incidental, establishment and travelling charges, is called actual cost",
+                "The formal acceptance by the administrative department for incurring an expenditure on the work, is called administrative approval",
+                "The order of a competent authority sanctioning a properly detailed estimate of the cost of a work of construction or repair is called technical sanction",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The expected out turn of cement concrete 1 : 2 : 4 per mason per day is",
+            "answers": [
+                "1.5 m3",
+                "2.5 m3",
+                "3.5 m3",
+                "5.0 m3"
+            ]
+        },
+        {
+            "question": "The area of the cross-section of a road fully in banking shown in the given figure, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "None of these"
+            ]
+        },
+        {
+            "question": "The plinth area of a building not includes",
+            "answers": [
+                "area of the walls at the floor level",
+                "area of stair cover",
+                "internal shaft for sanitary installations up to 2 sq m. in area",
+                "lift and wall including landing",
+                "area of cantilevered porch."
+            ]
+        },
+        {
+            "question": "For 12 mm thick cement plastering 1 : 6 on 100 sq.m new brick work, the quantity of cement required, is",
+            "answers": [
+                "0.200 m3",
+                "0.247 m3",
+                "0.274 m3",
+                "0.295 m3"
+            ]
+        },
+        {
+            "question": "The minimum width of a septic tank is taken",
+            "answers": [
+                "70 cm",
+                "75 cm",
+                "80 cm",
+                "90 cm"
+            ]
+        },
+        {
+            "question": "The item of the brick structure measured in sq.m, is",
+            "answers": [
+                "Reinforced brick work",
+                "Broken glass coping",
+                "Brick edging",
+                "Brick work in arches."
+            ]
+        },
+        {
+            "question": "The inspection pit or chamber is a manhole provided in a base drainage system",
+            "answers": [
+                "at every change of direction",
+                "at every change of gradient",
+                "at every 30 m intervals",
+                "at the point where vertical soil pipe joins the house drain",
+                "All the above."
+            ]
+        },
+        {
+            "question": "In the mid-section formula",
+            "answers": [
+                "The mean depth is the average of depths of two consecutive sections",
+                "The area of mid-sections is calculated by using mean depth",
+                "The volume of the earth work is calculated by multiplying the mid-section area by the distance between the two sections",
+                "The volume of the earth work is calculated by multiplying the mid-section area by the distance between the two original sections",
+                "(a), (b) and (c) of the above."
+            ]
+        },
+        {
+            "question": "The item of steel work which is measured in sq.m, is",
+            "answers": [
+                "Collapsible gates",
+                "Rolling shutters",
+                "Steel doors",
+                "Ventilators and glazing.",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The value of 'C' of Indian type W.C. shown in the given figure is : ",
+            "answers": [
+                "400 mm",
+                "450 mm",
+                "500 mm",
+                "550 mm"
+            ]
+        },
+        {
+            "question": "The area of a sloping surface of a protective embankment of mean height d, side slopes S : 1 and length L is",
+            "answers": [
+                "d x d x s ",
+                "d2 x (ds)2",
+                "L.D 1 + s2",
+                "2 LD 1 + s2"
+            ]
+        },
+        {
+            "question": "If the formation level of a highway has a uniform gradient for a particular length, and the ground is also having a longitudinal slope, the earthwork may be calculated by",
+            "answers": [
+                "Mid-section formula",
+                "Trapezoidal formula",
+                "Prismoidal formula",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The most reliable estiamte is",
+            "answers": [
+                "Detailed estimate",
+                "Preliminary estimate",
+                "Plinth area estimate",
+                "Cube rate estimate",
+                "None of these."
+            ]
+        },
+        {
+            "question": "The expected out turn of 12 mm plastering with cement mortar is",
+            "answers": [
+                "2.5 sq m",
+                "4.0 sq m",
+                "6.0 sq m",
+                "8.0 sq m",
+                "10 sq m"
+            ]
+        },
+        {
+            "question": "The main factor to be considered while preparing a detailed estimate, is",
+            "answers": [
+                "Quantity of the materials",
+                "Availability of materials",
+                "Transportation of materials",
+                "Location of site and local labour charges",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The damp proof course (D.P.C.) is measured in",
+            "answers": [
+                "Cub.m",
+                "Sq m",
+                "Metres",
+                "None of these"
+            ]
+        },
+        {
+            "question": "The reduced levels of points, 30 metres apart along the longitudinal section of a road portion between chainages 5 and 9 are shown in the given figure. If there is a uniform up-gradient of the road 120 in 1, the chainage of the point with no filling or cutting is ",
+            "answers": [
+                "(6 + 15) chains",
+                "(6 + 12) chains",
+                "(6 + 18) chains",
+                "None of these."
+            ]
+        },
+        {
+            "question": "The area is measured correct to the nearest",
+            "answers": [
+                "0.01 sqm",
+                "0.02 sqm",
+                "0.03 sqm",
+                "0.04 sqm",
+                "0.05 sqm"
+            ]
+        },
+        {
+            "question": "Cost of fittings and their fixing is specified for the following sanitary fittings",
+            "answers": [
+                "Water closets",
+                "Flushing pipes",
+                "Lavatary basins",
+                "Sinks",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The volume is measured correct to the nearest",
+            "answers": [
+                "0.01 cum",
+                "0.02 cum",
+                "0.03 cum",
+                "0.04 cum",
+                "0.05 sum"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "The earth work of cutting in trenches or borrow pits in fairly uniform ground is measured with the help of average depths of the dead men",
+                "The earth work in trenches or borrow pits in irregular ground is measured by taking the difference in levels before and after completion of work",
+                "The earth work in trenches or borrow pits, where neither a nor b is feasible, are measured from the fillings after deduction of voids",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Pick up the item whose weight is added to the weight of respective item, is",
+            "answers": [
+                "Cleats",
+                "Brackets",
+                "Bolts",
+                "Distance separators",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The total length of a cranked bar through a distance (d) at 45\u00b0 in case of a beam of effective length L, is",
+            "answers": [
+                "L + 0.42 d",
+                "L + 2 x 0.42 d",
+                "L - 0.42 d",
+                "L - 2 x 0.4 d"
+            ]
+        },
+        {
+            "question": "While estimating a reinforced cement structure, the omitted cover of concrete is assumed",
+            "answers": [
+                "at the end of reminforcing bar, not less than 25 mm or twice the diameter of the bar",
+                "in thin slabs, 12 mm minimum or diameter of the bar whichever is more",
+                "for reinforcing longitudinal bar in a beam 25 mm minimum or diameter of the largest bar which is more",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The excavation exceeding 1.5 m in width and 10 sq.m in plan area with a depth not exceeding 30 cm, is termed as",
+            "answers": [
+                "Excavation",
+                "Surface dressing",
+                "Cutting",
+                "Surface excavation."
+            ]
+        },
+        {
+            "question": "Pick up the incorrect statement from the following:",
+            "answers": [
+                "Dimensions are measured to the nearest 0.01 m",
+                "Areas are measured to the nearest 0.01 sq.m",
+                "Cubic contents are measured to the nearest 0.1 cm m",
+                "Weights are measured to the nearest 0.001 tonnes"
+            ]
+        },
+        {
+            "question": "If tensile stress of a steel rod of diameter D is 1400 kg/cm2 and bond stress is 6 kg/cm2, the required bond length of the rod is",
+            "answers": [
+                "30 D",
+                "40 D",
+                "50 D",
+                "53 D",
+                "59 D"
+            ]
+        },
+        {
+            "question": "The measurement is not made in square metres in case of",
+            "answers": [
+                "D.P.C. (Damp proof course)",
+                "Form works",
+                "Concrete Jaffries",
+                "R.C. Chhajja."
+            ]
+        },
+        {
+            "question": "According to ISI method of measurement, the order of the sequence is",
+            "answers": [
+                "Length, breadth, height",
+                "Breadth, length, height",
+                "Height, length, breadth",
+                "None of these."
+            ]
+        },
+        {
+            "question": "The assumption on which the trapezoidal formula for volumes is based, is",
+            "answers": [
+                "The end sections are parallel planes",
+                "The mid-area of a pyramid is half the average area of the ends",
+                "The volume of the prismoidal is over-es-timted and hence a prismoidal correction is applied",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The cross-sections for a highway is taken at",
+            "answers": [
+                "right angle to the centre line",
+                "30 metres apart",
+                "intermediate points having abrupt change in gradient",
+                "the starting end points of the curves",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The detention period in a septic tank is assumed",
+            "answers": [
+                "20 minutes",
+                "25 minutes",
+                "30 minutes",
+                "40 minutes"
+            ]
+        },
+        {
+            "question": "For 100 sq. m cement concrete (1 : 2: 4) 4 cm thick floor, the quantity of cement required, is",
+            "answers": [
+                "0.90 m3",
+                "0.94 m3",
+                "0.98 m3",
+                "1.00 m3"
+            ]
+        },
+        {
+            "question": "For the construction of buildings, the subheads of the estimate are",
+            "answers": [
+                "Earthwork, Concrete work, Brick work",
+                "Brickwork, Stone work, Roofing",
+                "Brickwork Flooring, Wood work, Steel work",
+                "Plastering or pointing, finishing, water supply and sanitary work",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The measurement is made for stone work in square metre in case of",
+            "answers": [
+                "Wall facing",
+                "Columns, lintels, copings",
+                "Building work",
+                "Dressed stones in Chajjas",
+                "(a) and (d) of the above."
+            ]
+        },
+        {
+            "question": "The 'centre line method' is specially adopted for estimating",
+            "answers": [
+                "Circular buildings",
+                "Hexagonal buildings",
+                "Octagonal buildings",
+                "Other geometrical shaped buildings",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The value of 'A' of Indian type W.C. shown in the given figure is : ",
+            "answers": [
+                "25 cm",
+                "30 cm",
+                "40 cm",
+                "45 cm"
+            ]
+        },
+        {
+            "question": "Referring of given figure, pick up the correct statement from the following: ",
+            "answers": [
+                "The total length of centre line of four walls is 20 m",
+                "Length of long wall out-to-out is 6.80 m",
+                "Length of short walls in-to-in is 3.20 m",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Size, capacity and materials need be specified for",
+            "answers": [
+                "Bib-cocks",
+                "Stop-cocks",
+                "Ferrules",
+                "Ball valves",
+                "All the above."
+            ]
+        },
+        {
+            "question": "A cement concrete road is 1000 m long, 8 m wide and 15 cm thick over the sub-base of 10 cm thick gravel. The box cutting in road crust is",
+            "answers": [
+                "500 m3",
+                "1000 m3",
+                "1500 m3",
+                "2000 m3"
+            ]
+        },
+        {
+            "question": "The expected out turn for earth work in excavation in ordinary soil per mazdoor per day is",
+            "answers": [
+                "1.00 cum",
+                "2.00 cum",
+                "3.00 cum",
+                "4.00 cum"
+            ]
+        },
+        {
+            "question": "Anti-siphonage pipe is connected to",
+            "answers": [
+                "Main soil pipe",
+                "Bottom of P trap W.C.",
+                "Top of P trap W.C.",
+                "Side of water closet."
+            ]
+        },
+        {
+            "question": "Pick up the incorrect statement from the following:",
+            "answers": [
+                "The built up covered area at the floor level of any storey of a building is called plinth area",
+                "The usable covered area of the rooms of any storey of a building is called carpet area",
+                "The carpet area of a building along with area of its kitchen, pantry, store, lavatory, bath room and glazed verandah, is called floor area",
+                "None of these."
+            ]
+        },
+        {
+            "question": "Carpet area does not include the area of",
+            "answers": [
+                "the walls along with doors and other openings",
+                "verandah, corridor and passage",
+                "bath room and lavatory",
+                "kitchen and pantry",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The trap which is provided to disconnect the house drain from the street sewer is called",
+            "answers": [
+                "Master trap",
+                "Intercepting trap",
+                "Interception manhole",
+                "Intercepterchamber",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Pick up the incorrect statement from the following:",
+            "answers": [
+                "Lead is the average horizontal straight distance between the borrow pit and the place of spreading soil",
+                "The lead is calculated for each block of the excavated area",
+                "The unit of lead is 50 m for a distance upto 500 m",
+                "The unit of lead is 1 km where the lead exceeds 2 km."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement regarding the centre line method of estimating a building",
+            "answers": [
+                "Product of the centre line of the walls and area of cross-section of any item, gives total quantity of the item",
+                "The centre line is worked out separately for different sections of walls of a building",
+                "The centre line length is reduced by half the layer of main wall joining the partition wall",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "Pointing is measured in sq.m",
+                "Plastering is measured in sq.m",
+                "Glazing is measured in sq.m",
+                "Striking is measured in sq.m",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The expected out turn of half brick partition wall per mason per day is",
+            "answers": [
+                "1.5 m3",
+                "2.0 m3",
+                "4.0 m2",
+                "5.0 m2"
+            ]
+        },
+        {
+            "question": "If B is the width of formation, d is the height of the embankment, side slope S : 1, for a highway with no transverse slope, the area of cross-section is",
+            "answers": [
+                "B + d + Sd",
+                "Bd + Sd2 ",
+                "B x d - Sd1/2",
+                "(Bd + Sd2)"
+            ]
+        },
+        {
+            "question": "The floor area includes the area of the balcony up to",
+            "answers": [
+                "100%",
+                "75%",
+                "50%",
+                "25%"
+            ]
+        },
+        {
+            "question": "The cross-section of a road partly in banking and partly in cutting is shown in the given figure. The area of the shaded portion is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "According to Indian Standards Institute, the actual size of modular bricks is",
+            "answers": [
+                "23 cm x 11.5 cm x 7.5 cm",
+                "25 cm x 13 cm x 7.5 cm",
+                "19 cm x 9 cm x 9 cm",
+                "20 cm x 10 cm x 10 cm"
+            ]
+        },
+        {
+            "question": "While estimating the qualities for the construction of a building, the correct metric unit is",
+            "answers": [
+                "Metre for length",
+                "Cubic metre for area",
+                "Square metres for volume",
+                "Kilogram for weight",
+                "Litre for capacity"
+            ]
+        },
+        {
+            "question": "The slope of the oultet of 'P trap' below the horizontal is kept",
+            "answers": [
+                "8\u00b0",
+                "10\u00b0",
+                "12\u00b0",
+                "14\u00b0"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "In a gully trap, a water seal of 6 to 7.5 cm is provided",
+                "The gully trap collects waste water from the kitchen, sink, wash basins, etc.",
+                "The gully trap disconnects the sullage drain from the main drainage system",
+                "The grating provided over gully traps is 23 cm square."
+            ]
+        },
+        {
+            "question": "The unit of measurement is per quintal for the following:",
+            "answers": [
+                "Collapsible gates with rails",
+                "Rolling shutters",
+                "Expanded metal wire netting",
+                "M.S. reinforcement of R.C.C. works."
+            ]
+        },
+        {
+            "question": "Due to change in price level, a revised estimate is prepared if the sanctioned estimate exceeds",
+            "answers": [
+                "2.0%",
+                "2.5%",
+                "4.0%",
+                "5.0%"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "The incidental expenses of a miscellaneous character which could not be predicted during preparation of the estimate, is called contingencies",
+                "Additional supervising staff engaged at work site, is called work charged establishment",
+                "Detailed specifications specify qualities, quantities and the proportions of materials to be used for a particular item",
+                "The cost per unit at which the article can be procured, from the open market at a given time, is called 'market rate'",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The expected out turn of brick work in cement mortar in foundation and plinth per mason per day, is",
+            "answers": [
+                "1.00 m3",
+                "1.25 m3",
+                "1.50 m3",
+                "1.75 m3"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "If the bed level is above N.S.L. the canal is called fully in baking and the berms are designed as 3 d where d is full supply depth of water (F.S.D.)",
+                "Area of canal in cutting = BD + Sd2 where B = bed width, d = depth of cutting and S is the side slope",
+                "Area of the bank of canal = B1d1 + Sd2 where B1, d1 and S are the width of bank, height of the bank above N.S.L. and side slope respectively",
+                "If F.S.L. is above N.S.L the canal is called partly in cutting and partly in filling and berms are designed as 2d where d is full supply depth",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The following item of earth work is not measured separately.",
+            "answers": [
+                "Setting out of works",
+                "Site clearence",
+                "dead men",
+                "Steps in deep exavaction",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "In order to check up the average depth of excavation, 'Dead mans' are left at the mid-widths of borrow pits",
+                "The earthwork calculation in excavation is made from the difference in levels obtained with a level",
+                "The earth work in excavation to form the road embankment includes the formation of correct profile and depositing the soil in layers",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The ground surface slopes 1 in 50 along a proposed railway embankment 150 m in length. The height of the embankment at zero chainage is 0.5 m, the width is 11 m and side slopes 2:1. If the falling gradient of the embankment is 1 in 150, the quantity of the earthwork calculated by prismoidal formula, is",
+            "answers": [
+                "3250 m3",
+                "3225 m3",
+                "3275 m3",
+                "3300 m3"
+            ]
+        },
+        {
+            "question": "The diameter of a domestic sewer pipe laid at gradient 1 in 100 is recommended",
+            "answers": [
+                "100 mm",
+                "150 mm",
+                "200 mm",
+                "175 mm"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "Bricks are paid per thousand",
+                "Cement is paid per 50 kg bag",
+                "Lime is paid per quintal",
+                "Brick aggregates is paid per cum",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The weight of an item is measured correct to nearest",
+            "answers": [
+                "0.25 kg",
+                "0.50 kg",
+                "0.75 kg",
+                "1.00 kg",
+                "5 kg"
+            ]
+        },
+        {
+            "question": "The rate of payment is made for 100 cu m (per % cu m) in case of",
+            "answers": [
+                "Earth work in excavation",
+                "Rock cutting",
+                "Excavation in trenches for foundation",
+                "Earth work in filling the plinth",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The cost of the earthwork in excavation for the surface drain of cross-section shown in the given figure for a total length of 5 metres @ Rs. 450% cum, is ",
+            "answers": [
+                "Rs. 400",
+                "Rs. 425",
+                "Rs. 450",
+                "Rs. 500"
+            ]
+        },
+        {
+            "question": "Pick up the incorrect statement from the following:",
+            "answers": [
+                "No deduction is made for the volume occupied by reinforement",
+                "No deduction is made for the openings upto 0.1 sq.m",
+                "No deduction is made for volumes occupied by pipes, not exceeding 100 sq.cm in cross-section",
+                "No deductions are made for the ends of dissimilar structures up to 500 sq.cm cross-sectional area",
+                "None of these."
+            ]
+        },
+        {
+            "question": "The measurement is made in square metre in case of",
+            "answers": [
+                "Cement concrete in foundation",
+                "R.C.C. structure",
+                "Hollow concrete block wall",
+                "Concrete fencing posts",
+                "None of these."
+            ]
+        },
+        {
+            "question": "Berms are provided in canals if these are",
+            "answers": [
+                "fully in excavation",
+                "partly in excavtion and partly in embankment",
+                "fully in embankment",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The brick work is not measured in cu m in case of",
+            "answers": [
+                "One or more than one brick wall",
+                "Brick work in arches",
+                "Reinforced brick work",
+                "Half brick wall."
+            ]
+        },
+        {
+            "question": "The cross-sectional area of the embankment of a canal fully in embankment in the given figure is ",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The value of 'B' of Indian type W.C. shown in the given figure is : ",
+            "answers": [
+                "45 cm",
+                "50 cm",
+                "30 cm",
+                "25 cm"
+            ]
+        },
+        {
+            "question": "The rate of an item of work depends on",
+            "answers": [
+                "Specifications of works",
+                "Specifications of materials",
+                "Proportion of mortar",
+                "Method of construction",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "All pipes and fittings are classified according to their diameters",
+                "The diameter of the pipes is the nominal diameter of internal bore",
+                "All pipes are measured along the centre line of the pipes in metres",
+                "Lead caulked joints are enumerated separately",
+                "All the above."
+            ]
+        }
+    ]
+}

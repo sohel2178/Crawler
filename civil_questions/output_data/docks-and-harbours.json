@@ -1,0 +1,560 @@
+{
+    "questions": [
+        {
+            "question": "According to the recommendations of International Navigational Congress in 1912, the ratio of length to width at the entrance for cargo vessels is",
+            "answers": [
+                "5.5 and 6.0 to 1",
+                "6.2 and 6.8 to 1",
+                "7.4 and 7.8 to 1",
+                "8.2 and 8.5 to 1"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "An artificial barrier which makes the enclosed area safe for anchorage of ships, is known as break water",
+                "The break water whose inside is used as a plateform for loading and unloading is called a mole",
+                "The length of the quay wall is governed by the length of the largest vessel likely to be berthed",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Buoys which support the cables to which vessels are attached are of",
+            "answers": [
+                "cylindrical shape",
+                "drum",
+                "pear shaped",
+                "spherical shape",
+                "all of these."
+            ]
+        },
+        {
+            "question": "The beach is built:",
+            "answers": [
+                "with largest material locally available to the waves",
+                "with large material locally available to the waves",
+                "with fine material locally available to the waves",
+                "with finest material locally available to the waves."
+            ]
+        },
+        {
+            "question": "Flow of air from one place to the other is caused due to",
+            "answers": [
+                "the sum of elevation",
+                "pressure head",
+                "velocity head",
+                "all of the above."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "For nautical purposes, low water level is generally referred to by the navigators",
+                "The depth of the bed of the sea from the surface of water is called sounding",
+                "The contour lines on the bed of a water body are called fathoms",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "The direction of the littoral drift depends upon the direction of the wave with respect to the coastline",
+                "The direction of a river opening to the sea determines the direction of no littoral drift",
+                "Harbour in the path of littoral drift is not constructed to avoid a build up of sand on one side and erosion on the other",
+                "all of the above."
+            ]
+        },
+        {
+            "question": "A low wall built out into the sea more or less perpendicular to the coast line, to resist the travel of sand and shingle along a beach, is called",
+            "answers": [
+                "break water",
+                "break wall",
+                "groins",
+                "shore wall."
+            ]
+        },
+        {
+            "question": "At a place the shore line is along North West-South East. The wind is blowing from the north. The littoral drift will be along",
+            "answers": [
+                "south east",
+                "south",
+                "south west",
+                "west",
+                "north west"
+            ]
+        },
+        {
+            "question": "If F is the fetch, the straight line distance of open water available in kilometres, the height of the wave in metres is",
+            "answers": [
+                "0.15 F",
+                "0.20 F",
+                "0.28 F",
+                "0.34 F"
+            ]
+        },
+        {
+            "question": "According to the recommendations of International Navigational Congress in 1912, the ratio of length to width at the entrance for passenger vessels is :",
+            "answers": [
+                "7.25 to 1",
+                "7.80 to 1",
+                "8.11 to 1",
+                "8.44 to 1"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "The operation of removing material from the sea or river bed is known as",
+                "Dredging",
+                "Digging",
+                "None of these."
+            ]
+        },
+        {
+            "question": "Littoral drift",
+            "answers": [
+                "is the raised line of sand, parallel to the sea coast",
+                "is the slow movement of surface water at sea caused by the wind",
+                "is a current parallel to the shore, caused due to tangential component of the wind",
+                "is a current perpendicular to the shore line caused due to wind."
+            ]
+        },
+        {
+            "question": "The heaviest line is used to democrate",
+            "answers": [
+                "the low water line",
+                "the high water line",
+                "the limit of swamps",
+                "the direction of current."
+            ]
+        },
+        {
+            "question": "Which one of the following statements is correct?",
+            "answers": [
+                "The soundings are made with respect to the mean low water",
+                "The soundings which are below the datum are written in black on the map",
+                "The spot heights of the features above datum are written in red on the map",
+                "The decimal point of the sounding value is at the exact position of the sounding",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement function following:",
+            "answers": [
+                "The coarse material which has a smaller angle of repose, causes a steeper beach slope",
+                "The coarse material which has a greater angle of repose, causes a steeper beach slope",
+                "The flattening out of the beach is caused due to the movement of small and uniform particles leeward.",
+                "both (b) and (c)."
+            ]
+        },
+        {
+            "question": "The wavelength is computed by Bertin's formula (where T is the period in seconds).",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "The regular periodic rise and fall of the surface of the sea, is called tide.",
+                "The average difference in water level between high tide and low tide at a place, is called tidal range",
+                "The movement of water caused by the action of tide, is called a tidal current",
+                "all of the above."
+            ]
+        },
+        {
+            "question": "Depth of borings for soil investigation, is generally kept below low water level",
+            "answers": [
+                "30 m",
+                "35 m",
+                "45 m",
+                "40 m"
+            ]
+        },
+        {
+            "question": "Which one of the following land marks on the coast line must be depicted on hydrographic maps ?",
+            "answers": [
+                "shore line",
+                "light houses",
+                "church spires",
+                "all the above."
+            ]
+        },
+        {
+            "question": "A lead line or sounding line",
+            "answers": [
+                "is stretched thoroughly when wet before it is graduated",
+                "should be soaked in water for about one hour prior to taking soundings",
+                "is adjusted at regular interval",
+                "is generally used for depths exceeding 6 m",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The smoothened surface of the front face of the guay walls, is known as fending which is made of",
+            "answers": [
+                "granite stone",
+                "timber",
+                "steel",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The shore line survey includes :",
+            "answers": [
+                "depicting the shore line",
+                "depicting the prominent details on shore line",
+                "depicting the high water line",
+                "depicting the low water line",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Which one of the following statements is not relevant to hydrographic survey :",
+            "answers": [
+                "establishment of a chain of bench marks near the shore line",
+                "establishment of horizontal control points on the shore",
+                "determination of the sea bed profile",
+                "depicting the irregularities in the shore line, islands and projecting rocks",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The important component of a sea port is",
+            "answers": [
+                "terminal buildings",
+                "the docks",
+                "the harbour",
+                "all of these."
+            ]
+        },
+        {
+            "question": "Cretans :",
+            "answers": [
+                "are the harbours established on the island south east of Greek mainland",
+                "are the natives of crete, an island south of Greek mainland",
+                "are the plants, grown in the neighbourhood of harbours",
+                "none of the above."
+            ]
+        },
+        {
+            "question": "The fixed mooring does not require",
+            "answers": [
+                "mooring post",
+                "bollard",
+                "anchors",
+                "capstan."
+            ]
+        },
+        {
+            "question": "The low water datum for a lake is defined as the surface of the lake when it is at elevation",
+            "answers": [
+                "180.5 m above M.S.L.",
+                "190.5 m above M.S.L.",
+                "170.5 m above M.S.L.",
+                "200.0 m above M.S.L."
+            ]
+        },
+        {
+            "question": "P and Q are two stations on the shore line at distance d. If the angle between Q and the boat O and P is a and the angle between P and Q at boat O is \u03b2, the x and y. Coordinate along PQ and perpendicular to PQ from O are :",
+            "answers": [
+                "",
+                "",
+                "",
+                "none of the above."
+            ]
+        },
+        {
+            "question": "A harbour is a place where",
+            "answers": [
+                "ships get shelter and protection against destructive forces due to sea waves",
+                "facilities are provided for receiving cargo and passengers",
+                "port buildings are constructed for commercial purposes",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Pick up the incorrect statement from the following: In a dry dock block made of hard wood,",
+            "answers": [
+                "spacing of the blocks is 1.35 m",
+                "the lowest block is 1.8 m long 40 cm x 40 cm in cross-section",
+                "the middle block is 1.6 m long 40 cm x 40 cm in crosss-section",
+                "the top block is 1.2 m long 40 cm x 40 cm in cross-section",
+                "none of these."
+            ]
+        },
+        {
+            "question": "On a hydrographic map, the following feature is shown :",
+            "answers": [
+                "datum",
+                "high and low water lines",
+                "depth contours",
+                "land and water areas",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Due to the impact of water wave on a sea shore structure",
+            "answers": [
+                "hydrostatic pressure coupled with a strong momentary impact is caused",
+                "vibrations are subjected",
+                "internal pressure is developed",
+                "weakens the foundation",
+                "all of the above."
+            ]
+        },
+        {
+            "question": "The horizontal angles from the boat between A and B and B and C, the stations on the shore are respectively \u03b81 and \u03b82. The distances AB = L1 and BC = L2. For calculating the angle \u03b12 at C between the boat and station B is obtained by using the following formula: where (\u03b2 is horizontal angle between A and C at B).",
+            "answers": [
+                "",
+                "\u03b1t tan \u03b12 = 360\u00b0 - (\u03b81 + \u03b82 + \u03b2) = \u03c6",
+                "",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "The breakwater which can be used as a platform for loading and unloading of cargo is called a mole",
+                "The brick masonry retaining wall which is used for loading and unloading of cargo is called guay wall",
+                "Three types of break waters are generally provided in harbours",
+                "All of the above."
+            ]
+        },
+        {
+            "question": "The dock wall is designed as a gravity retaining wall and is tested for",
+            "answers": [
+                "back fill pressure when the dock is empty",
+                "maximum water pressure from the dock without any back fill",
+                "the load charge transmitted to the dock by the movement of loaded vehicles or trains on the way",
+                "all of the above."
+            ]
+        },
+        {
+            "question": "The shape of docks and basins is generally kept",
+            "answers": [
+                "rectangular ways",
+                "diamond shape guays",
+                "inclined gauys",
+                "all of these."
+            ]
+        },
+        {
+            "question": "Surf zone is :",
+            "answers": [
+                "the fathom line of 10 m depth",
+                "the fathom line of 5 m depth",
+                "the swell of the sea breaking on the shore or reefs",
+                "the coast line attacked by the waves."
+            ]
+        },
+        {
+            "question": "Which one of the following lines is used for tying a ship with a dock",
+            "answers": [
+                "bow line",
+                "stern line",
+                "spring line",
+                "break line",
+                "all of these."
+            ]
+        },
+        {
+            "question": "Soundings are required for",
+            "answers": [
+                "making nautical charts for navigation",
+                "ascertaining the areas subject to scour or silting",
+                "obtaining detailed information for construction",
+                "all the above."
+            ]
+        },
+        {
+            "question": "If h and h1 are the heights of a light house and the observer in a ship in metres above M S L then the horizontal distance from the ship to the light house in kilometres is",
+            "answers": [
+                "3.86 (h + h1)",
+                "3.86 (h - h1)",
+                "3.86 (h x h1)",
+                "3.86 \u03c0 (h + h1)"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "The artificial barrier constructed to enclose \"n area for safe anchorage, is called break water",
+                "The smoothened surface at the top end of the vertical face of a guay wall, is called fending",
+                "The effective berthing lengths of inclined guays can be adjusted",
+                "All the above."
+            ]
+        },
+        {
+            "question": "For location of soundings a range and one angle from the shore involves the following operations. Which one is correct ?",
+            "answers": [
+                "A range line is established",
+                "The first and the last soundings and every tenth soundings are fixed by angular observations",
+                "The intermediate soundings are fixed by the time intervals",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "the Mediterranean sea is considered to be a huge harbour",
+                "the Caspean sea is considered to be a big harbour",
+                "the Red sea is considered to be harbour",
+                "none of the above."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "a harbour without any port complex, is called a refuge harbour",
+                "a harbour used for fishery, is called fishery harbour",
+                "the terminal building of a commercial harbour consists of an administrative block, customs clearance and ware-houses.",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Pick up the incorrect statement from the following:",
+            "answers": [
+                "As a wave of sea water approaches the coast line, it is generally accompanied by a drift of water in the direction of wave advance",
+                "The on-shore wind helps to produce wave action as well as rise of M.S.L.",
+                "A falling hydraulic gradient occurs in the direction of the wave",
+                "The wave while receding carries finer particles out to deep water."
+            ]
+        },
+        {
+            "question": "In a wet dock system,",
+            "answers": [
+                "minimum required depth of water for the vessels is maintained",
+                "entrance locks are provided with massive gates",
+                "the locks of dock gate are operated by means of heavy bascule bridges and connected machinery",
+                "the cost of construction is quite heavy",
+                "all the above."
+            ]
+        },
+        {
+            "question": "A roadstead :",
+            "answers": [
+                "is a protected area of water where boats can move safely",
+                "is the end of the road at the harbour",
+                "may be protected by break water walls",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The width of the entrances of the harbours is restricted to",
+            "answers": [
+                "100 m",
+                "125 m",
+                "150 m",
+                "180 m"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "The tides at any place occur a little less than 1 hour later, each succeeding day",
+                "The difference in time in solar hours and minutes from any lunar transit to the succeeding transit, is called high water level",
+                "The influence of the earth's gravity alone produces level-tidal less sea",
+                "The spinning force is maximum at the equator and zero at the poles",
+                "All of the above."
+            ]
+        },
+        {
+            "question": "Location of soundings by range and one angle is done by the surveyor",
+            "answers": [
+                "on the shore",
+                "on the boat",
+                "on the shore or on the boat",
+                "none of the above."
+            ]
+        },
+        {
+            "question": "The variation of atmospheric potential is caused due to :",
+            "answers": [
+                "difference in temperature over the surface of the earth",
+                "change in the density of air",
+                "both (a) and (b)",
+                "neither (a) nor (b)."
+            ]
+        },
+        {
+            "question": "Location of soundings by two angles from the shore requires establishing",
+            "answers": [
+                "one range line parallel to shore",
+                "one range line perpendicular to shore",
+                "two range lines mutually perpendicular",
+                "no range line."
+            ]
+        },
+        {
+            "question": "The floating mooring does not require",
+            "answers": [
+                "cables",
+                "anchors",
+                "bollard",
+                "buoy."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "The maritime structures should be designed to withstand wave motion of air",
+                "The wind vortex results in conical depression in the air surface",
+                "A tube of air rotating at hundreds of kilometres per hour forms a tornado",
+                "all of the above."
+            ]
+        },
+        {
+            "question": "In tropical regions,",
+            "answers": [
+                "the surface gets heated more effectively than the arctic areas",
+                "after heating, the air becomes lighter and is displaced by cool air from the polar regions",
+                "the rising tropical air flows towards the polar region in the upper strata",
+                "all of the above."
+            ]
+        },
+        {
+            "question": "For large vessels, the buoys are strengthened by connecting it to a number of anchors having",
+            "answers": [
+                "one legged mooring",
+                "two legged mooring",
+                "three legged mooring",
+                "four legged mooring",
+                "all the types as above."
+            ]
+        },
+        {
+            "question": "On the sea shore structures, the water wave impact causes",
+            "answers": [
+                "direct compressive force due to its horizontal component",
+                "shear force due to deflected vertical force",
+                "compressive force due to collapse of the wave",
+                "suction force due to water returning after striking",
+                "all of the above."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "Spring tides are caused at new and full moon",
+                "Neap tides are caused when the moon is in her quarters",
+                "Spring tides are roughly twice the height of neap tides",
+                "Flood tides and Ebbstides are caused after 24 hours and 50 minutes corresponding to a lunar day",
+                "All of the above."
+            ]
+        },
+        {
+            "question": "A dock:",
+            "answers": [
+                "is a marine structure for berthing of vessels for loading and unloading cargo and passengers",
+                "is an artificial basin for vessels where the variation of water in the shore does not affect the level of water",
+                "is provided with a dock gate",
+                "is provided with an arrangement to pump out water when required",
+                "all the above."
+            ]
+        }
+    ]
+}

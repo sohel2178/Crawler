@@ -1,0 +1,329 @@
+{
+    "questions": [
+        {
+            "question": "1 kg wt in gravitational unit equals",
+            "answers": [
+                "8.9 N in SI system",
+                "9.8 N in SI system",
+                "4.5 N in SI system",
+                "5.4 N in SI system."
+            ]
+        },
+        {
+            "question": "To convert the units of M.K.S. to units of S.I., a factor 9.80665 is used for",
+            "answers": [
+                "mass",
+                "force",
+                "work energy",
+                "power",
+                "all the above."
+            ]
+        },
+        {
+            "question": "SI unit for the surface tension, is",
+            "answers": [
+                "kg/m3",
+                "kg/m2",
+                "kg/m",
+                "N/m"
+            ]
+        },
+        {
+            "question": "The basic quantity in the International system of units, is",
+            "answers": [
+                "length and mass",
+                "time and temperature",
+                "mole and light intensity",
+                "electric current",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Intensity of electric current is expressed in",
+            "answers": [
+                "volts",
+                "watts",
+                "amperes",
+                "joules."
+            ]
+        },
+        {
+            "question": "One Netwon force equals",
+            "answers": [
+                "105 dynes",
+                "104 dynes",
+                "103 dynes",
+                "102 dynes"
+            ]
+        },
+        {
+            "question": "In S.I. system, the symbol for density is",
+            "answers": [
+                "N/m3",
+                "kg/m3",
+                "m3/s",
+                "kg"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "1 N force = 0.10197 kgf",
+                "1 kgf = 9.80665 N",
+                "1 kgf/cm2 = 98.0665 kN/m2",
+                "1 atm = 101.325 kN/m2",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The thickness of a micron, is",
+            "answers": [
+                "10-3 m",
+                "10-6 m",
+                "10-9 m",
+                "10-12 m"
+            ]
+        },
+        {
+            "question": "The fundamental units in S.I. system, are the same as that of",
+            "answers": [
+                "C.G.S. units",
+                "F.P.S. units",
+                "M.K.S. units",
+                "None of these."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "In S.I. system, pressure is expressed in N/m2",
+                "In S.I. system, surface tension is expressed in Newton per metre",
+                "In S.I. system, force is expressed in Newtons",
+                "In S.I. system, power is expressed in watts",
+                "All the above."
+            ]
+        },
+        {
+            "question": "100 kN/m2 pressure is equal to",
+            "answers": [
+                "1 atm",
+                "1 bar",
+                "1 m bar",
+                "1 mm Hg"
+            ]
+        },
+        {
+            "question": "The solid angles are measured in",
+            "answers": [
+                "degrees",
+                "grades",
+                "radians",
+                "steradians."
+            ]
+        },
+        {
+            "question": "10-12, is called",
+            "answers": [
+                "Terra",
+                "pico",
+                "Giga",
+                "Mega",
+                "None of these."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "The units of moment of inertia of a plane area, depends upon the units of the area and the length",
+                "The moment of inertia is expressed in m4 if the area is in square metres and the length is also in metres",
+                "The moment of inertia is expressed in cm4 if the area is in square centimetres and the length in centimetres",
+                "The moment of inertia is expressed in mm4 if the area is in square millimetres and the length in millimetres",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The intensity of pressure at a certain place is 1 kg (f)/m2, the intensity of pressur e in SI units will be",
+            "answers": [
+                "47.88 N/m2",
+                "9.81 N/m2",
+                "4.882 N/m2",
+                "0.07013 N/m2"
+            ]
+        },
+        {
+            "question": "If \u03b1 is the angular acceleration of a body of moment of inertia I, the torque is",
+            "answers": [
+                "I2 \u03b1",
+                "I \u03b1",
+                "I/\u03b1",
+                "I2/\u03b1",
+                "I \u03b11/2"
+            ]
+        },
+        {
+            "question": "In SI units, moment is expressed as",
+            "answers": [
+                "kg-m",
+                "kg-cm",
+                "kg-mm",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Angular acceleration is expressed as",
+            "answers": [
+                "m/s2",
+                "w/s2",
+                "rad/s2",
+                "rad/s"
+            ]
+        },
+        {
+            "question": "One Newton force produces an acceleration of",
+            "answers": [
+                "1 cm/sec2 while acting on a body of 1 gm mass",
+                "1 cm/sec2 while acting on a body of 1 kg mass",
+                "1 m/sec2 while acting on a body of 1 kg mass",
+                "1 m/sec2 while acting on a body of 1 gm mass."
+            ]
+        },
+        {
+            "question": "Hertz (Hz) is used to express",
+            "answers": [
+                "Luminous intensity",
+                "electric current intensity",
+                "power",
+                "frequency."
+            ]
+        },
+        {
+            "question": "Candela (Cd) is used to express",
+            "answers": [
+                "luminous intensity",
+                "electric current intensity",
+                "power",
+                "frequency."
+            ]
+        },
+        {
+            "question": "The unit kg/m3 is used for",
+            "answers": [
+                "force",
+                "density",
+                "volume",
+                "pressure."
+            ]
+        },
+        {
+            "question": "The fundamental units in S.I. System are :",
+            "answers": [
+                "Centimetre, gram, second",
+                "Foot, pound, second",
+                "Metre, kilogram, second",
+                "Kilometre, kilogram, minute",
+                "None of these."
+            ]
+        },
+        {
+            "question": "The bar used for defining the standard metre at the International office of weights and measures at Sevres near Paris, is composed of",
+            "answers": [
+                "50% platinum and 50% iridium",
+                "60% platinum and 40% iridium",
+                "70% platinum and 30% iridium",
+                "80% platinum and 20% iridium",
+                "90% platinum and 10% iridium"
+            ]
+        },
+        {
+            "question": "m2/s is used in S.I. system for",
+            "answers": [
+                "Surface tension",
+                "Kinematic viscosity",
+                "Pressure",
+                "Power."
+            ]
+        },
+        {
+            "question": "The S.I. unit of Modulus of elasticity is",
+            "answers": [
+                "Newton/m2",
+                "Newton/cm2",
+                "Newton/mm2",
+                "all the above."
+            ]
+        },
+        {
+            "question": "One Newton is equivalent to",
+            "answers": [
+                "0.10197 kgf",
+                "0.20197 kgf",
+                "9.80665 kgf",
+                "0.97125 kgf"
+            ]
+        },
+        {
+            "question": "Joule or Newton metric is used for",
+            "answers": [
+                "Work",
+                "Torque",
+                "Energy",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Stress in SI units is expressed in",
+            "answers": [
+                "kg per sq cm",
+                "kg per sq mm",
+                "Newton per sq mm",
+                "Newton per sq cm",
+                "Newton per sq m"
+            ]
+        },
+        {
+            "question": "In S.I. system, symbol for the specific weight is",
+            "answers": [
+                "kg/m3",
+                "N/m3",
+                "N/m2",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The SI unit of the force is",
+            "answers": [
+                "Newton",
+                "Kilogrames",
+                "Joule",
+                "Erg"
+            ]
+        },
+        {
+            "question": "In SI system, the unit of temperature, is",
+            "answers": [
+                "Degree centigrade",
+                "Degree Celsius",
+                "Kelvin",
+                "Degree Fahrenheit."
+            ]
+        },
+        {
+            "question": "N-s/m2 is used in S.I. system for",
+            "answers": [
+                "Kinematic viscosity",
+                "Dynamic viscosity",
+                "Mass density",
+                "Weight density."
+            ]
+        },
+        {
+            "question": "Basic unit of thermodynamic temperature, is",
+            "answers": [
+                "degree fahrenheit",
+                "degree centigrade",
+                "degree kelvin",
+                "degree absolute."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,2247 @@
+{
+    "questions": [
+        {
+            "question": "A rectangular bar of width b and height h is being used as a cantilever. The loading is in a plane parallel to the side b. The section modulus is",
+            "answers": [
+                "",
+                "",
+                "",
+                "none of these."
+            ]
+        },
+        {
+            "question": "As compared to uniaxial tension or compression, the strain energy stored in bending is only",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The ratio of strengths of solid to hollow shafts, both having outside diameter D and hollow having inside diameter D/2, in torsion, is",
+            "answers": [
+                "1/4",
+                "1/2",
+                "1/16",
+                "15/16",
+                "3/8"
+            ]
+        },
+        {
+            "question": "The weakest section of a diamond riveting, is the section which passes through",
+            "answers": [
+                "first row",
+                "second row",
+                "central raw",
+                "one rivet hole of end row."
+            ]
+        },
+        {
+            "question": "In a loaded beam, the point of con-traflexture occurs at a section where",
+            "answers": [
+                "bending moment is minimum",
+                "bending moment is zero or changes sign",
+                "bending moment is maximum",
+                "shearing force is maximum",
+                "shearing force is minimum."
+            ]
+        },
+        {
+            "question": "The ratio of elongations of a conical bar due to its own weight and that of a prismatic bar of the same length, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "A three-hinged arch is said to be :",
+            "answers": [
+                "statically determinate structure",
+                "statically indeterminate structure",
+                "a bent beam",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The deflection due to couple M at the free end of a cantilever length L is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The shape of the bending moment diagram over the length of a beam, having no external load, is always",
+            "answers": [
+                "linear",
+                "parabolic",
+                "cubical",
+                "circular."
+            ]
+        },
+        {
+            "question": "Pick up the incorrect statement",
+            "answers": [
+                "The cross-sectional area of the welded member is effective",
+                "A welded joint develops strength of its parent metal",
+                "Welded joints provide rigidity",
+                "Welded joints have better finish",
+                "Welding takes more time than riveting."
+            ]
+        },
+        {
+            "question": "A uniform girder simply supported at its ends is subjected to a uniformly distributed load over its entire length and is propped at the centre so as to neutralise the deflection. The net B.M. at the centre will be",
+            "answers": [
+                "WL",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "A beam of length L is pinned at both ends and is subjected to a concentrated bending couple of moment M at its centre. The maximum bending moment in the beam is",
+            "answers": [
+                "M",
+                "M/2",
+                "M/3",
+                "ML/2"
+            ]
+        },
+        {
+            "question": "If two forces acting at a joint are not along the straight line, then for the equilibrium of the joint",
+            "answers": [
+                "one of the forces must be zero",
+                "each force must be zero",
+                "forces must be equal and of the same sign",
+                "forces must be equal in magnitude but opposite in sign."
+            ]
+        },
+        {
+            "question": "A closely coiled helical spring of radius R, contains n turns and is subjected to an axial load W. If the radius of the coil wire is r and modulus of rigidity of the coil material is C, the stress developed in the helical spring is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "If the shear force along a section of a beam is zero, the bending moment at the section is",
+            "answers": [
+                "zero",
+                "maximum",
+                "minimum",
+                "average of maximum-minimum",
+                "none of these."
+            ]
+        },
+        {
+            "question": "In the cantilever truss as shown in below figure, the horizontal component of the reaction at A, is ",
+            "answers": [
+                "30 tonnes",
+                "60 tonnes",
+                "90 tonnes",
+                "120 tonnes",
+                "150 tonnes."
+            ]
+        },
+        {
+            "question": "In case of an eccentric loading on a bracket subjected to moment M, the tangential force developed in any rivet, at right angles to its radius vector r is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "A simply supported beam of span L carries a concentrated load W at its mid-span. The maximum bending moment M is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The ratio of the maximum deflections of a beam simply supported at its ends with an isolated central load and that of with a uniformly distributed load over its entire length, is",
+            "answers": [
+                "1",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The shape of the bending moment diagram over the length of a beam, carrying a uniformly distributed load is always",
+            "answers": [
+                "linear",
+                "parabolic",
+                "cubical",
+                "circular."
+            ]
+        },
+        {
+            "question": "The minimum number of rivets for the connection of a gusset plate, is",
+            "answers": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ]
+        },
+        {
+            "question": "A triangular section having base b, height h, is placed with its base horizontal. If the shear stress at a depth y from top is q, the maximum shear stress is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The slenderness ratio of a vertical column of a square cross-section of 2.5 cm sides and 300 cm length, is",
+            "answers": [
+                "200",
+                "240",
+                "360",
+                "416",
+                "500"
+            ]
+        },
+        {
+            "question": "If n is the ratio of internal and external diameters of a hollow shaft, the ratio of the weight of the hollow shaft and that of solid shaft of same strength, will be",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "A rectangular beam 20 cm wide is subjected to a maximum shearing force of 10, 000 kg, the corresponding maximum shearing stress being 30 kg/cm2. The depth of the beam is",
+            "answers": [
+                "15 cm",
+                "20 cm",
+                "25 cm",
+                "30 cm."
+            ]
+        },
+        {
+            "question": "The maximum twisting moment a shaft can resist, is the product of the permissible shear stress and",
+            "answers": [
+                "moment of inertia",
+                "polar moment of inertia",
+                "polar modulus",
+                "modulus of rigidly."
+            ]
+        },
+        {
+            "question": "For a simply supported beam with a central load, the bending moment is",
+            "answers": [
+                "least at the centre",
+                "least at the supports",
+                "maximum at the supports",
+                "maximum at the centre."
+            ]
+        },
+        {
+            "question": "For a given material Young's modulus is 200 GN/m2 and modulus of rigidity is 80 GN/m2. The value of Poisson's ratio is",
+            "answers": [
+                "0.15",
+                "0.20",
+                "0.25",
+                "0.30",
+                "0.40"
+            ]
+        },
+        {
+            "question": "The ratio of the moment of inertia of a circular plate and that of a square plate for equal depth, is",
+            "answers": [
+                "less than one",
+                "equal to one",
+                "more than one",
+                "equal to 3\u03c0/16",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The force in member U2L2 of the truss shown in below figure, is ",
+            "answers": [
+                "10 T tension",
+                "10 T compression",
+                "zero",
+                "15 T compression."
+            ]
+        },
+        {
+            "question": "If a shaft is rotating N revolutions per minute with an applied torque T kg-m, the horse power being transmitted by the shaft, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                "none of these."
+            ]
+        },
+        {
+            "question": "If the width of a simply supported beam carrying an isolated load at its centre is doubled, the deflection of the beam at the centre is changed by",
+            "answers": [
+                "1/2",
+                "1/8",
+                "2",
+                "8",
+                "4"
+            ]
+        },
+        {
+            "question": "For a simply supported beam of length L, the bending moment M is described as M = a (x - x3/L2), 0 \u2264 x < L; where a is a constant. The shear force will be zero at",
+            "answers": [
+                "the supports",
+                "x = L/2",
+                "x = L/3",
+                "x = L/3"
+            ]
+        },
+        {
+            "question": "The deflection of any rectangular beam simply supported, is",
+            "answers": [
+                "directly proportional to its weight",
+                "inversely proportional to its width",
+                "inversely proportional to the cube of its depth",
+                "directly proportional to the cube of its length",
+                "none of these."
+            ]
+        },
+        {
+            "question": "If a rectangular beam measuring 10 x 18 x 400 cm carries a unformly distributed load such that the bending stress developed is 100 kg/cm2. The intensity of the load per metre length, is",
+            "answers": [
+                "240 kg",
+                "250 kg",
+                "260 kg",
+                "270 kg",
+                "280 kg."
+            ]
+        },
+        {
+            "question": "Influence lines are drawn for structures",
+            "answers": [
+                "of any type",
+                "statically determinate",
+                "pin-jointed truss",
+                "none of these."
+            ]
+        },
+        {
+            "question": "A shaft turning 150 r.p.m. is subjected to a torque of 150 kgm. Horse power transmitted by the shaft is",
+            "answers": [
+                "\u03c0",
+                "10 \u03c0",
+                "\u03c02",
+                "1/\u03c0"
+            ]
+        },
+        {
+            "question": "A simply supported beam carrying a uniformly distributed load over its whole span, is propped at the centre of the span so that the beam is held to the level of the end supports. The reaction of the prop will be",
+            "answers": [
+                "half the distributed load",
+                "3/8th the distributed load",
+                "5/8th the distributed load",
+                "distributed load.",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The range within which a load can be applied on a rectangular column, to avoid any tensile stress, is",
+            "answers": [
+                "one-half of the base",
+                "one-fifth of the base",
+                "one-fourth of the base",
+                "one-fifth of the base",
+                "one sixth of the base on either side of centroid."
+            ]
+        },
+        {
+            "question": "In a beam, the neutral plane",
+            "answers": [
+                "may be its centre",
+                "passes through the C.G. of the area of cross-section",
+                "does not change during deformation",
+                "none of these."
+            ]
+        },
+        {
+            "question": "When loads are applied proportionately to a frame structure containing its members in one plane, the structure is called",
+            "answers": [
+                "grid frame",
+                "plane frame",
+                "space frame",
+                "truss frame."
+            ]
+        },
+        {
+            "question": "The shear stress at any section of a shaft is maximum",
+            "answers": [
+                "at the centre of the section",
+                "at a distance r/2 from the centre",
+                "at the top of the surface",
+                "at a distance 3/4 r from the centre",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The region of the cross-section of a column in which compressive load may be applied without producing any tensile stress, is known as the core of the cross-section. In circular columns the radius of the core, is",
+            "answers": [
+                "one-half of the radius",
+                "one-third of the radius",
+                "one-quarter of the radius",
+                "one-fifth of the radius",
+                "one-sixth of the radius."
+            ]
+        },
+        {
+            "question": "A beam is said to be of uniform strength, if",
+            "answers": [
+                "B.M. is same throughout the beam",
+                "deflection is same throughout the beam",
+                "bending stress is same throughout the beam",
+                "shear stress is same throughout the beam",
+                "none of these."
+            ]
+        },
+        {
+            "question": "In a tension test, the yield stress is 300 kg/cm2, in the octa hedral shear stress at the point is:",
+            "answers": [
+                "100 2 kg/cm2",
+                "150 2 kg/cm2",
+                "200 2 kg/cm",
+                "250 2 kg/cm2."
+            ]
+        },
+        {
+            "question": "The radius of gyration of a rectangular section is not proportional to",
+            "answers": [
+                "square root of the moment of inertia",
+                "square root of the inverse of the area",
+                "square root of the moment of inertia divided by area of the section",
+                "none of these."
+            ]
+        },
+        {
+            "question": "A reinforced concrete beam is assumed to be made of",
+            "answers": [
+                "homogeneous material",
+                "heterogeneous material",
+                "isotropic material",
+                "none of these."
+            ]
+        },
+        {
+            "question": "If the rivets in adjacent rows are staggered and outermost row has only one rivet, the arrangement of the rivets, is called",
+            "answers": [
+                "chain riveting",
+                "zig-zag riveting",
+                "diamond riveting",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The energy stored in a beam of length L subjected to a constant B.M. is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The force in DB of the truss shown in below figure is ",
+            "answers": [
+                "3 W compression",
+                "W tension",
+                "2 W compression",
+                "5 W tension",
+                "4 W tension."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "A ductile material has large plastic zone",
+                "A brittle material has no plastic zone",
+                "A rigid material has no plastic zone",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The number of points of contraflexure in a simple supported beam carrying uniformly distributed load, is",
+            "answers": [
+                "1",
+                "2",
+                "3",
+                "0"
+            ]
+        },
+        {
+            "question": "The maximum bending moment due to a moving load on a simply supported beam, occurs",
+            "answers": [
+                "at the mid span",
+                "at the supports",
+                "under the load",
+                "anywhere on the beam",
+                "none of these."
+            ]
+        },
+        {
+            "question": "A three hinged parabolic arch hinged at the crown and springings, has a horizontal span of 4.8 m and a central rise of 1 m. It carries a uniformly distributed load of 0.75 tonne per metre over half left hand span. The horizontal thrust at the support will be",
+            "answers": [
+                "10.8 tonnes",
+                "1.08 tonnes",
+                "1.8 tonnes",
+                "0.8 tonnes",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The length of a column which gives the same value of buckling load by Euler and Rankine-Gordon formula, is equal to",
+            "answers": [
+                "",
+                "",
+                "",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The length of a column, having a uniform circular cross-section of 7.5 cm diameter and whose ends are hinged, is 5 m. If the value of E for the material is 2100 tonnes/cm2, the permissible maximum crippling load will be",
+            "answers": [
+                "1.288 tonnes",
+                "12.88",
+                "128.8 tonnes",
+                "288.0",
+                "none of these."
+            ]
+        },
+        {
+            "question": "If a three hinged parabolic arch carries a uniformly distributed load on its entire span, every section of the arch resists.",
+            "answers": [
+                "compressive force",
+                "tensile force",
+                "shear force",
+                "bending moment."
+            ]
+        },
+        {
+            "question": "In a three hinged arch, the shear force is usually",
+            "answers": [
+                "maximum at crown",
+                "maximum at springings",
+                "maximum at quarter points",
+                "varies with slope."
+            ]
+        },
+        {
+            "question": "An arch may be subjected to",
+            "answers": [
+                "shear and axial force",
+                "bending moment and shear force",
+                "bending moment and axial force",
+                "shear force and thrust",
+                "thrust, shear force and bending moment."
+            ]
+        },
+        {
+            "question": "The law which states, \"within elastic limits strain produced is proportional to the stress producing it\", is known as",
+            "answers": [
+                "Bernoulli's law",
+                "Stress law",
+                "Hooke's law",
+                "Poisson's law",
+                "none of these."
+            ]
+        },
+        {
+            "question": "A simply supported beam of span L carries a uniformly distributed load W. The maximum bending moment M is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "A cantilever beam rectangular in cross-section is subjected to an isolated load at its free end. If the width of the beam is doubled, the deflection of the free end will be changed in the ratio of",
+            "answers": [
+                "8",
+                "1/8",
+                "1/2",
+                "2",
+                "3"
+            ]
+        },
+        {
+            "question": "The phenomenon of slow extension of materials having constant load, i.e. increasing with the time is called",
+            "answers": [
+                "creeping",
+                "yielding",
+                "breaking",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The direction of the reaction at support B of a truss shown in below figure will be ",
+            "answers": [
+                "East of North",
+                "West of North",
+                "East of South",
+                "West of South",
+                "Vertical."
+            ]
+        },
+        {
+            "question": "The reaction at support A of the beam shown in below figure, is ",
+            "answers": [
+                "zero",
+                "5 T",
+                "10 T",
+                "1 T",
+                "4 T."
+            ]
+        },
+        {
+            "question": "The maximum resistance against rotation, is offered by the weld at a point",
+            "answers": [
+                "most distant",
+                "least distant",
+                "at either end",
+                "centrally located."
+            ]
+        },
+        {
+            "question": "For structural analysis of forces, the method refers to",
+            "answers": [
+                "moment-area-theorem",
+                "three-moment equation",
+                "Maxwell's reciprocal theorem",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The B.M. of a cantilever beam shown in below figure at A, is ",
+            "answers": [
+                "zero",
+                "8 Tm",
+                "12 Tm",
+                "20 Tm."
+            ]
+        },
+        {
+            "question": "If a member carries a tensile force P on its area of cross-section A, the normal stress introduced on an inclined plane making an angle \u03b8 with its transverse plane, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The reaction at the supports will be vertical to the plane of the support if the frame structure rests on",
+            "answers": [
+                "roller supports",
+                "free supports",
+                "hinged supports",
+                "all the above."
+            ]
+        },
+        {
+            "question": "A cylinder is said to be thin if the ratio of its thickness and diameter, is less than",
+            "answers": [
+                "1/25",
+                "1/20",
+                "1/15",
+                "1/10",
+                "1/5"
+            ]
+        },
+        {
+            "question": "The shear force on a simply supported beam is proportional to",
+            "answers": [
+                "displacement of the neutral axis",
+                "sum of the forces",
+                "sum of the transverse forces",
+                "algebraic sum of the transverse forces of the section",
+                "curvature of the neutral axis."
+            ]
+        },
+        {
+            "question": "An arch with three hinges, is a structure",
+            "answers": [
+                "statically determinate",
+                "statically indeterminate",
+                "geometrically unstable",
+                "structurally sound but indeterminate",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Stress in members of statically determinate simple frames, can be determined by",
+            "answers": [
+                "method of joints",
+                "method of sections",
+                "graphical solution",
+                "all the above."
+            ]
+        },
+        {
+            "question": "While testing a cast iron beam (2.5 cm x 2.5 cm) in section and a metre long simply supported at the ends failed when a 100 kg weight is applied at the centre. The maximum stress induced is :",
+            "answers": [
+                "960 kg/cm2",
+                "980 kg/cm2",
+                "1000 kg/cm2",
+                "1200 kg/cm2."
+            ]
+        },
+        {
+            "question": "For a channel section, the shear centre lies at a distance of",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "When equal and opposite forces applied to a body, tend to elongate it, the stress so produced, is called",
+            "answers": [
+                "shear stress",
+                "compressive stress",
+                "tensile stress",
+                "transverse stress."
+            ]
+        },
+        {
+            "question": "Stress in a beam due to simple bending, is",
+            "answers": [
+                "directly proportional",
+                "inversely proportional",
+                "curvilinearly related",
+                "none of these."
+            ]
+        },
+        {
+            "question": "A cantilever carrying a uniformly distributed load W over its full length is propped at its free end such that it is at the level of the fixed end. The bending moment will be zero at its free end also at",
+            "answers": [
+                "mid point of the cantilever",
+                "fixed point of the cantilever",
+                "1/4th length from free end",
+                "3/4th length from free end",
+                "half length from free end."
+            ]
+        },
+        {
+            "question": "In rectangular columns (cross-section b x h), the core is a",
+            "answers": [
+                "rectangle of lengths b/2 and h/2",
+                "square of length b/2",
+                "rhombus of length h/2",
+                "rhombus of diagonals b/3 and h/3",
+                "none of the these."
+            ]
+        },
+        {
+            "question": "The tensile force required to cause an elongation of 0.045 mm in a steel rod of 1000 mm length and 12 mm diameter, is (where E = 2 x 106 kg/cm2)",
+            "answers": [
+                "166 kg",
+                "102 kg",
+                "204 kg",
+                "74 kg"
+            ]
+        },
+        {
+            "question": "According to Unwin's formula, the diameter d of a rivet of plate of thickness t is :",
+            "answers": [
+                "d = 6.05 t",
+                "d = 1.5 t + 4",
+                "d = 5 t",
+                "d = t + 1.5"
+            ]
+        },
+        {
+            "question": "In a bar of large length when held vertically and subjected to a load at its lower end, its own-weight produces additional stress. The maximum stress will be",
+            "answers": [
+                "at the lower cross-section",
+                "at the built-in upper cross-section",
+                "at the central cross-section",
+                "at every point of the bar."
+            ]
+        },
+        {
+            "question": "If a shaft is simultaneously subjected to a toque T and a bending moment M, the ratio of maximum bending stress and maximum shearing stress is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Struts are load carrying members of a frame structure which are subjected to",
+            "answers": [
+                "axial tension loads",
+                "axial compressive loads",
+                "torsional loads",
+                "transverse loads."
+            ]
+        },
+        {
+            "question": "A simply supported wooden beam 150 cm long and having a cross section 16 cm x 24 cm carries a concentrated load, at the centre. If the permissible stress ft = 75 kg/cm2 and fs = 10 kg/cm2 the safe load is",
+            "answers": [
+                "3025 kg",
+                "3050 kg",
+                "3075 kg",
+                "3100 kg."
+            ]
+        },
+        {
+            "question": "If the normal cross-section A of a member is subjected to tensile force P, the resulting normal stress in an oblique plane inclined at angle \u03b8 to transverse plane will be",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The nature of the stress in horizontal members of the truss shown in below figure may be ",
+            "answers": [
+                "compressive",
+                "tensile",
+                "shear",
+                "zero",
+                "all the above."
+            ]
+        },
+        {
+            "question": "A solid cube is subjected to equal normal forces on all its faces. The volumetric strain will be x-times the linear strain in any of the three axes when",
+            "answers": [
+                "x = 1",
+                "x = 2",
+                "x = 3",
+                "x = 4"
+            ]
+        },
+        {
+            "question": "The structure shown in below figure is stable, if ",
+            "answers": [
+                "",
+                "x = 2y",
+                "x = y",
+                "2x = y."
+            ]
+        },
+        {
+            "question": "n and j are numbers of members and joints in a frame. It contains redundant members if",
+            "answers": [
+                "n = 2j - 3",
+                "n = 3j - 2",
+                "n < 2j - 3",
+                "n < j - 2",
+                "n > 2j - 3"
+            ]
+        },
+        {
+            "question": "The materials which have the same elastic properties in all directions, are called",
+            "answers": [
+                "isotropic",
+                "brittle",
+                "homogeneous",
+                "hard."
+            ]
+        },
+        {
+            "question": "The greatest eccentricity which a load W can have without producing tension on the cross-section of a short column of external diameter D and internal diameter d, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "In a three hinged arch, the third hinge is generally kept at",
+            "answers": [
+                "crown of the arch",
+                "midpoint of the crown and left support hinge",
+                "midpoint of the crown and right support hinge",
+                "none of these."
+            ]
+        },
+        {
+            "question": "A bending moment may be defined as :",
+            "answers": [
+                "Arithmetic sum of the moments of all the forces on either side of the section",
+                "Arithmetic sum of the forces on either side of the section",
+                "Algebraic sum of the moments of all the forces on either side of the section",
+                "None of these."
+            ]
+        },
+        {
+            "question": "The property of a material by which it can be beaten or rolled into thin plates, is called",
+            "answers": [
+                "malleability",
+                "ductility",
+                "plasticity",
+                "elasticity."
+            ]
+        },
+        {
+            "question": "If a constant section beam is subjected to a uniform bending moment throughout, its length bends to",
+            "answers": [
+                "a circular arc",
+                "a parabolic arc",
+                "a catenary",
+                "none of these."
+            ]
+        },
+        {
+            "question": "A simply supported beam (l + 2a) with equal overhangs (a) carries a uniformly distributed load over the whole length, the B.M. changes sign if",
+            "answers": [
+                "l > 2a",
+                "l < 2a",
+                "l = 2a",
+                "l = 4a",
+                "l = 3a."
+            ]
+        },
+        {
+            "question": "The type of butt joints in common use, is :",
+            "answers": [
+                "single inverted V-butt joint",
+                "double V-butt joint",
+                "double U-butt joint",
+                "single V-butt joint."
+            ]
+        },
+        {
+            "question": "For structural analysis, Maxwell's reciprocal theorem can be applied to :",
+            "answers": [
+                "plastic structures",
+                "elastic structures",
+                "symmetrical structures",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The ratio of the moments of resistance of a solid circular shaft of diameter D and a hollow shaft (external diameter D and internal diameter d), is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                "none of these."
+            ]
+        },
+        {
+            "question": "A cantilever carries is uniformly distributed load W over its whole length and a force W acts at its free end upward. The net deflection of the free end will be",
+            "answers": [
+                "zero",
+                " upward",
+                " downward",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The moment diagram for a cantilever carrying a concentrated load at its free end, will be",
+            "answers": [
+                "triangle",
+                "rectangle",
+                "parabola",
+                "cubic parabola."
+            ]
+        },
+        {
+            "question": "In a shaft rotated by a couple, the shear force varies",
+            "answers": [
+                "from zero at the centre to a maximum at the circumference",
+                "from minimum at the centre of maximum at the circumference",
+                "from maximum at the centre to zero at the circumference",
+                "equally throughout the section",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The section modulus of a rectangular light beam 25 metres long is 12.500 cm3. The beam is simply supported at its ends and carries a longitudinal axial tensile load of 10 tonnes in addition to a point load of 4 tonnes at the centre. The maximum stress in the bottom most fibre at the mid span section, is",
+            "answers": [
+                "13.33 kg/cm2 tensile",
+                "13.33 kg/cm2 compressive",
+                "26.67 kg/cm2 tensile",
+                "26.67 kg/cm2 compressive",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The shape of the bending moment diagram over the length of a beam, carrying a uniformly increasing load, is always",
+            "answers": [
+                "linear",
+                "parabolic",
+                "cubical",
+                "circular."
+            ]
+        },
+        {
+            "question": "When a rectangular beam is loaded longitudinally, shear develops on",
+            "answers": [
+                "bottom fibre",
+                "top fibre",
+                "middle fibre",
+                "every-horizontal plane."
+            ]
+        },
+        {
+            "question": "The tension coefficient of any member is",
+            "answers": [
+                "force divided by the length",
+                "tension divided by the length",
+                "tension per unit area",
+                "tension in the member."
+            ]
+        },
+        {
+            "question": "A steel rod of 2 cm diameter and 5 metres long is subjected to an axial pull of 3000 kg. If E = 2.1 x 106, the elongation of the rod will be",
+            "answers": [
+                "2.275 mm",
+                "0.2275 mm",
+                "0.02275 mm",
+                "2.02275 mm."
+            ]
+        },
+        {
+            "question": "For a given material, if E, C, K and m are Young's modulus, shearing modulus, bulk modulus and poisson ratio, the following relation does not hold good",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "If the width b and depth d of a beam simply supported with a central load are interchanged, the deflection at the centre of the beam will be changed in the ratio of",
+            "answers": [
+                "b/d",
+                "d/b",
+                "(d/b)2",
+                "(b/d)2",
+                "(b/d)3."
+            ]
+        },
+        {
+            "question": "In the given below figure, the rivets with maximum stress, are : ",
+            "answers": [
+                "1 and 2",
+                "1 and 3",
+                "3 and 4",
+                "2 and 4"
+            ]
+        },
+        {
+            "question": "The maximum stress intensity due to a suddenly applied load is x-times the stress intensity produced by the load of the same magnitude applied gradually. The value of x is",
+            "answers": [
+                "1",
+                "2",
+                "3",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "For the beam shown in below figure, the maximum positive bending moment is nearly equal to negative bending moment when L1 is equal to ",
+            "answers": [
+                "1.0 L",
+                "0.7 L",
+                "0.5 L",
+                "0.35 L."
+            ]
+        },
+        {
+            "question": "Strain energy of a member may be equated to",
+            "answers": [
+                "average resistance x displacement",
+                " stress x strain x area of its cross-section",
+                " stress x strain x volume of the member",
+                " (stress)2 x volume of the member + Young's modulus E."
+            ]
+        },
+        {
+            "question": "If the stress in each cross-section of a pillar is equal to its working stress, it is called",
+            "answers": [
+                "body of equal",
+                "body of equal section",
+                "body of equal strength",
+                "none of these."
+            ]
+        },
+        {
+            "question": "A composite member shown in below figure was formed at 25\u00b0C and was made of two materials a and b. If the coefficient of thermal expansion of a is more than that of b and the composite member is heated upto 45\u00b0C, then ",
+            "answers": [
+                "a will be in tension and b in compression",
+                "both will be in compression",
+                "both will be in tension",
+                "a will be in compression and b in tension."
+            ]
+        },
+        {
+            "question": "The stress at which extension of a material takes place more quickly as compared to the increase in load, is called",
+            "answers": [
+                "elastic point",
+                "plastic point",
+                "breaking point",
+                "yielding point."
+            ]
+        },
+        {
+            "question": "In a square beam loaded longitudinally, shear develops",
+            "answers": [
+                "on middle fibre along horizontal plane",
+                "on lower fibre along horizontal plane",
+                "on top fibre along vertical plane",
+                "equally on each fibre along horizontal plane",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Shear deflection of a cantilever of length L, cross sectional area A and shear modulus G, under a concentrated load W at its free end, is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The point of contraflexture occurs in",
+            "answers": [
+                "cantilever beams only",
+                "continuous beams only",
+                "over hanging beams only",
+                "all types of beams",
+                "both (a) and (b)."
+            ]
+        },
+        {
+            "question": "An open-ended cylinder of radius r and thickness t is subjected to internal pressure p. The Young's modulus for the material is E and Poisson's ratio is \u03bc. The longitudinal strain is",
+            "answers": [
+                "zero",
+                "",
+                "",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The force in BD of the truss shown in below figure is : ",
+            "answers": [
+                "500 kg compressive",
+                "500 kg tensile",
+                "1500 kg tensile",
+                "1500 kg compressive",
+                "zero."
+            ]
+        },
+        {
+            "question": "The bending moment at E for the structure shown in below figure, is ",
+            "answers": [
+                "zero",
+                "10 Tm",
+                "20 Tm",
+                "40 Tm."
+            ]
+        },
+        {
+            "question": "A member which is subjected to reversible tensile or compressive stress may fail at a stress lower than the ultimate stress of the material. This property of metal, is called",
+            "answers": [
+                "plasticity of the metal",
+                "elasticity of the metal",
+                "fatigue of the metal",
+                "workability of the metal."
+            ]
+        },
+        {
+            "question": "For a simply supported beam carrying uniformly distributed load W on it entire length L, the maximum bending moment is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Euler's formula states that the buckling load P for a column of length l, both ends hinged and whose least moment of inertia and modulus of elasticity of the material of the column are I and E respectively, is given by the relation",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                "P = \u03c0El2."
+            ]
+        },
+        {
+            "question": "The shiftness factor for a prismatic beam of length L and moment of inertia I, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The stress in the wall of a cylinder in a direction normal to its longitudinal axis, due to a force acting along the circumference, is known as",
+            "answers": [
+                "yield stress",
+                "longitudinal stress",
+                "hoop stress",
+                "circumferential stress",
+                "ultimate stress."
+            ]
+        },
+        {
+            "question": "In a simply supported beam (l + 2a) with equal overhangs (a) and carrying a uniformly distributed load over its entire length, B.M. at the middle point of the beam will be zero if",
+            "answers": [
+                "l = 2a",
+                "l = 4a",
+                "l < 2a",
+                "l > a",
+                "l > 3a."
+            ]
+        },
+        {
+            "question": "At either end of a plane frame, maximum number of possible bending moments, are",
+            "answers": [
+                "one",
+                "two",
+                "three",
+                "four",
+                "zero."
+            ]
+        },
+        {
+            "question": "The principal stresses at a point are 100, 100 and-200 kgf/cm2, the octo hedral shear stress at the point is :",
+            "answers": [
+                "100 2 kg/cm2",
+                "200 2 kg/cm2",
+                "300 2 kg/cm2",
+                "400 2 kg/cm2",
+                "500 2 kg/cm2."
+            ]
+        },
+        {
+            "question": "During a tensile test on a ductile material",
+            "answers": [
+                "nominal stress at fracture is higher than the ultimate stress",
+                "true stress at fracture is higher than the ultimate stress",
+                "true stress at fracture is the same as the ultimate stress",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Rankine-Golden formula accounts for direct as well as buckling stress and is applicable to",
+            "answers": [
+                "very long columns",
+                "long columns",
+                "short columns",
+                "intermediate columns",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "The point through which the resultant of the shear stresses, passes is known as shear centre",
+                "In the standard rolled channels, the shear centre is on the horizontal line passing through and away from the C.G. beyond web",
+                "In equal angles, the shear centre is on the horizontal plane and away from the C.G., outside of the leg projection",
+                "In T-sections, the shear centre is at the C.G. of the section",
+                "All the above."
+            ]
+        },
+        {
+            "question": "In a three hinged arch, the bending moment will be zero",
+            "answers": [
+                "at right hinge only",
+                "at left hinge only",
+                "at both right and left hinges",
+                "at all the three hinges."
+            ]
+        },
+        {
+            "question": "The ratio of the tensile stress developed in the wall of a boiler in the circumferential direction to the tensile stress in the axial direction, is",
+            "answers": [
+                "4",
+                "3",
+                "2",
+                "1"
+            ]
+        },
+        {
+            "question": "The force in the member DE of the truss shown in below figure will be ",
+            "answers": [
+                "zero",
+                "2 W tensile",
+                "2 W compressive",
+                "4 W compressive",
+                "4 W tensile."
+            ]
+        },
+        {
+            "question": "In a shaft shear stress intensity at a point is not",
+            "answers": [
+                "directly proportional to the distance from the axis",
+                "inversely proportional to the distance from the axis",
+                "inversely proportional to the polar moment of inertia",
+                "directly proportional to the applied torque."
+            ]
+        },
+        {
+            "question": "Along the neutral axis of a simply supported beam",
+            "answers": [
+                "fibres do not undergo strain",
+                "fibres undergo minimum strain",
+                "fibres undergo maximum strain",
+                "none of these."
+            ]
+        },
+        {
+            "question": "A joint of a frame is subjected to three tensile force P, Q and R equally inclined to each other. If P is 10 tonnes, the other forces will be",
+            "answers": [
+                "Q = 10 tonnes and R = zero",
+                "R + 10 tonnes and Q = zero",
+                "Q + R = 10 tonnes",
+                "Q - R = zero",
+                "Q and R each is equal to 10 tonnes."
+            ]
+        },
+        {
+            "question": "If a member is subjected to a tensile force P, having its normal cross-section A, the resulting shear stress in an oblique plane inclined at an angle \u03b8 to its transverse plane, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "A simply supported beam carries two equal concentrated loads W at distances L/3 from either support. The maximum bending moment",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "If a solid shaft is subjected to a torque T at its end such that maximum shear stress does not exceed fz the diameter of the shaft will be",
+            "answers": [
+                "",
+                "",
+                "",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "The distance of the eccentric axial load from the C.G. beyond which tension develops, is known as kern distance",
+                "In visco-elastic material, stress-strain relation is dependent on time",
+                "An instropic material has different properties is different directions",
+                "An orthotropic material has different properties in three mutually perpendicular directions",
+                "All the above."
+            ]
+        },
+        {
+            "question": "In a simply supported beam L with a triangular load W varying from zero at one end to the maximum value at the other end, the maximum bending moment is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Maximum deflection of a cantilever due to pure bending moment M at its free end, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Along the principal plan subjected to maximum principal stress",
+            "answers": [
+                "maximum shear stress acts",
+                "minimum shear stress acts",
+                "no shear stress acts",
+                "none of these."
+            ]
+        },
+        {
+            "question": "A diagram which shows the variations of the axial load for all sections of the span of a beam, is called",
+            "answers": [
+                "bending moment diagram",
+                "shear force diagram",
+                "thrust diagram",
+                "stress diagram",
+                "none of these."
+            ]
+        },
+        {
+            "question": "A member which does not regain its original shape after removed of load producing deformation is said",
+            "answers": [
+                "plastic",
+                "elastic",
+                "rigid",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The bending moment is maximum on a section where shearing force",
+            "answers": [
+                "is maximum",
+                "is minimum",
+                "is equal",
+                "changes sign."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "The rate of change of bending moment is equal to rate of shear force",
+                "The rate of change of shear force is equal to rate of loading",
+                "neither (a) nor (b)",
+                "both (a) and (b)."
+            ]
+        },
+        {
+            "question": "A short masonry pillar is 60 cm x 60 cm in cross-section, the core of the pillar is a square whose side is",
+            "answers": [
+                "17.32 cm",
+                "14.14 cm",
+                "20.00 cm",
+                "22.36 cm",
+                "25.22 cm."
+            ]
+        },
+        {
+            "question": "A rectangular log of wood is floating in water with a load of 100 N at its centre. The maximum shear force in the wooden log is",
+            "answers": [
+                "50 N at each end",
+                "50 N at the centre",
+                "100 N at the centre",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The following assumption is not true in the theory of pure torsion :",
+            "answers": [
+                "The twist along the shaft is uniform",
+                "The shaft is of uniform circular section throughout",
+                "Cross-section of the shaft, which is plane before twist remains plane after twist",
+                "All radii get twisted due to torsion."
+            ]
+        },
+        {
+            "question": "The under mentioned type is simple strain",
+            "answers": [
+                "tensile strain",
+                "compressive strain",
+                "shear strain",
+                "volumetric strain",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The ratio of the effective length of a column and minimum radius of gyration of its cross-sectional area, is known",
+            "answers": [
+                "buckling factor",
+                "slenderness ratio",
+                "crippling factor",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The bending moment at C of a portal frame shown in below figure is ",
+            "answers": [
+                "8 t-m",
+                "4 t-m",
+                "28 t-m",
+                "16 t-m",
+                "zero."
+            ]
+        },
+        {
+            "question": "Failure of riverted joints is due to",
+            "answers": [
+                "Tearing of the plates between the rivet hole and the edge of the plate",
+                "Tearing of plates between rivets",
+                "Shearing of rivets",
+                "Crushing of rivets",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The maximum load to which a fillet joint of length L can be subjected to, is",
+            "answers": [
+                "0.7 x S x fillet size x L",
+                "2 x S x fillet size x L",
+                "permissible shear stress x fillet size x L",
+                "",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Pick up the correct assumption of the theory of simple bending",
+            "answers": [
+                "The value of the Young's modulus is the same in tension as well as in compression",
+                "Transverse section of a beam remains plane before and after bending",
+                "The material of the beam is homogeneous and isotropic",
+                "The resultant pull or thrust on transverse section of a beam is zero",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The neutral axis of a beam cross-section must",
+            "answers": [
+                "pass through the centroid of the section",
+                "be equidistant from the top of bottom films",
+                "be an axis of symmetry of the section",
+                "none of these."
+            ]
+        },
+        {
+            "question": "If the beam is supported so that there are only three unknown reactive elements at the supports. These can be determined by using the following fundamental equation of statics",
+            "answers": [
+                "\u2211H = 0",
+                "\u2211V = 0",
+                "\u2211H = 0; \u2211H = 0",
+                "\u2211H = 0; \u2211V = 0; \u2211M = 0",
+                "\u2211M = 0; \u2211H = 0"
+            ]
+        },
+        {
+            "question": "In a solid arch, shear force acts",
+            "answers": [
+                "vertically upwards",
+                "along the axis of the arch",
+                "perpendicular to the axis of arch",
+                "tangentially to the arch",
+                "none of these."
+            ]
+        },
+        {
+            "question": "A three hinged arch is loaded with an isolated load 1000 kg at a horizontal distance of 2.5 m from the crown, 1 m above the level of hinges at the supports 10 metres apart. The horizontal thrust is",
+            "answers": [
+                "1250 kg",
+                "125 kg",
+                "750 kg",
+                "2500 kg",
+                "2325 kg."
+            ]
+        },
+        {
+            "question": "For keeping the stress wholly compressive the load may be applied on a circular column anywhere within a concentric circle of diameter",
+            "answers": [
+                "d/2",
+                "d/3",
+                "d/4",
+                "d/8",
+                "d/10"
+            ]
+        },
+        {
+            "question": "A member is balanced at its end by two inclined members carrying equal forces. For equilibrium the angle between the inclined bars must be",
+            "answers": [
+                "3\u00b0",
+                "45\u00b0",
+                "60\u00b0",
+                "90\u00b0",
+                "120\u00b0"
+            ]
+        },
+        {
+            "question": "For a cantilever with a uniformly distributed load W over its entire length L, the maximum bending moment is",
+            "answers": [
+                "WL",
+                " WL",
+                " WL",
+                " W2L",
+                " WL2"
+            ]
+        },
+        {
+            "question": "To ascertain the maximum permissible eccentricity of loads on circular columns, the rule generally followed, is",
+            "answers": [
+                "middle half rule of columns",
+                "middle third rule of columns",
+                "middle fourth rule of columns",
+                "none of these."
+            ]
+        },
+        {
+            "question": "If Z and I are the section modulus and moment of inertia of the section, the shear force F and bending moment M at a section are related by",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "A closely coiled helical spring of radius R, contains n turns and is subjected to an axial load W. If the radius of the coil wire is r and modulus of rigidity of the coil material is C, the deflection of the coil is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The width of a beam of uniform strength having a constant depth d length L, simply supported at the ends with a central load W is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Beams of uniform strength are preferred to those of uniform section because these are economical for",
+            "answers": [
+                "large spans",
+                "heavy weights",
+                "light weights",
+                "short spans."
+            ]
+        },
+        {
+            "question": "The moment diagram for a cantilever whose free end is subjected to a bending moment, will be a",
+            "answers": [
+                "triangle",
+                "rectangle",
+                "parabola",
+                "cubic parabola."
+            ]
+        },
+        {
+            "question": "Reactions at the supports of a structure can be determined by equating the algebraic sum of",
+            "answers": [
+                "horizontal forces to zero",
+                "vertical forces to zero",
+                "moment about any point to zero",
+                "all the above."
+            ]
+        },
+        {
+            "question": "If a steel rod of 20 mm diameter and 5 metres long elongates by 2.275 mm when subjected to an axial pull of 3000 kg, the stress developed, is",
+            "answers": [
+                "9.5541 kg/cm2",
+                "95.541 kg/cm2",
+                "955.41 kg/cm2",
+                "9554.1 kg/cm2."
+            ]
+        },
+        {
+            "question": "Shear force for a cantilever carrying a uniformly distributed load over its length, is",
+            "answers": [
+                "triangle",
+                "rectangle",
+                "parabola",
+                "cubic parabola."
+            ]
+        },
+        {
+            "question": "If the width of a simply supported beam carrying an isolated load at its centre is doubled, the deflection of the beam at the centre is changed by",
+            "answers": [
+                "2 times",
+                "4 times",
+                "8 times",
+                "1/2 times",
+                "3 times."
+            ]
+        },
+        {
+            "question": "For a stable frame structure, number of members required, is",
+            "answers": [
+                "three times the number of joints minus three",
+                "twice the number of joints minus three",
+                "twice the number of joints minus two",
+                "twice the number of joints minus one",
+                "none of these."
+            ]
+        },
+        {
+            "question": "When a rectangular beam is loaded transversely, the maximum compressive stress develops on",
+            "answers": [
+                "bottom fibre",
+                "top fibre",
+                "neutral axis",
+                "every cross-section."
+            ]
+        },
+        {
+            "question": "The maximum deflection of a simply supported beam of length L with a central load W, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "In a continuous bending moment curve the point where it changes sign, is called",
+            "answers": [
+                "point of inflexion",
+                "point of contraflexture",
+                "point of virtual hinge",
+                "all the above."
+            ]
+        },
+        {
+            "question": "A beam of length L supported on two intermediate rollers carries a uniformly distributed load on its entire length. If sagging B.M. and hogging B.M. of the beam are equal, the length of each overhang, is",
+            "answers": [
+                "0.107 L",
+                "0.207 L",
+                "0.307 L",
+                "0.407 L",
+                "0.5 L."
+            ]
+        },
+        {
+            "question": "A long vertical member, subjected to an axial compressive load, is called",
+            "answers": [
+                "a column",
+                "a strut",
+                "a tie",
+                "a stanchion",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The property by which a body returns to its original shape after removal of the force, is called",
+            "answers": [
+                "plasticity",
+                "elasticity",
+                "ductility",
+                "malleability."
+            ]
+        },
+        {
+            "question": "The ratio of the maximum deflection of a cantilever beam with an isolated load at its free end and with a uniformly distributed load over its entire length, is",
+            "answers": [
+                "1",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "For a beam of uniform strength keeping its depth constant, the width will vary in proportion to",
+            "answers": [
+                "bending moment (M)",
+                "M ",
+                "M2",
+                "none of these."
+            ]
+        },
+        {
+            "question": "A shaft 9 m long is subjected to a torque 30 t-m at a point 3 m distant from either end. The reactive torque at the nearer end will be",
+            "answers": [
+                "5 tonnes metre",
+                "10 tonnes metre",
+                "15 tonnes metre",
+                "20 tonnes metre",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The width b and depth d of a beam cut from a wooden cylindrical log of 100 cm diameter for maximum strength are :",
+            "answers": [
+                "b = 57.73 cm d = 81.65 cm",
+                "b = 81.65 cm d = 57.73 cm",
+                "b = 50.00 cm d = 50.00 cm",
+                "b = 40.00 cm d = 80.00 cm",
+                "b = 30.00 cm d = 60.00 cm."
+            ]
+        },
+        {
+            "question": "If the stress produced by a prismatic bar is equal to the working stress, the area of the cross-section of the prismatic bar, becomes",
+            "answers": [
+                "zero",
+                "infinite",
+                "maximum",
+                "minimum."
+            ]
+        },
+        {
+            "question": "The section modulus of a rectangular section is proportional to",
+            "answers": [
+                "area of the section",
+                "square of the area of the section",
+                "product of the area and depth",
+                "product of the area and width",
+                "half moment of inertia of the section."
+            ]
+        },
+        {
+            "question": "The property of a material by which it can be drawn to a smaller section, due to tension, is called",
+            "answers": [
+                "plasticity",
+                "ductility",
+                "elasticity",
+                "malleability."
+            ]
+        },
+        {
+            "question": "The distance between the centres of adjacent rivets in the same row, is called",
+            "answers": [
+                "pitch",
+                "lap",
+                "gauge",
+                "staggered pitch."
+            ]
+        },
+        {
+            "question": "Shear deflection of a cantilever of length L, cross sectional area A and shear modulus G, subjected to w/m u.d.l., is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Columns of given length, cross-section and material have different values of buckling loads for different end conditions. The strongest column is one whose",
+            "answers": [
+                "one end is fixed and other end is hinged",
+                "both ends are hinged or pin jointed",
+                "one end is fixed and the other end entirely free",
+                "both the ends are fixed",
+                "none of the these."
+            ]
+        },
+        {
+            "question": "As the elastic limit reaches, tensile strain",
+            "answers": [
+                "increases more rapidly",
+                "decreases more rapidly",
+                "increases in proportion to the stress",
+                "decreases in proportion to the stress."
+            ]
+        },
+        {
+            "question": "The ratio of the flexural strengths of two square beams one placed with its two sides horizontal and the other placed with one diagonal vertical, diagonal, is",
+            "answers": [
+                "2",
+                "2",
+                "5",
+                "7"
+            ]
+        },
+        {
+            "question": "Simple bending equation is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Every material obeys the Hooke's law within its",
+            "answers": [
+                "elastic limit",
+                "plastic point",
+                "limit of proportionality",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The maximum compressive stress at the top of a beam is 1600 kg/cm2 and the corresponding tensile stress at its bottom is 400 kg/cm2 . If the depth of the beam is 10 cm, the neutral axis from the top, is",
+            "answers": [
+                "2 cm",
+                "4 cm",
+                "6 cm",
+                "8 cm",
+                "10 cm."
+            ]
+        },
+        {
+            "question": "The stress necessary to initiate yielding, is considerably",
+            "answers": [
+                "more than that necessary to continue it",
+                "less than that necessary to continue it",
+                "more than that necessary to stop it",
+                "less than that necessary to stop it."
+            ]
+        },
+        {
+            "question": "If a circular beam of diameter d experiences a longitudinal strain  and a lateral strain  the volumetric strain is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Strain energy of any member may be defined as work done on it",
+            "answers": [
+                "to deform it",
+                "to resist elongation",
+                "to resist shortening",
+                "all the above."
+            ]
+        },
+        {
+            "question": "If the length of a cantilever carrying an isolated load at its free end is doubled, the deflection of the free end will increase by",
+            "answers": [
+                "8",
+                "1/8",
+                "1/3",
+                "2",
+                "3"
+            ]
+        },
+        {
+            "question": "If b is the width of a plate joined by diamond riveting of diameter d, the efficiency of the joint is given by",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The B.M. diagram of the beam shown in below figure, is ",
+            "answers": [
+                "a rectangle",
+                "a triangle",
+                "a trapezium",
+                "a parabola",
+                "a circle."
+            ]
+        },
+        {
+            "question": "The value of Poisson's ratio always remains",
+            "answers": [
+                "greater than one",
+                "less than one",
+                "equal to one",
+                "none of these."
+            ]
+        },
+        {
+            "question": "For a beam having fixed ends, the unknown element of the reactions, is",
+            "answers": [
+                "horizontal components at either end",
+                "vertical components at either end",
+                "horizontal component at one end and vertical component at the other",
+                "horizontal and vertical components at both the ends."
+            ]
+        },
+        {
+            "question": "If all the dimensions of a bar are increased in the proportion n : 1, the proportion with which the maximum stress produced in the prismatic bar by its own weight, will increase in the ratio",
+            "answers": [
+                "1 : n",
+                "n : 1",
+                "1 : ",
+                " : 1",
+                "1 : n."
+            ]
+        },
+        {
+            "question": "The slenderness ratio of a vertical column of square cross- section of 10 cm side and 500 cm long, is",
+            "answers": [
+                "117.2",
+                "17.3",
+                "173.2",
+                "137.2",
+                "13.72"
+            ]
+        },
+        {
+            "question": "If the depth of a simply supported beam carrying an isolated load at its centre, is doubled, the deflection of the beam at the centre will be changed by a factor of",
+            "answers": [
+                "2",
+                "1/2",
+                "8",
+                "1/8",
+                "4"
+            ]
+        },
+        {
+            "question": "The equivalent length of a column fixed at one end and free at the other end, is",
+            "answers": [
+                "0.5 l",
+                "0.7 l",
+                "l",
+                "2 l",
+                "1.5 l."
+            ]
+        },
+        {
+            "question": "A cast iron T section beam is subjected to pure bending. For maximum compressive stress to be three times the maximum tensile stress, centre of gravity of the section from flange side is",
+            "answers": [
+                "h/4",
+                "h/3",
+                "h/2",
+                "2/3 h."
+            ]
+        },
+        {
+            "question": "The equivalent length of a column fixed at both ends, is",
+            "answers": [
+                "0.5 l",
+                "0.7 l",
+                "l",
+                "2 l",
+                "1.5 l."
+            ]
+        },
+        {
+            "question": "The rise of a parabolic arch at quarter points, is equal to",
+            "answers": [
+                " times the rise of the crown",
+                " times the rise of the crown",
+                " times the rise of the crown",
+                " times the rise of the crown",
+                " times the rise of the crown."
+            ]
+        },
+        {
+            "question": "The effect of arching a beam, is",
+            "answers": [
+                "to reduce the bending moment throughout",
+                "to increase the bending moment throughout",
+                "nothing on the bending throughout",
+                "ail the above."
+            ]
+        },
+        {
+            "question": "The phenomenon of slow growth of strain under a steady tensile stress, is called",
+            "answers": [
+                "yielding",
+                "creeping",
+                "breaking",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Hooke's law states that stress and strain are",
+            "answers": [
+                "directly proportional",
+                "inversely proportional",
+                "curvilinearly related",
+                "none of these."
+            ]
+        },
+        {
+            "question": "If S is the shear force at a section of an I-joist, having web depth d and moment of inertia I about its neutral axis, the difference between the maximum and mean shear stresses in the web is,",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "A 8 metre long simply supported rectangular beam which carries a distributed load 45 kg/m. experiences a maximum fibre stress 160 kg/cm2. If the moment of inertia of the beam is 640 cm4, the overall depth of the beam is",
+            "answers": [
+                "10 cm",
+                "12 cm",
+                "15 cm",
+                "16 cm",
+                "18 cm."
+            ]
+        },
+        {
+            "question": "A column is said to be of medium size if its slenderness ratio is between",
+            "answers": [
+                "20 and 32",
+                "32 and 120",
+                "120 and 160",
+                "160 and 180",
+                "180 and 200"
+            ]
+        },
+        {
+            "question": "A solid circular shaft of diameter d is subjected to a torque T. The maximum normal stress induced in the shaft, is",
+            "answers": [
+                "zero",
+                "",
+                "",
+                "none of these."
+            ]
+        },
+        {
+            "question": "If p is the internal pressure in a thin cylinder of diameter d and thickness t, the developed hoop stress, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Ties are load carrying members of a frame, which are subjected to",
+            "answers": [
+                "transverse loads",
+                "axial tension loads",
+                "axial compressive loads",
+                "torsional loads."
+            ]
+        },
+        {
+            "question": "At either end of a plane frame, maximum number of possible transverse shear forces, are",
+            "answers": [
+                "one",
+                "two",
+                "three",
+                "four",
+                "zero."
+            ]
+        },
+        {
+            "question": "The cross sections of the beams of equal length are a circle and a square whose permissible bending stress are same under same maximum bending. The ratio of their flexural weights is,",
+            "answers": [
+                "1.118",
+                "1.338",
+                "1.228",
+                "1.108"
+            ]
+        },
+        {
+            "question": "When two plates butt together and are riveted with two cover plates with two rows of rivets, the joint is known as",
+            "answers": [
+                "lap joint",
+                "butt join",
+                "single riveted single cover butt joint",
+                "double riveted double cover butt joint."
+            ]
+        },
+        {
+            "question": "The moment diagram for a cantilever which is subjected to a uniformly distributed load will be a",
+            "answers": [
+                "triangle",
+                "rectangle",
+                "parabola",
+                "cubic parabola."
+            ]
+        },
+        {
+            "question": "The areas of cross-section of a square beam and a circular beam subjected to equal bending moments, are same.",
+            "answers": [
+                "circular beam is more economical",
+                "square beam is more economical",
+                "both the beams are equally strong",
+                "both the beams are equally economical",
+                "none of these."
+            ]
+        },
+        {
+            "question": "For the same height, the bottom width for no tension,",
+            "answers": [
+                "for triangular section is more than rectangular section",
+                "for rectangular section is more than triangular section",
+                "for triangular section is same as that of a rectangular section",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Maximum deflection of a",
+            "answers": [
+                "Cantilever beam carrying a concentrated load W at its free end is ",
+                "simply supported beam carrying a concentrated load W at mid-span is ",
+                "cantilever beam, carrying a uniformly distributed load over span is ",
+                "simply supported beam carrying a uniformly distributed load over the span is ",
+                "All the above."
+            ]
+        },
+        {
+            "question": "A beam is said to be of uniform strength, if",
+            "answers": [
+                "B.M. is same throughout the beam",
+                "shear stress is same throughout the beam",
+                "deflection is same throughout the beam",
+                "bending stress is same at every section along its longitudinal axis."
+            ]
+        },
+        {
+            "question": "For a beam, if fundamental equations of statics are not sufficient to determine all the reactive forces at the supports, the structure is said to be",
+            "answers": [
+                "determinate",
+                "statically determinate",
+                "statically indeterminate",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The moment diagram for a cantilever carrying linearly varying load from zero at its free end and to maximum at the fixed end will be a",
+            "answers": [
+                "triangle",
+                "rectangle",
+                "parabola",
+                "cubic parabola."
+            ]
+        },
+        {
+            "question": "The maximum deflection of",
+            "answers": [
+                "a simply supported beam carrying a uniformly increasing load from either end and having the apex at the mid span is ",
+                "a fixed ended beam carrying a distributed load over the span is ",
+                "a fixed ended beam carrying a concentrated load at the mid span is ",
+                "a cantilever beam subjected to a moment M at the free end is ",
+                "All the above."
+            ]
+        },
+        {
+            "question": "If two tensile forces mutually perpendicular act on a rectangular parallelopiped bar are equal, the resulting elongation of the pipe, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The intensity of direct longitudinal stress in the cross-section at any point distant r from the neutral axis, is proportional to",
+            "answers": [
+                "r",
+                "",
+                "r2",
+                "",
+                "r3."
+            ]
+        }
+    ]
+}

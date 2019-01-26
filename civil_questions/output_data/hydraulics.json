@@ -1,0 +1,2676 @@
+{
+    "questions": [
+        {
+            "question": "A pitot tube is used to measure",
+            "answers": [
+                "pressure",
+                "difference in pressure",
+                "velocity of flow",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The thickness of a sharp crested weir is kept less than",
+            "answers": [
+                "one-third of the height of water on the sill",
+                "one-half of the height of water on the sill",
+                "one-fourth of the height of water on the sill",
+                "two-third of the height of water on the sill",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The property of steam function \u03c8 is :",
+            "answers": [
+                "\u03c8 is constant everwhere on any stream line",
+                "the flow around any path in the fluid is zero for continuous flow",
+                "the rate of change of \u03c8 with distance in an arbitrary direction, is proportional to the component of velocity normal to that direction",
+                "the velocity vector may be found by differentiating the stream function",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The maximum vacuum created at the summit of a syphon is",
+            "answers": [
+                "2.7 m of water",
+                "7.4 m of water",
+                "5.5 m of water",
+                "none."
+            ]
+        },
+        {
+            "question": "If the atmospheric pressure on the surface of an oil tank (sp. gr. 0.8) is 0.1 kg/cm2, the pressure at a depth of 2.5 m, is",
+            "answers": [
+                "1 metre of water",
+                "2 metres of water",
+                "3 metres of water",
+                "3.5 metres of water",
+                "4.0 metres of water."
+            ]
+        },
+        {
+            "question": "The total pressure force on a plane area is equal to the area multiplied by the intensity of pressure at its centroid, if",
+            "answers": [
+                "area is horizontal",
+                "area is vertical",
+                "area is inclined",
+                "all the above."
+            ]
+        },
+        {
+            "question": "If the volume of a liquid weighing 3000 kg is 4 cubic metres, 0.75 is its",
+            "answers": [
+                "specific weight",
+                "specific mass",
+                "specific gravity",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Bernoulli's equation assumes that",
+            "answers": [
+                "fluid is non-viscous",
+                "fluid is homogeneous",
+                "flow is steady",
+                "flow is along the stream line",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The time required to close a valve gradually is (where L is the length of pipe and C = velocity of pressure wave)",
+            "answers": [
+                "",
+                "\u2264",
+                ">",
+                "<"
+            ]
+        },
+        {
+            "question": "A syphon is used",
+            "answers": [
+                "to connect water reservoirs at different levels intervened by a hill",
+                "to supply water to a town from higher level to lower level",
+                "to fill up a tank with water at higher level from a lower level",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Most economical section of a circular channel for maximum discharge",
+            "answers": [
+                "depth of water = 0.95 diameter of circular section",
+                "hydraulic mean depth = 0.286 diameter of circular section",
+                "wetted perimeter = 2.6 diameter of circular section",
+                "wetted perimeter = 2.83 depth of water",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Unit of kinematic viscosity is",
+            "answers": [
+                "m2/sec",
+                "Newton sec/m2",
+                "Newton sec/m3",
+                "Kg sec/m2."
+            ]
+        },
+        {
+            "question": "The moment of inertia of a floating body along its longitudinal axis and the volume of water displaced by it are I and V respectively. The height of the metacentre above centre of buoyancy of the body, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Time of emptying liquid from a hemispherical vessel through an orifice at its bottom, is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Critical depth (h) of a channel, is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The ratio of maximum velocity to average velocity of viscous fluid through a circular pipe is",
+            "answers": [
+                "0.5",
+                "0.75",
+                "1.25",
+                "2.00"
+            ]
+        },
+        {
+            "question": "The shear stress distribution in viscous fluid through a circular pipe is :",
+            "answers": [
+                "maximum at the centre",
+                "maximum at the inside of surface",
+                "same throughout the section",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Product of Renold number, Froud's number and Mach number is :",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "For tranquil flow h > 2g or v < ",
+                "For critical flow ",
+                "For torrential flow h >  or v < gh",
+                "None of these."
+            ]
+        },
+        {
+            "question": "The side slope of Cipolletti weir is generally kept",
+            "answers": [
+                "1 to 4",
+                "1 to 3",
+                "1 to 2",
+                "1 : 5"
+            ]
+        },
+        {
+            "question": "A cylinder 3 m in diameter and 4 m long retains water one side as shown in the below figure. If the weight of the cylinder is 2000 kgf, the horizontal reaction at B is ",
+            "answers": [
+                "10,000 kgf",
+                "15,000 kgf",
+                "20,000 kgf",
+                "18,000 kgf."
+            ]
+        },
+        {
+            "question": "Inside pressure in a hollow soap bubble in the air is : (where d is the diameter of the bubble)",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The momentum correction factor (\u03b2) for the viscous flow through a circular pipe is",
+            "answers": [
+                "1.25",
+                "1.33",
+                "1.50",
+                "1.66",
+                "2.00"
+            ]
+        },
+        {
+            "question": "A piezometer opening in pipes measures",
+            "answers": [
+                "velocity head",
+                "static pressure",
+                "total pressure",
+                "negative static pressure."
+            ]
+        },
+        {
+            "question": "An independent mass of a fluid does not posses",
+            "answers": [
+                "elevation energy",
+                "kinetic energy",
+                "pressure energy",
+                "none of these."
+            ]
+        },
+        {
+            "question": "While applying the Bernoulli's equation  = total head, the work any section done on the flow system, if any",
+            "answers": [
+                "is added on the right side of the equation",
+                "is added on the left side of the equation",
+                "is ignored",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Discharge Q over a rectangular weir of length L and height H, is given by the equation",
+            "answers": [
+                "Q = 2/3 Cd2g LH3/2",
+                "Q = 2/3 CdL H2gH",
+                "",
+                "all the above."
+            ]
+        },
+        {
+            "question": "A short tube mouthpiece will not run full at its outlet if the head under which the orifice works, is",
+            "answers": [
+                "less than 12.2 m of the water",
+                "more than 12.2 m of the water",
+                "equal of 12.2 m of water",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Hydrostatic pressure on a dam depends upon its",
+            "answers": [
+                "length",
+                "depth",
+                "shape",
+                "material",
+                "both (b) and (c)."
+            ]
+        },
+        {
+            "question": "When two layers of a fluid separated by dy move over the other with a difference of velocity dv, causes a shearing stress , where \u03bc is known as",
+            "answers": [
+                "coefficient of viscosity",
+                "absolute viscosity",
+                "dynamic viscosity",
+                "viscosity",
+                "all the above."
+            ]
+        },
+        {
+            "question": "A pipe of 0.1 m2 cross sectional area suddenly enlarges to 0.3 m2 cross-sectional area. If the discharge of the pipe is 0.3 m3 /sec, the head loss is",
+            "answers": [
+                "2/g m of water",
+                "g/2 m of water",
+                "1g m of water",
+                "g m of water."
+            ]
+        },
+        {
+            "question": "Maximum efficiency of transmission of power through a pipe, is",
+            "answers": [
+                "25%",
+                "33.3%",
+                "50%",
+                "66.67%."
+            ]
+        },
+        {
+            "question": "An ideal flow of a liquid obeys",
+            "answers": [
+                "Continuity equation",
+                "Newton's law of viscosity",
+                "Newton's second law of motion",
+                "dynamic viscosity law,"
+            ]
+        },
+        {
+            "question": "Euler's equation for motion of liquids, is given by",
+            "answers": [
+                "",
+                "",
+                "",
+                "\u03c1dp + gdz + vdv = 0"
+            ]
+        },
+        {
+            "question": "Reynold number is the ratio of initial force and",
+            "answers": [
+                "viscosity",
+                "elasticity",
+                "gravitational force",
+                "surface tension."
+            ]
+        },
+        {
+            "question": "When a body is totally or partially immersed in a fluid, it is buoyed up by a force equal to",
+            "answers": [
+                "weight of the body",
+                "weight of the fluid displaced by the body",
+                "weight of the body and fluild displaced by the body",
+                "difference of weights of the fluid displaced and that of the body",
+                "none of these."
+            ]
+        },
+        {
+            "question": "If D is the diameter of a pipe of length L and f is the coefficient of friction of pipe then diameter of the nozzle d is",
+            "answers": [
+                "",
+                "",
+                "",
+                "none of these."
+            ]
+        },
+        {
+            "question": "If the total head of the nozzle of a pipe is 37.5 m and discharge is 1 cumec, the power generated is",
+            "answers": [
+                "400 H.P.",
+                "450 H.P.",
+                "500 H.P.",
+                "550 H.P."
+            ]
+        },
+        {
+            "question": "The phenomenon occuring in an open channel when a rapidly flowing stream abruptly changes to a slowly flowing stream causing a distinct rise of liquid surface, is",
+            "answers": [
+                "water hammer",
+                "hydraulic jump",
+                "critical discharge",
+                "none of these."
+            ]
+        },
+        {
+            "question": "In a circular pipe of length L and diameter d, a viscous liquid is flowing with a velocity v. The loss in head, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The horizontal component of the force on a curved surface is equal to",
+            "answers": [
+                "weight of liquid vertically below the curved surface",
+                "force on a vetical projection of the curved surface",
+                "product of pressure at its centroid and the area",
+                "weight of liquid retained by the curved area."
+            ]
+        },
+        {
+            "question": "The radius of gyration of the water line of a floating ship is 4 m and its metacentric height is 72.5 cm. The period of oscillation of the ship, is",
+            "answers": [
+                "\u03c0",
+                "2\u03c0",
+                "3\u03c0",
+                "4\u03c0",
+                "\u03c0/2"
+            ]
+        },
+        {
+            "question": "A pipe consisting of several pipes of varying diameters and lengths, may be replaced by an equivalent pipe of diameter D of length",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The Empirical formula  for discharge over large rectangular weirs, is known as",
+            "answers": [
+                "Francis formula",
+                "Bazin formula",
+                "Rehbook formula",
+                "Kutter's formula."
+            ]
+        },
+        {
+            "question": "The diameter (d) of a nozzle fixed at the end of a pipe (diameter D, length L) for maximum energy, is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Pick up the correct statement regarding Borda's mouth piece running full from the following :",
+            "answers": [
+                "Actual velocity at the out let is gH",
+                "Theoretical velocity at the outlet is 2gH",
+                "Coefficient of velocity is 1/2",
+                "Coefficient of contraction is 1",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Differential manometers are used to measure",
+            "answers": [
+                "pressure in water channels, pipes, etc.",
+                "difference in pressure at two points",
+                "atmospheric pressure",
+                "very low pressure."
+            ]
+        },
+        {
+            "question": "A tank 4m x 3m x 2m containing an oil of specific gravity 0.83 is moved with an acceleration g/2 m sec2. The ratio of the pressures at its bottom when it is moving vertically up and down, is",
+            "answers": [
+                "2",
+                "3",
+                "1/2",
+                "1/3"
+            ]
+        },
+        {
+            "question": "The most familiar form of Bernoulli's equation, is",
+            "answers": [
+                "",
+                "",
+                " = constant head",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Highest dam in India, is",
+            "answers": [
+                "Bhakra dam",
+                "Hirakund dam",
+                "Nagarjuna Sagar dam",
+                "Iddiki dam."
+            ]
+        },
+        {
+            "question": "Liquids",
+            "answers": [
+                "cannot be compressed",
+                "do not occupy definite shape",
+                "are not affected by change in pressure and temperature",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The ratio of the percentagge error in the discharge and percentage error in the measurement of head over a triangular notch, is",
+            "answers": [
+                "2/3",
+                "3/2",
+                "2/5",
+                "5/2"
+            ]
+        },
+        {
+            "question": "The ratio of the inertia and gravitational force acting in any flow, ignoring other forces, is called",
+            "answers": [
+                "Euler number",
+                "Frode number",
+                "Reynold number",
+                "Weber number."
+            ]
+        },
+        {
+            "question": "A rectangular channel 6 m wide and 3 m deep and having a bed slope as 1 in 2000 is running full. If Chezy's constant C = 54.8, pick up the correct specification of the channel from the following :",
+            "answers": [
+                "hydraulic mean depth = 1.5 m",
+                "Velocity of flow = 1.5 m/sec",
+                "Rate of flow = 27 m3/sec",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Non-over flow double curvature concrete arch, is provided in",
+            "answers": [
+                "Bhakra dam",
+                "Hirakund dam",
+                "Nagarjuna Sagar dam",
+                "Idukki dam."
+            ]
+        },
+        {
+            "question": "For the most economical trapezoidal open channel,",
+            "answers": [
+                "half of the top width must be equal to one of the sloping sides",
+                "the hydraulic mean depth must be equal to half the depth of flow",
+                "the semicircle drawn with top width as diameter must touch the three sides of the channel",
+                "All of these."
+            ]
+        },
+        {
+            "question": "Hydraulic ram is a device",
+            "answers": [
+                "for lifting water without an electric motor",
+                "for accelerating water flow",
+                "for lifting heavy loads",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Gauge pressure is",
+            "answers": [
+                "absolute pressure - atmospheric pressure",
+                "absolute pressure + atmospheric pressure",
+                "atmospheric pressure - absolute pressure",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The mouth piece shown in the below figure is generally known as ",
+            "answers": [
+                "Internal mouth piece",
+                "Re-entrant mouth piece",
+                "Borda's mouth piece",
+                "All the above."
+            ]
+        },
+        {
+            "question": "If S is the length of the crest, H is the height of water source of a weir whose length is L and discharge is Q m3/sec, the velocity of approach Vd is",
+            "answers": [
+                "2gH",
+                "",
+                "",
+                "",
+                "none of these."
+            ]
+        },
+        {
+            "question": "If jet of water coming out from a nozzle with a velocity 9.81 m/s, the angle of elevation being 30\u00b0, the time to reach the highest point is",
+            "answers": [
+                "0.25 s",
+                "0.50 s",
+                "1.0 s",
+                "1.5 s."
+            ]
+        },
+        {
+            "question": "The discharge through a 100 mm diameter external mouth piece fitted to the side of a large vessel is 0.05948 m3/s. The head over the mouth piece is",
+            "answers": [
+                "2 m",
+                "2.5 m",
+                "3.0 m",
+                "4.0 m."
+            ]
+        },
+        {
+            "question": "If cohesion between the molecules of a fluid is more than adhesion between the fluid and glass, the free level of fluid in a dipped glass tube will be",
+            "answers": [
+                "higher than the surface of liquid",
+                "same as the surface of liquid",
+                "lower than the surface of liquid",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The continuity equation",
+            "answers": [
+                "expresses the relationship between work and energy",
+                "relates the momentum per unit volume between two points on a stream line",
+                "relates mass rate of flow along a stream line",
+                "requires that Newton's second law of motion be satisfied at every point in fluid."
+            ]
+        },
+        {
+            "question": "Water displaced by a floating wooden block of density 0.75, 5 m long, 2 m wide and 3 m high, is",
+            "answers": [
+                "17.5 m3",
+                "20.0 m3",
+                "22.5 m3",
+                "25 km3."
+            ]
+        },
+        {
+            "question": "In pipe lines, a surge tank is provided",
+            "answers": [
+                "to relieve the pressure due to water hammer",
+                "to provide additional water head",
+                "to overflow the pipe line when suddenly closed",
+                "to remove the frictional loss in pipe."
+            ]
+        },
+        {
+            "question": "Total head of a liquid particle in motion is the sum of",
+            "answers": [
+                "potential head and kinetic head",
+                "kinetic head and pressure head",
+                "potential head and pressure head",
+                "potential head, kinetic head and pressure head."
+            ]
+        },
+        {
+            "question": "The velocity distribution of viscous fluid through a circular/pipe is :",
+            "answers": [
+                "hyperbolic",
+                "circular",
+                "parabolic",
+                "elliptical."
+            ]
+        },
+        {
+            "question": "If u, v, w are the components of the velocity v of a moving particle, the equation  represents",
+            "answers": [
+                "one diamensional flow",
+                "two dimensional flow",
+                "three dimensional flow",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Mercury is generally used in barometers because",
+            "answers": [
+                "its vaour pressure is practically zero",
+                "the height of the barometer will be less",
+                "it is a best liquid",
+                "both (a) and (b) above",
+                "both (b) and (c) above."
+            ]
+        },
+        {
+            "question": "Flow in pipes is laminar if Reynold number is",
+            "answers": [
+                "less than 2100",
+                "more than 3000",
+                "between 2100 and 3000",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The terminal velocity (v) of a sphere of radius r and specific weight W, which travels vertically downwards in a liquid of viscosity \u03bc and specific weight W, is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "In flow, the liquid particles may possess",
+            "answers": [
+                "potential energy",
+                "kinetic energy",
+                "pressure energy",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Euler's equation for the motion of liquids assumes that",
+            "answers": [
+                "fluid is viscous",
+                "fluid is homogeneous and incompressible",
+                "velocity of flow is non-uniform over the section",
+                "flow is unsteady along the stream line."
+            ]
+        },
+        {
+            "question": "The height of water level in a tank above the centre of a circular hole 2.5 cm in diameter is 50 m. The velocity of water flowing through the hole, is",
+            "answers": [
+                "31.1 m/sec",
+                "31.2 m/sec",
+                "31.3 m/sec",
+                "31.4 m/sec."
+            ]
+        },
+        {
+            "question": "A steady uniform flow is through",
+            "answers": [
+                "a long pipe at decreasing rate",
+                "a long pipe at constant rate",
+                "an expanding tube at constant rate",
+                "an expanding tube at increasing rate",
+                "a long pipe at increasing rate."
+            ]
+        },
+        {
+            "question": "Cavitation is caused by",
+            "answers": [
+                "Low pressure",
+                "High pressure",
+                "Low velocity",
+                "High velocity",
+                "None of these."
+            ]
+        },
+        {
+            "question": "Mach number is the ratio of inertia force to",
+            "answers": [
+                "viscosity",
+                "surface tension",
+                "gravitational force",
+                "elasticity."
+            ]
+        },
+        {
+            "question": "Hydraulic gradient is equal to difference in water surfaces",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The main assumption of Bernoulli's equation is :",
+            "answers": [
+                "The velocity of energy of liquid particle, across any cross-section of a pipe is uniform",
+                "No external force except the gravity acts on the liquid",
+                "There is no loss of energy of the liquid while flowing",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The valve closure is said to be sudden if",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "If Re is the Renold's number, the coefficient of friction for laminar flow is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The length of pipe is L, velocity of flow of a liquid in the pipe is V. If t is the time in second required to close the valve, the head of pressure",
+            "answers": [
+                "",
+                "",
+                "",
+                "none of these."
+            ]
+        },
+        {
+            "question": "For critical depth of flow of water in open channels, fc the specific energy must be :",
+            "answers": [
+                "minimum",
+                "maximum",
+                "average of maximum and minimum",
+                "None of these."
+            ]
+        },
+        {
+            "question": "Kinematic viscosity of liquids by equation  is determined by :",
+            "answers": [
+                "Redwood viscometer",
+                "Engler viscometer",
+                "Saybolt universal viscometer",
+                "None of these."
+            ]
+        },
+        {
+            "question": "If the forces are due to inertia and gravity, and frictional resistance plays only a minor role, the design of the channels is made by comparing",
+            "answers": [
+                "Reynold number",
+                "Froude number",
+                "Weber number",
+                "Mach number."
+            ]
+        },
+        {
+            "question": "The discharge over a Cipolletti weir of length 2.185 m when the head over the weir is 1 m, is",
+            "answers": [
+                "2.0 m3",
+                "2.5 m3",
+                "3.0 m3",
+                "4.0 m3."
+            ]
+        },
+        {
+            "question": "The velocity of the fluid particle at the centre of the pipe section, is",
+            "answers": [
+                "minimum",
+                "maximum",
+                "equal throughout",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Due to decrease of diameter of the droplet, inside pressure intensity",
+            "answers": [
+                "increases",
+                "decreases",
+                "remains unaffected",
+                "None of these."
+            ]
+        },
+        {
+            "question": "In order to avoid capillary correction, the minimum diameter of a manometer used for measuring pressure, should be",
+            "answers": [
+                "2 mm",
+                "4 mm",
+                "6 mm",
+                "8 mm",
+                "10 mm."
+            ]
+        },
+        {
+            "question": "When water flows over a rectangular suppressed weir, the negative pressure created beneath the nappe",
+            "answers": [
+                "increases the discharge",
+                "decreases the discharge",
+                "does not effect the discharge",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Barometres are used to measure",
+            "answers": [
+                "pressure in water channels, pipes etc.",
+                "difference in pressure at two points",
+                "atmospheric pressure",
+                "very low pressure",
+                "very high pressure."
+            ]
+        },
+        {
+            "question": "For most economical rectangular section of a channel, the depth is kept",
+            "answers": [
+                "one-fourth of the width",
+                "three times the hydraulic radius",
+                "half the width",
+                "hydraulic mean depth",
+                "none of these."
+            ]
+        },
+        {
+            "question": "In a centrifugual pump casing, the flow of water leaving the impeller, is",
+            "answers": [
+                "rectilinear flow",
+                "radial flow",
+                "free vortex motion",
+                "forced vertex."
+            ]
+        },
+        {
+            "question": "In fluids, steady flow occurs when",
+            "answers": [
+                "conditions of flow change steadily with time",
+                "conditions of flow do not change with time at a point",
+                "conditions of flow remain the same at adjacent point",
+                "velocity vector remains constant at a point."
+            ]
+        },
+        {
+            "question": "A cylinder 3 m in diameter and 4 m long retains water one side as shown in the below figure. If the weight of the cylinder is 2000 kgf, the vertical reaction at A is ",
+            "answers": [
+                "14,137 kgf",
+                "5,863 kgf",
+                "20,000 kgf",
+                "18,000 kgf."
+            ]
+        },
+        {
+            "question": "From a nozzle exposed to atmosphere, the liquid jet traverses",
+            "answers": [
+                "a straight line",
+                "a circular path",
+                "an elliptical path",
+                "a parabolic path."
+            ]
+        },
+        {
+            "question": "To avoid the force of surface tension in an inclined manometer, the minimum angle of inclination is",
+            "answers": [
+                "2\u00b0",
+                "3\u00b0",
+                "4\u00b0",
+                "5\u00b0"
+            ]
+        },
+        {
+            "question": "An orifice is taken as large if",
+            "answers": [
+                "(H2 - H1) > H",
+                "(H2 - H1) > H/4",
+                "(H2 - H1) > H/2",
+                "(H2 - H1) > H/3"
+            ]
+        },
+        {
+            "question": "A closed cylindrical vessel of 100 cm diameter and 200 cm high is completely filled with a liquid (sp. weight 1600 kg/m3) when rotated about its vertical axis at 100 r.p.m. The total pressure on its lid, is",
+            "answers": [
+                "459 kg",
+                "549 kg",
+                "945 kg",
+                "954 kg",
+                "95.4 kg."
+            ]
+        },
+        {
+            "question": "For exerting a pressure of 4.8 kg/cm2, the depth of oil (specific gravity 0.8), should be",
+            "answers": [
+                "40 cm",
+                "41 cm",
+                "56 cm",
+                "60 cm",
+                "76 cm."
+            ]
+        },
+        {
+            "question": "A cylindrical vessel 40 cm high is revolved about its vertical axis so that the water touches the bottom when it just spills out. If the radius of the cylinder is 5 cm, the angular velocity of rotation, is",
+            "answers": [
+                "2 rad/sec",
+                "3 rad/sec",
+                "4 rad/sec",
+                "5 rad/sec",
+                "none of these."
+            ]
+        },
+        {
+            "question": "For the flow of liquid from an open ended tube (or nozzle) leading to the formation of spray of liquid drops, the number generally applied, is",
+            "answers": [
+                "Froude number",
+                "Weber number",
+                "Reynold number",
+                "Mach number."
+            ]
+        },
+        {
+            "question": "In Newton's viscosity equation , the coefficient (\u03bc) is known as coefficient of",
+            "answers": [
+                "viscosity",
+                "absolute viscosity",
+                "dynamic viscosity",
+                "simple viscosity",
+                "all the above."
+            ]
+        },
+        {
+            "question": "An error of 1% in measuring the head of water over the crest of a triangular notch, produces an error in the discharge which is equal to",
+            "answers": [
+                "1.25%",
+                "1.5%",
+                "2.0%.",
+                "2.5%"
+            ]
+        },
+        {
+            "question": "Which one of the following equation is applicable to unsteady flow in open channels :",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Dimensions of the dynamic viscosity (\u03bc) are",
+            "answers": [
+                "MLT-2",
+                "M-1L-1T-1",
+                "ML-1T-2",
+                "ML-1T-1."
+            ]
+        },
+        {
+            "question": "To avoid vapourisation, pipe lines are laid over the ridge so that these are above the hydraulic gradient line, not more than",
+            "answers": [
+                "2.4 m",
+                "6.4 m",
+                "10.0 m",
+                "5.0 m."
+            ]
+        },
+        {
+            "question": "A jet projected at an angle of 45\u03b8, 40 m from the foot of a vertical column, just reaches the top of the column. The height of the column is",
+            "answers": [
+                "15 m",
+                "20 m",
+                "30 m",
+                "40 m",
+                "60 m."
+            ]
+        },
+        {
+            "question": "If Cv, Cc, Cd and Cr are the hydraulic coefficients of an orifice, then",
+            "answers": [
+                "Cd = Cc . Cv",
+                "Cr = 1 + Cv2/Cd",
+                "Cv = Cc + Cd",
+                "Cc = Cv/Cd"
+            ]
+        },
+        {
+            "question": "Atmospheric pressure varies with",
+            "answers": [
+                "altitude",
+                "temperature",
+                "weather conditions",
+                "all of the above."
+            ]
+        },
+        {
+            "question": "The magnitude of water hammer in a pipe depends upon",
+            "answers": [
+                "speed at which value is closed",
+                "length of the pipe line",
+                "elastic properties of the pipe material",
+                "elastic properties of the following liquid",
+                "all the above."
+            ]
+        },
+        {
+            "question": "If velocities of fluid particles vary from point to point in magnitude and direction, as well as from instant to instant, the flow is said to be",
+            "answers": [
+                "laminar",
+                "turbulent flow",
+                "uniform flow",
+                "non-uniform flow."
+            ]
+        },
+        {
+            "question": "The rise of the liquid along the walls of a revolving cylinder above the initial level, is",
+            "answers": [
+                "greater than the depression of the liquid at the axis of rotation",
+                "lesser than the depression of the liquid at the axis of rotation",
+                "the same as the depression of the liquid at the axis of rotation",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Fluids change the volume under external presssure due to",
+            "answers": [
+                "plasticity",
+                "viscosity",
+                "compressibility",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Discharge over an ogee weir remains the same as that of",
+            "answers": [
+                "sharp crested weir",
+                "triangular weir",
+                "cippoletti weir",
+                "drowned weir."
+            ]
+        },
+        {
+            "question": "When no air is left below the nappe and water stream adheres to the down stream face of the weir, it is known as",
+            "answers": [
+                "free nappe",
+                "depressed nappe",
+                "clinging nappe",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The best side slope for most economical trapezoidal section, is",
+            "answers": [
+                "30\u00b0",
+                "45\u00b0",
+                "60\u00b0",
+                "None of these."
+            ]
+        },
+        {
+            "question": "The following is not a laminar flow",
+            "answers": [
+                "Flow of oil in measuring instruments",
+                "Flow in beds in ground water",
+                "Rise of water in plants through roots",
+                "Flow of blood in the arteries of human body",
+                "Flow in water pipe lines."
+            ]
+        },
+        {
+            "question": "Which one of the following statements is true ?",
+            "answers": [
+                "The value of kinetic energy correction factor for turbulent flow lies between 1.03 to 1.06",
+                "The value of kinetic energy correction factor for laminar flow is 2",
+                "The practical value of kinetic energy correction factor for turbulent flow is unity",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Uniform flow is said to occur when",
+            "answers": [
+                "size and shape of the cross-section in a particular length remain constant",
+                "size and shape of the cross-section change along a length",
+                "frictional loss in the particular length of the channel will the more than the drop in its elevation",
+                "frictional loss in the particular length of the channel, will be less than the drop in elevation."
+            ]
+        },
+        {
+            "question": "For the most economical trapezoidal section of a channel with regards to discharge, the required condition, is",
+            "answers": [
+                "half of top width = sloping side",
+                "hydraulic depth = half the depth",
+                "",
+                "perpendiculars drawn from the centre of the top width on to the bottom sloping side, are all equal",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Molecules of fluids get attracted due to",
+            "answers": [
+                "capillarity action",
+                "surface tension",
+                "adhesion",
+                "cohesion",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Cappoletti weir is a",
+            "answers": [
+                "rectangular weir whose length is kept 3 times the height of the water above sill",
+                "triangular weir whose notch angle is 90\u00b0",
+                "trapezoidal weir, whose sides slope 1 horizontal to 2 verticals",
+                "a combination of rectangular and triangular weirs."
+            ]
+        },
+        {
+            "question": "On an inclined plane, centre of pressure is located",
+            "answers": [
+                "at the centroid",
+                "above the centroid",
+                "below the centroid",
+                "anywhere."
+            ]
+        },
+        {
+            "question": "For pipes not running full, the hydraulic mean depth is given by",
+            "answers": [
+                "m = r(\u03b8 - sin \u03b8)",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Atmospheric pressure is equal to water column head of",
+            "answers": [
+                "9.81 m",
+                "5.0 m",
+                "10.30 m",
+                "7.5 m."
+            ]
+        },
+        {
+            "question": "Shear stress is directly proportional to",
+            "answers": [
+                "the velocity",
+                "the shear strain",
+                "the viscosity",
+                "the velocity."
+            ]
+        },
+        {
+            "question": "To avoid an interruption in the flow of a syphon, an air vessel is provided",
+            "answers": [
+                "at the inlet",
+                "at the outlet",
+                "at the summit",
+                "at any point between intet and outlet."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "Total energy gradient is the graphical representation of the total head at any section of a pipe line",
+                "Vertical distance between the total energy line and hydraulic grade line is equal to the velocity head",
+                "Vertical distance between the total energy line and total energy gradient represents loss of head",
+                "all the above."
+            ]
+        },
+        {
+            "question": "A fluid particle may possess the displacement of",
+            "answers": [
+                "translation",
+                "rotation",
+                "distortion",
+                "all the above."
+            ]
+        },
+        {
+            "question": "In Chezy's formula V = C mi",
+            "answers": [
+                "V is the mean velocity of flow",
+                "m is the hydraulic mean depth",
+                "i is the loss of head per unit length of pipe",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "When the length of the tube is equal to diameter of the internal mouth piece, the jet of liquid comes out without touching the sides of the tube",
+                "When the length of the tube is three times the diameter of the internal mouth piece, the jet diameter is equal to diameter of the tube.",
+                "both (a) and (b)",
+                "Neither (a) nor (b)."
+            ]
+        },
+        {
+            "question": "If total head available at the inlet of pipe and f1 is the loss of head due to friction in the pipe, the maximum efficiency of transmission of power (\u03b7max) is",
+            "answers": [
+                "1/2",
+                "2/3",
+                "3/4",
+                "4/5"
+            ]
+        },
+        {
+            "question": "Piezometers are used to measure",
+            "answers": [
+                "pressure in water channels, pipes etc.",
+                "difference in pressure at two points",
+                "atmospheric pressure",
+                "very low pressure."
+            ]
+        },
+        {
+            "question": "Most economical section of a triangular channel, is",
+            "answers": [
+                "equilateral triangle",
+                "right angled triangle",
+                "isosceles triangle with 45\u00b0 vertex angle",
+                "right angled triangle with equal sides."
+            ]
+        },
+        {
+            "question": "In an open tube, free surface of mercury remains",
+            "answers": [
+                "horizontal",
+                "curved upwards",
+                "curved downwards",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The equation  for the viscosity, is suggested",
+            "answers": [
+                "Bernoulli",
+                "Newton",
+                "Chezy",
+                "Bezin",
+                "Helmholtz."
+            ]
+        },
+        {
+            "question": "The value of momentum correction factor (\u03b2) for a laminar flow through a circular pipe, is",
+            "answers": [
+                "1/2",
+                "2/3",
+                "3/4",
+                "4/3",
+                "3/2"
+            ]
+        },
+        {
+            "question": "Manometers are used to measure",
+            "answers": [
+                "pressure in water channels, pipes etc.",
+                "difference in pressure at two points",
+                "atmospheric pressure",
+                "very low pressure."
+            ]
+        },
+        {
+            "question": "For maximum horse power of a nozzle, the head supplied must be equal to",
+            "answers": [
+                "head loss in the pipe due to friction",
+                "twice the head loss in the pipe due to friction",
+                "thrice the head loss in the pipe due to friction",
+                "four times the head loss in the pipe due to friction."
+            ]
+        },
+        {
+            "question": "The ratio of frictional factor and coefficient of friction used in general equation for a head loss in a pipe, is",
+            "answers": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ]
+        },
+        {
+            "question": "Flow in pipes is turbulent if Reynold number is",
+            "answers": [
+                "less than 2100",
+                "more than 3000",
+                "between 2100 and 3000",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Back water curve is caused if",
+            "answers": [
+                "friction head loss is more than the bed slope",
+                "pressure is due to weir in the channel",
+                "there is an increase in width of the channel",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Power transmitted through a pipe is maximum when friction head loss, is",
+            "answers": [
+                "one-half of the total head supplied",
+                "one-third of the total head supplied",
+                "one-fouth of the total head supplied",
+                "equal to the total head supplied."
+            ]
+        },
+        {
+            "question": "The specific weight of water is 1000 kg/m3",
+            "answers": [
+                "at normal pressure of 760 mm",
+                "at 4\u00b0C temperature",
+                "at mean sea level",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Specific weight of liquid",
+            "answers": [
+                "remains constant at every place",
+                "does not remain constant at every place",
+                "varies from place to place on the earth",
+                "does not vary on any other planet."
+            ]
+        },
+        {
+            "question": "Manning's formula is used for",
+            "answers": [
+                "flow in open channels",
+                "head loss due to friction in open channels",
+                "head loss due to friction in pipes flowing full",
+                "flow in pipes."
+            ]
+        },
+        {
+            "question": "A non-uniform steady flow is through",
+            "answers": [
+                "a long tube at a decreasing rate",
+                "an expanding tube at constant rate",
+                "an expanding tube at increasing rate",
+                "a long pipe at increasing rate."
+            ]
+        },
+        {
+            "question": "An ideal fluid is",
+            "answers": [
+                "incompressible",
+                "compressible",
+                "compressible and non-viscous",
+                "slightly affected by surface torque."
+            ]
+        },
+        {
+            "question": "Equation of continuity of flow is based on the principle of conservation of",
+            "answers": [
+                "mass",
+                "momentum",
+                "force",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "Discharge over a triangular notch is proportional to H5/2",
+                "Discharge over a rectangular notch is proportional to H3/2",
+                "Both (a) and (b)",
+                "Neither (a) nor (b)."
+            ]
+        },
+        {
+            "question": "The flow in open channel is said to be subcritical if the Froude number is",
+            "answers": [
+                "less than 1.0",
+                "equal to 1.0",
+                "greater than 1.0",
+                "none."
+            ]
+        },
+        {
+            "question": "In C.G.S. system the unit of visocity is",
+            "answers": [
+                "dyne",
+                "joule",
+                "poise",
+                "Newton",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The ratio of the percentage error in the discharge and percentage error in the measurement of head, over rectangular notch, is",
+            "answers": [
+                "1/2",
+                "2/3",
+                "3/2",
+                "3/4"
+            ]
+        },
+        {
+            "question": "In steady flow, which one of the following changes with time",
+            "answers": [
+                "velocity",
+                "pressure",
+                "density",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The notch angle for maximum discharge over a triangular notch, is",
+            "answers": [
+                "30\u00b0",
+                "60\u00b0",
+                "90\u00b0",
+                "120\u00b0"
+            ]
+        },
+        {
+            "question": "In an inclined pipe, the pressure difference at its two ends is due to",
+            "answers": [
+                "sudden head drop at inlet",
+                "exit head drop",
+                "frictional loss head",
+                "elevation head",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Weber number is the ratio of inertia force to",
+            "answers": [
+                "surface tension",
+                "gravitational force",
+                "elasticity",
+                "viscosity."
+            ]
+        },
+        {
+            "question": "Though angle of deviation of liquid is more in internal mouth piece, the contraction of the jet, is",
+            "answers": [
+                "more in the internal mouth piece",
+                "less in the internal mouth piece",
+                "equal to external mouth piece",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The width of a weir with end contraction, is",
+            "answers": [
+                "equal to the width of the channel",
+                "less than the width of the channel",
+                "half the width of the channel",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The ratio of time for completely emptying the hemispherical tank and circular horizontal tank of equal radii both fitted with similar orifices at their bottoms is :",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "An open container filled with water is moved vertically upward with a uniform linear acceleration. The pressure at its bottom will be",
+            "answers": [
+                "greater than static pressure",
+                "equal to static pressure",
+                "lesser than static pressure",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The gases are considered incompressible if Match number is",
+            "answers": [
+                "equal to 1.0",
+                "equal to 1.5",
+                "is more than 0.5",
+                "less than 0.2"
+            ]
+        },
+        {
+            "question": "The flow in which each liquid particle has a definite path and the paths of adjacent particles do not cross each other, is called",
+            "answers": [
+                "stream line flow",
+                "uniform flow",
+                "steady flow",
+                "turbulent flow."
+            ]
+        },
+        {
+            "question": "To replace a pipe of diameter D by n parallel pipes of diameter d, the formula is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The dimensionless parameter not applicable to flowing liquids, is",
+            "answers": [
+                "Reynold number",
+                "Weber number",
+                "Pressure coefficient",
+                "Kinematic viscosity",
+                "Friction factor."
+            ]
+        },
+        {
+            "question": "The pressure rise due to water hammer depends upon",
+            "answers": [
+                "the velocity of flow of water in the pipe",
+                "the length of pipe",
+                "time taken to close the valve",
+                "the elasticity of the pipe material",
+                "All of above."
+            ]
+        },
+        {
+            "question": "In a two dimensional flow if the components of the velocity are u = ax ; v = by, the point where no motion occurs, is known as",
+            "answers": [
+                "critical point",
+                "neutral point",
+                "stagnation point",
+                "stationary point",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Most economical section of a circular channel for maximum velocity, is if,",
+            "answers": [
+                "depth of water = 0.810 diameter",
+                "hydraulic mean depth = 0.304 diameter",
+                "wetted perimeter = 2.245 diameters",
+                "all the above."
+            ]
+        },
+        {
+            "question": "For a most economical rectangular channel, the width of the channel must be",
+            "answers": [
+                "equal to depth of flow",
+                "twice the depth of flow",
+                "half the depth of flow",
+                "None of these."
+            ]
+        },
+        {
+            "question": "If a1 and a2 are the cross-sectional areas of a tank and orifice, h the height of water level in tank above the centre of the orifice, the velocity of approach is given by",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The hydrostatic force acts through",
+            "answers": [
+                "centre of pressure",
+                "centre of top edge",
+                "centre of bottom edge",
+                "metacentre."
+            ]
+        },
+        {
+            "question": "In an inclined position, a venturimeter records",
+            "answers": [
+                "more reading",
+                "less reading",
+                "same reading",
+                "none of these."
+            ]
+        },
+        {
+            "question": "If E1 and E2 are the specific energies at the start of back water curve and at the maximum rise of water respectively and ib and ie are the head slope and the energy line slope respectively, the length of back water (L) is given by",
+            "answers": [
+                "",
+                "",
+                "",
+                "None of these."
+            ]
+        },
+        {
+            "question": "The velocity of flow at the critical depth (hc) is called critical velocity (Vc) which is equal to",
+            "answers": [
+                "Vc = g x hc",
+                "g x hc",
+                "",
+                "None of these."
+            ]
+        },
+        {
+            "question": "In a short cylindercial external mouthpiece, the venacontracta occurs at a distance from the outlet of orifice equal to",
+            "answers": [
+                "diameter of the orifice",
+                "one-fourth the diameter of the orifice",
+                "one-third the diameter of the orifice",
+                "two-third the diameter of the orifice"
+            ]
+        },
+        {
+            "question": "If the pressure at the inlet of a pipe is 90 kg/cm2 and pressure drop over the pipe line is 10 kg/cm2, the efficiency of transmission, is",
+            "answers": [
+                "66.6%",
+                "77.7%",
+                "55.5%",
+                "88.8%."
+            ]
+        },
+        {
+            "question": "Pick up the incorrect statement from to following regarding triangular notch :",
+            "answers": [
+                "For measuring low discharge, it gives more accurate result",
+                "Only one reading (i.e. H) is required for computation of discharge",
+                "Ventilation is necessary",
+                "None of these."
+            ]
+        },
+        {
+            "question": "The flow in a channel is said to be non-uniform, if",
+            "answers": [
+                "free water surface of an open channel is not parallel to the bed of channel",
+                "head needed to overcome frictional reistance is less than the drop in elevation of channel bed",
+                "head needed to overcome frictional resistance is more than the drop in elevation of channel bed",
+                "all the above."
+            ]
+        },
+        {
+            "question": "If H is the depth of water retained by a vertical wall, the height of centre of pressure above the bottom is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "For maximum power transmission through a nozzle, (where hf is the head lost due to friction)",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Mass density of liquid (\u03c1) is given by",
+            "answers": [
+                "",
+                "",
+                "",
+                "all the above."
+            ]
+        },
+        {
+            "question": "'Flow net' can be drawn only if the flow is",
+            "answers": [
+                "turbulent",
+                "rotational",
+                "distortion",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The flow in open channel is laminar if the Reynold number is",
+            "answers": [
+                "less than 500",
+                "more than 500",
+                "1000",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Centre of buoyancy is",
+            "answers": [
+                "centroid of the floating body",
+                "centroid of the fluid displaced",
+                "centre of pressure of the displaced liquid",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The intensity of pressure due to sudden closure of a valve of a pipe in which water flows with velocity v, is directly proportional to :",
+            "answers": [
+                "square root of the bulk modulus of elasticity of water",
+                "bulk modulus of elasticity of water",
+                "specific weight of water",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The initial difference between liquid levels of two identical cylindrical vessels having their area of cross-section A, is H. Flow time T from one vessel to another through an orifice having coefficient of discharge Cd and area a will be",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Total energy line is",
+            "answers": [
+                "pressure head",
+                "datum head",
+                "kinetic head",
+                "All the above."
+            ]
+        },
+        {
+            "question": "For critical flow, the Froude number is :",
+            "answers": [
+                "1.0",
+                "less than 1.0",
+                "more than 1.0",
+                "2"
+            ]
+        },
+        {
+            "question": "A stepped notch is a combination of",
+            "answers": [
+                "rectangular notches of different sizes",
+                "triangular notches of different sizes",
+                "rectangular and triangular notches",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The centre of pressure of a vertical plane immersed in a liquid is at",
+            "answers": [
+                "centre of higher edge",
+                "centre of lower edge",
+                "centroid of the area",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The ratio of the hydraulic radius of a pipe running full to the hydraulic radius of a square section of a channel whose side is equal to the diameter of the pipe, is",
+            "answers": [
+                "1",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "A body of dimensions 1.5 m x 1.0 m x 2 m weighs 3000 kg in water. Its specific gravity is",
+            "answers": [
+                "0.8",
+                "0.9",
+                "1.0",
+                "1.1"
+            ]
+        },
+        {
+            "question": "An orifice is called a large orifice if water head, is",
+            "answers": [
+                "twice the diameter of the orifice",
+                "thrice the diameter of the orifice",
+                "four times the diameter of the orifice",
+                "five times the diameter of the orifice."
+            ]
+        },
+        {
+            "question": "When a liquid rotates at constant angular velocity about a vertical axis of a rigid body, the pressure",
+            "answers": [
+                "increases linearly to its radial distance",
+                "varies inversely as the altitude along any vertical line",
+                "varies as the square of the radial distance",
+                "decreases as the square of the radial distance",
+                "none of these."
+            ]
+        },
+        {
+            "question": "For the two dimensional flow, the stream function is given by \u03c8 = 2xy. The velocity at a point (3, 4) is",
+            "answers": [
+                "6 m/sec",
+                "8 m/sec",
+                "10 m/sec",
+                "12 m/sec",
+                "15 m/sec."
+            ]
+        },
+        {
+            "question": "A floating body attains stable equilibrium if its metacentre is",
+            "answers": [
+                "at the centroid",
+                "above the centroid",
+                "below the centroid",
+                "anywhere."
+            ]
+        },
+        {
+            "question": "The unit of the viscosity is",
+            "answers": [
+                "kg sec/m2",
+                "Newton sec per m2",
+                "Newton-sec2/m3",
+                "m2 per sec."
+            ]
+        },
+        {
+            "question": "Water flows through a convergent mouthpiece of diameter 4 cm at convergence under a head of 3 metres. If the maximum vacuum pressure is 9 metres of water, the maximum diameter of divergence, to aviod separation of flow, is",
+            "answers": [
+                "4 cm",
+                "6 cm",
+                "2 cm",
+                "23 cm."
+            ]
+        },
+        {
+            "question": "An ideal fluid",
+            "answers": [
+                "is frictionless and incompressible",
+                "obeys Newton's law of velocity",
+                "is similar to gas",
+                "is very viscous."
+            ]
+        },
+        {
+            "question": "In C.G.S. system the units of kinematic viscosity, is",
+            "answers": [
+                "stoke",
+                "poise",
+                "Newton",
+                "none of these."
+            ]
+        },
+        {
+            "question": "A triangular notch is preferred to a rectangular notch because",
+            "answers": [
+                "only one reading is required",
+                "its formula is simple to remember",
+                "it gives more accurate results for low discharge",
+                "it measures a wide range of flows accurately",
+                "all the above."
+            ]
+        },
+        {
+            "question": "In case of laminar flow through a circular pipe,",
+            "answers": [
+                "momentum correction factor is 1.33",
+                "energy correction factor is 2.00",
+                "both (a) and (b)",
+                "Neither (a) nor (b)."
+            ]
+        },
+        {
+            "question": "The pressure less than atmospheric , pressure, is known",
+            "answers": [
+                "suction pressure",
+                "vacuum pressure",
+                "negative gauge pressure",
+                "all the above."
+            ]
+        },
+        {
+            "question": "If H is the difference of liquid levels on two sides of an orifice (width b, depth d), the discharge through the orifice will be",
+            "answers": [
+                "Cdbd22gH",
+                "Cdb2d2gH",
+                "Cdbd2gh",
+                "Cdbd.2g H1/2."
+            ]
+        },
+        {
+            "question": "A load w is rolled a distance d across the deck of a ship of weight W, due to which the ship heels through \u03b8\u00b0. The metacentric height of the ship, is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "A rise or fall of liquid in a glass tube of a very small diameter when dipped is",
+            "answers": [
+                "directly proportional to the force per unit length of periphery",
+                "direcly proportional to the sine of the angle of contact",
+                "directly proportional to the specific weight of liquid",
+                "inversely proportional to the diameter of the glass tube."
+            ]
+        },
+        {
+            "question": "To measure very low pressure, we use",
+            "answers": [
+                "barometers",
+                "piezometers",
+                "manometers",
+                "differential manometers."
+            ]
+        },
+        {
+            "question": "If a pitot tube is placed with its nose facing down stream, the liquid",
+            "answers": [
+                "does not rise in the tube",
+                "rises in the tube to a height ",
+                "falls in the tube to a depth ",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The discharge through an internal mouth piece is more if its length is",
+            "answers": [
+                "<  diameter",
+                "< diameter",
+                "\u2265 diameter",
+                "none of these."
+            ]
+        },
+        {
+            "question": "A spherical load 900 kg is rolled through 9.8 m across the deck of a ship weighing 10, 000 kg. If the metacentric height of the ship is 5 metres, the angle of heel, is",
+            "answers": [
+                "10\u00b0 5'",
+                "10\u00b0 10'",
+                "10\u00b0 15'",
+                "10\u00b0 20'"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "In incompressible flow the density of a fluid remains constant",
+                "In compressible flow, the density of a fluid changes from point to point",
+                "In uniform flow, the velocity of a fluid does not change with respect to length of flow direction",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Pick up the incorrect statement from the following :",
+            "answers": [
+                "In radial flow, fluid flows such that pressure and velocity at any point change with respect to its distance from the central axis",
+                "In radial flow, velocity of flow is in a radial direction",
+                "In radial flow, flow may take place radially inward to or outward from the centre",
+                "In radial flow, flow is one dimensional with stream lines parallel."
+            ]
+        },
+        {
+            "question": "Chezy's formula is used to determine",
+            "answers": [
+                "head loss due to friction in pipe",
+                "velocity of flow in pipe",
+                "velocity of flow in open channels",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The metacentric height of a body equals the distance between",
+            "answers": [
+                "the centre of gravity and centre of buoyancy",
+                "the metacentre and centre of gravity",
+                "the centre of buoyancy and metacentre",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Discharge through a totally submerged orifice, is directly proportional to",
+            "answers": [
+                "difference in elevation of water surfaces",
+                "square root of the difference in elevation of water surface",
+                "square root of the opening",
+                "reciprocal of the area of the opening",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Frictional loss of head includes the loss of energy due to",
+            "answers": [
+                "viscosity",
+                "turbulence",
+                "both (a) and (b)",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The length of hydraulic jump is roughly",
+            "answers": [
+                "2 to 3 times its height",
+                "3 to 5 times its height",
+                "5 to 7 times its height",
+                "None of these."
+            ]
+        },
+        {
+            "question": "To ensure that water does not rise more than 100 cm above the crest, for a discharge of 5.00 m3/sec, the length of water will be",
+            "answers": [
+                "2.48 m",
+                "2.49 m",
+                "2.50 m",
+                "2.51 m."
+            ]
+        },
+        {
+            "question": "For a most economical trapezoidal open channel, the half of the top width must be equal to",
+            "answers": [
+                "the bed width",
+                "one sloping side",
+                "the depth of flow",
+                "None of these."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement regarding convergent divergent mouth piece from the following :",
+            "answers": [
+                "It converges upto Venacontracta and then diverges",
+                "In this mouth piece there is no loss of energy due to sudden enlargement",
+                "The coefficient of discharge is unity",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The value of kinetic energy correction factor (a) for a laminar flow through a circular pipe, is",
+            "answers": [
+                "0.5",
+                "1.0",
+                "l.5",
+                "2.0",
+                "2.5"
+            ]
+        },
+        {
+            "question": "The formula Q = m x L x 2g x H3/2 where  was suggested by :",
+            "answers": [
+                "Bazin",
+                "Francis",
+                "Cipolletti",
+                "None of these."
+            ]
+        },
+        {
+            "question": "One metric slug is equal to",
+            "answers": [
+                "1 kg wt",
+                "9.81 kg wt",
+                "9.81 kg mass",
+                "0.98 kg wt."
+            ]
+        },
+        {
+            "question": "Falling drops of water become spheres due to",
+            "answers": [
+                "adhesion",
+                "cohesion",
+                "surface tension",
+                "viscosity."
+            ]
+        },
+        {
+            "question": "The most efficient channel section, is",
+            "answers": [
+                "semi-circular",
+                "rectangular",
+                "triangular",
+                "half hexagon in the form of trapezoid."
+            ]
+        },
+        {
+            "question": "With a clinging nappe of a weir, the excess discharge, is",
+            "answers": [
+                "6% to 7%",
+                "8% to 10%",
+                "18% to 20%",
+                "25% to 30%",
+                "30% to 40%."
+            ]
+        },
+        {
+            "question": "For steady flow in open channels, which one of the following does not change :",
+            "answers": [
+                "depth of flow",
+                "velocity of flow",
+                "rate of flow",
+                "All of these."
+            ]
+        },
+        {
+            "question": "If v1 and v2 are the velocities of flow before and after sudden enlargement in a pipe, the head loss given by Carnot and Borda equation, is",
+            "answers": [
+                "(v22 - v12)/2g",
+                "(v1 - v2)2/2g",
+                "(v2 - v1)2/2g",
+                "(v1 + v2)2/2g."
+            ]
+        },
+        {
+            "question": "Equation of continuity of fluids is applicable only if",
+            "answers": [
+                "flow is steady",
+                "flow is compressive",
+                "flow is one dimensional",
+                "velocity is uniform over the cross-sections",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The flow in open channel is said to be critical if the Froude number is :",
+            "answers": [
+                "less than 1.0",
+                "equal to 1.0",
+                "greater than 1.0",
+                "None of these."
+            ]
+        },
+        {
+            "question": "An orifice is an opening in a vessel with",
+            "answers": [
+                "closed perimeter of regular shape through which water flows",
+                "the water level of the liquid on the up stream side is below the top of the orifice",
+                "partially full flow",
+                "prolonged sides having length of 2 to 3 diameters of the opening in thick wall."
+            ]
+        },
+        {
+            "question": "The imaginary line drawn such that the tangents at its all points indicate the direction of the velocity of the fluid particles at each point, is called",
+            "answers": [
+                "path line",
+                "stream line",
+                "potential line",
+                "streak line."
+            ]
+        },
+        {
+            "question": "A nozzle is fitted at the end of a pipe whose length is 320 m and diameter is 10 cm. If the value of f = 0.01, the diameter of the nozzle for the maximum transmission of power through the nozzle is",
+            "answers": [
+                "2.4 cm",
+                "2.5 cm",
+                "2.6 cm",
+                "2.7 cm."
+            ]
+        },
+        {
+            "question": "When the whole fluid mass rotates either due to fluid pressure or gravity or rotation previously imparted, the motion is known as",
+            "answers": [
+                "free vortex",
+                "forced vortex",
+                "non-potential vortex",
+                "rotational vortex."
+            ]
+        },
+        {
+            "question": "The ratio of the maximum height to which a jet inclined through \u03b8 rises to its total horizontal span is",
+            "answers": [
+                " sin \u03b8",
+                " cos \u03b8",
+                " tan \u03b8",
+                " cot \u03b8."
+            ]
+        },
+        {
+            "question": "For solving the problems is hydraulic engineering, the velocity used is",
+            "answers": [
+                "velocity at the centre of pipe section",
+                "average velocity of flow over a section",
+                "mean of the velocities at the centre and that along the pipe surface",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The shape of fire hose nozzle is generally kept",
+            "answers": [
+                "divergent",
+                "convergent",
+                "convergent divergent",
+                "cylindrical."
+            ]
+        },
+        {
+            "question": "The dimensions MLT-2 refers to",
+            "answers": [
+                "specific weight",
+                "force",
+                "discharge",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The line joining the points to which the liquid rises in vertical piezometer tubes fitted at different cross-sections of a conduit, is known as",
+            "answers": [
+                "hydraulic gradient",
+                "piezometric line",
+                "pressure grade line",
+                "hydraulic grade line",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Practical fluids possess",
+            "answers": [
+                "viscosity",
+                "surface tension",
+                "compressibility",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The depth of the centre of pressure on a vertical rectangular gate (4 m wide, 3 m high) with water upto top surface, is",
+            "answers": [
+                "1.0 m",
+                "1.5 m",
+                "2.0 m",
+                "2.5 m."
+            ]
+        },
+        {
+            "question": "The differential equation dp/\u03c1 + gdz + vdv = 0 for a fluid motion is suggested by",
+            "answers": [
+                "Bernoulli",
+                "Cauchy-Riemann",
+                "Laplace",
+                "Leonard Euler."
+            ]
+        },
+        {
+            "question": "An open container filled with water is moved vertically downward with a uniform linear acceleration. The pressure at its bottom will be",
+            "answers": [
+                "greater than static pressure",
+                "equal to static pressure",
+                "lesser than static pressure",
+                "none of these."
+            ]
+        },
+        {
+            "question": "For uniform flow in canals",
+            "answers": [
+                "there is a balance between the frictional loss and drop in elevation of the channel",
+                "bed and free water surfaces of a channel are parallel to each other",
+                "bed of channel represents the hydraulic gradient",
+                "all the above."
+            ]
+        },
+        {
+            "question": "If H is height of the liquid above the sill, the effect of end contractions, according to Francis formula, is",
+            "answers": [
+                "0.1 H",
+                "0.2 H",
+                "0.3 H",
+                "0.4 H",
+                "0.5 H."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "For maximum velocity of flow, the depth of water in the circular channel must be 0.81 times the diameter of the channel",
+                "For maximum velocity, the hydraulic mean depth must be 0.3 times the diameter of circular channel",
+                "For maximum discharge the depth of flow must be 0.95 times the diameter of circular channel",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The velocity of flow (v) at the outlet of a syphon of length l, is given by",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "In flowing liquids pitot tubes are used measure",
+            "answers": [
+                "discharge",
+                "pressure",
+                "velocity",
+                "depth."
+            ]
+        },
+        {
+            "question": "Capillary rise of water is",
+            "answers": [
+                "directly proportional to surface tension",
+                "inversely proportional to water density",
+                "inversely proportional to diameter of the tube",
+                "All of these."
+            ]
+        },
+        {
+            "question": "A water tank partially filled with water is being carried on a truck moving with a constant horizontal acceleration. The level of the water",
+            "answers": [
+                "rises on the front side of the tank",
+                "falls on the back side of the tank",
+                "remains the same at both sides of the tank",
+                "rises on the back side and falls on the front side",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The dimensional formula of force is",
+            "answers": [
+                "MLT-2",
+                "M-1LT2",
+                "ML-2T",
+                "M-1L2T-2",
+                "none of these."
+            ]
+        },
+        {
+            "question": "An error of 1% in measuring the head of water over the crest of a rectangular weir, produces an error in the discharge which is equal to",
+            "answers": [
+                "1.25%",
+                "1.5%",
+                "1.75%",
+                "2.25%"
+            ]
+        },
+        {
+            "question": "Orifice-meter is used to measure",
+            "answers": [
+                "pressure at the point",
+                "discharge",
+                "average speed",
+                "velocity."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "Dimensional homogeneity means the dimensions of each term in an equation on both sides are equal",
+                "Dimensionally homogeneous equations are independent of the system of units",
+                "In dimensionally homogeneous equation, the powers of fundamental dimensions on either side of the equation are identical",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The ratio of inertia force of a flowing fluid and the viscous force of the liquid is called :",
+            "answers": [
+                "Renold's number",
+                "Froude's number",
+                "Euler's number",
+                "Weber's number."
+            ]
+        },
+        {
+            "question": "For an irrotational flow, the equation  is given by",
+            "answers": [
+                "Cauchy-Riemann",
+                "Reynold",
+                "Laplaces",
+                "Bernoulli."
+            ]
+        },
+        {
+            "question": "Water belongs to",
+            "answers": [
+                "Newtonian fluids",
+                "non-Newtonian fluids",
+                "compressible fluid",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Hydraulic radius is equal to",
+            "answers": [
+                "area divided by the square of wetted perimeter",
+                "area divided by wetted perimeter",
+                "wetted perimeter divided by area",
+                "square root of the area."
+            ]
+        },
+        {
+            "question": "The discharg formula Q = Cd 2gH x A is used for rectangular",
+            "answers": [
+                "small orifices only",
+                "large orifices only",
+                "small and large orifices only",
+                "for all types of orifices."
+            ]
+        },
+        {
+            "question": "Chezy's constant  is suggested by",
+            "answers": [
+                "Bazin",
+                "Kutter",
+                "Manning",
+                "Powell."
+            ]
+        },
+        {
+            "question": "The acceleration f required to accelerate a rectangular tank containing water horizontally so that the slope of its free surface is 45\u00b0, is",
+            "answers": [
+                "g/2",
+                "g",
+                "2 g",
+                "2.5 g",
+                "3 g."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "The fluids which follow  are known as Newtonian fluids",
+                "The fluids which do not follow the linear relationship between shear and rate of strain are known as non Newtonian fluids",
+                "The substances which flow after yield strains, are known as plastics",
+                "all the above."
+            ]
+        },
+        {
+            "question": "For solving network problems of pipes, necessary condition is",
+            "answers": [
+                "continuity equation",
+                "energy equation",
+                "Darcy-Weisbach equation",
+                "all the above."
+            ]
+        },
+        {
+            "question": "In a fluid flow a particle may posses",
+            "answers": [
+                "elevation energy",
+                "kinetic energy",
+                "pressure energy",
+                "initial energy",
+                "all the above."
+            ]
+        },
+        {
+            "question": "In two dimensional flow the components of velocity are given by u = ax; v = by. The stream lines will be",
+            "answers": [
+                "circular",
+                "parabolic",
+                "hyperbolic",
+                "elliptical."
+            ]
+        },
+        {
+            "question": "The discharge through a V-notch weir varies as",
+            "answers": [
+                "H",
+                "1/H",
+                "H3/2",
+                "H7/2",
+                "H5/2."
+            ]
+        },
+        {
+            "question": "For a most economical rectangular channel, the hydraulic mean depth, is equal to",
+            "answers": [
+                "the depth of flow",
+                "half the depth of flow",
+                "one-third depth of flow",
+                "None of these."
+            ]
+        },
+        {
+            "question": "The instrument used for measuring the velocity of flow, is known as",
+            "answers": [
+                "venturimeter",
+                "orifice meter",
+                "pitot tube",
+                "none of these."
+            ]
+        },
+        {
+            "question": "For a long pipe, the head loss",
+            "answers": [
+                "at the entrance is ignored",
+                "at the outlet is ignored",
+                "at the entrance and outlet both are ignored",
+                "due to friction is ignored."
+            ]
+        },
+        {
+            "question": "On a flow net diagram, the distance between two consecutive steam lines at two successive sections are 1 cm and 0.5 cm respectively. If the velocity at the first section is 1 m/sec, the velocity at the second is",
+            "answers": [
+                "1.0 m/sec",
+                "0.5 m/sec",
+                "2.0 m/sec",
+                "2.5 m/sec",
+                "3 m/sec."
+            ]
+        },
+        {
+            "question": "If L, D and f are the length, diameter and coefficient of friction of a pipe, the ratio of the areas of the pipe A and nozzle a, to transmit maximum power, is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The flow is called rotational if its velocity normal to the plane of area is equal to",
+            "answers": [
+                "angular velocity vector",
+                "twice the angular velocity vector",
+                "thrice the angular velocity vector",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Flow of water in pipes of diameter more than 3 metres, can be measured by",
+            "answers": [
+                "pitot tube",
+                "venturimeter",
+                "orifice plate",
+                "rotameter."
+            ]
+        },
+        {
+            "question": "The pressure variation along the radial direction for vortex flow along a horizontal plane is related by",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Hydraulic grade line",
+            "answers": [
+                "remains above the centre line of conduit",
+                "remains below the centre line of conduit",
+                "remains parallel to the centre line of conduit",
+                "may be above or below the centre line of conduit."
+            ]
+        },
+        {
+            "question": "If the Mach number for a fluid flow is less than 1, the flow is",
+            "answers": [
+                "sonic",
+                "supersonic",
+                "sub-sonic",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Hydraulic coefficient of an orifice means the coefficient of",
+            "answers": [
+                "velocity",
+                "contraction",
+                "resistance",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The minimum specific energy of flow of water in open channel is : (where hc is the critical depth)",
+            "answers": [
+                "hc",
+                "",
+                "",
+                " hc"
+            ]
+        },
+        {
+            "question": "In a venturimeter, the divergent cone is kept",
+            "answers": [
+                "shorter than convergent cone",
+                "equal to covergent cone",
+                "longer than convergent cone",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Specific weight of sea water is more than that of pure water because of",
+            "answers": [
+                "dissolved air",
+                "dissolved salts",
+                "suspended matter",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Total pressure on the top of a closed cylindrical vessesl completely filled with liquid, is directly proportional to",
+            "answers": [
+                "radius",
+                "(radius)2",
+                "(radius)3",
+                "(radius)4",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Energy equation is usually applicable to",
+            "answers": [
+                "non-uniform flow",
+                "turbulent flow",
+                "laminar flow",
+                "steady flow."
+            ]
+        },
+        {
+            "question": "Poise is the unit of",
+            "answers": [
+                "viscosity",
+                "velocity gradient",
+                "mass density",
+                "kinematic viscous."
+            ]
+        },
+        {
+            "question": "For mountaneous regions having steep slope, wagons for carrying liquid are made with bottom",
+            "answers": [
+                "parallel to the road surface",
+                "parallel to the horizontal surface",
+                "inclined upward while moving upwards",
+                "inclined downward while moving downwards."
+            ]
+        },
+        {
+            "question": "Specific energy of a flowing fluid per unit weight is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The upper surface of the weir over which water flows, is known as",
+            "answers": [
+                "vein",
+                "nappe",
+                "sill",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The ratio of the inertia and viscous forces acting in any flow, ignoring other forces, is called",
+            "answers": [
+                "Euler number",
+                "Frode number",
+                "Reynold number",
+                "Weber number."
+            ]
+        },
+        {
+            "question": "Discharge with velocity of approach, over a rectangular weir is",
+            "answers": [
+                " Cd x L x 2g [(H + ha)3/2 + ha3/2]",
+                " Cd x L x 2g [(H + ha)3/2 - ha3/2]",
+                " Cd x L x 2g [(H - ha)3/2 + ha3/2]",
+                " Cd x L x 2g [(H - ha)3/2 - ha3/2]"
+            ]
+        },
+        {
+            "question": "To avoid the tendency of separation of liquid flow, the most suitable ratio of the diameters of the throat and the pipe, is",
+            "answers": [
+                "1/4 to 1/8",
+                "1/3 to 1/2",
+                "1/2 to 3/4.",
+                "none of these."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1407 @@
+{
+    "questions": [
+        {
+            "question": "Water contains",
+            "answers": [
+                "one hydrogen atom and one oxygen atom",
+                "two hydrogen atoms and one oxygen atom",
+                "one hydrogen atom and two oxygen atoms",
+                "three hydrogen atoms and two oxygen atoms",
+                "two hydrogen atoms and three oxygen atoms."
+            ]
+        },
+        {
+            "question": "Unit Hydrograph theory was enunciated by",
+            "answers": [
+                "Merril Bernard",
+                "W.W. Horner",
+                "Le-Roy K. Shermen",
+                "Robert E. Horten."
+            ]
+        },
+        {
+            "question": "The theory of infiltration capacity was given by",
+            "answers": [
+                "Merrill Bernard",
+                "W.W. Horner",
+                "Le-Roy K. Shermen",
+                "Robert E. Horten."
+            ]
+        },
+        {
+            "question": "Hydrology helps in",
+            "answers": [
+                "predicting maximum flows",
+                "deciding the minimum reservoir capacity",
+                "forecasting the availability of quantity of water at reservoir site",
+                "predicting the effects on the river water level on completion of dams",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "Rivers, lakes, oceans and springs get water from the rains",
+                "Rain water is obtained by evaporation from rivers, lakes and oceans",
+                "Water remains in atmosphere as vapours",
+                "Hydrologic cycle is a continuous process of evaporation and precipitation of water in atmosphere",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "Rain which is intercepted by buildings, vegetations and other objects, is generally known as rainfall interception",
+                "The difference between the total rainfall and intercepted rainfall, is generally called ground rainfall",
+                "When rainfall exceeds the interception rainfall, water reaches the ground and infiltration starts",
+                "The maximum rate of absorbing water by the soil in any given condition, is known as infiltration capacity",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The surface Run-off is the quantity of water",
+            "answers": [
+                "absorbed by soil",
+                "intercepted by buildings and vegetative cover",
+                "required to fill surface depressions",
+                "that reaches the stream channels",
+                "that gets evaporated."
+            ]
+        },
+        {
+            "question": "Pick up the correct equation from the following :",
+            "answers": [
+                "Run off = Surface run off + Ground water flow",
+                "Run off = Surface run off - Ground water flow",
+                "Run off = Surface run off / Ground water flow",
+                "Run off = Surface run off x Ground water flow."
+            ]
+        },
+        {
+            "question": "Infiltration capacity of soil depends upon",
+            "answers": [
+                "number of voids present in the soil",
+                "shape and size of soil particles",
+                "arrangement of soil particles",
+                "compaction of the soil particles",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "When rainfall rate exceeds the infiltration capacity, the water enters the soil at full capacity rate",
+                "When rainfall rate is less than the infiltration capacity, the infiltration rate is approximately equal to the rainfall rate",
+                "The actual infiltration rate at any time may be equal to or less than the infiltration capacity",
+                "The actual prevailing rate of infiltration of water in the soil at any time, is known as infiltration rate",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "The portion of pellicular water which remains unutilised, is called hygroscopic water",
+                "The moisture content at which permanent wilting of plants takes place, is called the wilting point",
+                "The path of the water required to bring the soil moisture content of a soil up to its field capacity is called soil moisture deficiency",
+                "The moisture deficiency will be different at different points",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The main factor which affects the infiltration capacity, is",
+            "answers": [
+                "thickness of saturated layer",
+                "depth of surface detention",
+                "soil moisture",
+                "all the above."
+            ]
+        },
+        {
+            "question": "According to Robert E. Horton, the equation of infiltration capacity curve, is (where letters carry their usual meanings)",
+            "answers": [
+                "f = fc (fo - fc) ekt",
+                "f = ft - (fo - fc) e-kt",
+                "f = ft + (fo - fc) e-kt",
+                "f = f + (fo - fc) ekt"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "Absolute humidity at a given temperature is equal to weight of moisture present in a unit volume",
+                "Relative humidity is the ratio of actual vapour pressure and saturation vapour pressure at the same temperature",
+                "Relative humidity is the ratio of the weight of the vapours present per unit volume to the weight of vapours which could be contained at the same temperature when fully saturated",
+                "Humidity can be measured by psychrometer",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Absolute humidity in air",
+            "answers": [
+                "decreases at higher altitudes",
+                "increases at higher altitudes",
+                "remains constant at all altitudes",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Precipitation caused by lifting of an air mass due to the pressure difference, is called",
+            "answers": [
+                "cyclonic precipitation",
+                "convective precipitation",
+                "orographic precipitation",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The standard height of a standard rain gauge, is",
+            "answers": [
+                "10 cm",
+                "20 cm",
+                "30 cm",
+                "50 cm."
+            ]
+        },
+        {
+            "question": "In India, rain fall is generally recorded at",
+            "answers": [
+                "8 A.M.",
+                "12 Noon",
+                "4 P.M.",
+                "8 P.M."
+            ]
+        },
+        {
+            "question": "A recording type rain gauge",
+            "answers": [
+                "produces a mass curve of rain fall",
+                "records the cumulative rain",
+                "is sometimes called integrating rain gauge or continuous rain gauge",
+                "all the above."
+            ]
+        },
+        {
+            "question": "In India the recording type rain gauge generally used, is",
+            "answers": [
+                "weighing type",
+                "tipping type",
+                "float recording type",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The deficiency in rain catch due to vertical acceleration of air forced upward over the gauge, is",
+            "answers": [
+                "greater for heavy rain",
+                "greater for lighter rain",
+                "greater for large drops",
+                "lesser for small rain drops."
+            ]
+        },
+        {
+            "question": "If a gauge is installed perpendicular to the slope, its measurement is reduced by multiplying",
+            "answers": [
+                "sine of the angle of inclination with vertical",
+                "cosine of the angle of inclination with vertical",
+                "tangent of the angle of inclination with vertical",
+                "calibration coefficient of the gauge."
+            ]
+        },
+        {
+            "question": "For determination of average annual precipitation in a catchment basin, the best method is",
+            "answers": [
+                "Arithmetical method",
+                "Thiessen's mean method",
+                "Isohyetal method",
+                "None of these."
+            ]
+        },
+        {
+            "question": "While calculating the average depth of annual precipitation in a catchment basin, importance to individual raingauge station is given in",
+            "answers": [
+                "Arithmetical method",
+                "Thiessen's mean method",
+                "Isohyetal method",
+                "both (a) and (b)",
+                "both (b) and (c)."
+            ]
+        },
+        {
+            "question": "The critical depth in a channel can be produced",
+            "answers": [
+                "by raising the bottom of the channel",
+                "by lowering the bottom of the channel",
+                "by decreasing the width of the channel",
+                "by increasing the width of the channel",
+                "both (a) and (c) of above."
+            ]
+        },
+        {
+            "question": "A hydraulic jump in a control meter will be formed above the control, if its original",
+            "answers": [
+                "depth is more than critical depth",
+                "depth is less than the critical depth",
+                "depth is equal to critical depth",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Prof. Running suggested the method for extending the discharge curve. It is known as",
+            "answers": [
+                "Logarithmic method",
+                "y method",
+                "General method",
+                "None of these."
+            ]
+        },
+        {
+            "question": "If y is the depth of water at any section, then the mean velocity is",
+            "answers": [
+                "0.1 y",
+                "0.2 y",
+                "0.3 y",
+                "0.5 y",
+                "0.6 y."
+            ]
+        },
+        {
+            "question": "The run off is affected by",
+            "answers": [
+                "type of precipitation",
+                "rain intensity and duration of rainfall",
+                "rain distribution and soil moisture deficiency",
+                "direction of prevailing storm",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The initial basin recharge is equal to",
+            "answers": [
+                "interception",
+                "depression storage",
+                "rain absorbed by the moisture deficiency",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The run off a drainage basin is",
+            "answers": [
+                "Initial recharge + ground water accretion + precipitation",
+                "Precipitation + ground water accretion + initial recharge",
+                "Precipitation - ground water accretion + initial recharge",
+                "Precipitation - ground water accretion - initial recharge."
+            ]
+        },
+        {
+            "question": "For computing the run off volumes of large areas, number of infiltrations used are",
+            "answers": [
+                "2",
+                "3",
+                "4",
+                "5"
+            ]
+        },
+        {
+            "question": "From the Survey of India map, the distance of the critical point is 20 km and difference in elevation is 193 m. The over land flow time, is",
+            "answers": [
+                "2 hours",
+                "3 hours",
+                "2 hours and 30 minutes",
+                "3 hours and 30 minutes",
+                "4 hours."
+            ]
+        },
+        {
+            "question": "If the area of storm hydrograph is equal to 102 cm, the ordinates of a unit hydrograph may be obtained by dividing the ordinates of the storm hydrograph by",
+            "answers": [
+                "0.5",
+                "1",
+                "2",
+                "3",
+                "4"
+            ]
+        },
+        {
+            "question": "If s is the potential infiltration, P is rainfall in cm in a drainage of a soil with fair pasture cover, the direct run off Q in cm is given by",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "If the potential infiltration of a water shed having a soil with fair pasture cover, is 10 cm and rainfall is 12 cm, the direct run off is :",
+            "answers": [
+                "2 cm",
+                "3 cm",
+                "5 cm",
+                "8 cm."
+            ]
+        },
+        {
+            "question": "The quantity of water retained by the sub-soil against gravity, is known",
+            "answers": [
+                "yield",
+                "porosity",
+                "specific yield",
+                "specific retention",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Pick up the incorrect statement from the following :",
+            "answers": [
+                "The rate of flow of water through a unit cross-sectional area under a unit hydraulic gradient, is called coefficient of permeability",
+                "The rate of flow of water through a vertical strip of the acquifer of unit width and full depth under a unit hydraulic gradient, is called coefficient of transmissibility",
+                "The flow of water through acquifers, is governed by the Darcy's law",
+                "The term 'transmissibility' was introduced by Meinzer",
+                "The ratio of coefficient of transmissibility and coefficient of permeability, is equal to the depth of acquifer through which water flows."
+            ]
+        },
+        {
+            "question": "With the usual meanings ofletters, the equation  is used for determining the velocity of ground water flow in metres per day. It is known as",
+            "answers": [
+                "Meinzer's formula",
+                "Slichter's formula",
+                "Darcy's formula",
+                "Hazen's formula."
+            ]
+        },
+        {
+            "question": "If the viscosity of ground water is 1.00, the Slitcher's constant is 400, the effective size of soil particles in acquifer is 0.5 mm and hydraulic gradient is 1 in 80, the velocity of flow is",
+            "answers": [
+                "0.25 m/day",
+                "0.50 m/day",
+                "0.75 m/day",
+                "1.00 m/day",
+                "1.25 m/day."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "Perched aquifer is found in unconfined aquifer",
+                "The top surface of the water held in the perched aquifer, is known as perched water table",
+                "Perched aquifer is formed in unfined accquifer if an impervious layer exists",
+                "All the above."
+            ]
+        },
+        {
+            "question": "In the derivation of Thiem's formula , the following assumption is not applicable",
+            "answers": [
+                "The aquifer is homogeneous and isotropic",
+                "Flow lines are radial and horizontal",
+                "The slope of the water surface is too small",
+                "The well has been sunk up to the surface of the unconfined aquifer",
+                "None of these."
+            ]
+        },
+        {
+            "question": "A well penetrates to 30 m below the static water table. After 24 hours of pumping at 31.40 litres/minute, the water level in a test well at a distance of 80 m is lowered by 0.5 m and in a well 20 m away water is lowered by 1.0 m. The transmissibility of the auifer, is",
+            "answers": [
+                "1.185 m2/minute",
+                "1.285 m2/minute",
+                "1.385 m2/minute",
+                "1.485 m2/minute",
+                "1.585 m2/minute."
+            ]
+        },
+        {
+            "question": "Shrouding is provided in",
+            "answers": [
+                "cavity type tube wells",
+                "slotted type tube wells",
+                "strainer type tube wells",
+                "perforated type tube wells."
+            ]
+        },
+        {
+            "question": "The efficiency of a pump may be taken as",
+            "answers": [
+                "0.55",
+                "0.60",
+                "0.65",
+                "0.70"
+            ]
+        },
+        {
+            "question": "Consumptive use of a crop during growth, is the amount of",
+            "answers": [
+                "interception",
+                "transpiration",
+                "evaporation",
+                "all the above."
+            ]
+        },
+        {
+            "question": "For calculating the evaporation rate over a reservoir surface E = 0.771 (1.465 - 0.00732 B) (0.44 - 0.007375 V) (pe - pa), the equation is given by",
+            "answers": [
+                "Roohwer's, formula in M.K.S.",
+                "Roohwer's formula in F.P.S.",
+                "Dalton's formula in F.P.S.",
+                "Dalton's formula in M.K.S."
+            ]
+        },
+        {
+            "question": "For the estimate of high floods in fan-shaped catchment, the formula used is",
+            "answers": [
+                "Dicken's formula",
+                "Ryve's formula",
+                "Inglis formula",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Burge formula  cumecs is based upon",
+            "answers": [
+                "rainfall and drainage area",
+                "run off and drainage area",
+                "drainage area and its shape",
+                "drainage area."
+            ]
+        },
+        {
+            "question": "In nature water may occur as",
+            "answers": [
+                "liquid",
+                "solid",
+                "vapours",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Hydrology is the science which deals with",
+            "answers": [
+                "rain water",
+                "river water",
+                "sea water",
+                "surface and underground water",
+                "flood water."
+            ]
+        },
+        {
+            "question": "The surface run off is due to",
+            "answers": [
+                "initial rain",
+                "residual rain",
+                "rain in the net supply interval",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Hydrograph is a graphical representation of",
+            "answers": [
+                "surface run off",
+                "ground water flow",
+                "rain fall",
+                "discharge flowing in the river",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The infiltration capacity during rain storm, is considerably reduced due to",
+            "answers": [
+                "surface detention",
+                "soil moisture",
+                "compaction due to rain",
+                "washing of fine particles",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Rain simulators are used for the determination of",
+            "answers": [
+                "evaporation",
+                "precipitation",
+                "run off",
+                "infiltration capacity",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Precipitation includes",
+            "answers": [
+                "rain",
+                "snow",
+                "hail",
+                "all of these."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "Central portion of a cyclone acts as a chimney through which air gets lifted",
+                "Cyclonic precipitation caused by a warm front is generally continuous",
+                "Convective precipitation generally occurs in the form of showers of high intensity in short duration",
+                "Greatest amount of orographic precipitation falls in the windward side of the barrier",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Non-recording rain gauges",
+            "answers": [
+                "collect the rain whose volume is measured by means of graduated cylinders",
+                "collect the rain which is directly measured by means of graduated cylinders in centimetres of water depth",
+                "are generally used in hilly terrain",
+                "are cylindrical in shape."
+            ]
+        },
+        {
+            "question": "Indian Meteorological department uses the standard gauges whose collectors have apertures of",
+            "answers": [
+                "50 or 100 sq. cm area",
+                "100 or 150 sq. cm area",
+                "100 or 200 sq. cm area",
+                "250 or 500 sq. cm area."
+            ]
+        },
+        {
+            "question": "The polythene bottles are used for collecting rain water and. their capacities is",
+            "answers": [
+                "2 litres",
+                "4 litres",
+                "10 litres",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Symon's rain gauge is",
+            "answers": [
+                "tipping-bucket gauge",
+                "weighing type gauge",
+                "float recording gauge",
+                "non-recording gauge."
+            ]
+        },
+        {
+            "question": "The rainfall cycle period in India is taken as",
+            "answers": [
+                "15 years",
+                "20 years",
+                "25 years",
+                "30 years",
+                "35 years."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "",
+                "Normal annual rainfall is obtained by taking the mean of the annual rainfall over a period of 35 years",
+                "Index of wetness gives an idea of the wetness of the year",
+                "If the rainfall in a year is approximately equal to the annual average value, the particular year is said to be an average year",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Isohytes are the imaginary lines joining the points of equal",
+            "answers": [
+                "pressure",
+                "height",
+                "humidity",
+                "rainfall."
+            ]
+        },
+        {
+            "question": "The rainfall at any place is described by",
+            "answers": [
+                "its intensity",
+                "its duration",
+                "its frequency",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "The intensity of rain is the rate at which it falls",
+                "The duration of rain is the time for which it falls with a given intensity",
+                "The frequency of rain is the number of times, if falls",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Pick up the incorrect statement from the following :",
+            "answers": [
+                "At two meteorologically homogeneous stations, the average annual precipitation is same",
+                "If the average annual precipitation at two places is same these are meteorologically homogeneous stations",
+                "Neither (a) nor (b)",
+                "Both (a) and (b)."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "The throat of the section of a control meter is either rectangular or trapezoidal",
+                "The floor of the control meter throat is almost level",
+                "The floor of the expanding outlet of the control meter is given a steep slope",
+                "A properly designed control meter is associated with the phenomena of hydraulic jump",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Discharge curve may be extended by logarithmic method if",
+            "answers": [
+                "cross section of river is uniform",
+                "river is broader and shallower",
+                "river is of any type",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The best instrument for measuring the velocity of a stream flow is",
+            "answers": [
+                "pitot tube",
+                "Price's current meter",
+                "surface float",
+                "sub-surface float."
+            ]
+        },
+        {
+            "question": "The average mean velocity of a stream having depth h, may be obtained by taking the average of the readings of a current meter at a depth of",
+            "answers": [
+                "0.1 h and 0.9 h",
+                "0.2 h and 0.8 h",
+                "0.3 h and 0.7 h",
+                "0.4 h and 0.6 h."
+            ]
+        },
+        {
+            "question": "If the velocities of flow of a stream of 10 m depth recorded by a current meter at depths of 2 m and 8 m are 0.7 m and 0.3 m respectively, the discharge per unit width of the stream in cubic metres, is",
+            "answers": [
+                "2",
+                "3",
+                "4",
+                "5",
+                "6"
+            ]
+        },
+        {
+            "question": "If P and A are the perimeter and area of a drainage basin, its compactness coefficient, is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The time required by rain water to reach the outlet of drainage basin, is generally called",
+            "answers": [
+                "time of concentration",
+                "time of overland flow",
+                "concentration time of overland flow",
+                "duration of the rainfall",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Time of overland flow, is affected by",
+            "answers": [
+                "slope of the basin",
+                "type of the ground surface",
+                "length of the flow path",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The rate of rainfall for successive 10 minute periods of a 60 minute duration storm, are shown in the below figure. If the value of \u03c6index is 3 cm/hour, the run off will be ",
+            "answers": [
+                "2 cm",
+                "3 cm",
+                "4 cm",
+                "5 cm."
+            ]
+        },
+        {
+            "question": "From the pattern of the rainfall shown in the below figure, the total precipitation is ",
+            "answers": [
+                "4 cm",
+                "4.5 cm",
+                "5 cm",
+                "5.5 cm",
+                "6 cm."
+            ]
+        },
+        {
+            "question": "From the data of the rain storm shown in the below figure, the value of Windex is ",
+            "answers": [
+                "1.5 cm/hour",
+                "2 cm/hour",
+                "2.5 cm/hour",
+                "2 cm/hour."
+            ]
+        },
+        {
+            "question": "Izzard formula for the time of concentration in minutes for the plots having no channels, is (where Lo is the length of overland flow in metres and Kp rainfall intensity in cm/hour)",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "A unit hydrograph is a hydrograph of a rain storm of a specified duration resulting from a run-off of",
+            "answers": [
+                "15 mm",
+                "20 mm",
+                "25 mm",
+                "30 mm."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "The specified duration of unit hydrograph, is called unit duration",
+                "The rain during specified duration, is called unit storm",
+                "A unit hydrograph for a particular unit duration may be utilised for evaluating the run off hydrographs of other storms of like durations",
+                "The number of unit hydrographs for a given basin, is theoretically infinite",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The best unit period of a unit hydrograph, is equal to basin lag divided by",
+            "answers": [
+                "2",
+                "3",
+                "4",
+                "5"
+            ]
+        },
+        {
+            "question": "If total run off of a basin of 50 hectares is 0.8 cm, the ordinate of Bernard's distribution graph, may be calculated by the formula (where Q is the discharge in cumecs at the given time)",
+            "answers": [
+                "y = 50 Q",
+                "y = 100 Q",
+                "y = 150 Q",
+                "y = 200 Q",
+                "y = 250 Q"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "The zone below water table, is called zone of saturation",
+                "The zone above water table, is called zone of aeration",
+                "The water which exists in the zone of saturation, is called ground water",
+                "Water in the zone of saturation, remains under hydrostatic pressure",
+                "All the above."
+            ]
+        },
+        {
+            "question": "If the grain size of soil increases",
+            "answers": [
+                "surface area decreases",
+                "specific retention decreases",
+                "specific yield increases",
+                "water supply in well increases",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The equation  which is used for determining the velocity of ground water flow in metres per day is known as",
+            "answers": [
+                "Meinzer's formula",
+                "Slichter's formula",
+                "Darcy's formula",
+                "Hazen formula."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "A confined bed of impervious material laid over an acquifer, is known as an aquiclude",
+                "The top most water bearing strata having no acquifer, is known as non-artesion acquifer",
+                "The ordinary gravity wells which supply water from the top most water bearing strata, are called water table wells",
+                "A permeable stratum which is capable to yield appreciate quantities of ground water, is known as an aquifer",
+                "All the above."
+            ]
+        },
+        {
+            "question": "While determining the yield of a gravity well by pumping, the depth of water table in two tests wells at distances r1 and r2 from the centre of the main well were found to be s1 and s2 respectively. Assuming the coefficient of transmissibility of the soil as T, the discharge Q may be given by",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "According to Thiem, the permeability of an aquifer may be obtained from the equation",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The Dupuit formula is based on",
+            "answers": [
+                "one observation well",
+                "two observation wells",
+                "three observation wells",
+                "no observation well",
+                "none of these."
+            ]
+        },
+        {
+            "question": "A well is sunk in an unconfined aquifer having a saturated depth of 100 m. Assuming the equilibrium flow conditions and a homogeneous aquifer and radius of influence to be same, the ratio of discharges at 20 m and 40 m draw downs, is",
+            "answers": [
+                "2/3",
+                "5/4",
+                "4/5",
+                "7/8",
+                "8/7"
+            ]
+        },
+        {
+            "question": "Evaporation losses depend upon",
+            "answers": [
+                "area of the water surface and depth of the water",
+                "nature of precipitation and type of vegetation",
+                "humidity and wind velocity",
+                "atmospheric temperature",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Phytometer method is generally used for the measurement of",
+            "answers": [
+                "interception",
+                "evaporation",
+                "transpiration",
+                "none of these."
+            ]
+        },
+        {
+            "question": "In the estimate of design flood, Dickens assumes that high flood in cumecs, is proportional to catchment area raised to the power",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "For high flood estimates the average value of the constant C in Dicken's formula Q = CA3/4, is",
+            "answers": [
+                "6.5",
+                "8.5",
+                "9.5",
+                "10.5",
+                "11.5"
+            ]
+        },
+        {
+            "question": "Pettis formula Q = C (P.B)5/4 cumecs, is based upon",
+            "answers": [
+                "rainfall and drainage area",
+                "run off and drainage area",
+                "drainage area and its shape",
+                "drainage area."
+            ]
+        },
+        {
+            "question": "Boston society of Civil Engineer's formula  in cumecs/square km is based upon",
+            "answers": [
+                "rainfall and drainage area",
+                "total run off and drainage area",
+                "drainage area and its shape",
+                "drainage area."
+            ]
+        },
+        {
+            "question": "For predicting floods of a given frequency, the best reliable method is",
+            "answers": [
+                "Unit hydrograph method",
+                "Gumbel's analytical method",
+                "California method",
+                "None of these."
+            ]
+        },
+        {
+            "question": "The earthen embankments constructed parallel to the river banks at some suitable distance for flood control, are known as",
+            "answers": [
+                "floods walls",
+                "river walls",
+                "levees",
+                "dikes",
+                "both (c) and (d)."
+            ]
+        },
+        {
+            "question": "Water is useful for",
+            "answers": [
+                "running hydroelectric turbines",
+                "floating the boats and ships",
+                "providing steam for running locomotives",
+                "warming dwelling units",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Knowledge of hydrology is necessary for civil engineers for",
+            "answers": [
+                "designing and construction of irrigation structures",
+                "designing and construction of bridges and culverts",
+                "flood control works",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "Run off and surface run off are the same",
+                "Run off includes the water flowing over the surface",
+                "Run off is sometimes called discharge of the river",
+                "Surface run off is sometimes called stream flow."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "Yield of a drainage basin is the run off at any time",
+                "Yield of a drainage basin is the run off over long periods",
+                "Yield of a drainage basin is expressed as surface run off per year",
+                "Run off is expressed as total volume per day",
+                "None of these."
+            ]
+        },
+        {
+            "question": "Run off includes",
+            "answers": [
+                "precipitation over catchment area of the stream and its attributaries",
+                "surface run off",
+                "ground water flow",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "Hydrograph is a plot of discharge and time",
+                "In hydrographs, time is plotted on X-axis",
+                "The maximum flow in the river due to rainfall, is called peak flow",
+                "Peak flows are different for rainfalls",
+                "All the above."
+            ]
+        },
+        {
+            "question": "A soil strata may consist of",
+            "answers": [
+                "soil zone",
+                "intermediate zone",
+                "capillary zone",
+                "ground water zone",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "The amount of water retained on the surface of soil grains by molecular attraction, is known as pellicular water",
+                "The degree of resistance to movement of the pellicular water generally expressed by the surface tension",
+                "The pellicular water held in any soil, is called field capacity",
+                "The portion of the pellicular water absorbed by the root action of the vegetation, is called available moisture",
+                "All the above."
+            ]
+        },
+        {
+            "question": "If the slope of a line for infiltration capacity curve is  , the value of constant k in Horton's equation of infiltration capacity curve, is",
+            "answers": [
+                "2.0",
+                "2.5",
+                "3.0",
+                "3.5",
+                "4.0."
+            ]
+        },
+        {
+            "question": "The equation P - Q = Te \u03c6index for determining the infiltration capacity, was suggested by",
+            "answers": [
+                "Horton",
+                "Horner",
+                "Llyod",
+                "Bernard."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "If ground water enters the channel, the channel is known as effulent channel",
+                "If water goes out of channel to meet ground water, the channel is said to be influent stream",
+                "If the water table is at higher level than the water level in channel, ground water flows to the stream",
+                "If the water level in stream is higher than the water table level, water from the channel enters into ground water",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Pressure exerted by fully saturated air, is known",
+            "answers": [
+                "partial pressure",
+                "vapour pressure",
+                "saturation vapour pressure",
+                "saturation pressure",
+                "(c) and (d) of the above."
+            ]
+        },
+        {
+            "question": "A volume of air at constant barometric pressure may be brought to dew point by",
+            "answers": [
+                "increasing the temperature",
+                "decreasing the temperature",
+                "neither (a) nor (b)",
+                "both (a) and (b)."
+            ]
+        },
+        {
+            "question": "If the dew point is greater than 0\u00b0C",
+            "answers": [
+                "dew will be formed",
+                "frost will be formed",
+                "vapours will be formed",
+                "neither of these."
+            ]
+        },
+        {
+            "question": "Humidity refers to",
+            "answers": [
+                "temperature of the air",
+                "pressure of the air",
+                "moisture content of the air",
+                "volume of the air."
+            ]
+        },
+        {
+            "question": "Relative humidity is the ratio of actual vapour pressure to the saturation vapour pressure",
+            "answers": [
+                "at the same temperature",
+                "at the same pressure",
+                "in the same volume",
+                "in the atmosphere."
+            ]
+        },
+        {
+            "question": "Pick up correct statement from the following :",
+            "answers": [
+                "The air from outer portion of cyclones gets lifted for causing precipitation",
+                "The air from central portion of cyclone's gets lifted for causing precipitation",
+                "The air from entire surface of the cyclones gets lifted for causing precipitation",
+                "None of those."
+            ]
+        },
+        {
+            "question": "Precipitation caused due to upward movement of warmer air as compared to surrounding air, is called",
+            "answers": [
+                "cyclonic precipitation",
+                "convective precipitation",
+                "orographic precipitation",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Precipitation caused due to striking of air masses with a topographical feature, is called",
+            "answers": [
+                "orographic precipitation",
+                "convective precipitation",
+                "cyclonic precipitation",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The specifications of most commonly used standard gauges in India, are",
+            "answers": [
+                "200 sq. cm collector and 4 litres bottle",
+                "100 sq. cm collector and 2 litres bottle",
+                "200 sq. cm collector and 10 litres bottle",
+                "100 sq. cm collector and 4 litres bottle."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "Higher the gauge, more deficient will be the rain catch",
+                "Heavier the rain, lesser will be the rain catch",
+                "The trees serving as wind brakes in the vicinity of the gauge, should not subtend angles greater than 45\u00b0",
+                "Coniferrous forest is idealy suited for installing the gauge",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The respective storm totals at three surrounding stations A, B and C are 110, 90 and 70 mm. If the normal annual precipitation amounts at stations X, A, B and C are respectively 1000, 1100, 1200 and 1250 mm, the estimated storm precipitation at X is",
+            "answers": [
+                "75 mm",
+                "77 mm",
+                "79 mm",
+                "81 mm."
+            ]
+        },
+        {
+            "question": "The area enclosed by the adjacent isohyets of a catchment basin are shown under : The average depth of annual precipitation in the catchment basin will be",
+            "answers": [
+                "60.0 cm",
+                "60.5 cm",
+                "61.5 cm",
+                "62.5 cm",
+                "63.5 cm."
+            ]
+        },
+        {
+            "question": "The recurrence interval (R.I.) of 20 cm rain storm at a place is 5 years.",
+            "answers": [
+                "The place will definitely have 20 cm rain storm after every five years",
+                "The place may have 20 cm rain storm after every five years",
+                "The place may have 20 cm rain storm within a set of 5 years twice",
+                "None of these."
+            ]
+        },
+        {
+            "question": "Sharp crested weirs are generally used",
+            "answers": [
+                "for large flows",
+                "for small flows",
+                "for streams carrying high sediment loads",
+                "for rivers carrying floating debris",
+                "none of these."
+            ]
+        },
+        {
+            "question": "For efficient working of a control meter, its throat length is approximately kept",
+            "answers": [
+                "equal to the critical depth",
+                "twice the critical depth",
+                "three times the critical depth",
+                "four times the critical depth."
+            ]
+        },
+        {
+            "question": "A control meter is preferred to a weir because",
+            "answers": [
+                "it measures the discharge even in silt laiden streams",
+                "the velocity of approach of the channel increases above the control, and thus removes the silt completely",
+                "it is not damaged by floating debris",
+                "all the above."
+            ]
+        },
+        {
+            "question": "A river is said to be of uniform section if in its section",
+            "answers": [
+                "a segment of a circle can be fitted",
+                "a parabolic section can be fitted",
+                "a rectangular section can be fitted",
+                "a trapezoidal section can be fitted",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The run off is affected by",
+            "answers": [
+                "size of the basin",
+                "shape of the basin",
+                "elevation of the water shed",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The form factor of a drainage basin is obtained by dividing",
+            "answers": [
+                "area of the basin by the axial length",
+                "average width of the basin by the axial basin",
+                "area of the basin by the square of the axial length",
+                "both (a) an (b)",
+                "both (b) and (c)."
+            ]
+        },
+        {
+            "question": "The area of a drainage basin whose axial length is 100 km is 2500 sq. km. Its form factor is",
+            "answers": [
+                "0.10",
+                "0.20",
+                "0.25",
+                "0.30",
+                "0.35"
+            ]
+        },
+        {
+            "question": "If the axial length of a drainage basin is 35 km and its form factor is 0.2, the total area of the basin is",
+            "answers": [
+                "205 sq. km.",
+                "215 sq. km.",
+                "225 sq. km.",
+                "235 sq. km.",
+                "245 sq. km."
+            ]
+        },
+        {
+            "question": "The elevation Z of the watershed is : (where letters carry their usual meanings)",
+            "answers": [
+                "reduced level of the top most point of the basin",
+                "reduced level of the lower most point of the basin",
+                "average elevation of the highest and lowest point of the drainage basin",
+                "obtained by the formula "
+            ]
+        },
+        {
+            "question": "Run off is measured in",
+            "answers": [
+                "cubic metres",
+                "cubic metres per sec.",
+                "cubic metres per minute",
+                "cubic metres per hour."
+            ]
+        },
+        {
+            "question": "The rational formula for calculating the discharge, is (where A is the area of basin and Po is one hour rainfall)",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The formula for calculating the overland flow time (To) in hours for any basin, is (where Lo is the distance of the critical point and H is the difference in elevation)",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "The unit hydrograph of a specified unit duration obtained from the past data can be used to obtain the hydrograph of future storms of like duration",
+                "To obtain the ordinates of storm hydrograph, the ordinates of unit hydrograph are multiplied by the multiplying factor",
+                "The multiplying factor for storm hydrograph may be obtained by dividing the run off in mm by 25 mm",
+                "A tolerance of about 25% of specified duration of unit hydrograph may be accepted without any serious error",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Bernard's distribution graph is a plot of time on X-axis and",
+            "answers": [
+                "run off on the y-axis",
+                "total run off on the y-axis",
+                "percentage of total surface run off on y-axis",
+                "percentage of total surface run off during uniform time intervals on y-axis",
+                "none of these."
+            ]
+        },
+        {
+            "question": "An intense rain is falling at a uniform rate of 7.5 cm/hour for a period of 60 minutes on a basin whose areas is 500 hectares. If the average infiltration capacity during the entire rain period is assumed to be 1.5 cm/hr, the maximum run-off rate based on 10 minute peak percentage of 16% from distributing graph of the basin, is",
+            "answers": [
+                "40 cumecs",
+                "60 cumecs",
+                "80 cumecs",
+                "100 cumecs."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "The ratio of total volume of voids in soil aggregates to the total volume of aggregate, is called Porosity",
+                "Water retained by the interstices due to molecular attraction, is called pellicular water",
+                "The ratio of volume of water obtained by gravity drainage to the total volume of the materials drained, is called 'yield'",
+                "Sum of the percentage of specific yield and specific retention is 100",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Isopiastic lines are the contours",
+            "answers": [
+                "drawn to represent water table",
+                "drawn to represent piezometric heads",
+                "drawn to piezometric surface",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The coefficients of permeability of soils of an unconfined aquifer and another confined aquifer were determined by pumping water from the wells and observing the effect of water table in two test wells at equal distances was found to be equal. The total height of confined aquifer H is given by",
+            "answers": [
+                "H = h2 - h1",
+                "H = h1 - h2",
+                "H = h2 + h1",
+                " (h1 + h2)"
+            ]
+        },
+        {
+            "question": "The radius of influence is",
+            "answers": [
+                "radius of the main well",
+                "distance from the wall of main well to the point of zero draw down",
+                "distance from the centre of main well to the point of zero draw down",
+                "none of these."
+            ]
+        },
+        {
+            "question": "When a constant discharge 2.91 litres/sec. was obtained in a pumping test, the draw downs in the test wells at 3 m and 6.184 m were 2.6 m and 0.3 m respectively. If over-all depth of the pumping well was 16 m, the permeability of the soil, is",
+            "answers": [
+                "0.0005 cm/sec",
+                "0.001 cm/sec",
+                "0.002 cm/sec",
+                "0.01 cm/sec."
+            ]
+        },
+        {
+            "question": "If \u03c9 is unit weight of water, Q the discharge in cumecs, H the total head lift and \u03b7, the efficiency of the pump, the H.P. of the motor is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "If h is the loss due to friction in a pipe. Total losses in strainer and bends may be taken as",
+            "answers": [
+                "0.01 h",
+                "0.45 h",
+                "0.20 h",
+                "0.25 h",
+                "0.3 h."
+            ]
+        },
+        {
+            "question": "If the loss due to friction in pipes is 4 m, the total losses in strainer and bends may be taken as",
+            "answers": [
+                "0.10 m",
+                "0.20 m",
+                "0.5 m",
+                "1.0 m."
+            ]
+        },
+        {
+            "question": "The rate of evaporation from reservoirs may be determined by",
+            "answers": [
+                "pan-measurement method",
+                "empirical formulae",
+                "storage equation method",
+                "energy budget method",
+                "all the above."
+            ]
+        },
+        {
+            "question": "In estimating the rate of evaporation from the reservoir surface, a pan 1.5 metres in diameter, was filled upto 8.0 cm. During a specified period of time, the rainfall recorded was 5 cm. 3 cm of water was removed from the pan to keep the depth of water. At the end of the time, the depth was 9 cm. If the pan coefficient is 0.6, the evaporation loss is",
+            "answers": [
+                "2 mm",
+                "4 mm",
+                "6 mm",
+                "6 mm."
+            ]
+        },
+        {
+            "question": "Dicken's formula for high flood estimate, is useful only for the catchments in",
+            "answers": [
+                "Southern India",
+                "Northern India",
+                "Eastern India",
+                "Western India."
+            ]
+        }
+    ]
+}

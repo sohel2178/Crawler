@@ -1,0 +1,2966 @@
+{
+    "questions": [
+        {
+            "question": "The number of simultaneous equations to be solved in the slope deflection method, is equal to :",
+            "answers": [
+                "the degree of statical indeterminacy",
+                "the degree of kinematic indeterminacy",
+                "the number of joints in the structure",
+                "none of the above"
+            ]
+        },
+        {
+            "question": "Maximum size of a fillet weld for a plate of square edge is",
+            "answers": [
+                "1.5 mm less than the thickness of the plate",
+                "one half of the thickness of the plate",
+                "thickness of the plate itself",
+                "1.5 mm more than the thickness of the plate"
+            ]
+        },
+        {
+            "question": "The treatment that should be given to the water from a deep tube well is :",
+            "answers": [
+                "pre-settling only",
+                "coagulation and flocculation only",
+                "filtration only",
+                "disinfection only"
+            ]
+        },
+        {
+            "question": "On sag (or valley) curves the available sight distance is determined based on :",
+            "answers": [
+                "design speed",
+                "height of obstacle",
+                "height of driver eye",
+                "night-time driving conditions"
+            ]
+        },
+        {
+            "question": "In a steady radial flow into an intake, the velocity is found to vary as (1/r2), where r is the radial distance. The acceleration of the flow is proportional to",
+            "answers": [
+                "1/r5",
+                "1/r3",
+                "1/r4",
+                "1/r"
+            ]
+        },
+        {
+            "question": "The wall shown in the below figure has failed. The cause of failure or the error made in the design of the failded wall is : ",
+            "answers": [
+                "deep slip surface failure",
+                "overturning",
+                "no proper drainage in the clay backfill",
+                "translational failure"
+            ]
+        },
+        {
+            "question": "The span to depth ratio limit is specified in IS : 456-1978 for the reinforced concrete beams, in order to ensure that the",
+            "answers": [
+                "tensile crack width is below a limit",
+                "shear failure is avoided",
+                "stress in the tension reinforcement is less than the allowable value",
+                "deflection of the beam is below a limiting value"
+            ]
+        },
+        {
+            "question": "A two span beam with an internal hinge is shown below.  The conjugate beam corresponding to this beam is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Some of the structural strength of a clayey material that is lost by remoulding is slowly recovered with time. This property of soils to undergo an isothermal gel-to-soil-to-gel transformation upon agitation and subsequent rest is termed :",
+            "answers": [
+                "Isotropy",
+                "Anisotropy",
+                "Thixotropy",
+                "Allotropy"
+            ]
+        },
+        {
+            "question": "The capacities of \"One-way 1.5 m wide sidewalk (persons per hour)\" and \"One-way 2-lane urban road (PCU per hour, with no frontage access, no standing vehicles and very little cross traffic)\" are respectively.",
+            "answers": [
+                "1200 and 2400",
+                "1800 and 2000",
+                "1200 and 1500",
+                "2000 and 1200"
+            ]
+        },
+        {
+            "question": "Is 459-1978 recommends to provide certain minimum steel in a RCC beam",
+            "answers": [
+                "to ensure compression failure",
+                "to avoid rupture of steel in case a flexural failure occurs",
+                "to hold the stirrup steel in position",
+                "to provide enough ductility to the beam"
+            ]
+        },
+        {
+            "question": "Shear stress develops on a fluid element, if :",
+            "answers": [
+                "the fluid is at least",
+                "the fluid-container is subject to uniform linear acceleration",
+                "the fluid is inviscid",
+                "the fluid is viscous and the flow is nonuniform"
+            ]
+        },
+        {
+            "question": "A hydraulic turbine has a discharge of 5 m3/s, when operating under a head of 20 m with a speed of 500 rpm. If it is to operate under a head of 15 m, for the same discharge, the rotational speed in rpm will approximately be",
+            "answers": [
+                "433",
+                "403",
+                "627",
+                "388"
+            ]
+        },
+        {
+            "question": "A nozzle discharging water under head H has an outlet area \"a\" and discharge coefficient cd = 1.0. A vertical plate is acted upon by the fluid force Fj when held across the free jet and by the fluid force Fn when held against the nozzle to stop the flow, the ratio Fj/Fn is",
+            "answers": [
+                "1/2",
+                "1",
+                "2",
+                "2"
+            ]
+        },
+        {
+            "question": "A hydraulic turbine develops a power of 104 metric horse power while running at a speed of 100 revolutions per minute, under a head of 40 m. Its specific speed is nearest to one of the following :",
+            "answers": [
+                "100",
+                "628",
+                "523",
+                "314"
+            ]
+        },
+        {
+            "question": "The Prandtl mixing length for turbulent flow through pipes is",
+            "answers": [
+                "independent of shear stress",
+                "a universal constant",
+                "zero at the pipe wall",
+                "independent of radial distance from pipe axis"
+            ]
+        },
+        {
+            "question": "A 40\u00b0 slope is excavated to a depth of 10 m in a deep layer of saturated clay of unit weight 20 kN.m3; the relevant shear strength parameters are cu = 70 kN/m2 and \u03c6u = 0. The rock ledge is at a great depth. The Taylor's stability coefficient for \u03c6u = 0 and 40\u00b0 slope angle is 0.18. The factor of safety of the slope is :",
+            "answers": [
+                "2.0",
+                "2.1",
+                "2.2",
+                "2.3"
+            ]
+        },
+        {
+            "question": "Lysimeter and Tensiometer are used to measure respectively, one of the following groups of quantities :",
+            "answers": [
+                "Capillary potential and permeability",
+                "Evapotranspiration and capillary potential",
+                "Velocity in channels and vapour pressure",
+                "Velocity in pipes and pressure head"
+            ]
+        },
+        {
+            "question": "The ruling minimum radius of horizontal curve of a national highway in plain terrain for ruling design speed of 100 km/hour with e = 0.07 and f = 0.15 is close to",
+            "answers": [
+                "250 m",
+                "360 m",
+                "36 m",
+                "300 m"
+            ]
+        },
+        {
+            "question": "Principle involved in the relationship between submerged unit weight and saturated weight of a soil is based on",
+            "answers": [
+                "Equilibrium of floating bodies",
+                "Archimedes' principle",
+                "Stokes' law",
+                "Darcy's law"
+            ]
+        },
+        {
+            "question": "The kinetic energy correction factor for a full developed laminar flow through a circular pipe is",
+            "answers": [
+                "1.00",
+                "1.33",
+                "2.00",
+                "1.50"
+            ]
+        },
+        {
+            "question": "The slope of the e-log p curve for a soil mass gives :",
+            "answers": [
+                "coefficient of permeability, k",
+                "coefficient of consolidation Cv",
+                "compression index, Cc",
+                "coefficient of volume compressibility, mv"
+            ]
+        },
+        {
+            "question": "The modulus of subgrade reaction is obtained from the plate bearing test in the form of load-deformation curve. The pressure corresponding to the following settlement value should be used for computing modulus of subgrade reaction",
+            "answers": [
+                "0.375 cm",
+                "0.175 cm",
+                "0.125 cm",
+                "0.250 cm"
+            ]
+        },
+        {
+            "question": "X-component of velocity in a 2-D incompressible flow is given by u = y2 + 4 xy. If Y-com-ponent of velocity 'v' equals zero at y = 0, the expression for 'v' is given by",
+            "answers": [
+                "4y",
+                "2y2",
+                "-2y2",
+                "2xy"
+            ]
+        },
+        {
+            "question": "Consolidation in soils",
+            "answers": [
+                "is a function of the effective stress",
+                "does not depend on the present stress",
+                "is a function of the pore water pressure",
+                "is a function of the total stress"
+            ]
+        },
+        {
+            "question": "A cantilever beam of length L and a cross section with shape factor f supports a concentrated load P as shown below  The length LP of the plastic zone, when the maximum bending moment equals the plastic moment MP, given by",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The minimum area of tension reinforcement in a beam shall be greater than",
+            "answers": [
+                "0.85 bd/fy",
+                "0.87 fy/bd",
+                "0.04 bd",
+                "0.4 bd/y"
+            ]
+        },
+        {
+            "question": "In an iceberg, 15% of the volume projects above the sea surface. If the specific weight of sea water is 10.5 kN/m3 , the specific weight of iceberg ir kN/m3 is",
+            "answers": [
+                "12.52",
+                "9.81",
+                "8.93",
+                "7.83"
+            ]
+        },
+        {
+            "question": "A reinforced concrete column contains longitudinal steel equal to 1 percent of net cross-sectional area of the column. Assume modular ratio as 10. The loads carried (using the elastic theory) by the longitudinal steel and the net area of concrete, are Ps and Pc respectively. The ratio Ps/Pc expressed as percent is",
+            "answers": [
+                "0.1",
+                "1",
+                "1.1",
+                "10"
+            ]
+        },
+        {
+            "question": "A steady discharge of 1 cumec flows uniformly in a rectangular channel 1 m wide at a depth of 250 mm. The slope of the channel bed is :",
+            "answers": [
+                "adverse",
+                "steep",
+                "critical",
+                "mild"
+            ]
+        },
+        {
+            "question": "In reinforced concrete, pedestal is defined as compression member, whose effective length does not exceed its least dimension by",
+            "answers": [
+                "12 times",
+                "3 times",
+                "16 times",
+                "8 times"
+            ]
+        },
+        {
+            "question": "Flexible pavements derive stability primarily from :",
+            "answers": [
+                "aggregate interlock, particle friction and cohesion",
+                "cohesion alone",
+                "the binding power of bituminous materials",
+                "the flexural strength of the surface course"
+            ]
+        },
+        {
+            "question": "The permissible bending tensile stress in concrete for the vertical wall of an R.C. water tank made of M 25 concrete is :",
+            "answers": [
+                "8.5 N/mm2",
+                "6.0 N/mm3",
+                "2.5 N/mm2",
+                "1.8 N/mm2"
+            ]
+        },
+        {
+            "question": "The cylinder strength of the concrete is less than the cube strength because of",
+            "answers": [
+                "the difference in the shape of the cross section of the specimens",
+                "the difference in the slendeness ratio of the specimens",
+                "the friction between the concrete specimens and the steel plate of the testing machine",
+                "the cubes are tested without capping but the cylinders are tested with capping"
+            ]
+        },
+        {
+            "question": "A water treatment plant is required to process 28800 m3/d of raw water (density = 1000 kg/m3, kinematic viscosity = 10-6 m2/s). The rapid mixing tank imparts tank a velocity gradient of 900s-1 to blend 35 mg/l of alum with the flow for a detention time of 2 minutes. The power input (W) required for rapid mixing is",
+            "answers": [
+                "32.4",
+                "36",
+                "324",
+                "32400"
+            ]
+        },
+        {
+            "question": "The depth of tension crack in a soft clay (\u03c6u = 0) is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "A single rapid test to determine the pollu-tional status of river water is :",
+            "answers": [
+                "biochemical oxygen demand",
+                "chemical oxygen demand",
+                "total organic solids",
+                "dissolved oxygen"
+            ]
+        },
+        {
+            "question": "The vertical stress at depth z, directly below the point load p is (k is a constant)",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Vane tester is normally used for determining in situ shear strength of :",
+            "answers": [
+                "soft clays",
+                "sand",
+                "stiff clays",
+                "gravel"
+            ]
+        },
+        {
+            "question": "For the frame shown in the below figure, the maximum bending moment in the column is, ",
+            "answers": [
+                "zero",
+                "400 kNm",
+                "100 kNm",
+                "200 kNm"
+            ]
+        },
+        {
+            "question": "In a compaction test, as the compaction effort is increased, the optimum moisture content",
+            "answers": [
+                "decreases",
+                "remains same",
+                "increases",
+                "increases first and thereafter decreases"
+            ]
+        },
+        {
+            "question": "The peak discharge of the instantaneous unit hydrograph of a basin, when compared to the peak discharge of a 4-hour unit hydrograph of that basin, would be",
+            "answers": [
+                "greater",
+                "equal",
+                "equal or lesser",
+                "lesser"
+            ]
+        },
+        {
+            "question": "The drop manholes are provided in a sewerage system when there is",
+            "answers": [
+                "change in alignment of sewer line",
+                "change in size of sewers",
+                "change in the elevation of ground level",
+                "change from gravity system to pressure system"
+            ]
+        },
+        {
+            "question": "The reaction time for calculation of stopping distance may be assumed as",
+            "answers": [
+                "5 secs",
+                "2.5 secs",
+                "0.5 secs",
+                "10.0 secs"
+            ]
+        },
+        {
+            "question": "The percentage error in the computed discharge over a triangular notch corresponding to an error of 1% in the measurement of the head over the notch, would be",
+            "answers": [
+                "1.0",
+                "1.5",
+                "2.0",
+                "2.5"
+            ]
+        },
+        {
+            "question": "The characteristic strength of concrete is defined as that compressive strength below which not more than",
+            "answers": [
+                "10% of results fall",
+                "5% of results fall",
+                "2% of results fall",
+                "None of the above."
+            ]
+        },
+        {
+            "question": "Un-factored maximum bending moments at a section of a reinforced concrete beam resulting from a frame analysis are 50, 80, 120 and 180 kNm under dead, live, wind and earthquake loads respectively. The design moment (kNm) as per IS: 456-2000 for the limit state of collapse (flexure) is",
+            "answers": [
+                "195",
+                "250",
+                "345",
+                "372"
+            ]
+        },
+        {
+            "question": "The microbial quality of treated piped water supplies is monitored by",
+            "answers": [
+                "Microscopic examination",
+                "Plate count of heterotrophic bacteria",
+                "Coliform MPN test",
+                "Identification of all pathogens"
+            ]
+        },
+        {
+            "question": "The 5-day BOD of a wastewater sample is obtained as 190 mg/l (with k = 0.01 h-1). The ultimate oxygen demand (mg/l) of the sample will be",
+            "answers": [
+                "3800",
+                "475",
+                "271",
+                "190"
+            ]
+        },
+        {
+            "question": "A tube well having a capacity of 4 m3/hour operates for 20 hours each day during the irrigation season. How much area can be commanded if the irrigation interval is 20 days and depth of irrigation is 7 cm ?",
+            "answers": [
+                "1.71 x 104 m2",
+                "1.14 x 104 m2",
+                "22.9 x 104 m2",
+                "2.29 x 104 m2"
+            ]
+        },
+        {
+            "question": "In a reinforced concrete beam-column, the increase in the flexural strength along with the increase in the axial strength occurs",
+            "answers": [
+                "beyond the elastic limit of the material",
+                "when the yield of the tension reinforcement governs the strength",
+                "when the crushing of the concrete in the compression zone governs the strength",
+                "never"
+            ]
+        },
+        {
+            "question": "The group efficiency of a pile group",
+            "answers": [
+                "will be always less than 100%.",
+                "will be always greater than 100%.",
+                "may be less than 100% or more than 100%.",
+                "will be more than 100% for pile groups in cohensionless soils and less than 100% for those in cohesive soils."
+            ]
+        },
+        {
+            "question": "A wastewater sample contains 10-5.6 mmol/l of OH ions at 25\u00b0 C. The pH of this sample is",
+            "answers": [
+                "8.6",
+                "8.4",
+                "5.6",
+                "5.4"
+            ]
+        },
+        {
+            "question": "At a rated capacity of 44 Cumecs, a centrifugal pump develops 36 m of head when operating at 1450 rpm. Its specific speed is :",
+            "answers": [
+                "654",
+                "509",
+                "700",
+                "90"
+            ]
+        },
+        {
+            "question": "Presence of ifluoride in water greater than permissible level of 1.5 mg/l causes",
+            "answers": [
+                "cardiovascular disease",
+                "methemoglobinemia",
+                "hepatitis",
+                "dental fluorosis"
+            ]
+        },
+        {
+            "question": "The values of liquid limit and plasticity index for soils having common geological origin in a rectricted locality usually define",
+            "answers": [
+                "A zone above A-line",
+                "A straight line parallel to A-line",
+                "A straight line perpendicular to A-line",
+                "Points may be anywhere in the plasticity chart"
+            ]
+        },
+        {
+            "question": "M - \u03b8 relationship for a simply supported beam shown below is given by : ",
+            "answers": [
+                "M l/EI = 2\u03b8",
+                "M l/EI = 3\u03b8",
+                "M l/EI = 4\u03b8",
+                "M l/EI = 6\u03b8"
+            ]
+        },
+        {
+            "question": "The number of revolutions of a current meter in 50 seconds were found to be 12 and 30 corresponding to the velocities of 0.25 and 0.46 m/s respectively. What velocity (in m/s) would be indicated by 50 revolutions of that current meter in one minute ?",
+            "answers": [
+                "0.42",
+                "0.50",
+                "0.60",
+                "0.73"
+            ]
+        },
+        {
+            "question": "A lysimeter is used to measure :",
+            "answers": [
+                "infiltration",
+                "evaporation",
+                "evapotranspiration",
+                "radiation"
+            ]
+        },
+        {
+            "question": "In IS : 800 (1984) the permissible compressive stress in column is based on :",
+            "answers": [
+                "Euler formula",
+                "Secant formula",
+                "Rankine-Gordan formula",
+                "Rankine-Merchant formula"
+            ]
+        },
+        {
+            "question": "Sewage treatment in an oxidation pond is accomplished primarily by :",
+            "answers": [
+                "alga-bacterial symbiosis",
+                "algal photosynthesis only",
+                "bacterial oxidation only",
+                "chemical oxidation only"
+            ]
+        },
+        {
+            "question": "Presence of excess nitrates in river water indicates :",
+            "answers": [
+                "recent pollution of water with sewage",
+                "past pollution of water with sewage",
+                "immediate pollution of water with sewage",
+                "no pollution of water with sewage"
+            ]
+        },
+        {
+            "question": "Two steel plates each of width 150 mm and thickness 10 mm are connected with three 20 mm diameter rivets placed in a zig-zag pattern. The pitch of the rivets is 75 mm and gauge is 60 mm. If the allowable tensile stress is 150 MPa, the maximum tensile force that the joint can withstand is",
+            "answers": [
+                "195.66 kN",
+                "195.00 kN",
+                "192.75 kN",
+                "225.00 kN"
+            ]
+        },
+        {
+            "question": "The relation that must hold for the flow to be irrotational is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "A single bay single storey portal frame has hinged left support and a fixed right support. It is loaded with uniformly distributed load on the beam. Which one of the following statements is true with regard to the deformation of the frame ?",
+            "answers": [
+                "It would sway to the left side",
+                "It would sway to the right side",
+                "It would not sway at all",
+                "None of the above"
+            ]
+        },
+        {
+            "question": "To have zero active pressure intensity at the tip of a wall in cohesive soil, one should apply a uniform surcharge intensity of",
+            "answers": [
+                "2c tan \u03b1",
+                "2c cot \u03b1",
+                "- 2c cot \u03b1",
+                "- 2c tan \u03b1"
+            ]
+        },
+        {
+            "question": "The following characteristics pertain to the sand filters used in water industry. ",
+            "answers": [
+                "I, II and III",
+                "I and II",
+                "II and III",
+                "I and III"
+            ]
+        },
+        {
+            "question": "Effective length of a rafter member between two nodes at a distance L, perpendicular to the plane of the truss, is : .",
+            "answers": [
+                "2.00 L",
+                "0.85",
+                "1.50",
+                "1.00 L"
+            ]
+        },
+        {
+            "question": "Consistency Index for a clayer soil is [LL = Liquid Limit, PL = Plastic Limit, PI = Plas-ticity Index, W - natural moisture content]",
+            "answers": [
+                "",
+                "",
+                "LL - PL",
+                "0.5 w"
+            ]
+        },
+        {
+            "question": "The slope of the elastic curve at the free end of a cantilever beam of span L, and with fluxural rigidity EI, subjected to uniformly distributed load of intensity w is",
+            "answers": [
+                "wL3/6EI",
+                "wL3/3EI",
+                "wL4/8EI",
+                "wL3/2EI"
+            ]
+        },
+        {
+            "question": "If duty (D) is 1428 hectares/cumec and base period (B) is 120 days for an irrigated crop, then delta (\u0394) in meters is given by",
+            "answers": [
+                "102.8",
+                "0.73",
+                "1.38",
+                "0.01"
+            ]
+        },
+        {
+            "question": "The repeating variables in dimensional analysis should :",
+            "answers": [
+                "include the dependent variable",
+                "have amongst themselves all the basic dimensions",
+                "be derivable from one another",
+                "exclude one of the basic dimensions"
+            ]
+        },
+        {
+            "question": "The minimum dissolved oxygen content (ppm) in a river necessary for the survival of aquatic life is",
+            "answers": [
+                "0",
+                "2",
+                "4",
+                "8"
+            ]
+        },
+        {
+            "question": "Stopping sight distance is the minimum distance available on a highway which is the",
+            "answers": [
+                "distance of sufficient length to stop the vehicle wihtout collision.",
+                "distance visible to a driver during night driving.",
+                "height of the object above the road surface.",
+                "distance equal to the height of the driver's eye above the road surface."
+            ]
+        },
+        {
+            "question": "A body moving through still water at 6 m/sec produces a water velocity of 4 m/sec at a point 1 m ahead. The difference in pressure between the nose and the point 1 m ahead would be",
+            "answers": [
+                "2, 000 N/m2",
+                "10, 000 N/m2",
+                "19, 620 N/m2",
+                "98, 100 N/m2"
+            ]
+        },
+        {
+            "question": "Critical factors for the activated sludge treatment process are",
+            "answers": [
+                "maximum hourly flow rate.",
+                "maximum and minimum flow rate.",
+                "maximum hourly flow rate and maximum daily organic load.",
+                "minimum hourly flow rate and minimum daily organic load."
+            ]
+        },
+        {
+            "question": "MPN index is a measure of one of the following :",
+            "answers": [
+                "Coliform bacteria",
+                "BOD5",
+                "Dissolved Oxygen Content",
+                "Hardness"
+            ]
+        },
+        {
+            "question": "One of the probable causes of rutting on flexible pavements is",
+            "answers": [
+                "excessive stripping of binder material from the wearing course",
+                "use of flaky aggregates in the wearing course",
+                "inadequate compaction of pavement layers",
+                "high wind speeds"
+            ]
+        },
+        {
+            "question": "The basic assumption of plane sections normal to the neutral axis before bending, remaining plane and normal to the neutral axis after bending, leads to :",
+            "answers": [
+                "uniform strain over the beam cross section",
+                "uniform stress over the cross section",
+                "linearly varying strain over the cross section",
+                "stresses which are proportional to strains at all cross sections"
+            ]
+        },
+        {
+            "question": "Negative skin friction occurs when :",
+            "answers": [
+                "an upward drag exists in the pile",
+                "the surrounding soil settles more than the pile",
+                "the pile passes continuously through a firm soil",
+                "the driving operation begins"
+            ]
+        },
+        {
+            "question": "The dimension of a pressure gradient in a fluid flow are :",
+            "answers": [
+                "ML-1T2",
+                "ML-3T-2",
+                "ML-2T-2",
+                "M-1L-1T-2"
+            ]
+        },
+        {
+            "question": "Maximum strain at the level of compression steel for a rectangular section having effective cover to compression steel as d' and neutral axis depth from compression face as xu is",
+            "answers": [
+                "0.0035 (1 - d'/xu)",
+                "0.002 (1 - d'/xu)",
+                "0.0035 (1 - xu/d')",
+                "0.002 (1 - xu/d')"
+            ]
+        },
+        {
+            "question": "The correct reinforcement-details at the corner of a rectangular water tank, in horizontal plane is shown by :",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The maximum shear stress in a solid shaft of circular cross-section having diameter d subjected to a torque T is \u03c4. If the torque is increased by four times and the diameter of the shaft is increased by two times, the maximum shear stress in the shaft will be",
+            "answers": [
+                "2\u03c4",
+                "\u03c4",
+                "\u03c4/2",
+                "\u03c4/4"
+            ]
+        },
+        {
+            "question": "In a drained triaixal compression test, a saturated specimen of a cohesionless sand fails under a deviatoric stress of 3 kgf/cm2 when the cell pressure is 1 kgf/cm2 . The effective angle of shearing resistance of sand is about",
+            "answers": [
+                "37\u00b0",
+                "45\u00b0",
+                "53\u00b0",
+                "20\u00b0"
+            ]
+        },
+        {
+            "question": "The particle size distribution curves are extremely useful for the classification of",
+            "answers": [
+                "fine grained soils",
+                "coarse grained soils",
+                "both coarse grained and fine grained soils",
+                "silts and clays"
+            ]
+        },
+        {
+            "question": "If an element of a stressed body is in a state of pure shear with a magnitude of 80 N/mm2 , the magnitude of maximum principal stress at that location is",
+            "answers": [
+                "80 N/mm2",
+                "113.14 N/mm2",
+                "120 N/mm2",
+                "56.57 N/mm2"
+            ]
+        },
+        {
+            "question": "Three reservoirs A, B and C are interconnected by pipes as shown in the below figure Water surface elevations in the reservoirs and the Piezometric Head at the junction J are indicated in the below figure.  Discharges Q1, Q2 and Q3 are related as",
+            "answers": [
+                "Q1 + Q2 = Q3",
+                "Q1 = Q2 + Q3",
+                "Q2 = Q1 + Q3",
+                "Q1 + Q2 + Q3 = 0"
+            ]
+        },
+        {
+            "question": "Both Reynolds and Froude numbers assume significance in one of following examples :",
+            "answers": [
+                "Motion of submarine at large depths",
+                "Motion of ship in deep seas",
+                "Cruising of a missile in air",
+                "Flow over spillways"
+            ]
+        },
+        {
+            "question": "A direct shear test was conducted on a cohesionless soil (c = 0) specimen under a normal stress of 200 kN/m2. The specimen failed at a shear stress of 100 kN/m2. The angle of internal friction of the soil (degrees) is",
+            "answers": [
+                "26.6",
+                "29.5",
+                "30.0",
+                "32.6"
+            ]
+        },
+        {
+            "question": "The following two statements are made with reference to a simply supported under-reinforced RCC beam : ",
+            "answers": [
+                "Both the statements are false.",
+                "I is true but II is false.",
+                "Both the statements are true.",
+                "I is false but II is true."
+            ]
+        },
+        {
+            "question": "In deriving the equation for the hydraulic jump in a rectangular channel in terms of the conjugate depths and the initial Froude number.",
+            "answers": [
+                "continuity equation and energy equation are used",
+                "continuity equation and momentum equation are used",
+                "equations of continuity, mementum and energy are used",
+                "gradually varied flow equation is used"
+            ]
+        },
+        {
+            "question": "An important purpose of prime coats is to:",
+            "answers": [
+                "promote the bond between the base and the wearing courses",
+                "promote the adhesion between an existing wearing surface and a subsequent wearing surface",
+                "promote the bond between the sub-base cause and the sub-grade",
+                "increase the stability of the sub-grade"
+            ]
+        },
+        {
+            "question": "A trickling filter is primarily a :",
+            "answers": [
+                "straining process to remove suspended solids from sewage",
+                "biological oxidation process to remove BOD from sewage",
+                "straining process to remove turbidity from water",
+                "straining process to remove bacteria from water"
+            ]
+        },
+        {
+            "question": "A soil having particles of nearly the same size is known as",
+            "answers": [
+                "well graded",
+                "uniformly graded",
+                "poorly graded",
+                "gap graded"
+            ]
+        },
+        {
+            "question": "The ideal form of curve for the summit curve is :",
+            "answers": [
+                "spiral",
+                "parabola",
+                "circle",
+                "lemniscate"
+            ]
+        },
+        {
+            "question": "A septic tank is",
+            "answers": [
+                "an aerobic method of on site sewage treatment",
+                "an anaerobic method of on site treatment",
+                "a physical method of water treatment",
+                "a physicochemical method of water treatment"
+            ]
+        },
+        {
+            "question": "At highway stretches where the required overtaking sight distance cannot be provided, it is necessary to incorporate :",
+            "answers": [
+                "at least twice the stopping sight distance",
+                "half the required overtaking sight distance",
+                "one-third the required overtaking sight distance",
+                "three times the stopping sight distance"
+            ]
+        },
+        {
+            "question": "The members EJ and IJ of steel truss shown in the figure below are subjected to a temperature rise of 30\u00b0 C. The coefficient of thermal expansion of steel is 0.000012 per \u00b0C per unit length. The displacement (mm) of joint E relative to joint H along the direction HE of the truss, is ",
+            "answers": [
+                "0.255",
+                "0.589",
+                "0.764",
+                "1.026"
+            ]
+        },
+        {
+            "question": "A-2-hour unit hydrograph can be approximated as trapezoidal as shown in the below figure. The unit hydrograph refers to catchment of area ",
+            "answers": [
+                "138.24 km2",
+                "0.0384 km2",
+                "384 m2",
+                "3840 m2"
+            ]
+        },
+        {
+            "question": "If the pump head is 75 m, discharge is 0.464 m3/s and the motor speed is 1440 rpm at rated condition, the specific speed of the pump is about",
+            "answers": [
+                "4",
+                "26",
+                "38",
+                "1440"
+            ]
+        },
+        {
+            "question": "When a retaining wall moves away from the backfill, the pressure exerted on the wall is termed as",
+            "answers": [
+                "passive earth pressure",
+                "swelling pressure",
+                "pore pressure",
+                "active earth pressure"
+            ]
+        },
+        {
+            "question": "Two primary air pollutants are",
+            "answers": [
+                "sulphur oxide and ozone",
+                "nitrogen oxide and peroxyacetylnitrate",
+                "sulphur oxide and hydrocarbon",
+                "ozone and peroxyacetynitrate"
+            ]
+        },
+        {
+            "question": "Flocculation is a process",
+            "answers": [
+                "that removes algae from stabilization pond effluent",
+                "that promotes the aggregation of small particles into larger particles to enhance their removal by gravity",
+                "both (a) and (b)",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The effective length of a circular electric pole of length L and constant diameters erected on ground is,",
+            "answers": [
+                "0.80 L",
+                "1.20 L",
+                "1.50 L",
+                "2.00 L"
+            ]
+        },
+        {
+            "question": "The focal length of the object glass of a tacheometer is 200 mm, the distance between the vertical axis of the tachometer and the optical centre of the object glass is 100 mm and the spacing between the upper and lower line of the diaphragm axis is 4 mm. With the line of collima-tion perfectly horizontal, the staff intercepts are 1 m (top), 2 m (middle), and 3 m (bottom). The horizontal distance (m) between the staff and the instrument station is",
+            "answers": [
+                "100.3",
+                "103.0",
+                "150.0",
+                "153.0"
+            ]
+        },
+        {
+            "question": "Allowable average shear stress in an un-stiffened web for beams made of steel of grade 250 N/mm2 is :",
+            "answers": [
+                "250 N/mm2",
+                "165 N/mm2",
+                "150 N/mm2",
+                "100 N/mm2"
+            ]
+        },
+        {
+            "question": "The superelevation needed for a vehicle travelling at a speed of 60 kmph on a curve of radius 128 m on a surface with a coefficient of friction of 0.15 is :",
+            "answers": [
+                "0.71",
+                "0.81",
+                "0.91",
+                "0.61"
+            ]
+        },
+        {
+            "question": "The plastic modulus of a section is 4.8 x 10-4 m3. The shape factor is 1.2. The plastic moment capacity of the section is 120 kN.m. The yield stress of the material is",
+            "answers": [
+                "100 MPa",
+                "240 MPa",
+                "250 MPa",
+                "300 MPa"
+            ]
+        },
+        {
+            "question": "A propped cantilever beam in shown in the below figure. The plastic moment capacity of the beam is M0. The collapse load P is ",
+            "answers": [
+                "4 M0/L",
+                "6 M0/L",
+                "8 M0/L",
+                "12 M0/L"
+            ]
+        },
+        {
+            "question": "The removal of dissolved organic matter occurs in",
+            "answers": [
+                "slow sand filters",
+                "trickling filters",
+                "rapid sand filters",
+                "dual media filters"
+            ]
+        },
+        {
+            "question": "The toughness index of clayey soils is given by",
+            "answers": [
+                "Plasticity index/Flow index",
+                "Liquid limit/Plastic limit",
+                "Liquidity index/Plastic limit",
+                "Plastic limit/Liquidity index"
+            ]
+        },
+        {
+            "question": "A cantilever beam is shown in the below figure. The moment to be applied at free end for zero vertical deflection at that point is ",
+            "answers": [
+                "9 kN.m clock wise",
+                "9 kN.m anti-clockwise",
+                "12 kN.m clockwise",
+                "12 kN.m anti-clockwise"
+            ]
+        },
+        {
+            "question": "The order or the flexibility matrix for a structure is,",
+            "answers": [
+                "equal to the number of redundant forces",
+                "more than the number of redundant forces",
+                "less than the number of redundant forces",
+                "equal to the number of redundant forces plus three"
+            ]
+        },
+        {
+            "question": "The Bowen ratio is defined as :",
+            "answers": [
+                "Ratio of heat and vapour diffusivities.",
+                "Proportionality constant between vapour heat flux and sensible heat flux.",
+                "Ratio of actual evapotranspiration and potential evapotranspiration.",
+                "Proportionality constant between heat energy used up in evaporation and the bulk radiation from a water body."
+            ]
+        },
+        {
+            "question": "Water flows at a depth of 0.1 m with a velocity of 6 m/s in a rectangular channel. The alternate dpeth is",
+            "answers": [
+                "0.30 m",
+                "0.40 m",
+                "0.86 m",
+                "0.81 m"
+            ]
+        },
+        {
+            "question": "Two footings, one circular and the other square, are founded on the surface of a purely cohesionless soil. The diameter of the circular footing is same as that of the side of the square footing. The ratio of their ultimate bearing capcities is",
+            "answers": [
+                "3/4",
+                "4/3",
+                "1.0",
+                "1.3"
+            ]
+        },
+        {
+            "question": "An isochrone is a line on the basin map",
+            "answers": [
+                "Joining raingauge stations having equal rainfall-duration",
+                "Joining points having equal rainfall depth in a given time interval",
+                "Joining points having equal time of travel of surface runoff to the catchment outlet",
+                "Joining points which are at equal distance from the catchment outlet"
+            ]
+        },
+        {
+            "question": "Muskingum method for routing of flood",
+            "answers": [
+                "is used for routing floods through reservoirs",
+                "is a method of routing that uses continuity the momentum equations",
+                "is a hydrologic method of routing floods through streams",
+                "is one in which only energy equation is used"
+            ]
+        },
+        {
+            "question": "A frame ABCD is supported by a roller at A and is on a hinge at C as shown below  The reaction at the roller end A is given by",
+            "answers": [
+                "P",
+                "2P",
+                "P/2",
+                "Zero."
+            ]
+        },
+        {
+            "question": "On an immersed body in a flowing fluid the lift force is :",
+            "answers": [
+                "due to buoyant force",
+                "always in the opposite direction to gravity",
+                "due to Wake phenomenon",
+                "the dynamic fluid-force component normal to approach velocity"
+            ]
+        },
+        {
+            "question": "In a section, shear centre is a point through which, if the resultant load passes, the section will not be subjected to any",
+            "answers": [
+                "Bending",
+                "Tension",
+                "Compression",
+                "Torsion"
+            ]
+        },
+        {
+            "question": "Which one of the following conditions, both elastic and plastic methods of analysis of indeterminate structures have to satisfy ?",
+            "answers": [
+                "yield condition",
+                "mechanism condition",
+                "equilibrium",
+                "compatibility of deformation"
+            ]
+        },
+        {
+            "question": "The nature of contact pressure distribution under a rigid footing resting on a sandy soil and subjected to uniformly distributed load is as shown in :",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Bituminous materials are used in highway construction primarily because of their :",
+            "answers": [
+                "cementing and water-proofing properties",
+                "load bearing capacity",
+                "high specific gravity",
+                "black colour which facilitates road markings"
+            ]
+        },
+        {
+            "question": "The comparison between pumps operating in series and in parallel is :",
+            "answers": [
+                "Pumps operating in series boost the discharge, whereas pumps operating in parallel boost the head.",
+                "Pumps operating in parallel boost the discharge, whereas pumps operating in series boost the head.",
+                "In both cases there would be a boost in discharge only.",
+                "In both cases there would be a boost in head only."
+            ]
+        },
+        {
+            "question": "At highway stretches where the required overtaking sight distance cannot be provided, it is necessary to incorporate in such sections the following :",
+            "answers": [
+                "at least twice the stopping sight distance",
+                "half of the required overtaking sight distance",
+                "one third of the required overtaking sight distance",
+                "three times the stopping sight distance."
+            ]
+        },
+        {
+            "question": "A pile of 0.50 m diameter and of length 10 m is embedded in a deposit of clay. The un-drained strength parameters of the clay are cohesion = 60 kN/m2 and the angle in internal friction = 0. The skin friction capacity (kN) of the pile for an adhesion factor of 0.6, is",
+            "answers": [
+                "671",
+                "565",
+                "283",
+                "106"
+            ]
+        },
+        {
+            "question": "A roundabout is provided with an average entry width of 8.4 m, width of weaving section as 14 m, and length of the weaving section between channelizing islands as 35 m. The crossing traffic and total traffic on the weaving section are 1000 and 2000 PCU per hour respectively. The nearest rounded capacity of the roundabout (in PCU per hour) is",
+            "answers": [
+                "3300",
+                "3700",
+                "4500",
+                "5200"
+            ]
+        },
+        {
+            "question": "The shape of the STOP sign according to IRC:67-2001 is",
+            "answers": [
+                "circular",
+                "triangular",
+                "octagonal",
+                "rectangular"
+            ]
+        },
+        {
+            "question": "The force in the member DE of the truss shown in the below figure is, ",
+            "answers": [
+                "100.0 kN",
+                "zero",
+                "35.5 kN",
+                "25.0 kN"
+            ]
+        },
+        {
+            "question": "The degree of static indeterminacy of the rigid frame having two internal hinges as shown in the figure below, is ",
+            "answers": [
+                "8",
+                "7",
+                "6",
+                "5"
+            ]
+        },
+        {
+            "question": "Excessive fluoride in drinking water causes",
+            "answers": [
+                "Alzheimer's disease",
+                "Mottling of teeth and embrittlement of bones",
+                "Methemoglobinemia",
+                "Skin cancer"
+            ]
+        },
+        {
+            "question": "The proposed dam shown in the below figure is 90 m long and coefficient of permeability of the soil is 0.0013 mm/second. The quantity of water (m3) that will be lost per day, by seepage is (rounded to the nearest number): ",
+            "answers": [
+                "55",
+                "57",
+                "59",
+                "61"
+            ]
+        },
+        {
+            "question": "A 1 : 30 model of an ogee spillway crest records an acceleration of 1.3 m/s2 at a certain location. The homologous value of the acceleration in the prototype in m/s2 , is",
+            "answers": [
+                "0.043",
+                "0.237",
+                "1.300",
+                "7.120"
+            ]
+        },
+        {
+            "question": "The value of the camber recommended for cement concrete roads in areas of heavy rainfall is :",
+            "answers": [
+                "1 in 25",
+                "1 in 33",
+                "1 in 40",
+                "1 in 50"
+            ]
+        },
+        {
+            "question": "A waste water sample diluted to 100 times with aeration water had an initial dissolved oxygen (DO) of 7.0 mg/l and after 5 days of incubation at 20\u00b0C, the DO was zero. The BOD of waste water is :",
+            "answers": [
+                "700 mg/l",
+                "100 mg/l",
+                "cannot be determined",
+                "7mg/l"
+            ]
+        },
+        {
+            "question": "For the strip footing on a saturated clay, for the given failure surface as shown in the below figure, the bearing capacity equation takes the form : (where Cu - undrained shear strength \u03c6u - angle of internal friction B - width of strip footing qc - ultimate bearing capacity of soil) ",
+            "answers": [
+                "5.7 Cu",
+                "5.14 Cu",
+                "4\u03c0 Cu",
+                "2\u03c0 Cu"
+            ]
+        },
+        {
+            "question": "A soil mass has coefficients of horizontal and vertical permeability as 9 x 10-7 cm/s and 4 x 10-7 cm/s, respectively. The transformed coefficient of permeability of an equivalent isotropic soil mass is",
+            "answers": [
+                "9 x 10-7 cm/s",
+                "4 x 10-7 cm/s",
+                "13 x 10-7 cm/s",
+                "6 x 10-7 cm/s"
+            ]
+        },
+        {
+            "question": "A reinforced concrete wall carrying vertical loads is generally designed as per recommendations given for columns. The ratio of minimum reinforcements in the vertical and horizontal directions is",
+            "answers": [
+                "2 : 1",
+                "5 : 3",
+                "1 : 1",
+                "3 : 5"
+            ]
+        },
+        {
+            "question": "The total active thrust on a vertical wall 3m high retaining a horizontal sand backfill (unit weight \u03b3t = 20 kN/m3, angle of shearing resistance \u03c6' = 30\u00b0) when the water table is at the bottom of the wall, will be:",
+            "answers": [
+                "30 kN/m",
+                "35 kN/m",
+                "4 kN/m",
+                "45 kN/m"
+            ]
+        },
+        {
+            "question": "Reaction at support b of the structure is ",
+            "answers": [
+                "P",
+                "P2",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "In cohesive soils the depth of tension crack (Zcr) is likely to be",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "A vertical rod PQ of length L is fixed at its top end P and has a flange fixed to the bottom end Q. A weight W is dropped vertically from a height h(< L) on to the flange. The axial stress in the rod can be reduced by",
+            "answers": [
+                "increasing the length of the rod",
+                "decreasing the length of the rod",
+                "decreasing the area of cross-section of the rod",
+                "increasing the modulus of elasticity of the material"
+            ]
+        },
+        {
+            "question": "Compaction by vibratory roller is the best method of compaction in case of",
+            "answers": [
+                "moist silty sand",
+                "well graded dry sand",
+                "clay of medium compressibility",
+                "silt of high compressibility"
+            ]
+        },
+        {
+            "question": "Design rate of super elevation for horizontal highway curve of radius 450 m for a mixed traffic condition, having a speed of 125 km/hour is",
+            "answers": [
+                "1.0",
+                "0.05",
+                "0.07",
+                "0.154"
+            ]
+        },
+        {
+            "question": "A mild steel specimen is under uni-axial tensile stress. Young's modulus and yield stress for mild steel are 2 x 105 MPa and 250 MPa respectively. The maximum amount of strain energy per unit volume that can be stored in this speciment without permanent set, is",
+            "answers": [
+                "156 Nmm/mm3",
+                "15.6 Nmm/mm3",
+                "1.56 Nmm/mm3",
+                "0.156 Nmm/mm3"
+            ]
+        },
+        {
+            "question": "Rivets and bolts subjected to both shear stress (\u03c4vf , cal) and axial tensile stress (\u03c3tf , cal) shall be so proportioned that the stresses do not exceed the respective allowable stresses \u03c4vf and \u03c3tf and the value of exceed  does not exceed",
+            "answers": [
+                "1.0",
+                "1.2",
+                "1.4",
+                "1.8"
+            ]
+        },
+        {
+            "question": "Standard 5-day BOD of a waste water sample is nearly x% of the ultimate BOD, where x is",
+            "answers": [
+                "48",
+                "58",
+                "68",
+                "78"
+            ]
+        },
+        {
+            "question": "A two lane single carriage-way is to be designed for a design life period of 15 years. Total two-way traffic intensity in the year of completion of construction is expected to be 2000 commercial vehicles per day. Vehicle damage factor = 3.0, Lane distribution factor = 0.75. Assuming an annual rate of traffic growth as 7.5%, the design traffic expressed as cumulative number of standard axles, is",
+            "answers": [
+                "42.9 x 106",
+                "22.6 x 106",
+                "10.1 x 106",
+                "5.3 x 106"
+            ]
+        },
+        {
+            "question": "At the same mean velocity, the ratio of head loss per unit length for a sewer pipe flowing full to that for the same pipe flowing half full would be :",
+            "answers": [
+                "2.0",
+                "1.63",
+                "1.00",
+                "0.61"
+            ]
+        },
+        {
+            "question": "As per IS : 800-1984 the minimum pitch of rivets in a row is recommended as the diameter of the rivet times",
+            "answers": [
+                "2.0",
+                "2.5",
+                "3.0",
+                "4.0"
+            ]
+        },
+        {
+            "question": "The ordinate of the Instantaneous Unit Hydrograph (IUH) of a catchment at any time t, is",
+            "answers": [
+                "The slope of the 1-hour unit hydrograph at that time",
+                "The slope of the direct runoff unit hydrograph at that time",
+                "Difference in the slope of the S-curve and 1-hour unit hydrograph",
+                "The slope of the S-curve with effective rainfall intensity of 1 cm/hr"
+            ]
+        },
+        {
+            "question": "Water emerges from an ogee spillway with velocity 13.72 m/s and depth = 3.0 m at its toe. The tail water depth required to form a hydraulic jump at the toe is",
+            "answers": [
+                "6.48 m",
+                "5.24 m",
+                "3.24 m",
+                "2.24 m"
+            ]
+        },
+        {
+            "question": "In a BOD test, 5 ml of waste is added to 295 ml of aerated pure water. Initial dissolved oxygen (D.O) content of the diluted sample is 7.8 mg/l. After 5 days of incubation at 20\u00b0C, the D.O. content of the sample is reduced to 4.4 mg/l. The BOD of the waste water is :",
+            "answers": [
+                "196 mg/l",
+                "200 m/l",
+                "204 mg/l",
+                "208 mg/l"
+            ]
+        },
+        {
+            "question": "The lateral ties in a reinforced concrete rectangular column uncle: axial compression are used to :",
+            "answers": [
+                "avoid the buckling of the longitudinal steel under compression",
+                "provide adequate shear capacity",
+                "provide adequate confinement to concrete",
+                "reduce the axial deformation of the column"
+            ]
+        },
+        {
+            "question": "The specific gravity of paving bitumen as per IS:73-1992 lies between",
+            "answers": [
+                "1.10 and 1.06",
+                "1.06 and 1.02",
+                "1.02 and 0.97",
+                "0.97 and 0.92"
+            ]
+        },
+        {
+            "question": "A linear relationship is observed between speed and density on a certain section of a highway. The free flow speed is observed to be 80 km per hour and the jam density is estimated as 100 vehicles per km length. Based on the above relationship, the maximum flow expected on this section and the speed at the maximum flow will respectively be",
+            "answers": [
+                "8000 vehicles per hour and 80 km per hour",
+                "8000 vehicles per hour and 25 km per hour",
+                "2000 vehicles per hour and 80 km per hour",
+                "2000 vehicles per hour and 40 km per hour"
+            ]
+        },
+        {
+            "question": "The ratio of unconfined compressive strength of an undisturbed sample of soil to that of a remoulded sample, at the same water content, is known as :",
+            "answers": [
+                "activity",
+                "damping",
+                "plasticity",
+                "sensitivity"
+            ]
+        },
+        {
+            "question": "The modulus of rupture of concrete gives",
+            "answers": [
+                "the direct tensile strength of the concrete",
+                "the direct compressive strength of the concrete",
+                "the tensile strength of the concrete under bending",
+                "the characteristic strength of the concrete"
+            ]
+        },
+        {
+            "question": "The total length (in km) of the existing National Highways in India is in the range of",
+            "answers": [
+                "15, 000 to 25, 000",
+                "25, 000 to 35, 000",
+                "35, 000 to 45, 000",
+                "45, 000 to 55, 000"
+            ]
+        },
+        {
+            "question": "A direct runoff hydrograph due to an isolated storm with an effective rainfall of 2 cm was trapezoidal in shape as shown in the below figure. The hydrograph corresponds to a catchment area (in sq. km) of ",
+            "answers": [
+                "790.2",
+                "599.4",
+                "689.5",
+                "435.3"
+            ]
+        },
+        {
+            "question": "A simply supported beam with an overhang is traversed by a unit concentrated moment from the left to the right as shown below  The influence line for reaction at B is given by",
+            "answers": [
+                "",
+                "",
+                "",
+                "zero everywhere."
+            ]
+        },
+        {
+            "question": "The parameters in Horton's infiltration equation  are given as, fo = 7.62 cm/hour, fc = 1.34 cm/hour and k = 4.182/hour. For assumed continuous ponding the cumulative infiltration at the end of 2 hours is",
+            "answers": [
+                "2.68 cm",
+                "1.50 cm",
+                "1.34 cm",
+                "4.18 cm"
+            ]
+        },
+        {
+            "question": "The temporary hardness of water, is caused by:",
+            "answers": [
+                "dissolved carbondioxide",
+                "bicarbonates and carbonates of calcium and magnesium",
+                "bicarbonates of sodium and potassium",
+                "carbonates of calucium and magnesium"
+            ]
+        },
+        {
+            "question": "Rotational stiffness-coefficient, K11 for the frame having two members of equal EI/l is given by : ",
+            "answers": [
+                "5 EI/l",
+                "6 EI/l",
+                "7 EI/l",
+                "8 EI/l"
+            ]
+        },
+        {
+            "question": "The plan of a survey plotted to a scale of 10 m to 1 cm is reduced in such a way that a line originally 10 cm long now measures 9 cm. The area of the reduced plan is measured as 81 cm2. The actual (m2) of the survey is",
+            "answers": [
+                "10000",
+                "6561",
+                "1000",
+                "656"
+            ]
+        },
+        {
+            "question": "Width of carriage way for a single lane is recommended to be",
+            "answers": [
+                "7.5 m",
+                "7.0 m",
+                "3.75 m",
+                "5.5 m"
+            ]
+        },
+        {
+            "question": "The shape of the cross-section, which has the largest shape factor, is",
+            "answers": [
+                "rectangular",
+                "I-section",
+                "diamond",
+                "solid circular"
+            ]
+        },
+        {
+            "question": "The unit of dynamic viscosity of a fluid is",
+            "answers": [
+                "m2/s",
+                "Ns/m2",
+                "Pa s/m2",
+                "kg s2/m2"
+            ]
+        },
+        {
+            "question": "A point load of 700 kN is applied on the surface of thick layer of clay. Using Boussinesq's elastic analysis, the estimated vertical stress (\u03c3v) at a depth of 2 m and a radial distance of 1.0 m from the point of application of the load, is :",
+            "answers": [
+                "47.5 kPa",
+                "47.6 kPa",
+                "47.7 kPa",
+                "47.8 kPa"
+            ]
+        },
+        {
+            "question": "The liquid limit (LL), plastic limit (PL) and shrinkage limit (SL) of a cohesive soil satisfy the relation",
+            "answers": [
+                "LL > PL < SL",
+                "LL > PL > SL",
+                "LL < PL < SL",
+                "LL < PL > SL"
+            ]
+        },
+        {
+            "question": "A propped cantilever beam of span L, is loaded with uniformly distributed load of intensity w/unit length, all through the span. Bending moment at the fixed end is,",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The sequent depth ratio of a hydraulic jump in a rectangular horizontal channel is 10.30. The Froude Number at the beginning of the jump is :",
+            "answers": [
+                "5.64",
+                "7.63",
+                "8.05",
+                "13.61"
+            ]
+        },
+        {
+            "question": "Shear centre for an angle-purlin as shown in the below figure is located at, ",
+            "answers": [
+                "X",
+                "Y",
+                "Z",
+                "none"
+            ]
+        },
+        {
+            "question": "If \u03c6 = nominal diameter of reinforcing bar, fs = compressive stress in the bar and fbd= design bond stress of concrete, the anchorage length, La of straight bar in compression is equal to :",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Alligator or map cracking is the common type of failure in",
+            "answers": [
+                "concrete pavements",
+                "bituminous surfacing",
+                "gravel roads",
+                "WBM construction"
+            ]
+        },
+        {
+            "question": "A steel beam supporting loads from the floor slab as well as from wall is termed as",
+            "answers": [
+                "Stringer beam",
+                "Lintel beam",
+                "Spandrel beam",
+                "Header beam"
+            ]
+        },
+        {
+            "question": "For an anisotropic soil, permeabilities in x and y directions are kx and ky respectively in a two dimensional flow. The effective permeability keq for the soil is given by",
+            "answers": [
+                "kx + ky",
+                "kx/ky",
+                "(kx2 + ky2)1/2",
+                "(kxky)1/2"
+            ]
+        },
+        {
+            "question": "Chemical oxygen Demand (COD) of a sample is always greater than Biochemical Oxygen Demand (BOD) since it represents :",
+            "answers": [
+                "biodegradable organic matter only",
+                "biodegradable and non-biodegradable organic matter",
+                "non-biodegradable organic matter",
+                "inorganic matter"
+            ]
+        },
+        {
+            "question": "For the determination of earth pressure, Coulomb's wedge theory assumes that:",
+            "answers": [
+                "the back of wall is smooth and vertical",
+                "the soil is non-homogeneous and anisotropic",
+                "the slip surface is circular",
+                "the wall surface is rough"
+            ]
+        },
+        {
+            "question": "The degree of kinematic indeterminacy of the rigid frame with clamped ends at A and D shown in the below figure is, ",
+            "answers": [
+                "4",
+                "3",
+                "2",
+                "zero"
+            ]
+        },
+        {
+            "question": "The dimensions for the flexural rigidity of a beam element in mass (M), length (L) and time (T) is given by",
+            "answers": [
+                "MT-2",
+                "ML3T-2",
+                "ML-1T-2",
+                "M-1T2"
+            ]
+        },
+        {
+            "question": "The centre of pressure of a liquid on a plane surface immersed vertically in a static body of liquid, always lies below the centroid of the surface area, because",
+            "answers": [
+                "in liquids the pressure acting is same in-all directions",
+                "there is no shear stress in liquids at rest",
+                "the liquid pressure is constant over depth",
+                "the liquid pressure increases linearly with depth"
+            ]
+        },
+        {
+            "question": "The most commonly used sampler for obtaining a disturbed sample of the soil is",
+            "answers": [
+                "split spoon sampler",
+                "open drive sampler",
+                "piston sampler",
+                "thin wall shelby tube sampler"
+            ]
+        },
+        {
+            "question": "The two criteria for the determination of allowable bearing capacity of a foundation are",
+            "answers": [
+                "tensile failure and compression failure.",
+                "tensile failure and settlement.",
+                "bond failure and shear failure.",
+                "shear failure and settlement."
+            ]
+        },
+        {
+            "question": "The time for a clay layer to achieve 90% consolidation is 15 years. The time required to achieve 90% consolidation; if the layer were twice as thick, 3 times forr permeable and 4 times more compressible would be :",
+            "answers": [
+                "70 years",
+                "75 years",
+                "80 years",
+                "85 years"
+            ]
+        },
+        {
+            "question": "If soil is dried beyond its shrinkage limit, it will show :",
+            "answers": [
+                "Large volume change",
+                "Moderate volume change",
+                "Low volume change",
+                "No volume change"
+            ]
+        },
+        {
+            "question": "If YY is the centroidal axis of a T beam-section subjected to plastic moment, Mp, the neutral axis lies, ",
+            "answers": [
+                "above the line ZZ",
+                "between the lines YY and ZZ",
+                "between the lines XX and YY",
+                "below the line XX"
+            ]
+        },
+        {
+            "question": "The expression for the specific speed of a pump :",
+            "answers": [
+                "does not include the diameter of the impeller",
+                "yields larger values for radial pumps than for axial flow pump",
+                "is necessarily non dimensional",
+                "includes power as one of the variables"
+            ]
+        },
+        {
+            "question": "A parabolic curve is used to connect a 4% upgrade with a 2% downgrade as shown in the below figure. The highest point on the summit is at a distance of (measured horizontally from the first tangent point - (FTP) ",
+            "answers": [
+                "50 m",
+                "60 m",
+                "75 m",
+                "100 m"
+            ]
+        },
+        {
+            "question": "A deep cut of 7 m has to be made in a clay with unit weight 16 kN/m3 and a cohesion of 25 kN/m2. What will be the factor of safety if one has to have a slope angle of 30\u00b0 ? Stability number is given to be 0.178 (from Taylor's chart) for a depth factor of 3.",
+            "answers": [
+                "0.80",
+                "1.1",
+                "1.25",
+                "1.0"
+            ]
+        },
+        {
+            "question": "An inverted siphon is a",
+            "answers": [
+                "device for distributing septic tank effluent to a soil absorption system",
+                "device for preventing overflow from elevated water storage tank",
+                "device for preventing crown corrosion of sewer",
+                "section of sewer which is dropped below the hydraulic grade line in order to avoid an obstacle."
+            ]
+        },
+        {
+            "question": "The main constituents of gas generated during the anaerobic digestion of sewage sludge are :",
+            "answers": [
+                "carbon dioxide and methane",
+                "methane and ethane",
+                "carbon dioxide and carbon monoxide",
+                "carbon monoxide and nitrogen"
+            ]
+        },
+        {
+            "question": "Two samples of water A and B have pH values of 4.4 and 6.4 respectively. How many times more acidic sample A is than sample B ?",
+            "answers": [
+                "0",
+                "50",
+                "100",
+                "200"
+            ]
+        },
+        {
+            "question": "A weir on a permeable foundation with downstream sheet pile is shown in the figure below. The exit gradient as per Khosla's method is ",
+            "answers": [
+                "1 in 6.0",
+                "1 in 5.0",
+                "1 in 3.4",
+                "1 in 2.5"
+            ]
+        },
+        {
+            "question": "Which one of the following set of values give the minimum clear cover (in mm) for the main reinforcements in the slab, beam, column and footing, respectively, according to IS : 456-1978 ?",
+            "answers": [
+                "20, 25, 30, 75",
+                "5, 15, 25, 50",
+                "15, 25, 40, 75",
+                "none of the above"
+            ]
+        },
+        {
+            "question": "Two flow patterns are represented by their stream functions \u03c81 and \u03c82 as given below:\u03c81 = x2 + y2, \u03c82 = 2xy If these two patterns are superimposed on one another, the resulting streamline pattern can be represented by one of the following :",
+            "answers": [
+                "A family of parallel straight lines",
+                "A family of circles",
+                "A family of parabolas",
+                "A family of hyperbolas"
+            ]
+        },
+        {
+            "question": "The forces in members 'a, b, c' in the truss shown are, respectively",
+            "answers": [
+                "P, , 0",
+                ", P, 0",
+                "P, P, P",
+                ", , 0"
+            ]
+        },
+        {
+            "question": "The plan of stairs supported at each end by landings spanning parallel with risers is shown in the below figure. The effective span of staircase slab is ",
+            "answers": [
+                "3000 mm",
+                "4600 mm",
+                "4750 mm",
+                "6400 mm"
+            ]
+        },
+        {
+            "question": "The value of bearing capacity factor for cohesion, Nc, for piles as per Meyerhof, is taken as :",
+            "answers": [
+                "6.2",
+                "12.0",
+                "9.0",
+                "5.14"
+            ]
+        },
+        {
+            "question": "Permissible bending tensile stress in high yield strength deformed bars of grade 415 N/mm2 in a beam is :",
+            "answers": [
+                "190 N/mm2",
+                "230 N/mm2",
+                "140 N/mm2",
+                "None of the above"
+            ]
+        },
+        {
+            "question": "The equation  along a stream line holds true for :",
+            "answers": [
+                "steady, frictionless, compressible fluid",
+                "steady, uniform, incompressible fluid",
+                "steady, frictionless, incompressible fluid",
+                "unsteady incompressible fluid"
+            ]
+        },
+        {
+            "question": "An outlet irrigates an area of 20 ha. The discharge (l/s) required at this outlet to meet the evapotranspiration requirement of 20 mm occurring uniformly in 20 days neglecting other field losses is",
+            "answers": [
+                "2.52",
+                "2.31",
+                "2.01",
+                "1.52"
+            ]
+        },
+        {
+            "question": "A stable channel is to be designed for a discharge of Q m3 /s with silt factor f as per Lacey's method. The mean flow velocity (m/s) in the channel is obtained by",
+            "answers": [
+                "(Qf2/140)1/6",
+                "(Qf/140)1/3",
+                "(Q2f2/140)1/6",
+                "0.48 (Q/f)1/3"
+            ]
+        },
+        {
+            "question": "The problem of lateral buckling can arise only in those steel beams which have",
+            "answers": [
+                "Moment of inertia about the bending axis larger than the other",
+                "Moment of inertia about the bending axis smaller than the other",
+                "Fully supported compression flange",
+                "None of the above."
+            ]
+        },
+        {
+            "question": "The maximum tensile stress at the section X-X shown in the figure below is ",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Mud pumping is commonly associated with",
+            "answers": [
+                "bituminous penetration mecadam construction",
+                "cement concrete pavement on granular subgrade",
+                "premixed bituminous construction",
+                "cement concrete pavement on clay sub-grade"
+            ]
+        },
+        {
+            "question": "The most important water quality parameter for domestic use of water is",
+            "answers": [
+                "carbonate hardness",
+                "non-carbonate hardness",
+                "coliform group of organisms",
+                "chlorides"
+            ]
+        },
+        {
+            "question": "Rapid curing cut back bitumen is produced by blending bitumen with",
+            "answers": [
+                "Kerosene",
+                "Benzene",
+                "Diesel",
+                "Petrol"
+            ]
+        },
+        {
+            "question": "A pre-tensioned concrete member of section 200 mm x 250 mm contains tendons of area 500 mm2 at centre of gravity of the section. The prestress in the tendons is 1000 N/mm2. Assuming modular ratio as 10, the stress (N/mm2) in concrete is",
+            "answers": [
+                "11",
+                "9",
+                "7",
+                "5"
+            ]
+        },
+        {
+            "question": "A river 5 m deep consists of a sand bed with saturated unit weight of 20 kN/m3 . vw = 9.81 kN/m3. The effective vertical stress at 5 m from the top of sand bed is",
+            "answers": [
+                "41 kN/m2",
+                "51 kN/m2",
+                "55 kN/m2",
+                "53 kN/m2"
+            ]
+        },
+        {
+            "question": "Biochemical oxygen demand (BOD) of waste water is a measure of",
+            "answers": [
+                "total concentration of a biochemicals",
+                "total concentration of organic matter",
+                "concentration of biodegradable organic matter",
+                "concentration of chemically oxidisable matter"
+            ]
+        },
+        {
+            "question": "The effective width of a reinforced concrete T beam flange under compression, according to IS : 456-1978, given I0 is the distance between the adjacent zero moment points, b is the breadth of the rib and D is the thickness of the flange, is",
+            "answers": [
+                "",
+                "I0 + 6D",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "In using the data from a plate bearing test for determining the modulus of subgrade reaction, the value of settlement to be used is :",
+            "answers": [
+                "1.25 mm",
+                "2.50 mm",
+                "3.75 mm",
+                "1.75 mm"
+            ]
+        },
+        {
+            "question": "The net effective cross sectional area calculated in the steel angle tension member design, accounts for:",
+            "answers": [
+                "the tensile force and bolt holes",
+                "the eccentricity of the end connections and the bolt holes",
+                "the effectiveness of the tack connection along the length",
+                "the effectiveness of the end connection"
+            ]
+        },
+        {
+            "question": "A light house of 120 m height is just visible above the horizon from a ship. The correct distance (m) between the ship and the light house considering combined correction for curvature and refraction, is",
+            "answers": [
+                "39.098",
+                "42.226",
+                "39098",
+                "42226"
+            ]
+        },
+        {
+            "question": "Water distribution systems are sized to meet the",
+            "answers": [
+                "maximum hourly demand",
+                "average hourly demand",
+                "maximum daily demand and fire demand",
+                "average daily demand and fire demand."
+            ]
+        },
+        {
+            "question": "Determine the correctness of otherwise of the following Assertion [A] and the Reason [R]. Assertion [A] : The crown of the outgoing larger diameter sewer is always matched with the crown of incoming smaller diameter sewer. Reason [R] : It eliminates backing up of sewage in the incoming smaller diameter sewer.",
+            "answers": [
+                "Both [A] and [R] are true and [R] is the correct reason for [A]",
+                "Both [A] and [R] are true and [R] is not the correct reason for [A]",
+                "Both [A] and [R] are false",
+                "[A] is true but [R] is false"
+            ]
+        },
+        {
+            "question": "For the structure shown below, the vertical deflection at point A is given by ",
+            "answers": [
+                "",
+                "",
+                "Zero",
+                ""
+            ]
+        },
+        {
+            "question": "In highway pavements emulsions are mainly used in :",
+            "answers": [
+                "surface dressing",
+                "patching and maintenance operation",
+                "bitumen macadam",
+                "asphaltic concrete"
+            ]
+        },
+        {
+            "question": "While deriving an expression for loss of head due to a sudden expansion in a pipe, in addition to the continuity and impulse-momentum equations, one of the following assumptions is made :",
+            "answers": [
+                "Head loss due to friction is equal to the head loss in eddying motion",
+                "The mean pressure in eddying fluid is equal to the downstream pressure",
+                "The mean pressure in eddying fluid is equal to the upstream pressure",
+                "Head lost in eddies is neglected"
+            ]
+        },
+        {
+            "question": "A three hinged arch shown in the below figur is quarter of a circle, If the vertical and horizontal components of reaction at A are equal, the value of \u03b8 is ",
+            "answers": [
+                "60\u00b0",
+                "45\u00b0",
+                "30\u00b0",
+                "None in (0\u00b0, 90\u00b0)"
+            ]
+        },
+        {
+            "question": "The appropriate field test to determine the insitu undrained shear strength of soft clay is :",
+            "answers": [
+                "plate load test",
+                "static cone penetration test",
+                "standard penetration test",
+                "vane shear test"
+            ]
+        },
+        {
+            "question": "Generally the maximum deflection/span ratio of a steel member should not exceed",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "A continuous beam is loaded as shown in the figure below. Assuming a plastic moment capacity equal to MP, the minimum load at which the beam would collapse is ",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Delta (\u0394) in cm. Duty (D) in hectare Cumec and Base period (B) in days are related as",
+            "answers": [
+                "\u0394 = 864 B/D",
+                "B = 864 D/\u0394",
+                "B = 864 \u0394/D",
+                "D = 8.64 B/\u0394"
+            ]
+        },
+        {
+            "question": "The penetration test for bitumen is conduced at a temperature of",
+            "answers": [
+                "60\u00b0C",
+                "37\u00b0C",
+                "25\u00b0C",
+                "50\u00b0C"
+            ]
+        },
+        {
+            "question": "If a single pipe of length L and diameter D is to be replaced by three pipes of same material, same length and equal diameter d (d < D), to convey the same total discharge under the same head loss, then d and D are related by",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "According to Darcy's law for flow through porous media, the velocity is proportional to",
+            "answers": [
+                "Effective stress",
+                "hydraulic gradient",
+                "cohesion",
+                "stability number"
+            ]
+        },
+        {
+            "question": "Storage coefficient of a compressible confined aquifer is a function of",
+            "answers": [
+                "specific weight of water, thickness of the aquifer, compressibility of the aquifer and that of water",
+                "permeability, thickness and compressibility of aquifer and compressibility of water",
+                "transmissibility of the aquifer and compressibility of water",
+                "transmissibility of aquifer and specific yield of aquifer"
+            ]
+        },
+        {
+            "question": "Factor of safety adopted by IS : 800 - 1984 while arriving at the permissible stress in axial compression, is :",
+            "answers": [
+                "2.00",
+                "1.00",
+                "1.67",
+                "1.50"
+            ]
+        },
+        {
+            "question": "Well foundations are commonly used as foundations for the following structures :",
+            "answers": [
+                "Water tanks",
+                "Bridges",
+                "Buildings",
+                "Reciprocating machines"
+            ]
+        },
+        {
+            "question": "The consistency of a saturated cohesive soil is affected by",
+            "answers": [
+                "water content",
+                "particle size distribution",
+                "density index",
+                "coefficient of permeability"
+            ]
+        },
+        {
+            "question": "The following two statements are made with reference to the planar truss shown below  ",
+            "answers": [
+                "Both statements are ture.",
+                "Both statements are false.",
+                "II is true but I false.",
+                "I is true but II is false."
+            ]
+        },
+        {
+            "question": "The total thickness of pavement by CBR method depends on the CBR value of",
+            "answers": [
+                "base course",
+                "surface course",
+                "subgrade",
+                "all layers"
+            ]
+        },
+        {
+            "question": "The standard plate size in a plate bearing test for finding modulus of subgrade reaction (k) value is",
+            "answers": [
+                "100 cm diameter.",
+                "50 cm diameter.",
+                "75 cm diameter.",
+                "25 cm diameter."
+            ]
+        },
+        {
+            "question": "The strain energy stored in member AB of the pin-jointed truss shown in the below figure, when E and A are same for all members, is ",
+            "answers": [
+                "2P2L/AE",
+                "P2L/AE",
+                "P2L/2AE",
+                "Zero"
+            ]
+        },
+        {
+            "question": "In a river, discharge is 173 m3/s; water surface slope is 1 in 6000; and stage at the gauge station is 10.0 m. If during a flood, the stage at the gauge station is same and the water surface slope is 1 in 2000, the flood discharge in m3/s, is approximately",
+            "answers": [
+                "371",
+                "100",
+                "519",
+                "300"
+            ]
+        },
+        {
+            "question": "In an area of 200 hectare, water table drops by 4 m. If the porosity is 0.35 and the specific retention is 0.15, change in volume of storage in the aquifer is",
+            "answers": [
+                "160 m3",
+                "1.6 x 106 m",
+                "8 x 106 m3",
+                "1.6 x 103 m3"
+            ]
+        },
+        {
+            "question": "The water surface profile resulting from flow underneath the gate in the below figure is : ",
+            "answers": [
+                "H3",
+                "M1",
+                "H2",
+                "S2"
+            ]
+        },
+        {
+            "question": "A cantilever beam of span 'L' is loaded with a concentrated load 'P' at the free end. Deflection of the beam at the free end is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The Piezometric head at point C, in the experimental set-up shown in the below figure when the flow takes place under a constant head through the soils A and B is ",
+            "answers": [
+                "0 cm",
+                "40 cm",
+                "80 cm",
+                "120 cm"
+            ]
+        },
+        {
+            "question": "If an ascending gradient of 1 in 50 meets another ascending gradient of 1 in 30 then the deviation angle is :",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Bending moments at joint b and c of the portal frame are respectively : ",
+            "answers": [
+                "+ p l/2, - p l/2",
+                "+ p l/2, + p l/2",
+                "+ p l/4, - p l/4",
+                "+ p l/4, + p l/4"
+            ]
+        },
+        {
+            "question": "Generally (fatigue life of welded steel structure/fatigue life of riveted steel structure) ratio is,",
+            "answers": [
+                "smaller than 1",
+                "equal to 1",
+                "greater than 1",
+                "greater than 2.1"
+            ]
+        },
+        {
+            "question": "Cohesion in soil",
+            "answers": [
+                "decreases active pressure and increases passive resistance",
+                "decreases both active pressure and passive resistance",
+                "increases the active pressure and decreases the passive resistance",
+                "increases both active pressure and passive resistance."
+            ]
+        },
+        {
+            "question": "The unit weight of a soil at zero air voids depends on :",
+            "answers": [
+                "specific gravity",
+                "water content",
+                "unit weight of water",
+                "all the above"
+            ]
+        },
+        {
+            "question": "The BOD removal efficiency, in percentage, during primary treatmet under normal conditions is about",
+            "answers": [
+                "65%",
+                "85%",
+                "30%",
+                "Zero"
+            ]
+        },
+        {
+            "question": "The settlement of prototype in granular material may be estimated using plate load test data from the following expression :",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "A prestressed concrete rectangular beam of size 300 mm x 900 mm is prestressed with an initial prestressing force of 700 kN at an eccentricity of 350 mm at midspan. Stress at top of the beam due to prestress alone, in N/mm2 is",
+            "answers": [
+                "46 (tension)",
+                "2.59 (compression)",
+                "zero",
+                "8.64 (compression)"
+            ]
+        },
+        {
+            "question": "In the plate bearing test, if the load applied is in the form of an inflated type of wheel, then this mechanism corresponds to :",
+            "answers": [
+                "rigid plate",
+                "flexible plate",
+                "semi-rigid plate",
+                "semi-elastic plate"
+            ]
+        },
+        {
+            "question": "Water table drops by 3 m in an irrigable land of 50 hectare. If porosity and specific retention are 0.30 and 0.10 respectively, the change in storage in hectare-meter is :",
+            "answers": [
+                "15",
+                "30",
+                "45",
+                "60"
+            ]
+        },
+        {
+            "question": "Horizontal stiffness coefficient, K11 of bar ab is given by : ",
+            "answers": [
+                "A E/l 2",
+                "A E/2 1",
+                "A E/l",
+                "2 A E/l"
+            ]
+        },
+        {
+            "question": "The downstream end of a long prismatic channel of mild slope, ends in a pool created by a dam. The resulting non-uniform water surface profile can be described as one of the following :",
+            "answers": [
+                "M3 profile ending in a hydraulic jump",
+                "M1 profile that lies above normal depth line",
+                "M2 profile that lies between critical and normal depth lines",
+                "M3 profile that lies between critical and normal depth lines"
+            ]
+        },
+        {
+            "question": "The function of ballast in railaway tracks is to",
+            "answers": [
+                "facilitate drainage",
+                "serve as an elastic support for the track structure",
+                "provide the necessary resilience against the dynamic effect of the loads",
+                "all the above"
+            ]
+        },
+        {
+            "question": "A soil formation through which only seepage is possible, being partly permeable and capable of giving insignificant yield, is classified as",
+            "answers": [
+                "Aquifer",
+                "Aquitard",
+                "Aquifuge",
+                "Aquiclude"
+            ]
+        },
+        {
+            "question": "The return period for the annual maximum flood of a given magnitude is 8 years. The probability that this flood magnitude will be exceeded once during the next 5 years is",
+            "answers": [
+                "0.625",
+                "0.966",
+                "0.487",
+                "0.529"
+            ]
+        },
+        {
+            "question": "A foundation is considered as shallow if its depth is :",
+            "answers": [
+                "less than 1 metre",
+                "greater than its width",
+                "equal to or less than its width",
+                "greater than 1 metre"
+            ]
+        },
+        {
+            "question": "The type of surveying in which the curvature of the earth is taken into account is called",
+            "answers": [
+                "Geodetic surveying",
+                "Plane surveying",
+                "Preliminary surveying",
+                "Topographical surveying"
+            ]
+        },
+        {
+            "question": "The stress-strain diagram for two materials A and B is shown below.  The following statements are made based on this diagram : ",
+            "answers": [
+                "Both the statements are false.",
+                "Both the statements are true.",
+                "I is true but II is false.",
+                "I is false but II is true."
+            ]
+        },
+        {
+            "question": "Base course is used in rigid pavements for",
+            "answers": [
+                "prevention of subgrade settlement",
+                "prevention of slab cracking",
+                "prevention of pumping",
+                "prevention of thermal expansion"
+            ]
+        },
+        {
+            "question": "A reinforced concrete structure has to be constructed along a sea coast. The minimum grade of concrete to be used as per IS : 456-2000",
+            "answers": [
+                "M 15",
+                "M 20",
+                "M 25",
+                "M 30"
+            ]
+        },
+        {
+            "question": "The relationship between the length (l) and radius (r) of an ideal transition curve is given by",
+            "answers": [
+                "l \u221d r",
+                "l \u221d r2",
+                "l \u221d 1/r",
+                "l \u221d 1/r2"
+            ]
+        },
+        {
+            "question": "The width of expansion joint gap is 2.5 cm in a cement concrete pavement. The spacing between expansion joints for a maximum rise in temperature of 25\u00b0C is, (assuming coefficient of thermal expansion of concrete as 10 x 10-6 per degree C),",
+            "answers": [
+                "5 m",
+                "50 m",
+                "100 m",
+                "25 M"
+            ]
+        },
+        {
+            "question": "Coulomb's theory of earth pressure is based on :",
+            "answers": [
+                "the theory of elasticity",
+                "the theory of plasticity",
+                "empirical rules",
+                "wedge theory"
+            ]
+        },
+        {
+            "question": "For a fixed beam with span L, having plastic moment capacity of Mp, the ultimate central concentrated load will be",
+            "answers": [
+                "4 Mp/L",
+                "Mp/8L",
+                "6 Mp/L",
+                "8 Mp/L"
+            ]
+        },
+        {
+            "question": "The group index of a soil subgrade is 7. The subgrade soil is rated as",
+            "answers": [
+                "poor",
+                "very poor",
+                "good",
+                "fair"
+            ]
+        },
+        {
+            "question": "Pipingin soil occurs when",
+            "answers": [
+                "the soil is highly porous",
+                "sudden change in permeability occurs",
+                "effective pressure becomes zero",
+                "the soil is highly stratified"
+            ]
+        },
+        {
+            "question": "In which one of the following arrangements would the vertical force on the cylinder due to water be the maximum ?",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The span (s) to be loaded uniformly for maximum positive (upward) reaction at support P, as shown in the figure below, is (are) ",
+            "answers": [
+                "PQ only",
+                "PQ and QR",
+                "QR and RS",
+                "PQ and RS"
+            ]
+        },
+        {
+            "question": "Mechanical stabilization requires :",
+            "answers": [
+                "mixing of two or more types of natural soils",
+                "addition of chemicals to soils",
+                "addition of lime to soils",
+                "addition of cementing material to soils"
+            ]
+        },
+        {
+            "question": "The disinfection efficiency of chlorine in water treatment",
+            "answers": [
+                "is not dependent on pH value.",
+                "is increased by increased pH values.",
+                "remains constant at all pH values.",
+                "is reduced by increased pH value."
+            ]
+        },
+        {
+            "question": "Chlorine is some times used in sewage treatment",
+            "answers": [
+                "to avoid flocculation",
+                "to increase biological activity of bacteria",
+                "to avoid bulking of activated sludge",
+                "to help in grease separation"
+            ]
+        },
+        {
+            "question": "The deflection of a cantilever beam at free end b applied with a moment M at the same point is : ",
+            "answers": [
+                "M l2/EI",
+                "M l2/2 EI",
+                "M l2/3 EI",
+                "M l2/4 EI"
+            ]
+        },
+        {
+            "question": "A saturated clay stratum draining both at the top and bottom undergoes 50 percent consolidation in 16 years under an applied load. If an additional drainage layer were present at the middle of the clay stratum, 50 percent consolidation would occur in",
+            "answers": [
+                "2 years",
+                "4 years",
+                "8 years",
+                "16 years"
+            ]
+        },
+        {
+            "question": "Water flows at a rate of 10 m3/s in a rectangular channel 3 m wide. The critical depth of flow is",
+            "answers": [
+                "1.13 m",
+                "2 m",
+                "1.45 m",
+                "1.04 m"
+            ]
+        },
+        {
+            "question": "Coagulation-flocculation with alum is performed :",
+            "answers": [
+                "immediately before chlorination",
+                "immediately after chlorination",
+                "after rapid sand filtration",
+                "before rapid sand filtration"
+            ]
+        },
+        {
+            "question": "Blue baby disease (methaemoglobinemia) in children is caused by the presence of excess",
+            "answers": [
+                "Chorides",
+                "Nitrates",
+                "Fluoride",
+                "Lead"
+            ]
+        },
+        {
+            "question": "Breakpoint chlorination of water involves addition of chlorine in an amount sufficient to:",
+            "answers": [
+                "react with any ammonia and readily oxidisable organic matter",
+                "kill Giardia cysts",
+                "react with inorganic matter",
+                "reduce bacterial growth in filters"
+            ]
+        },
+        {
+            "question": "A borrow pit soil has a dry density of 17 kN/m3. How many cubic meters of this soil will be required to construct an embankment of 100 m3 volume with a dry density of 16 kN/m3.",
+            "answers": [
+                "94 m3",
+                "106 m3",
+                "100 m3",
+                "90 m3"
+            ]
+        },
+        {
+            "question": "The ultimate bearing capacity of a soil is 300 kN/m2. The depth of foundation is 1 m and unit weight of soil is 20 kN/m3. Choosing a factor of safety of 2.5, the net safe bearing cacpacity is",
+            "answers": [
+                "100 kN/m2",
+                "112 kN/m2",
+                "800 kN/m2",
+                "100.5 kN/m2"
+            ]
+        },
+        {
+            "question": "One of the following statements is true with regards to bodies that float or are submerged in liquids :",
+            "answers": [
+                "For a body wholly submerged in a liquid the stability is ensured if the centre of buoyancy is below the centre of gravity of the body",
+                "For a body floating in a liquid the stability is ensured if the centre of buoyancy is below the centre of gravity of the body",
+                "For a body floating in a liquid the stability is ensured if the centre of buoyancy and the centre of gravity, regardless of the relative positions of the centre of buoyancy and gravity",
+                "For a body floating in a liquid the stability is ensured if the centre of buoyancy is below the centre of gravity and the metacentre is above both the centres of gravity and buoyancy."
+            ]
+        },
+        {
+            "question": "Transition curves are provided on the approach to horizontal curves in order to :",
+            "answers": [
+                "increase jerk to allowable levels",
+                "minimize the length of the horizontal curve",
+                "simplify the laying-out and construction of the horizontal curve",
+                "reduce jerk to allowable levels"
+            ]
+        },
+        {
+            "question": "The flow of water (mass density = 1000 kg/m3 and kinematic viscosity = 10-6 m2/s) in a commercial pipe, having equivalent roughness ks as 0.12 mm, yields an average shear stress at the pipe boundary = 600 N/m2. The value of ks/\u03b4' (\u03b4' being the thickness of laminar sub-layer) for this pipe is",
+            "answers": [
+                "0.25",
+                "0.50",
+                "6.0",
+                "8.0"
+            ]
+        },
+        {
+            "question": "The unconfined compressive strength of a 'stiff clay' falls in the range",
+            "answers": [
+                "less than 50 kN/m2",
+                "50 to 100 kN/m2",
+                "100 to 200 kN/m2",
+                "above 200 kN/m2"
+            ]
+        },
+        {
+            "question": "What is the equivalent single wheel load of a dual wheel assembly carrying 20, 440 N each for pavement thickness of 20 cm ? Centre to centre spacing of tyres is 27 cm and the distance between the walls of tyres is 11 cm",
+            "answers": [
+                "27, 600 N",
+                "32, 300 N",
+                "40, 880 N",
+                "30, 190 N"
+            ]
+        },
+        {
+            "question": "A person standing on the bank of a canal drops a stone on the water surface. He notices that the disturbance on the water surface in not travelling upstream. This is because the flow in the canal is",
+            "answers": [
+                "sub-critical",
+                "super-critical",
+                "steady",
+                "uniform"
+            ]
+        },
+        {
+            "question": "A circular sewer 2 m diameter has to carry a discharge of 2 m3/s when flowing nearly full. What is the minmum required slope to initiate the flow ? (Assume Manning's n = 0.015)",
+            "answers": [
+                "0.00023",
+                "0.000036",
+                "0.000091",
+                "0.000014"
+            ]
+        },
+        {
+            "question": "The material that exhibits the same elastic properties in all the directions at a point, is said to be",
+            "answers": [
+                "homogeneous",
+                "orthotropic",
+                "visco-elastic",
+                "isotropic"
+            ]
+        },
+        {
+            "question": "If the porosity of a soil sample is 20%, the void ratio is",
+            "answers": [
+                "0.20",
+                "0.80",
+                "1.00",
+                "0.25"
+            ]
+        },
+        {
+            "question": "The magnitude of the bending moment at the fixed support of the beam is equal to : ",
+            "answers": [
+                "P.a",
+                "",
+                "P.b",
+                "P.(a + b)"
+            ]
+        },
+        {
+            "question": "A soil sample has a void ratio of 0.5 and its porosity will be close to",
+            "answers": [
+                "50%",
+                "66%",
+                "100%",
+                "33%"
+            ]
+        },
+        {
+            "question": "Which one of the following statements is true with regard to the flexibility method of analysis? ",
+            "answers": [
+                "The method is used to analyse determinate structures",
+                "The method is used only for manual analysis of indeterminate structures",
+                "The method is used for analysis of flexible structures",
+                "The method is used for analysis of indeterminate structures with lesser degree of static indeterminacy."
+            ]
+        },
+        {
+            "question": "An isolated T beam is used as a walkway. The beam is simply supported with an effective span of 6 m. The effective width of flange, for the cross-section shown in the below figure is ",
+            "answers": [
+                "900 mm",
+                "1000 mm",
+                "1259 mm",
+                "2200 mm"
+            ]
+        },
+        {
+            "question": "For a highway with design speed of 100 kmph, the safe overtaking sight distance is (assume accelerations as 0.53 m/sec2)",
+            "answers": [
+                "300 m",
+                "750 m",
+                "320 m",
+                "470 m"
+            ]
+        },
+        {
+            "question": "For a flow of 5.7 MLD (million litres per day) and a detention time of 2 hours, the surface area of a rectangular sedimentation tank to remove all particles having settling velocity of 0.33 mm/s is",
+            "answers": [
+                "20 m2",
+                "100 m2",
+                "200 m2",
+                "400 m2"
+            ]
+        },
+        {
+            "question": "If the deformations of the truss-members are as shown in parentheses, the rotation of the member bd is : ",
+            "answers": [
+                "0.5 x 10-2 radian",
+                "1.0 x 10-2 radian",
+                "1.5 x 10-2 radian",
+                "2.0 x 10-2 radian"
+            ]
+        },
+        {
+            "question": "The shape of clay particle is usually",
+            "answers": [
+                "angular",
+                "flaky",
+                "tubular",
+                "rounde"
+            ]
+        },
+        {
+            "question": "As per IS : 800-1984 the maximum allowable slenderness ratio of compression members carrying forces resulting from dead load and superimposed load is",
+            "answers": [
+                "180",
+                "250",
+                "300",
+                "400"
+            ]
+        },
+        {
+            "question": "The unit for coefficient of subgrade modulus is",
+            "answers": [
+                "kN/m3",
+                "kN/m2",
+                "kN/m",
+                "kN.m"
+            ]
+        },
+        {
+            "question": "Plate bearing test with 20 cm diameter plate on soil subgrade yielded a pressure of 1.25 x 105 N/m2 at 0.5 cm deflection. What is the elastic modulus of subgrade ?",
+            "answers": [
+                "56.18 x 105 N/m2",
+                "22.10 x 105 N/m2",
+                "44.25 x 105 N/m2",
+                "50.19 x 105 N/m2",
+                "None."
+            ]
+        },
+        {
+            "question": "Use of coagulants such as alum",
+            "answers": [
+                "results in reduction of pH of the treated water.",
+                "results in increase of pH of the treated water.",
+                "results in no chnage in pH of the treated water.",
+                "may cause an increase in decrease of decrease of pH of the treated water."
+            ]
+        },
+        {
+            "question": "The maximum permissible deflection for a gantry girder, spanning over 6 m, on which an EOT (electric overhead travelling) crane of capacity 200 kN is operating, is",
+            "answers": [
+                "8 mm",
+                "10 mm",
+                "12 mm",
+                "18 mm"
+            ]
+        },
+        {
+            "question": "A hyetograph is a graph representing",
+            "answers": [
+                "rainfall volume with time",
+                "rainfall intensity with time",
+                "rainfall intensity with duration",
+                "rainfall intensity over an area"
+            ]
+        },
+        {
+            "question": "If, for a fluid in motion, pressure at a point is same in all directions, then the fluid is :",
+            "answers": [
+                "a real fluid",
+                "a Newtonian fluid",
+                "an ideal fluid",
+                "a non-Newtonian fluid"
+            ]
+        },
+        {
+            "question": "It is proposed to widen and strengthen an existing 2-lane NH section as a divided highway. The existing traffic in one direction is 2500 commercial vehicles (CV) per day. The construction will take 1 year. The design CBR of soil subgrade is found to be 5 percent, Given: traffic growth rate for CV = 8 percent, vehicle damage factor = 3.5 (standard axles per CV), design life = 10 years and traffic distribution factor = 0.75. The cumulative standard axles (msa) computed are",
+            "answers": [
+                "35",
+                "37",
+                "65",
+                "70"
+            ]
+        },
+        {
+            "question": "If the shear force at a section of beam under bending is equal to zero then the bending moment at the section is",
+            "answers": [
+                "zero",
+                "maximum",
+                "minimum",
+                "minimum or maximum"
+            ]
+        },
+        {
+            "question": "In network of pipes",
+            "answers": [
+                "the algebraic sum of discharges around each circuit is zero",
+                "the algebraic sum of (pressure + datum) head drops around each circuit is zero",
+                "the elevation of hydraulic grade line is assumed for each junction point",
+                "elementary circuits are replaced by equivalent pipes"
+            ]
+        },
+        {
+            "question": "A volume of 3.0 x 106 m3 of ground water was pumped out from an unconfined aquifer, uniformly from an area of 5 km2. The pumping lowered the water table from initial level of 102 m to 99 m. The specific yield of the aquifier is",
+            "answers": [
+                "0.20",
+                "0.30",
+                "0.40",
+                "0.50"
+            ]
+        },
+        {
+            "question": "The stress-strain behaviour of soils as shown in the following figure corresponds to : ",
+            "answers": [
+                "Curve 1 : Loose sand and normally consolidated clay Curve 2 : Loose sand and over consolidated clay",
+                "Curve 1 : Dense sand and normally consolidated clay Curve 2 : Loose sand and over consolidated clay",
+                "Curve 1: Dense sand and over consolidated clay Curve 2: Loose sand and normally consolidated clay",
+                "Curve 1: Loose sand and over consolidated clay Curve 2: Dense sand and normally consolidated clay"
+            ]
+        },
+        {
+            "question": "The maximum allowable compressive stress corresponding to lateral buckling in a discretely laterally supported symmetrical I beam does not depend upon :",
+            "answers": [
+                "the modulus of elasticity",
+                "the radius of gyration about the minor axis",
+                "the span length of the beam",
+                "the ratio of overall depth of thickness of the flange"
+            ]
+        },
+        {
+            "question": "The soils most susceptible to liquefaction are :",
+            "answers": [
+                "saturated dense sands",
+                "saturated fine and medium sands of uniform particle size",
+                "saturated clays of uniform size",
+                "saturated gravels and cobbles"
+            ]
+        },
+        {
+            "question": "The following general statement may be made about the penetration value and softening point of bitumen",
+            "answers": [
+                "higher the penetration value, higher is the softening point",
+                "higher the penetration value, lower is the softening point",
+                "for very high and very low penetration value the softening point is very low",
+                "absolutely no correlation can be drawn between penetration value and softening point of bitumen"
+            ]
+        },
+        {
+            "question": "Sand drains are used to :",
+            "answers": [
+                "reduce the settlement",
+                "accelerate the consolidation",
+                "increase the permeability",
+                "transfer the load"
+            ]
+        },
+        {
+            "question": "For a 'best' symmetrical trapezoidal section of an open channel with a given area of section and side slopes, one of the following statements holds true :",
+            "answers": [
+                "Half the top width is equal to one of the side slopes",
+                "Half the top width plus the bottom width is equal to both the side slopes put together",
+                "Water depth is equal to half bottom width",
+                "Hydraulic mean depth is equal to half the top width"
+            ]
+        },
+        {
+            "question": "Temporary hardness in water is caused by the presence of",
+            "answers": [
+                "Bicarbonates of Ca and Mg",
+                "Sulphates of Ca and Mg",
+                "Chlorides of Ca and Mg",
+                "Nitrates of Ca and Mg."
+            ]
+        },
+        {
+            "question": "Bituminous materials are commonly use in highway construction because of their good",
+            "answers": [
+                "tensile and compression properties.",
+                "binding and water proofing properties.",
+                "shear strength and tensile properties.",
+                "bond and tensile properties."
+            ]
+        },
+        {
+            "question": "The stepped cantilever is subjected to moments, M as shown in the figure below. The vertical deflection at the free end (neglecting the self weight) is ",
+            "answers": [
+                "",
+                "",
+                "",
+                "Zero"
+            ]
+        },
+        {
+            "question": "A road is provided with a horizontal circular curve having deflection angle of 55\u00b0 and centre line radius of 250 m. A transition curve is to be provided at each end of the circular curve of such a length that the rate of gain of radial acceleration is 0.3 m/s3 at a speed of 50 km per hour. Length of the transition curve required at each of the ends is",
+            "answers": [
+                "2.57 m",
+                "33.33 m",
+                "35.73 m",
+                "1666.67 m"
+            ]
+        },
+        {
+            "question": "A test plate 30 cm x 30 cm resting on a sand deposit settles by 10 mm under a certain loading intensity. A footing 150 cm x 200 cm resting on the same sand deposit and loaded to the same load intensity settles by",
+            "answers": [
+                "2.0 mm",
+                "27.8 mm",
+                "3.02 mm",
+                "50.0 mm"
+            ]
+        },
+        {
+            "question": "Cavitation is caused by",
+            "answers": [
+                "high velocity",
+                "low pressure",
+                "high pressure",
+                "high temperature"
+            ]
+        },
+        {
+            "question": "Flow at critical depth takes place in an open channel When",
+            "answers": [
+                "for a given specific energy, discharge is maximum",
+                "for a given discharge, specific energy is maximum",
+                "discharge is minimum for a given specific energy",
+                "discharge is maximum for a given specific force"
+            ]
+        },
+        {
+            "question": "Two completely penetrating wells are located L (in metres) apart, in homogeneous confined aquifer. The drawdown measured at the mid point between the two wells (at a distance of 0.5 L from both the wells) is 2.0 m when only the first well is being pumped at the steady rate of Q1 m3/sec. When both the wells are being pumped at identical steady rate of Q2 m3/sec, the drawdown measured at the same location is 8, 0 m. It may be assumed that the drawdown at the wells always remains at 10.0 m when being pumped and the radius of influence is larger than 0.5 L Q1/Q2 is equal to",
+            "answers": [
+                "8/5",
+                "4/3",
+                "5/8",
+                "ln (L/2)"
+            ]
+        },
+        {
+            "question": "A footing 2 m x 1 m exerts a uniform pressure of 150 kN/m2 on the soil. Assuming a load dispersion of 2 vertical to 1 horizontal the average vertical stress (kN/m2) at 1.0 m below the footing is",
+            "answers": [
+                "50",
+                "75",
+                "80",
+                "100"
+            ]
+        },
+        {
+            "question": "The influence line diagram for the force in member 'a' of the truss shown below is given by ",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "In a BOD test using 5% dilution of the sample (15 ML of sample and 285 mL of dilution water), dissolved oxygen values for the sample and dilution water blank bottles after five days incubation at 20\u00b0C were 3.80 and 8.80 mg/L. respectively. Dissolved oxygen originally present in the undiluted sample was 0.80 mg/L. The 5-day 20\u00b0C BOD of the sample is",
+            "answers": [
+                "116 mg/L",
+                "108 mg/L",
+                "100 mg/L",
+                "92 Mg/L"
+            ]
+        },
+        {
+            "question": "Group symbols assigned to silty sand and clayey sand are respectively",
+            "answers": [
+                "SS and CS",
+                "SM and CS",
+                "SM and SC",
+                "MS and CS"
+            ]
+        },
+        {
+            "question": "The shape factor of the section shown in the below figure is ",
+            "answers": [
+                "1.5",
+                "1.12",
+                "2",
+                "1.7"
+            ]
+        }
+    ]
+}

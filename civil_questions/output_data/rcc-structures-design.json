@@ -1,0 +1,2374 @@
+{
+    "questions": [
+        {
+            "question": "In a combined footing if shear stress exceeds 5 kg/cm2, the nominal stirrups provided are:",
+            "answers": [
+                "6 legged",
+                "8 legged",
+                "10 legged",
+                "12 legged",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The maximum area of tension reinforcement in beams shall not exceed",
+            "answers": [
+                "0.15%",
+                "1.5%",
+                "4%",
+                "1%"
+            ]
+        },
+        {
+            "question": "As per I.S. 456 - 1978, the pH value of water shall be",
+            "answers": [
+                "less than 6",
+                "equal to 6",
+                "not less than 6",
+                "equal to 7"
+            ]
+        },
+        {
+            "question": "The minimum number of main steel bars provided in R.C.C.",
+            "answers": [
+                "rectangular columns is 4",
+                "circular columns is 6",
+                "octagonal columns is 8",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Post tensioning system",
+            "answers": [
+                "was widely used in earlier days",
+                "is not economical and hence not generally used",
+                "is economical for large spans and is adopted now a days",
+                "none of these."
+            ]
+        },
+        {
+            "question": "An R.C.C. column is treated as long if its slenderness ratio is greater than",
+            "answers": [
+                "30",
+                "35",
+                "40",
+                "50",
+                "60"
+            ]
+        },
+        {
+            "question": "The width of the flange of a T-beam should be less than",
+            "answers": [
+                "one-third of the effective span of the T-beam",
+                "distance between the centres of T-beam",
+                "breadth of the rib plus twelve times the thickness of the slab",
+                "least of the above."
+            ]
+        },
+        {
+            "question": "A prestressed rectangular beam which carries two concentrated loads W at L/3 from either end, is provided with a bent tendon with tension P such that central one-third portion of the tendon remains parallel to the longitudinal axis, the maximum dip h is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "A pile is a slender member which transfers the load through its lower end on a strong strata",
+                "A pile is a slender member which transfers its load to the surrounding soil",
+                "A pile is a slender member which transfers its load by friction",
+                "A pile is a cylindrical body of concrete which transfers the load at a depth greater than its width."
+            ]
+        },
+        {
+            "question": "Cantilever retaining walls can safely be used for a height not more than",
+            "answers": [
+                "3 m",
+                "4 m",
+                "5 m",
+                "6 m",
+                "8 m"
+            ]
+        },
+        {
+            "question": "If W is the load on a circular slab of radius R, the maximum circumferential moment at the centre of the slab, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "zero",
+                "none of these."
+            ]
+        },
+        {
+            "question": "If a bent tendon is required to balance a concentrated load W at the centre of the span L, the central dip h must be at least",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "For M 150 mix concrete, according to I.S. specifications, local bond stress, is",
+            "answers": [
+                "5 kg/cm2",
+                "10 kg/cm2",
+                "15 kg/cm2",
+                "20 kg/cm2",
+                "25 kg/cm2"
+            ]
+        },
+        {
+            "question": "If the average bending stress is 6 kg/cm2 for M 150 grade concrete, the length of embedment of a bar of diameter d according to I.S. 456 specifications, is",
+            "answers": [
+                "28 d",
+                "38 d",
+                "48 d",
+                "58 d",
+                "95 d"
+            ]
+        },
+        {
+            "question": "Bottom bars under the columns are extended into the interior of the footing slab to a distance greater than",
+            "answers": [
+                "42 diameters from the centre of the column",
+                "42 diameters from the inner edge of the column",
+                "42 diameters from the outer edge of the column",
+                "24 diameter from the centre of the column"
+            ]
+        },
+        {
+            "question": "The diameter of longitudinal bars of a column should never be less than",
+            "answers": [
+                "6 mm",
+                "8 mm",
+                "10 mm",
+                "12 mm",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The design of a retaining wall assumes that the retained earth",
+            "answers": [
+                "is dry",
+                "is free from moisture",
+                "is not cohesives",
+                "consists of granular particles",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Dimensions of a beam need be changed if the shear stress is more than",
+            "answers": [
+                "10 kg/cm2",
+                "15 kg/cm2",
+                "20 kg/cm2",
+                "25 kg/cm2"
+            ]
+        },
+        {
+            "question": "The thickness of base slab of a retaining wall generally provided, is",
+            "answers": [
+                "one half of the width of the stem at the bottom",
+                "one-third of the width of the stem at the bottom",
+                "one fourth of the width of the steam at the bottom",
+                "width of the stem at the bottom",
+                "twice the width of the steam at the bottom."
+            ]
+        },
+        {
+            "question": "For a circular slab carrying a uniformly distributed load, the ratio of the maximum negative to maximum positive radial moment, is",
+            "answers": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+            ]
+        },
+        {
+            "question": "Thickened part of a flat slab over its supporting column, is technically known as",
+            "answers": [
+                "drop panel",
+                "capital",
+                "column head",
+                "none of these."
+            ]
+        },
+        {
+            "question": "An R.C.C. beam not provided with shear reinforcement may develop cracks in its bottom inclined roughly to the horizontal at",
+            "answers": [
+                "25\u00b0",
+                "35\u00b0",
+                "45\u00b0",
+                "55\u00b0",
+                "60\u00b0"
+            ]
+        },
+        {
+            "question": "The effective span of a simply supported slab, is",
+            "answers": [
+                "distance between the centres of the bearings",
+                "clear distance between the inner faces of the walls plus twice the thickness of the wall",
+                "clear span plus effective depth of the slab",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Pick up the incorrect statement from the following:",
+            "answers": [
+                "In the stem of a retaining wall, reinforcement is provided near the earth side",
+                "In the toe slab of a retaining wall, rein forcement is provided at the bottom of the slab",
+                "In the heel slab of a retaining wall, rein forcement is provided at the top of the slab",
+                "None of these."
+            ]
+        },
+        {
+            "question": "The minimum cube strength of concrete used for a prestressed member, is",
+            "answers": [
+                "50 kg/cm2",
+                "150 kg/cm2",
+                "250 kg/cm2",
+                "350 kg/cm2",
+                "400 kg/cm2"
+            ]
+        },
+        {
+            "question": "The number of treads in a flight is equal to",
+            "answers": [
+                "risers in the flight",
+                "risers plus one",
+                "risers minus one",
+                "none of these."
+            ]
+        },
+        {
+            "question": "A short column 20 cm x 20 cm in section is reinforced with 4 bars whose area of cross section is 20 sq. cm. If permissible compressive stresses in concrete and steel are 40 kg/cm2 and 300 kg/cm2, the Safe load on the column, should not exceed",
+            "answers": [
+                "4120 kg",
+                "41, 200 kg",
+                "412, 000 kg",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The reinforced concrete beam which has width 25 cm, lever arm 40 cm, shear force 6t/cm2, safe shear stress 5 kg/cm2 and B.M. 24 mt,",
+            "answers": [
+                "is safe in shear",
+                "is unsafe in shear",
+                "is over safe in shear",
+                "needs redesigning."
+            ]
+        },
+        {
+            "question": "In a beam the local bond stress Sb, is equal to",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                "None of these."
+            ]
+        },
+        {
+            "question": "According to I.S. : 456 specifications, the safe diagonal tensile stress for M 150 grade concrete, is",
+            "answers": [
+                "5 kg/cm2",
+                "10 kg/cm2",
+                "15 kg/cm2",
+                "20 kg/cm2",
+                "25 kg/cm2"
+            ]
+        },
+        {
+            "question": "A foundation rests on",
+            "answers": [
+                "base of the foundation",
+                "subgrade",
+                "foundation soil",
+                "both (b) and (c)"
+            ]
+        },
+        {
+            "question": "For initial estimate for a beam design, the width is assumed",
+            "answers": [
+                "1/15th of span",
+                "1/20th of span",
+                "1/25th of span",
+                "1/30th of span",
+                "1/40th of span."
+            ]
+        },
+        {
+            "question": "If R and T are rise and tread of a stair spanning horizontally, the steps are supported by a wall on one side and by a stringer beam on the other side, the steps are designed as beams of width",
+            "answers": [
+                "R + T",
+                "T-R",
+                "R2 + T2 ",
+                "R-T"
+            ]
+        },
+        {
+            "question": "The advantage of a concrete pile over a timber pile, is",
+            "answers": [
+                "no decay due to termites",
+                "no restriction on length",
+                "higher bearing capacity",
+                "not necessary to cut below the water mark",
+                "all the above."
+            ]
+        },
+        {
+            "question": "If the permissible compressive stress for a concrete in bending is C kg/m2, the modular ratio is",
+            "answers": [
+                "2800/C",
+                "2300/2C",
+                "2800/3C",
+                "2800/C2"
+            ]
+        },
+        {
+            "question": "If d and n are the effective depth and depth of the neutral axis respectively of a singly reinforced beam, the lever arm of the beam, is",
+            "answers": [
+                "d",
+                "n",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "To have pressure wholly compressive under the base of a retaining wall of width b, the resultant of the weight of the wall and the pressure exerted by the retained, earth should have eccentricity not more than",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The width of the flange of a T-beam, which may be considered to act effectively with the rib depends upon",
+            "answers": [
+                "breadth of the rib",
+                "overall thickness of the rib",
+                "centre to centre distance between T-beams",
+                "span of the T-beam",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Design of a two way slab simply supported on edges and having no provision to prevent the corners from lifting, is made by",
+            "answers": [
+                "Rankine formula",
+                "Marcus formula",
+                "Rankine Grashoff formula",
+                "Grashoff formula",
+                "Rankine-Marcus formula."
+            ]
+        },
+        {
+            "question": "Design of R.C.C. simply supported beams carrying U.D.L. is based on the resultant B.M. at",
+            "answers": [
+                "supports",
+                "mid span",
+                "every section",
+                "quarter span."
+            ]
+        },
+        {
+            "question": "The transverse reinforcements provided at right angles to the main reinforcement",
+            "answers": [
+                "distribute the load",
+                "resist the temperature stresses",
+                "resist the shrinkage stress",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The amount of reinformcement for main bars in a slab, is based upon",
+            "answers": [
+                "minimum bending moment",
+                "maximum bending moment",
+                "maximum shear force",
+                "minimum shear force."
+            ]
+        },
+        {
+            "question": "If the effective length of a 32 cm diameter R.C.C. column is 4.40 m, its slenderness ratio, is",
+            "answers": [
+                "40",
+                "45",
+                "50",
+                "55",
+                "60"
+            ]
+        },
+        {
+            "question": "The percentage of minimum reinforcement of the gross sectional area in slabs, is",
+            "answers": [
+                "0.10%",
+                "0.12%",
+                "0.15%",
+                "0.18%",
+                "0.20%"
+            ]
+        },
+        {
+            "question": "A continuous beam shall be deemed to be a deep beam if the ratio of effective span to overall depth, is",
+            "answers": [
+                "2.5",
+                "2.0",
+                "less than 2",
+                "less than 2.5"
+            ]
+        },
+        {
+            "question": "If T and R are tread and rise respectively of a stair, then",
+            "answers": [
+                "2R + T = 60",
+                "R + 2T = 60",
+                "2R + T = 30",
+                "R + 2T= 30",
+                "3R + 27 = 30"
+            ]
+        },
+        {
+            "question": "If k is wobble correction factor, \u03bc is coefficient of friction between the duct surface and the curve of tendon of radius R, the tension ratio at a distance x from either end, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "In a prestressed beam carrying an external load W with a bent tendon is having angle of inclination \u03b8 and prestressed load P. The net downward load at the centre is",
+            "answers": [
+                "W - 2P cos \u03b8",
+                "W - P cos \u03b8",
+                "W - P sin \u03b8",
+                " W - 2P sin \u03b8",
+                "W + 2P sin \u03b8"
+            ]
+        },
+        {
+            "question": "The effective width of a column strip of a flat slab, is",
+            "answers": [
+                "one-fourth the width of the panel",
+                "half the width of the panel",
+                "radius of the column",
+                "diameter of the column",
+                "none of these."
+            ]
+        },
+        {
+            "question": "High strength concrete is used in prestressed member",
+            "answers": [
+                "to overcome high bearing stresses developed at the ends",
+                "to ovecome bursting stresses at the ends",
+                "to provide high bond stresses",
+                "to overcome cracks due to shrinkage",
+                "all the above."
+            ]
+        },
+        {
+            "question": "A T-beam behaves as a rectangular beam of a width equal to its flange if its neutral axis",
+            "answers": [
+                "remains within the flange",
+                "remains below the slab",
+                "coincides the geometrical centre of the beam",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The weight of a foundation is assumed as",
+            "answers": [
+                "5% of wall weight",
+                "7% of wall weight",
+                "10% of wall weight",
+                "12% of wall weight"
+            ]
+        },
+        {
+            "question": "The maximum shear stress (qmax) in a rectangular beam is",
+            "answers": [
+                "1.25 times the average",
+                "1.50 times the average",
+                "1.75 times the average",
+                "2.0 times the average",
+                "2.5 times the average."
+            ]
+        },
+        {
+            "question": "For stairs spanning horizontally, the minimum waist provided is",
+            "answers": [
+                "4 cm",
+                "6 cm",
+                "8 cm",
+                "10 cm",
+                "12 cm."
+            ]
+        },
+        {
+            "question": "Total pressure on the vertical face of a retaining wall of height h acts parallel to free surface and from the base at a distance of",
+            "answers": [
+                "h/4",
+                "h/3",
+                "h/2",
+                "2h/3"
+            ]
+        },
+        {
+            "question": "If the permissible compressive and tensile stresses in a singly reinforced beam are 50 kg/cm2 and 1400 kg/cm2 respectively and the modular ratio is 18, the percentage area At of the steel required for an economic section, is",
+            "answers": [
+                "0.496%",
+                "0.596%",
+                "0.696%",
+                "0.796%",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The live load to be considered for an inaccessible roof, is",
+            "answers": [
+                "Nil",
+                "75 kg/m2",
+                "150 kg/cm2",
+                "200 kg/m2"
+            ]
+        },
+        {
+            "question": "If the maximum shear stress at the end of a simply supported R.C.C. beam of 6 m effective span is 10 kg/cm2, the share stirrups are provided for a distance x from either end where x is",
+            "answers": [
+                "50 cm",
+                "100 cm",
+                "150 cm",
+                "200 cm"
+            ]
+        },
+        {
+            "question": "The radius of a bar bend to form a hook, should not be less than",
+            "answers": [
+                "twice the diameter",
+                "thrice the diameter",
+                "four times the diameter",
+                "five times the diameter",
+                "none of these."
+            ]
+        },
+        {
+            "question": "With usual notations the depth of the neutral axis of a balanced section, is given by",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "In a simply supported slab the minimum spacing of distribution reinforcement, should be four times the effective thickness of the slab or",
+            "answers": [
+                "20 cm",
+                "30 cm",
+                "40 cm",
+                "50 cm",
+                "60 cm"
+            ]
+        },
+        {
+            "question": "A reinforced concrete cantilever beam is 3.6 m long, 25 cm wide and has its lever arm 40 cm. It carries a load of 1200 kg at its free end and vertical stirrups can carry 1800 kg. Assuming concrete to carry one-third of the diagonal tension and ignoring the weight of the beam, the number of shear stirrups required, is",
+            "answers": [
+                "30",
+                "35",
+                "40",
+                "45",
+                "50"
+            ]
+        },
+        {
+            "question": "If the sides of a slab simply supported on edges and spanning in two directions are equal, the maximum bending moment is multiplied by",
+            "answers": [
+                "0.2",
+                "0.3",
+                "0.4",
+                "0.5",
+                "0.7"
+            ]
+        },
+        {
+            "question": "An R.C.C. beam of 25 cm width and 50 cm effective depth has a clear span of 6 metres and carries a U.D.L. of 3000 kg/m inclusive of its self weight. If the lever arm constant for the section is 0.865, the maximum intensity of shear stress, is",
+            "answers": [
+                "8.3 kg/cm2",
+                "7.6 kg/cm2",
+                "21.5 kg/cm2",
+                "11.4 kg/cm2"
+            ]
+        },
+        {
+            "question": "If the ratio of the span to the overall depth does not exceed 10, the stiffness of the beam will ordinarily be satisfactory in case of a",
+            "answers": [
+                "simply supported beam",
+                "continuous beam",
+                "cantilever beam",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The toe projection of foundation slabs is taken",
+            "answers": [
+                "as one third of the base",
+                "as one sixth of overall height of the wall",
+                "equal to heel slab",
+                "below ground surface."
+            ]
+        },
+        {
+            "question": "For stairs spanning l metres longitudinally between supports at the bottom and top of a flight carrying a load w per unit horizontal area, the maximum bending moment per metre width, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Steel beam theory is used for",
+            "answers": [
+                "design of simple steel beams",
+                "steel beams encased in concrete",
+                "doubly reinforced beams ignoring compressive stress in concrete",
+                "beams if shear exceeds 4 times allowable shear stress."
+            ]
+        },
+        {
+            "question": "The advantage of reinforced concrete, is due to",
+            "answers": [
+                "monolithic character",
+                "fire-resisting and durability",
+                "economy because of less maintenance cost",
+                "moulding in any desired shape",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The shear reinforcement in R.C.C. is provided to resist",
+            "answers": [
+                "vertical shear",
+                "horizontal shear",
+                "diagonal compression",
+                "diagonal tension."
+            ]
+        },
+        {
+            "question": "An R.C.C. column of 30 cm diameter is reinforced with 6 bars 12 mm \u03c6 placed symmetrically along the circumference. If it carries a load of 40, 000 kg axially, the stress is",
+            "answers": [
+                "49.9 kg/cm2",
+                "100 kg/cm2",
+                "250 kg/cm2",
+                "175 kg/cm2"
+            ]
+        },
+        {
+            "question": "According to I.S.: 456, 1978 the thickness of reinforced concrete footing on piles at its edges, is kept less than",
+            "answers": [
+                "20 cm",
+                "30 cm",
+                "40 cm",
+                "50 cm",
+                "75 cm"
+            ]
+        },
+        {
+            "question": "The width of the rib of a T-beam, is generally kept between",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Pick up the true statement from the following:",
+            "answers": [
+                "Plain ceiling provides the best property diffusing light",
+                "In the absence of beams, it is easier to install piping",
+                "In the absence of beams, it is easier to paint",
+                "A flat slab is capable to withstand concentrated loads",
+                "All the above."
+            ]
+        },
+        {
+            "question": "A pile of length L carrying a uniformly distributed load W per metre length is suspended at two points, the maximum, B.M. at the centre of the pile or at the points of suspension, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "If bending moment is M, shear force is F effecive depth is d, lever arm is la area of reinforcement is As and sum of the circumferences of main reinforcement is 0, the bond stress based on working stress method, is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The horizontal portion of a step in a stairs case, is known as",
+            "answers": [
+                "rise",
+                "flight",
+                "winder",
+                "tread."
+            ]
+        },
+        {
+            "question": "The length of lap in tension reinforcement should not be less than the bar diameter x (actual tension / four times the permissible average bond stress) if it is more than",
+            "answers": [
+                "18 bar diameters",
+                "24 bar diameters",
+                "30 bar diameters",
+                "36 bar diameters"
+            ]
+        },
+        {
+            "question": "If K is a constant depending upon the ratio of the width of the slab to its effective span l, x is the distance of the concentrated load from the nearer support, bw is the width of the area of contact of the concentrated load measured parallel to the supported edge, the effective width of the slab be is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                "All the above."
+            ]
+        },
+        {
+            "question": "If W is total load per unit area on a panel, D is the diameter of the column head, L is the span in two directions, then the sum of the maximum positive bending moment and average of the negative bending moment for the design of the span of a square flat slab, should not be less than",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Distribution reinforcement in a simply supported slab, is provided to distribute",
+            "answers": [
+                "load",
+                "temperature stress",
+                "shrinkage stress",
+                "all the above."
+            ]
+        },
+        {
+            "question": "To ensure that the hogging bending moment at two points of suspension of a pile of length L equals the sagging moment at its centre, the distances of the points of suspension from either end, is",
+            "answers": [
+                "0.107 L",
+                "0.207 L",
+                "0.307 L",
+                "0.407 L"
+            ]
+        },
+        {
+            "question": "The thickness of the topping of a ribbed slab, varies between",
+            "answers": [
+                "3 cm to 5 cm",
+                "5 cm to 8 cm",
+                "8 cm to 10 cm",
+                "12 cm to 15 cm",
+                "12 cm to 18 cm"
+            ]
+        },
+        {
+            "question": "To ensure uniform pressure distribution, the thickness of the foundation, is",
+            "answers": [
+                "kept uniform throughout",
+                "increased gradually towards the edge",
+                "decreased gradually towards the edge",
+                "kept zero at the edge."
+            ]
+        },
+        {
+            "question": "The maximum ratio of span to depth of a cantilever slab, is",
+            "answers": [
+                "8",
+                "10",
+                "12",
+                "14",
+                "16"
+            ]
+        },
+        {
+            "question": "Pick up the incorrect statement from the following. The intensity of horizontal shear stress at the elemental part of a beam section, is directly proportional to",
+            "answers": [
+                "shear force",
+                "area of the section",
+                "distance of the C.G. of the area from its neutral axis",
+                "moment of the beam section about its neutral axis",
+                "width of the beam."
+            ]
+        },
+        {
+            "question": "In a singly reinforced beam, the effective depth is measured from its compression edge to",
+            "answers": [
+                "tensile edge",
+                "tensile reinforcement",
+                "neutral axis of the beam",
+                "longitudinal central axis."
+            ]
+        },
+        {
+            "question": "If a rectangular prestressed beam of an effective span of 5 meters and carrying a total load 3840 kg/m, is designed by the load balancing method, the central dip of the parabolic tendon should be",
+            "answers": [
+                "5 cm",
+                "10 cm",
+                "15 cm",
+                "20 cm",
+                "25 cm"
+            ]
+        },
+        {
+            "question": "The depth of the centre of gravity (y) of the resultant compressive stress from the compression edge of the T-beam specified in Q. 13.52 is given by",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "If the maximum shear stress at the end of a simply supported R.C.C. beam of 16 m effective span is 10 kg/cm2, the length of the beam having nominal reinforcement, is",
+            "answers": [
+                "4 cm",
+                "6 m",
+                "8 m",
+                "10 m"
+            ]
+        },
+        {
+            "question": "If the diameter of longitudinal bars of a square column is 16 mm, the diameter of lateral ties should not be less than",
+            "answers": [
+                "4 mm",
+                "5 mm",
+                "6 mm",
+                "8 mm",
+                "10 mm"
+            ]
+        },
+        {
+            "question": "If the depth of actual neutral axis of a doubly reinforced beam",
+            "answers": [
+                "is greater than the depth of critical neutral axis, the concrete attains its maximum stress earlier",
+                "is less than the depth of critical neutral axis, the steel in the tensile zone attains its maximum stress earlier",
+                "is equal to the depth of critical neutral axis, the concrete and steel attain their maximum stresses simultanesouly",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The length of the straight portion of a bar beyond the end of the hook, should be at least",
+            "answers": [
+                "twice the diameter",
+                "thrice the diameter",
+                "four times the diameter",
+                "five times the diameter",
+                "seven times the diameter."
+            ]
+        },
+        {
+            "question": "A simply supported beam , 6 m long and of effective depth 50 cm, carries a uniformly distributed load 2400 kg/m including its self weight. If the lever arm factor is 0.85 and permissible tensile stress of steel is 1400 kg/cm2, the area of steel required, is",
+            "answers": [
+                "14 cm2",
+                "15 cm2",
+                "16 cm2",
+                "17 cm2",
+                "18 cm2"
+            ]
+        },
+        {
+            "question": "If p1 is the vertical intensity of pressure at a depth h on a block of earth weighing w per unit volume and the angle of repose \u03c6, the lateral intensity of pressure p2 is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "A pile of length L carrying a uniformly distributed load W per metre length is suspended at the centre and from other two points 0.15 L from either end ; the maximum hogging moment will be",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Distribution of shear intensity over a rectangular section of a beam, follows :",
+            "answers": [
+                "a circular curve",
+                "a straight line",
+                "a parabolic curve",
+                "an elliptical curve",
+                "none of these."
+            ]
+        },
+        {
+            "question": "[A + (m - 1)ASC] known as equivalent concrete area of R.C.C. is given by",
+            "answers": [
+                "modular ratio method",
+                "load factor method",
+                "ultimate load method",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Pick up the incorrect statement from the following: Tensile reinforcement bars of a rectangular beam",
+            "answers": [
+                "are curtailed if not required to resist the bending moment",
+                "are bent up at suitable places to serve as shear reinforcement",
+                "are bent down at suitable places to serve as shear reinforcement",
+                "are maintained at bottom to provide at least local bond stress."
+            ]
+        },
+        {
+            "question": "The maximum diameter of a bar used in a ribbed slab, is",
+            "answers": [
+                "12 mm",
+                "6 mm",
+                "20 mm",
+                "22 mm",
+                "24 mm"
+            ]
+        },
+        {
+            "question": "If permissible working stresses in steel and concrete are respectively 1400 kg/cm2 and 80 kg/cm2 and modular ratio is 18, in a beam reinforced in tension side and of width 30 cm and having effective depth 46 cm, the lever arms of the section, is",
+            "answers": [
+                "37 cm",
+                "38 cm",
+                "39 cm",
+                "40 cm"
+            ]
+        },
+        {
+            "question": "If the maximum bending moment of a simply supported slab is M Kg.cm, the effective depth of the slab is (where Q is M.R. factor)",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Though the effective depth of a T-beam is the distance between the top compression edge to the centre of the tensile reinforcement, for heavy loads, it is taken as",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Design of R.C.C. cantilever beams, is based on the resultant force at",
+            "answers": [
+                "fixed end",
+                "free end",
+                "mid span",
+                "mid span and fixed support."
+            ]
+        },
+        {
+            "question": "If the length of a wall on either side of a lintel opening is at least half of its effective span L, the load W carried by the lintel is equivalent to the weight of brickwork contained in an equilateral triangle, producing a maximum bending moment",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Piles are usually driven by",
+            "answers": [
+                "diesel operated hammer",
+                "drop hammer",
+                "single acting steam hammer",
+                "all the above."
+            ]
+        },
+        {
+            "question": "In favourable circumstances a 15 cm concrete cube after 28 days, attains a maximum crushing strength",
+            "answers": [
+                "100 kg/cm2",
+                "200 kg/cm2",
+                "300 kg/cm2",
+                "400 kg/cm2",
+                "500 kg/cm2"
+            ]
+        },
+        {
+            "question": "The angle of internal friction of soil mass is the angle whose",
+            "answers": [
+                "tangent is equal to the rate of the maximum resistance to sliding on any internal inclined plane to the normal pressure acting on the plane",
+                "sine is equal to the ratio of the maximum resistance to sliding on any internal inclined plane to the normal pressure acting on the plane",
+                "cosine is equal to the ratio of the maximum resistance sliding on any internal inclined plane to the normal pressure acting on the plane",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The anchorage value of a hook is assumed sixteen times the diameter of the bar if the angle of the bend, is",
+            "answers": [
+                "30\u00b0",
+                "40\u00b0",
+                "45\u00b0",
+                "60\u00b0",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Top bars are extended to the projecting parts of the combined footing of two columns L distance apart for a distance of",
+            "answers": [
+                "0.1 L from the outer edge of column",
+                "0.1 L from the centre edge of column",
+                "half the distance of projection",
+                "one-fourth the distance of projection."
+            ]
+        },
+        {
+            "question": "According to the steel beam theory of doubly reinforced beams",
+            "answers": [
+                "tension is resisted by tension steel",
+                "compression is resisted by compression steel",
+                "stress in tension steel equals the stress in compression steel",
+                "no stress is developed in compression concrete as well as in tension concrete",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The thickness of the flange of a Tee beam of a ribbed slab is assumed as",
+            "answers": [
+                "width of the rib",
+                "depth of the rib",
+                "thickness of the concrete topping 0d) half the thickness of the rib",
+                "twice the width of the rib."
+            ]
+        },
+        {
+            "question": "In a singly reinforced beam, if the permissible stress in concrete reaches earlier than that in steel, the beam section is called",
+            "answers": [
+                "under-reinforced section",
+                "over reinforced section",
+                "economic section",
+                "critical section."
+            ]
+        },
+        {
+            "question": "The length of the lap in a compression member is kept greater than bar diameter x (Permissible stress in bar / Five times the bond stress) or",
+            "answers": [
+                "12 bar diameters",
+                "18 bar diameters",
+                "24 bar diameters",
+                "30 bar diameters",
+                "36 bar diameters"
+            ]
+        },
+        {
+            "question": "If At is the gross area of steel in tension, d is the effective depth of the beam and y is the depth of the centre of gravity of the resultant compression, the moment of resistance M of the beam, is given by",
+            "answers": [
+                "M = At(d - y)",
+                "M = Atf(d - y)",
+                "M = Atf(d + y)",
+                "M = ",
+                "none of these."
+            ]
+        },
+        {
+            "question": "A pre-stressed concrete member",
+            "answers": [
+                "is made of concrete",
+                "is made of reinforced concrete",
+                "is stressed after casting",
+                "possesses internal stresses."
+            ]
+        },
+        {
+            "question": "A part of the slab may be considered as the flange of the T-beam if",
+            "answers": [
+                "flange has adequate reinforcement transverse to beam",
+                "it is built integrally with the beam",
+                "it is effectively bonded together with the beam",
+                "all the above."
+            ]
+        },
+        {
+            "question": "An R.C.C. roof slab is designed as a two way slab if",
+            "answers": [
+                "it supports live loads in both directions",
+                "the ratio of spans in two directions is less than 2",
+                "the slab is continuous over two supports",
+                "the slab is discontinuous at edges."
+            ]
+        },
+        {
+            "question": "If C is creep coefficient, f is original prestress in concrete, m is modular ratio, E is Young's modulus of steel and e is shrinkage strain, the combined effect of creep and shrinkage is:",
+            "answers": [
+                "(1 - C)mf - eE",
+                "(C - 1)mf + eE",
+                "(C - 1)mf - eE",
+                "(1 - C)mf + eE"
+            ]
+        },
+        {
+            "question": "In a combined footing for two columns carrying unequal loads, the maximum hogging bending moment occurs at",
+            "answers": [
+                "less loaded column",
+                "more loaded column",
+                "a point equidistant from either column",
+                "a point of the maximum shear force",
+                "a point of zero shear force."
+            ]
+        },
+        {
+            "question": "A raft foundation is provided if its area exceeds the plan area of the building by",
+            "answers": [
+                "10%",
+                "20%",
+                "30%",
+                "40%",
+                "50%"
+            ]
+        },
+        {
+            "question": "The Total pressure on the vertical face of a retaining wall of height h exerted by the retained earth weighing w per unit volume having an angle of surcharge \u03b1\u00b0, is :",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "If H is the overall height of a retaining wall retaining a surcharge, the width of the base slab usually provided, is",
+            "answers": [
+                "0.3 H",
+                "0.4 H",
+                "0.5 H",
+                "0.6 H",
+                "0.7 H"
+            ]
+        },
+        {
+            "question": "The stem of a cantilever retaining wall which retains earth level with top is 6 m. If the angle of repose and weight of the soil per cubic metre are 30\u00b0 and 2000 kg respectively, the effective width of the stem at the bottom, is",
+            "answers": [
+                "51.5",
+                "52.5",
+                "53.5",
+                "54.5",
+                "55.5"
+            ]
+        },
+        {
+            "question": "If depth of slab is 10 cm, width of web 30 cm, depth of web 50 cm, centre to centre distance of beams 3 m, effective span of beams 6 m, the effective flange width of the beam, is",
+            "answers": [
+                "200 cm",
+                "300 cm",
+                "150 cm",
+                "100 cm"
+            ]
+        },
+        {
+            "question": "In a combined footing if shear stress does not exceed 5 kg/cm2, the nominal stirrups provided are",
+            "answers": [
+                "6 legged",
+                "8 legged",
+                "10 legged",
+                "12 legged",
+                "none of these."
+            ]
+        },
+        {
+            "question": "A flat slab is supported",
+            "answers": [
+                "on beams",
+                "on columns",
+                "on beams and columns",
+                "on columns monolithicaily built with slab",
+                "all the above"
+            ]
+        },
+        {
+            "question": "A singly reinforced beam has breadth b, effective depth d, depth of neutral axis n and critical neutral axis n1. If fc and ft are permissible compressive and tensile stresses, the moment to resistance of the beam, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "all the above"
+            ]
+        },
+        {
+            "question": "If diameter of a reinforcement bar is d, the anchorge value of the hook is",
+            "answers": [
+                "4d",
+                "8d",
+                "12d",
+                "16d",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Minimum spacing between horizontal parallel reinforcement of different sizes, should not be less than",
+            "answers": [
+                "one diameter of thinner bar",
+                "one diameter of thicker bar",
+                "sum of the diameters of ihinner and thicker bars",
+                "twice the diameter of thinner bar",
+                "none of these."
+            ]
+        },
+        {
+            "question": "If the size of a column is reduced above the floor, the main bars of the columns, are",
+            "answers": [
+                "continued up",
+                "bent inward at the floor level",
+                "stopped just below the floor level and separate lap bars provided",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The system in which high tensile alloy steel bars (silica manganese steel) are used as prestressing tendons, is known as",
+            "answers": [
+                "Freyssinet system",
+                "Magnel-Blaton system",
+                "C.C.L. standard system",
+                "Lee-McCall system."
+            ]
+        },
+        {
+            "question": "The minimum clear cover for R.C.C. columns shall be",
+            "answers": [
+                "greater of 40 mm or diameter",
+                "smaller of 40 mm or diameter",
+                "greater of 25 mm or diameter",
+                "smaller of 25 mm or diameter"
+            ]
+        },
+        {
+            "question": "If jd is the lever arm and \u03a3O is the total perimeter of reinformcement of an R.C.C. beam, the bond stress at the section having Q shear force, is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "If the loading on a prestressed rectangular beam, is uniformly distributed, the tendon to be provided should be .",
+            "answers": [
+                "straight below centroidal axis",
+                "parabolic with convexity downward",
+                "parabolic with convexity upward",
+                "straight above centroidal axis",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The live load to be considered for an accessible roof, is",
+            "answers": [
+                "Nil",
+                "75 kg/m3",
+                "150 kg/m2",
+                "200 kg/cm2"
+            ]
+        },
+        {
+            "question": "A foundation is called shallow if its depth, is",
+            "answers": [
+                "one-fourth of its width",
+                "half of its width",
+                "three-fourth of its width",
+                "equal to its width",
+                "all the above."
+            ]
+        },
+        {
+            "question": "A circular slab subjected to external loading, deflects to form a",
+            "answers": [
+                "semi-hemisphere",
+                "ellipsoid",
+                "parabolloid",
+                "none of these."
+            ]
+        },
+        {
+            "question": "An R.C.C beam of 25 cm width has a clear span of 5 metres and carries a U.D.L. of 2000 kg/m inclusive of its self weight. If the lever arm of the section is 45 cm., the beam is",
+            "answers": [
+                "safe in shear",
+                "is safe with stirrups",
+                "is safe with stirrups and inclined members",
+                "needs revision of the section."
+            ]
+        },
+        {
+            "question": "In a doubly-reinforced beam if c and t are stresses in concrete and tension reinforcement, d is the effective depth and n is depth of critical neutral axis n, the following relationship holds good",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "In testing a pile by load test, pile platform is loaded with one and half times the design load and a maximum settlement is noted. The load is gradually removed and the consequent rebound is measured. For a safe pile, the net settlement (i.e. total settlement minus rebound) per tonne of test load should not exceed",
+            "answers": [
+                "10 mm",
+                "15 mm",
+                "20 mm",
+                "25 mm",
+                "30 mm"
+            ]
+        },
+        {
+            "question": "If the shear stress in a R.C.C. beam is",
+            "answers": [
+                "equal or less than 5 kg/cm2, no shear reinforcement is provided",
+                "greater than 4 kg/cm2, but less than 20 kg/cm2, shear reinforcement is provided",
+                "greater than 20 kg/cm2, the size of the section is changed",
+                "all the above."
+            ]
+        },
+        {
+            "question": "If Sb, is the average bond stress on a bar of diameter d subjected to maximum stress t, the length of the embedment l is given by",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "On piles, the drop must be at least",
+            "answers": [
+                "80 cm",
+                "100 cm",
+                "120 cm",
+                "140 cm",
+                "150 cm"
+            ]
+        },
+        {
+            "question": "The maximum shear stress (q) in concrete of a reinforced cement concrete beam is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "An under-reinforced section means",
+            "answers": [
+                "Steel is provided at the under side only",
+                "Steel provided is insufficient",
+                "Steel provided on one face only",
+                "Steel will yield first."
+            ]
+        },
+        {
+            "question": "The spacing of transverse reinforcement of column is decided by the following consideration.",
+            "answers": [
+                "The least lateral dimension of the column",
+                "Sixteen times the diameter of the smallest longitudinal reinforcing rods in the column",
+                "Forty-eight times the diameter of transverse reinforcement",
+                "All the above."
+            ]
+        },
+        {
+            "question": "P is the prestressed force applied to the tendon of a rectangular prestressed beam whose area of cross section is A and sectional modulus is Z. The maximum stress f in the beam, subjected to a maximum bending moment M, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "If d is the diameter of a bar, ft is allowable tensile stress and fb, is allowable bond stress, the bond length is given by",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The diameter of transverse reinforcement of columns should be equal to one-fourth of the diameter of the main steel rods but not less than",
+            "answers": [
+                "4 mm",
+                "5 mm",
+                "6 mm",
+                "7 mm",
+                "8 mm"
+            ]
+        },
+        {
+            "question": "After prestressing process is completed, a loss of stress is due to",
+            "answers": [
+                "shrinkage of concrete",
+                "elastic shortening of concrete",
+                "creep of concrete",
+                "creep of steel",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The minimum head room over a stair must be",
+            "answers": [
+                "200 cm",
+                "205 cm",
+                "210 cm",
+                "200 cm",
+                "230 cm"
+            ]
+        },
+        {
+            "question": "In case the factor of safety against sliding is less than 1.5, a portion of slab is constructed downwards at the end of the heel slab, which is known as",
+            "answers": [
+                "a key",
+                "a cut-off wall",
+                "a rib",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The diameter of the column head support a flat slab, is generally kept",
+            "answers": [
+                "0.25 times the span length",
+                "0.25 times the diameter of the column",
+                "4.0 cm larger than the diameter of the column",
+                "5.0 cm larger than the diameter of the column",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The steel generally used in R.C.C. work, is",
+            "answers": [
+                "stainless",
+                "mildsteel",
+                "high carbon steel",
+                "high tension steel."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "Lateral reinforcement in R.C.C. columns is provided to prevent the longitudinal reinforcement from buckling",
+                "Lateral reinforcement prevents the shearing of concrete on diagonal plane",
+                "Lateral reinforcement stops breaking away of concrete cover, due to buckling",
+                "Lateral reinforcement in R.C.C. columns, is kept not less than 5 mm diameter",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The allowable tensile stress in mild steel stirrups, reinforced cement concrete, is",
+            "answers": [
+                "1400 kg/cm2",
+                "190 kg/cm2",
+                "260 kg/cm2",
+                "230 kg/cm2"
+            ]
+        },
+        {
+            "question": "If longitudinally spanning stairs are casted along with their landings, the maximum bending moment per metre width, is taken as",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "If A is the sectional area of a prestressed rectangular beam provided with a tendon prestressed by a force P through its centroidal longitudinal axis, the compressive stress in concrete, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "According to I.S.: 456, 1978 the thickness of reinforced concrete footing on piles at its edges, is kept less than",
+            "answers": [
+                "5 cm",
+                "10 cm",
+                "15 cm",
+                "20 cm",
+                "25 cm"
+            ]
+        },
+        {
+            "question": "The self-weight of the footing, is",
+            "answers": [
+                "not considered for calculating the upward pressure on footing",
+                "also considered for calculating the upward pressure on footihg",
+                "not considered for calculating the area of the footing",
+                "both (b) and (c)"
+            ]
+        },
+        {
+            "question": "For normal cases, stiffness of a simply supported beam is satisfied if the ratio of its span to its overall depth does not exceed",
+            "answers": [
+                "10",
+                "15",
+                "20",
+                "25",
+                "30"
+            ]
+        },
+        {
+            "question": "If the length of an intermediate span of a continuous slab is 5m, the length of the end span is kept",
+            "answers": [
+                "4.5 m",
+                "4.0 m",
+                "3.5 m",
+                "3.0 m",
+                "none of these."
+            ]
+        },
+        {
+            "question": "If Md and Mt are the maximum bending moments due to dead load and live load respectively and F is the total effective pressure, for a balanced design of a prestreseed concrete beam of steel, is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The floor slab of a building is supported on reinforced cement floor beams. The ratio of the end and intermediate spans is kept",
+            "answers": [
+                "0.7",
+                "0.8",
+                "0.9",
+                "0.6",
+                "none of these."
+            ]
+        },
+        {
+            "question": "If p1 and P2 are effective lateral loadings at the bottom and top exerted by a level earth subjected to a superload on the vertical face of height h of a retaining wall, the horizontal pressure p per unit length of the wall, is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Lapped splices in tensile reinforcement are generally not used for bars of size larger than",
+            "answers": [
+                "18 mm diameter",
+                "24 mm diameter",
+                "30 mm diameter",
+                "36 mm diameter",
+                "32 mm diameter"
+            ]
+        },
+        {
+            "question": "An R.C.C. beam of 6 m span is 30 cm wide and has a lever arm of 55 cm. If it carries a U.D.L. of 12 t per m and allowable shear stress is 5 kg/cm2, the beam",
+            "answers": [
+                "is safe in shear",
+                "is safe with stirrups",
+                "is safe with stirrups and inclined bars",
+                "needs revision of section"
+            ]
+        },
+        {
+            "question": "In a slab, the pitch of the main reinforcement should not exceed its effective depth",
+            "answers": [
+                "three times",
+                "four times",
+                "five times",
+                "two times."
+            ]
+        },
+        {
+            "question": "The modular ratio m of a concrete whose permissible compressive stress is C, may be obtained from the equation.",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "In a prestressed member it is advisable to use",
+            "answers": [
+                "low strength concrete only",
+                "high strength concrete only",
+                "low strength concrete but high tensile steel",
+                "high strength concrete and high tensile steel",
+                "high strength concrete but low tensile steel"
+            ]
+        },
+        {
+            "question": "The ratio of the breadth to effective depth of a beam is kept",
+            "answers": [
+                "0.25",
+                "0.50",
+                "0.70",
+                "0.75",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Spacing of stirrups in a rectangular beam, is",
+            "answers": [
+                "kept constant throughout the length",
+                "decreased towards the centre of the beam",
+                "increased at the ends",
+                "increased at the centre of the beam."
+            ]
+        },
+        {
+            "question": "If the width of the foundation for two equal columns is restricted, the shape of the footing generally adopted, is",
+            "answers": [
+                "square",
+                "rectangular",
+                "trapezoidal",
+                "triangular."
+            ]
+        },
+        {
+            "question": "If permissible compressive stress in concrete is 50 kg/cm2, tensile stress in steel is 1400 kg/cm2 and modular ratio is 18, the depth d of the beam, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "For a continuous floor slab supported on beams, the ratio of end span length and intermediate span length, is",
+            "answers": [
+                "0.6",
+                "0.7",
+                "0.8",
+                "0.9"
+            ]
+        },
+        {
+            "question": "Steel bars are generally connected together to get greater length than the standard length by providing",
+            "answers": [
+                "strainght bar splice",
+                "hooked splice",
+                "dowel splice",
+                "all the above"
+            ]
+        },
+        {
+            "question": "Long and short spans of a two way slab are ly and lx and load on the slab acting on strips parallel to lx and ly be wx and wy respectively. According to Rankine Grashoff theory",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                "none of these."
+            ]
+        },
+        {
+            "question": "If p is the net upward pressure on a square footing of side b for a square column of side a, the maximum bending moment is given by",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "By over-reinforcing a beam, the moment of resistance can be increased not more than",
+            "answers": [
+                "10%",
+                "15%",
+                "20%",
+                "25%"
+            ]
+        },
+        {
+            "question": "The minimum thickness of a flat slab is taken",
+            "answers": [
+                "13 cm",
+                "L/32 for end panels without drops",
+                "L/36 for end panels without drops",
+                "L/36 for interior panels without drop",
+                "all the above."
+            ]
+        },
+        {
+            "question": "According to I.S. : 456, slabs which span in two directions with corners held down, are assumed to be divided in each direction into middle strips and edge strips such that the width of the middle strip, is",
+            "answers": [
+                "half of the width of the slab",
+                "two-third of the width of the slab",
+                "three-fourth of the width of the slab",
+                "four-fifth of the width of the slab",
+                "three-fifth of the width of the slab."
+            ]
+        },
+        {
+            "question": "Minimum spacing between horizontal parallel reinforcement of the same size should not be less than",
+            "answers": [
+                "one diameter",
+                "2.5 diameters",
+                "3 diameters",
+                "3.5 diameters",
+                "4 diameters"
+            ]
+        },
+        {
+            "question": "Columns may be made of plain concrete if their unsupported lengths do not exceed their least lateral dimension",
+            "answers": [
+                "two times",
+                "three times",
+                "four times",
+                "five times",
+                "six times."
+            ]
+        },
+        {
+            "question": "An R.C.C. column is treated as short column if its slenderness ratio is less than",
+            "answers": [
+                "30",
+                "35",
+                "40",
+                "50",
+                "60"
+            ]
+        },
+        {
+            "question": "If the tendon is placed at an eccentricity e below the centroidal axis of the lon-gitudial axis of a rectangular beam (sectional modulus Z and stressed load P in tendon) the stress at the extreme top edge",
+            "answers": [
+                "is increased by ",
+                "is increased by ",
+                "is decreased by ",
+                "remains unchanged."
+            ]
+        },
+        {
+            "question": "The maximum ratio of span to depth of a slab simply supported and spanning in one direction, is",
+            "answers": [
+                "35",
+                "25",
+                "30",
+                "20",
+                "15"
+            ]
+        },
+        {
+            "question": "If Ac, Asc and A are areas of concrete, longitudinal steel and section of a R.C.C. column and m and \u03c3c are the modular ratio and maximum stress in the configuration of concrete, the strength of column is",
+            "answers": [
+                "\u03c3cAc + m \u03c3cAsc",
+                "\u03c3c(A - Asc) + m \u03c3cAsc",
+                "\u03c3c[A + (m - 1)ASC]",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The load stress of a section can be reduced by",
+            "answers": [
+                "decreasing the lever arm",
+                "increasing the total perimeter of bars",
+                "replacing larger bars by greater number of small bars",
+                "replacing smaller bars by greater number of greater bars",
+                "none of these."
+            ]
+        },
+        {
+            "question": "If W is the load on a circular slab of radius R, the maximum radial moment at the centre of the slab, is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "For M 150 grade concrete (1:2:4) the moment of resistance factor is",
+            "answers": [
+                "0.87",
+                "8.50",
+                "7.50",
+                "5.80",
+                "none of these."
+            ]
+        },
+        {
+            "question": "For a ribbed slab",
+            "answers": [
+                "clear spacing between ribs shall not be greater than 4.5 cm",
+                "width of the rib shall not be less than 7.5 cm",
+                "overall depth of the slab shall not exceed four times the breadth of the rib",
+                "all the above."
+            ]
+        },
+        {
+            "question": "A pile weighing W1 kg penetrates S metres with its last blow. If W2 is the weight of the hammer having a drop of H metres, the pile can carry a maximum external load",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The maximum ratio of span to depth of a slab simply supported and spanning in two directions, is",
+            "answers": [
+                "25",
+                "30",
+                "35",
+                "40",
+                "15"
+            ]
+        },
+        {
+            "question": "The neutral axis of a T-beam exists",
+            "answers": [
+                "within the flange",
+                "at the bottom edge of the slab",
+                "below the slab",
+                "all the above."
+            ]
+        },
+        {
+            "question": "A pre-stressed concrete member is preferred because",
+            "answers": [
+                "its dimensions are not decided from the diagonal tensile stress",
+                "large size of long beams carrying large shear force need not be adopted",
+                "removal of cracks in the members due to shrinkage",
+                "all the above."
+            ]
+        },
+        {
+            "question": "If W is the uniformly distributed load on a circular slab of radius R fixed at its ends, the maximum positive radial moment at its centre, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "zero",
+                "none of these."
+            ]
+        },
+        {
+            "question": "If p1 and p2 are mutually perpendicular principal stresses acting on a soil mass, the normal stress on any plane inclined at angle \u03b8\u00b0 to the principal plane carrying the principal stress p1, is :",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "A very comfortable type of stairs is",
+            "answers": [
+                "straight",
+                "dog legged",
+                "geometrical",
+                "open newel."
+            ]
+        },
+        {
+            "question": "If the neutral axis of a T-beam is below the slab, the relationship between the flange width B, depth of neutral axis n, thickness of the slab ds, effective depth of the beam d, gross area of tensile steel At and the modular ratio m may be stated as",
+            "answers": [
+                "",
+                "",
+                "",
+                "Bds(n - ds) = mAt(d - n)"
+            ]
+        },
+        {
+            "question": "A ribbed slab is provided for",
+            "answers": [
+                "a plain ceiling",
+                "thermal insulation",
+                "acoustic insulation",
+                "all the above."
+            ]
+        },
+        {
+            "question": "For a number of columns constructed in a rcjw, the type of foundation provided, is",
+            "answers": [
+                "footing",
+                "raft",
+                "strap",
+                "strip",
+                "a combination of the above."
+            ]
+        },
+        {
+            "question": "As the percentage of steel increases",
+            "answers": [
+                "depth of neutral axis decreases",
+                "depth of neutral axis increases",
+                "lever arm increases",
+                "lever arm decreases",
+                "none of these."
+            ]
+        },
+        {
+            "question": "If W is weight of a retaining wall and P is the horizontal earth pressure, the factor of safety against sliding, is",
+            "answers": [
+                "1.0",
+                "1.25",
+                "1.5",
+                "2.0",
+                "2.5"
+            ]
+        },
+        {
+            "question": "If q is the punching shear resistance per unit area a, is the side of a square footing for a column of side b, carrying a weight W including the weight of the footing, the depth (D) of the footing from punching shear consideration, is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Based on punching shear consideration, the overall depth of a combined footing under a column A, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "None of these."
+            ]
+        },
+        {
+            "question": "An intermediate T-beam reinforced with two layers of tensile steel with clear cover 13 cm encasted with the floor of a hall 12 metres by 7 metres, is spaced at 3 metres from adjoining beams and if the width of the beam is 20 cm, the breadth of the flange is",
+            "answers": [
+                "300 cm",
+                "233 cm",
+                "176 cm",
+                "236 cm",
+                "255 cm"
+            ]
+        },
+        {
+            "question": "Pick up the assumption for the design of a prestressed concrete member from the following :",
+            "answers": [
+                "A transverse plane section remains a plane after bending",
+                "During deformation limits, Hook's law is equally applicable to concrete as well as to steel",
+                "Variation of stress in reinforcement due to changes in external loading is negligible",
+                "All the above."
+            ]
+        },
+        {
+            "question": "If the diameter of the main reinforcement in a slab is 16 mm, the concrete cover to main bars is",
+            "answers": [
+                "12 mm",
+                "13 mm",
+                "14 mm",
+                "15 mm",
+                "16 mm"
+            ]
+        },
+        {
+            "question": "Side face reinforcement shall be provided in the beam when depth of the web in a beam exceeds",
+            "answers": [
+                "50 cm",
+                "75 cm",
+                "100 cm",
+                "120 cm"
+            ]
+        },
+        {
+            "question": "The stresses developed in concrete and steel in reinforced concrete beam 25 cm width and 70 cm effective depth, are 62.5 kg/cm2 and 250 kg/cm2 respectively. If m = 15, the depth of its neutral axis is",
+            "answers": [
+                "20 cm",
+                "25 cm",
+                "30 cm",
+                "35 cm",
+                "40 cm"
+            ]
+        },
+        {
+            "question": "If the ratio of long and short spans of a two way slab with corners held down is r, the actual reduction of B.M. is given by",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The angle of repose of a soil is the maximum angle which the outer face of the soil mass makes",
+            "answers": [
+                "with the horizontal",
+                "with the vertical",
+                "with the perpendicular to. the inclined plane of the soil",
+                "none of these."
+            ]
+        },
+        {
+            "question": "A column is regarded as long column if the ratio of its effective length and lateral dimension, exceeds",
+            "answers": [
+                "10",
+                "15",
+                "20",
+                "25",
+                "30"
+            ]
+        },
+        {
+            "question": "Enlarged head of a supporting column of a flat slabs is technically .known as",
+            "answers": [
+                "supporting end of the column",
+                "top of the column",
+                "capital",
+                "drop panel",
+                "none of these."
+            ]
+        },
+        {
+            "question": "If the length of a combined footing for two columns l metres apart is L and the projection on the left side of the exterior column is x, then the projection y on the right side of the exterior column, in order to have a uniformly distributed load, is (where x is the distance of centre of gravity of column loads).",
+            "answers": [
+                "y = L - (l - x)",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The section of a reinforced beam where most distant concrete fibre in compression and tension in steel attains permissible stressess simultaneously, is called",
+            "answers": [
+                "balanced section",
+                "economic section",
+                "critical section",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The width of the flange of a L-beam, should be less than",
+            "answers": [
+                "one-sixth of the effective span",
+                "breadth of the rib + four times thickness of the slab",
+                "breadth of the rib + half clear distance between ribs",
+                "least of the above."
+            ]
+        },
+        {
+            "question": "If the maximum dip of a parabolic tendon carrying tension P is h and the effective length of the prestressed beam is L, the upward uniform pressure will be",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "A singly reinforced concrete beam of 25 cm width and 70 cm effective depth is provided with 18.75 cm2 steel. If the modular ratio (m) is 15, the depth of the neutral axis, is",
+            "answers": [
+                "20 cm",
+                "25 cm",
+                "30 cm",
+                "35 cm",
+                "40 cm"
+            ]
+        },
+        {
+            "question": "The weight of reinforced concrete, is generally taken as",
+            "answers": [
+                "2200 kg/m3",
+                "2300 kg/m3",
+                "2400 kg/m3",
+                "2500 kg/m3",
+                "2800 kg/m3"
+            ]
+        },
+        {
+            "question": "Total pressure on the vertical face of a retaining wall of height h per unit run exerted by the retained earth weighing w per unit volume, is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The zone in which transverse bending is likely to occur may be obtained by drawing a line from the faces of the column making an angle \u03b8\u00b0 with horizontal where \u03b8\u00b0 is",
+            "answers": [
+                "30\u00b0",
+                "45\u00b0",
+                "60\u00b0",
+                "none of these."
+            ]
+        },
+        {
+            "question": "If P kg/m2 is the upward pressure on the slab of a plain concrete footing whose projection on either side of the wall is a cm, the depth of foundation D is given by",
+            "answers": [
+                "D = 0.00775 aP",
+                "D = 0.0775 aP",
+                "D = 0.07775 aP",
+                "D = 0.775 Pa"
+            ]
+        },
+        {
+            "question": "According to load factor method, the permissible load W on a short column reinforced with longitudinal bars and lateral stirrups, is",
+            "answers": [
+                "Stress in concrete x area of concrete",
+                "Stress in steel x area of steel",
+                "Stress in concrete x area of concrete + Stress in steel x area of steel",
+                "None of these."
+            ]
+        },
+        {
+            "question": "If A is the area of the foundation of a retaining wall carrying a load W and retaining earth of weight w per unit volume, the minimum depth (h) of the foundation from the free surface of the earth, is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "In a cantilever retaining wall without a heel slab",
+            "answers": [
+                "thickness of the stem is kept same throughout",
+                "base slab is made 10 cm thicker than the stem",
+                "width of the base slab is kept 0.7 time the total height of the wall",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The design of heel slab of a retaining wall, is based on the maximum bending moment due to:",
+            "answers": [
+                "its own weight",
+                "weight of the soil above it,",
+                "load of the surcharge, if any",
+                "upward soil reaction",
+                "all the above."
+            ]
+        },
+        {
+            "question": "If the modular ratio is m, steel ratio is r and overall depth of a beam is d, the depth of the critical neutral axis of the beam, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "A per IS : 1343, total shrinkage for a pretensioned beam, is",
+            "answers": [
+                "3.0 x 10-2",
+                "3.0 x 10-3",
+                "3.0 x 10-4",
+                "3.0 x 10-5",
+                "3.5 x 10-5"
+            ]
+        },
+        {
+            "question": "The Young's modulus of elasticity of steel, is",
+            "answers": [
+                "150 KN/mm2",
+                "200 KN/mm2",
+                "250 KN/mm2",
+                "275 KN/mm2"
+            ]
+        },
+        {
+            "question": "The maximum permissible size of aggregates to be used in casting the ribs of a slab, is",
+            "answers": [
+                "5 mm",
+                "7.5 mm",
+                "10 mm",
+                "15 mm",
+                "20 mm"
+            ]
+        },
+        {
+            "question": "In a simply supported slab, alternate bars are curtailed at",
+            "answers": [
+                "1/4th of the span",
+                "1/5th of the span",
+                "1/6th of the span",
+                "1/7th of the span",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The diameter of main bars in R.C.C. columns, shall not be less than",
+            "answers": [
+                "6 mm",
+                "8 mm",
+                "10 mm",
+                "12 mm"
+            ]
+        },
+        {
+            "question": "The breadth of a ribbed slab containing two bars must be between",
+            "answers": [
+                "6 cm to 7.5 cm",
+                "8 cm to 10 cm",
+                "10 cm to 12 cm",
+                "12 cm to 15 cm",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The minimum thickness of the cover at the end of a reinforcing bar should not be less than twice the diameter of the bar subject to a minimum of",
+            "answers": [
+                "10 mm",
+                "15 mm",
+                "20 mm",
+                "25 mm",
+                "30 mm"
+            ]
+        },
+        {
+            "question": "If l1 and l2 are the lengths of long and short spans of a two way slab simply supported on four edges and carrying a load w per unit area, the ratio of the loads split into w1 and w2 acting on strips parallel to l2 and l1 is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "If L is the effective span of a R.C.C. beam which is subjected to maximum shear qmax at the ends, the distance from either end over which stirrups for the shear, are provided, is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "For the design of a simply supported T-beam the ratio of the effective span to the overall depth of the beam is limited to",
+            "answers": [
+                "10",
+                "15",
+                "20",
+                "25",
+                "30"
+            ]
+        },
+        {
+            "question": "In the zone of R.C.C. beam where shear stress is less than 5 kg/cm2, nominal reinforcement is provided at a pitch of",
+            "answers": [
+                "one-half lever arm of the section",
+                "one-third lever arm of the section",
+                "lever arm of the section",
+                "one and half lever arm of the section."
+            ]
+        },
+        {
+            "question": "P is the prestressed force applied to tendon of a rectangular prestressed beam whose area of cross section is A and sectional modulus is Z. The minimum stress f on the beam subjected to a maximum bending moment M is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "In a singly reinforced beam",
+            "answers": [
+                "compression is borne entirely by concrete",
+                "steel possesses initial stresses when em-beded in concrete",
+                "plane sections transverse to the centre line of the beam before bending remain plane after bending",
+                "elastic modulii for concrete and steel have different values within the limits of deformation of the beam",
+                "none of these."
+            ]
+        },
+        {
+            "question": "A pre-cast pile generally used, is",
+            "answers": [
+                "circular",
+                "square",
+                "octagonal",
+                "square with corners chamfered."
+            ]
+        },
+        {
+            "question": "On an absolutely rigid foundation base, the pressure will",
+            "answers": [
+                "be more at the edges of the foundation",
+                "be uniform",
+                "not be uniform",
+                "be zero at the centre of the foundation."
+            ]
+        },
+        {
+            "question": "As per IS : 456, the reinforcement in a column should not be less than",
+            "answers": [
+                "0.5% and not more than 5% of cross-sec-tional area",
+                "0.6% and not more than 6% of cross-see-tional area",
+                "0.7% and not more than 7% of cross-sec-tional area",
+                "0.8% and not more than 8% of cross-sectional area",
+                "none of these."
+            ]
+        },
+        {
+            "question": "If T and R are the tread and rise of a stair which carries a load w per square metre on slope, the corresponding load per square metre of the horizontal area, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "If the bearing capacity of soil is 10 tonnes/cm2 and the projection of plain concrete footing from walls, is a cm, the depth D of footing is",
+            "answers": [
+                "D = 0.0775 a",
+                "D = 0.775 a",
+                "D = 0.775a",
+                "D = 0.775 a2"
+            ]
+        },
+        {
+            "question": "An R.C.C. lintel is spanning an opening of 2 m span in a brick wall. The height of the roof is 2.9 m above the floor level and that of the opening is 2.1 m above the floor level. The lintel is to be designed for self weight plus",
+            "answers": [
+                "triangular load of the wall",
+                "UDL of wall",
+                "UDL of wall + load from the roof",
+                "triangular load + load from the roof."
+            ]
+        },
+        {
+            "question": "The pitch of the main bars in a simply supported slab, should not exceed its effective depth by",
+            "answers": [
+                "three times",
+                "four times",
+                "five times",
+                "six times",
+                "seven times."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1327 @@
+{
+    "questions": [
+        {
+            "question": "Which one of the following statements is correct ?",
+            "answers": [
+                "Snow albedo falls at all wave length with the increase of grain size",
+                "The effect of grain size on reflection is maximum in the near-IR region",
+                "The effect of grain size on reflection is low in the visible region of the spectrum",
+                "All of these"
+            ]
+        },
+        {
+            "question": "The refractive index of the ocean water:",
+            "answers": [
+                "increases with salinity",
+                "increases with temperature",
+                "decreases with salinity",
+                "decreases with temperature"
+            ]
+        },
+        {
+            "question": "The arrangement of terrain features which provides attributes: the shape, size and texture of objects, is called :",
+            "answers": [
+                "spectral variation",
+                "spatial variation",
+                "temporal variation",
+                "None of these ."
+            ]
+        },
+        {
+            "question": "Electromagnetic radiation :",
+            "answers": [
+                "produces a time varying magnetic field and vice versa",
+                "once generated, remains self-propagat-ing.",
+                "is capable to travel across space",
+                "consists of magnetic and electric fields",
+                "All of these"
+            ]
+        },
+        {
+            "question": "Pick up the important characteristic of a target which facilitates its identification from the following:",
+            "answers": [
+                "spectral variation",
+                "spatial variation",
+                "temporal variation",
+                "polarisation variation",
+                "All of these"
+            ]
+        },
+        {
+            "question": "Which one of the following frequency regions is a part of sun's radiation?",
+            "answers": [
+                "Ultraviolet frequency region",
+                "Visible frequency region",
+                "Infrared frequency region",
+                "Radio frequency region",
+                "All of these"
+            ]
+        },
+        {
+            "question": "The instruments which provide electromagnetic radiation of specified wave length or a band of wave lengths to illuminate the earth surface, are called :",
+            "answers": [
+                "sensonrs",
+                "passive sensors",
+                "active sensors",
+                "None of these"
+            ]
+        },
+        {
+            "question": "Due to pertubation of the orbit, satellite orbit parameters are frequently updated on measurements carried out by its",
+            "answers": [
+                "six ground stations",
+                "five ground stations",
+                "four ground stations",
+                "three ground stations"
+            ]
+        },
+        {
+            "question": "Coherence of two electromagnetic waves takes place if their phase difference is :",
+            "answers": [
+                "constant in time",
+                "constant in space",
+                "constant in time and space",
+                "None of these"
+            ]
+        },
+        {
+            "question": "The part radiation due to scattered/diffused radiation entering the field of view of a remote sensor other than that from the required target,",
+            "answers": [
+                "reduces the contrast of the image and also its sharpness",
+                "increases the contrast of the image but reduces the sharpness",
+                "increases both the contrast and sharpness",
+                "reduces the contrast but increases the sharpness"
+            ]
+        },
+        {
+            "question": "Which one of the following residual biases involves the GPS accuracy ?",
+            "answers": [
+                "Satellite dependent baises due to uncertainty in the orbital parameters of the satellite.",
+                "Receiver-depandent biases due to clock stability with line",
+                "Signal propagation baises due to the sphere and troposphere propogation.",
+                "All the above"
+            ]
+        },
+        {
+            "question": "Pick up the correct definition from the following with response to GIS.",
+            "answers": [
+                "Common boundry between two areas of a locality is known as adjacency.",
+                "The area features which are wholly contained within another area feature, is known so containment.",
+                "The geometric property which describes the linkage between line features is defined as connectivity.",
+                "All of these."
+            ]
+        },
+        {
+            "question": "Which one of the following errors is produced by platform characteristics of the sensor ?",
+            "answers": [
+                "altitude variation",
+                "altitude",
+                "orbit drift",
+                "All of these"
+            ]
+        },
+        {
+            "question": "The coherence length over which there is a strong relationship between amplitudes is;",
+            "answers": [
+                "directly proportional to the bandwidth",
+                "inversely proportional to the bandwidth",
+                "the square of the bandwidth",
+                "none of these"
+            ]
+        },
+        {
+            "question": "In the given figure the phase of ",
+            "answers": [
+                "crest A is \u03c0/2",
+                "B crossing is \u03c0",
+                "trough C is 3 \u03c0/2",
+                "All of these"
+            ]
+        },
+        {
+            "question": "If 0 is the angle of scan measured from the nadir, the ground distance swept by the sensor IFOV is proportional to :",
+            "answers": [
+                "sin2\u03b8",
+                "cos2\u03b8",
+                "sec2\u03b8",
+                "tan2\u03b8"
+            ]
+        },
+        {
+            "question": "Which one of the following statements is correct regarding the GPS satellites ?",
+            "answers": [
+                "The nominal altitude is about 20, 200 km",
+                "The inclination of axis satellite is 55\u00b0",
+                "The satellite transmits two L band signals (L1 with 1575.42 MHz and L2 with 1276.6 MHz)",
+                "All of these"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "Indian space effort started in 1962 with the establishment of a rocket.",
+                "Development of space (DOS) was established by the Government of India in 1972",
+                "Indian Space Research Organisation (ISRO) is responsible for the space technology and its application to various activities.",
+                "All of these"
+            ]
+        },
+        {
+            "question": "Rayleigh's criteria for a rough surface is: (where letters carry their usual meanings).",
+            "answers": [
+                "h > \u03bb/\u0394 cos \u03b8",
+                "h = \u03bb/8 cos \u03b8",
+                "h > \u03bb/8 cos \u03b8",
+                "h < \u03bb/8 cos \u03b8"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "The distance between two successive crests or troughs of a wave, is called, the wave length",
+                "The wave length is measured in metres and a fraction of a metre",
+                "The wave length is generally denoted by \u03bb",
+                "The length of the crest from the mid point, is called amplitude",
+                "All of these"
+            ]
+        },
+        {
+            "question": "The basic requirement of any sensor system, is :",
+            "answers": [
+                "radiometric resolution",
+                "spatial resolution",
+                "spectral resolution",
+                "temporal resolution",
+                "All of these"
+            ]
+        },
+        {
+            "question": "Which one of the following helps to identify the objects on the earth surface ?",
+            "answers": [
+                "atmospheric window",
+                "signature",
+                "radiometric error",
+                "None of these"
+            ]
+        },
+        {
+            "question": "The spectral region of the electromagnetic radiation which passes through the atmosphere without much attenuation is known as:",
+            "answers": [
+                "ozone hole",
+                "atmospheric window",
+                "ozone window",
+                "black hole"
+            ]
+        },
+        {
+            "question": "Which one of the following statements is correct?",
+            "answers": [
+                "During the day, earth reflects solar radiation",
+                "During the day earth reflects both solar radiation the emission from its surface",
+                "During the night, earth emits radiation from its surface",
+                "All of these"
+            ]
+        },
+        {
+            "question": "The remote sensing techniques applied for the earth's surface features, is generally confined to the following wave lengths :",
+            "answers": [
+                "0.4 to 1.3, 1.5 to 1.8, 2.2 to 2.6 \u03bcm",
+                "2.2 to 2.6, 3.0 to 3.6, 4.2 to 5.0 \u03bcm",
+                "4.2 to 5.0, 7.0 to 15.0 \u03bcm and 1 cm to 30 cm",
+                "All of these"
+            ]
+        },
+        {
+            "question": "The value of energy quantum for radiation of any frequency is proportional to :",
+            "answers": [
+                "the frequency",
+                "the reciprocal of the energy",
+                "the square of the frequency",
+                "the square root of the frequency"
+            ]
+        },
+        {
+            "question": "The phase difference of the waves 1 and 2 at A in the given figure is :",
+            "answers": [
+                "\u03c0/4",
+                "\u03c0/2",
+                "\u03c0",
+                "3\u03c0/2"
+            ]
+        },
+        {
+            "question": "A perfectly black body :",
+            "answers": [
+                "is a diffuse emitter",
+                "absorbs all the radiations of every wave lengths",
+                "emits power of every wave length",
+                "All the above"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "When the electric field oscillates in the direction of the electric vector, a plane polarised wave is formed.",
+                "When the electric vector is in the plane of incidence, vertical polarisation is formed.",
+                "When the electric vector is at right angles to the plane of incidence, horizontal polarization wave is formed.",
+                "The plane containing the incident ray and normal to the reflecting surface at the point of incidence is called the plane of incidence.",
+                "All of these"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "Phase of a wave is expressed as a fraction of a period with respect to a refrence",
+                "Phase is usually specified by angular measure with one period being 360\u00b0",
+                "The reference for finding the phase of a wave is taken from the previous passage through zero from the negative to the positive direction.",
+                "All of these"
+            ]
+        },
+        {
+            "question": "A and B are two towers of equal height diametrically opposite on either side of the nadir point, at 3 km and 5 km distances. Which one of the following statements is correct?",
+            "answers": [
+                "Height displacement of A will be less than that of B",
+                "Height displacement of B will be less than that of A",
+                "Height displacement of A and B is equal",
+                "Height displacement of A and B will be towards each other"
+            ]
+        },
+        {
+            "question": "Remote sensing techniques makes use of the properties of-----emitted, reflected or diffracted by the sensed objects:",
+            "answers": [
+                "electric waves",
+                "soundwaves",
+                "electromagnetic waves",
+                "wind waves"
+            ]
+        },
+        {
+            "question": "Which one of the following parameters is accurate for DGPS.",
+            "answers": [
+                "Positional accuracies ~ 1 - 2 m if rover is less than 1-2 km from the reference station",
+                "Positional accuracies ~ 2 - 5m if rover is less than 2-5 fm from the reference station",
+                "Positional accuracies ~ 5 - 10 m if rover is less than 5-10 km from reference station",
+                "Positional accuracies ~ 5 - 10 m if rover is less than 25 km"
+            ]
+        },
+        {
+            "question": "The most widely used antenna in GPS is",
+            "answers": [
+                "Parabolid antenna",
+                "Microstrip antenna",
+                "Horn antenna",
+                "Slotted antenna"
+            ]
+        },
+        {
+            "question": "Which one of the following statements regarding remote sensing is correct.",
+            "answers": [
+                "The interaction of the electromagnetic radiation with the target",
+                "The emission of electromagnetic radiation from the target",
+                "both (a) and (b)",
+                "Neither (a) nor (b)"
+            ]
+        },
+        {
+            "question": "\"An Electromagnetic wave falls on to a boundary between two loss less homogeneous media with different refractive indices, a part of the wave is reflected back to the incident medium and the rest is transmitted on to the second media\". This phenomenon is known as :",
+            "answers": [
+                "Fresnel reflection",
+                "Fresnel refraction",
+                "Snell's law",
+                "None of these"
+            ]
+        },
+        {
+            "question": "Which one of the following relationship between the wave length (\u03bb), and frequency and the speed (C) of the electromagnetic wave is correct ?",
+            "answers": [
+                "C = v + \u03bb",
+                "",
+                "C = v\u03bb",
+                ""
+            ]
+        },
+        {
+            "question": "The various stages occuring in GPS system are described below :1. Generation of an output to the user2. Detection of the GPS signal3. Processing the data in the built-in-computer4. Decoding the GPS signal.The correct sequence of the stages is :",
+            "answers": [
+                "1, 2, 3, 4",
+                "2, 3, 4, 1",
+                "2, 4, 3, 1",
+                "3, 1, 2 , 4"
+            ]
+        },
+        {
+            "question": "The reflection of solar energy is characterised by the water content in the leaf, in the reflective optical infrared:",
+            "answers": [
+                "visible (0.4 - 0.7 \u03bcm) region",
+                "near-IR (0.7 - 1.3 \u03bcm) region",
+                "short wave-IR (1.3 - 2.7 \u03bcm) region",
+                "None of these"
+            ]
+        },
+        {
+            "question": "Which one the following is a correct statement?",
+            "answers": [
+                "The vertical section of the soil extending into the parent material, is called profile",
+                "The layers of the soil parallel to the earth surface, are called horizons.",
+                "The transitional layer between two adjoining horizons, is called boundary.",
+                "All of these"
+            ]
+        },
+        {
+            "question": "The entire range of the electromagnetic spectrum spans a large spectrum of wave lengths varying from:",
+            "answers": [
+                "10-10 to 106 m",
+                "10-8 to 106 m",
+                "10-10 to 1010 m",
+                "10-8 to 108 m"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "Topology describes the geometric characteristic of objects which do not change under transformations and are independent of any coordinate system",
+                "Topological characteristics of an object are independent of scale measurement",
+                "The three elements of topology are adjacency, containment, and connectivity",
+                "All of these"
+            ]
+        },
+        {
+            "question": "Which one of the following parameters is considered to determine the reflectance of a vegetation canopy",
+            "answers": [
+                "Solar zenith angle",
+                "Azimuth angle",
+                "Look angle",
+                "Number and arrangement of leaves",
+                "All of these"
+            ]
+        },
+        {
+            "question": "A reduction of nitrogen nutrient in plants :",
+            "answers": [
+                "affects leaf colour",
+                "reduces pigment concentration",
+                "increase the visible reflectivity",
+                "All of these"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "The surface defined by the locus of points having same phase, is called a wave front.",
+                "The wave whose surface of constant phase are parallel planes, is known as a plane wave.",
+                "The relative phase difference between the waves is important and not the absolute phase of a point on the wave",
+                "All of these"
+            ]
+        },
+        {
+            "question": "Leaf reflactance depends primarily on :",
+            "answers": [
+                "the pigments",
+                "internal cell structure",
+                "equivalent water content",
+                "All of these"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following",
+            "answers": [
+                "The ratio of the up flux and down flux just above the snow surface, is called albedo",
+                "Spectral albedo of snow is calculated for the semi-infinite snow thickness",
+                "Water equivalent height of snow is the height of water column obtained by melting snow.",
+                "A homogeneous snow pack is one whose average grain size does not vary with depth.",
+                "All of these"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "Permeability is a measure of conducting the magnetic lines of force in the material.",
+                "Permeability is a measure of the extent to which magnetic lines of force can penetrate a medium.",
+                "Permeability is expressed as the ratio of the magnetic flux density (B) to the field strength of the magnetizing field.",
+                "The force between the magnetic poles is inversely proportional to the permeability of the medium.",
+                "All of these"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "In remote sensing technique, the observation place, is called a platform",
+                "Platforms may be either stationary or mobile",
+                "Spatial resolution of the imaging system becomes poorer with increase of platform height.",
+                "Area coverage of the imaging system increases with the increase of the platform altitude.",
+                "All of these"
+            ]
+        },
+        {
+            "question": "Which one of the following statements is correct?",
+            "answers": [
+                "The function of an information system is to improve ones ability to make decisions",
+                "The information system is the chain of operations",
+                "A map is a collection of stored, analysed data, its stored information is suitability used in making decisions",
+                "All the above"
+            ]
+        },
+        {
+            "question": "The interaction of the electromagnetic radiation produced with a specific wave length to illuminate a target on the terrain for studying its scattered radiance, is called:",
+            "answers": [
+                "passive remote sensing",
+                "active remote sensing",
+                "neutral remote sensing",
+                "None of these"
+            ]
+        },
+        {
+            "question": "The normal altitude of GPS satellite is about",
+            "answers": [
+                "16, 200 km",
+                "20, 200 km",
+                "24, 400 km",
+                "36, 100 km"
+            ]
+        },
+        {
+            "question": "Repetitive observations of the same area at equal interval of time, are useful to monitor the dynamic phenomena :",
+            "answers": [
+                "Cloud evolution",
+                "Vegetative cover",
+                "Snow cover",
+                "Forest fires",
+                "All of these"
+            ]
+        },
+        {
+            "question": "Orbital radius of GPS satellites is approximately:",
+            "answers": [
+                "15,200 km",
+                "26,600 km",
+                "18,400 km",
+                "36,000 km"
+            ]
+        },
+        {
+            "question": "Which one of the following statement is incorrect regarding the electromagnetic radiation?",
+            "answers": [
+                "These are produced by the motion of electric charge",
+                "The oscillation of charged particles sets up changing electric fields.",
+                "The changing electric fields induce the changing magnetic fields in the surrounding medium.",
+                "None of these"
+            ]
+        },
+        {
+            "question": "Consider the following statements regarding the satellite imaging :1. The satellite orbit is fixed in the inertial space2. During successive across-track imaging, the earth rotates beneath the sensor3. The satellite images a skewed area Which one of the following statements is/are correct ?",
+            "answers": [
+                "1, 2, 3",
+                "1, 3",
+                "2, 3",
+                "1, 2"
+            ]
+        },
+        {
+            "question": "Which one of the following statements is correct?",
+            "answers": [
+                "\u03c0 radians equal to 180\u00b0.",
+                "The cone subtended by an area on the sphere at the centre, is called the solid angle.",
+                "The solid angle is equal to the ratio of the area on the sphere and the square of the radius of the sphere.",
+                "The unit of the solid angle is steradian (Sr)",
+                "All of these"
+            ]
+        },
+        {
+            "question": "If flying height of a spacecraft is H, the length of air base is B and the parallax difference between two points is dp, then the difference in height",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "In GPS, receivers are used are ;",
+            "answers": [
+                "electronic clocks",
+                "atomic clocks",
+                "quartz clocks",
+                "mechanical clocks"
+            ]
+        },
+        {
+            "question": "Formation of snow occurs if the cloud temperature is",
+            "answers": [
+                "just above the freezing point",
+                "at the freezing point",
+                "below the freezing point",
+                "None of these"
+            ]
+        },
+        {
+            "question": "In case of reflection and refraction of electromagnetic radiation,",
+            "answers": [
+                "angle of incidence = angle of refraction",
+                "angle of incidence = angle of reflection",
+                "angle of refraction = sum of the angles of incidence and refraction",
+                "All the above"
+            ]
+        },
+        {
+            "question": "For interpolation of satellite data used for monitoring dynamic changes that occure on the earth surface, the most suitable orbit for the satellite is :",
+            "answers": [
+                "circular orbit",
+                "sun-synchronous orbit",
+                "near polar orbit",
+                "None of these"
+            ]
+        },
+        {
+            "question": "The altitudinal distance of a geostationary satelite from the earth is about:",
+            "answers": [
+                "26, 000 km",
+                "30, 000 km",
+                "36, 000 km",
+                "44, 000 km"
+            ]
+        },
+        {
+            "question": "Geodimeter is based on :",
+            "answers": [
+                "propogation of modulated light waves",
+                "propogation of infrared radiation",
+                "the visible light as carrier with frequency of the order of 5 x 1014Hz",
+                "high frequency radio waves."
+            ]
+        },
+        {
+            "question": "A passive sensor uses :",
+            "answers": [
+                "sun as the source of energy",
+                "flash light as a source of energy",
+                "its own source of energy",
+                "None of these"
+            ]
+        },
+        {
+            "question": "The infrared portion of EMR lies between",
+            "answers": [
+                "0.4 - 0.7 \u03bcm",
+                "0.5 mm to lm",
+                "0.7 - 1.3 \u03bcm",
+                "0.7 to 14 \u03bcm"
+            ]
+        },
+        {
+            "question": "Who coined the term, 'Remote sensing'.",
+            "answers": [
+                "Evelyn L. Pruitt, a geographer",
+                "Gaspard Felix Tournachon, a French scientist",
+                "Wilbur Wright, an Italian sciencist",
+                "None of these"
+            ]
+        },
+        {
+            "question": "For C band Synthetic Aperture Radar (SAR) with Doppler band width of 1300 Hz, the coherence length lcoh is:",
+            "answers": [
+                "130 km",
+                "230 km",
+                "250 km",
+                "500 km"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "A graphical representation of spectral reflectance versis the various growth stages of a crop, depicts a phenologic pattern",
+                "The changes in the polarisation of the radiation reflected or emitted by an object, is known as polarisation variation.",
+                "The degree of polarisation is a characteristic of the object which helps in the identification of the object.",
+                "Signatures only provide statistical nature and are not completely deterministic",
+                "All of these"
+            ]
+        },
+        {
+            "question": "The optical property of a water body depends on:",
+            "answers": [
+                "absorption by the disolved material",
+                "absorption by the suspended particulate matter",
+                "scattering by the surpended particulate matter",
+                "All of these"
+            ]
+        },
+        {
+            "question": "Crop Acreage and Production Estimation (CAPE) was funded and taken up in 1983 by:",
+            "answers": [
+                "USA",
+                "European Union",
+                "Russia",
+                "India"
+            ]
+        },
+        {
+            "question": "Electromagnetic spectrum contains :",
+            "answers": [
+                "gamma rays (wave length < 10-10 m)",
+                "ultraviolet rays (wave length < 10-6 m)",
+                "infrared rays (wave length < 10-4 m)",
+                "radio rays (wave length > 1 m)",
+                "All of these"
+            ]
+        },
+        {
+            "question": "The ratio of the total solar radiant energy returned by a planetary body to the total radiant energy incident on the body, the called:",
+            "answers": [
+                "reflectance",
+                "reflectance factor",
+                "albedo",
+                "none of these"
+            ]
+        },
+        {
+            "question": "Spatial variation in horizontal and vertical directions, is caused due to :",
+            "answers": [
+                "physical weathering of rocks",
+                "chemical weathering of rocks",
+                "biological'weathering of rocks",
+                "All of these"
+            ]
+        },
+        {
+            "question": "The code based GPS receivers are generally used for:",
+            "answers": [
+                "Vehicle tracking",
+                "Land navigation",
+                "Trans movement",
+                "All of these"
+            ]
+        },
+        {
+            "question": "Critical angle of electromagnetic radiation takes place if",
+            "answers": [
+                "angle of incidence is equal to angle of refraction",
+                "angle of incidence is greater than the angle of refraction",
+                "angle of incidence is equal to 90\u00b0",
+                "angle of refraction is equal to 90\u00b0"
+            ]
+        },
+        {
+            "question": "The GPS space segment consists of Navigation Satellite Timing and Ranging whose number is :",
+            "answers": [
+                "8",
+                "12",
+                "16",
+                "24"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "For the same feature, the photograph taken from the satellite vertically above the aircraft, the height displacement is lesser than the the aerial photograph.",
+                "The scale of the aerial photograph depends upon the scale of the topography",
+                "The feature at the principal point has no height displacement.",
+                "The scale of the topography of regions of higher elevation with the same flying height, is larger than that of the area of lower elevation.",
+                "All of the above"
+            ]
+        },
+        {
+            "question": "Which one of the following geometric errors of satellite sensors is random ?",
+            "answers": [
+                "scan skew",
+                "panoramic distortion",
+                "earth rotation",
+                "altitude variation"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "Frequency is the number of wave crests passing a fixed point in one second",
+                "Frequency of a wave is measured in Hertz (Hz)",
+                "Amplitude of a wave is the height of its crust from the mid-point.",
+                "The square of the amplitude is proportional to the energy transported by the wave.",
+                "All of these"
+            ]
+        },
+        {
+            "question": "If electric permittivity and magnetic permeability of the medium are respectively \u03b5 and \u03bc, then the velocity (Cm) of the electromagnetic wave in the medium is given by :",
+            "answers": [
+                "",
+                "",
+                "",
+                "None of these"
+            ]
+        },
+        {
+            "question": "Earth observations from a satellite platform provides :",
+            "answers": [
+                "synoptic view of a large area",
+                "constant solar zenith angles and similar illumination conditions.",
+                "repetitive observations of the same area with intervals of a few minutes to a few weeks",
+                "All of these"
+            ]
+        },
+        {
+            "question": "Due to scan geometery of a satellite sensor:",
+            "answers": [
+                "the off-nadir resolution is degraded",
+                "the ground distance swept by the senor, IFOV is proportional to sec2\u03b8, where \u03b8 is the angle of scan measured from the nadir",
+                "the details towards the edge of the scan get compressed",
+                "All of these"
+            ]
+        },
+        {
+            "question": "'A time varrying electric field produces a magnetic field.' This phenemenon is called:",
+            "answers": [
+                "Hertz's law",
+                "Ampere Maxwell's law",
+                "Faraday's law",
+                "Kirchoff s law"
+            ]
+        },
+        {
+            "question": "Which one of the following quantities forms the basis of radiometery?",
+            "answers": [
+                "Radiant energy (Q)",
+                "Radiant flux (\u03c6)",
+                "Radiant intensity (I)",
+                "Radiance (L)",
+                "All of these"
+            ]
+        },
+        {
+            "question": "The maximum sun's radiation occurs around:",
+            "answers": [
+                "0.4 \u03bcm wave length",
+                "0.55 \u03bc wave length",
+                "0.7 \u03bc wave length",
+                "None of these"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "The minimum frequency of light for which no electrons are emitted, is called threshold frequency.",
+                "Polarising angle of glass is 57\u00b0.5",
+                "At the polarising angle, the reflected and refracted rays are orthogonal",
+                "All the above"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "The refractive index of a medium varies according to the wavelength of the radiation,",
+                "The variation of the refractive index with wave length, is called dispersion,",
+                "The splitting of colours of white light by passing through a prism, is caused due to dispersion.",
+                "All the these"
+            ]
+        },
+        {
+            "question": "Which one of the following attributes is not associated with digital maps",
+            "answers": [
+                "colour",
+                "symbology",
+                "legends",
+                "south arrow"
+            ]
+        },
+        {
+            "question": "The object of photo-intepretation is:",
+            "answers": [
+                "identification",
+                "recognition of objects",
+                "judging the significance of objects",
+                "All of these"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "The first man-made satellite, Sputnikl' was launched on 4th October, 1957",
+                "The United State's Explorer 6 transmitted the first picture of the earth in August 1959",
+                "Television Infrared Observation Satellite (TIROS) designed for meteorological observations, started systematic earth observations from space from 1, April, 1960",
+                "U.S.A.'s highly secret mission CORONA started the collection of intelligence photograpy in 1960",
+                "All of these."
+            ]
+        },
+        {
+            "question": "Which one of the following statement is correct ?",
+            "answers": [
+                "Radiant energy expressed in Joules, is the energy associated with electromagnetic radiation",
+                "The rate of transfer of radiant energy is called flux and is expressed in watts.",
+                "The radiant energy which falls upon a surface, is termed as irradiance.",
+                "The radiant energy which falls away from the surface is termed as radient exitance and is measured in Wm-2",
+                "All of these"
+            ]
+        },
+        {
+            "question": "DGPS is based on the concept that bais errors in the position of locations in a given local area, are same if their distances are within",
+            "answers": [
+                "25 km",
+                "50 km",
+                "75 km",
+                "100 km",
+                "1250 km"
+            ]
+        },
+        {
+            "question": "The reflectance from a surface is called specular reflection if it follows: .",
+            "answers": [
+                "Snells's law",
+                "Lambert's cosine law",
+                "Planktan's law",
+                "All of these"
+            ]
+        },
+        {
+            "question": "The changes in the reflectivity/emis-sivity with time, is called :",
+            "answers": [
+                "spectral variation",
+                "spatial variation",
+                "temporal variation",
+                "None of these"
+            ]
+        },
+        {
+            "question": "According to the Snell's law if an electromagnetic wave is incident in a medium (refractive index n1) on an other medium (refractive index m2);",
+            "answers": [
+                "the angle of incidence is equal to the angle of refraction",
+                "the angle of refraction (\u03b8r) is given by ",
+                "Both (a) and (b)",
+                "neither (a) nor (b)"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "Phytoplankton contains photosyn-thetically active pigment.",
+                "An increase of phytoplankton increases the back scattering in the green region",
+                "An increase of phytoplankton absorbs the bule region rapidly",
+                "An increase of phytoplankon decreases the back scattering in the green region"
+            ]
+        },
+        {
+            "question": "Which one of the following factors does not affect the scale of the air photographs :",
+            "answers": [
+                "focal length",
+                "flying height",
+                "ground elevation",
+                "None of these"
+            ]
+        },
+        {
+            "question": "While propagating through homogeneous, isotropic media,",
+            "answers": [
+                "directions of both the fields are orthogonal",
+                "both the fields are at right angles to the direction of propagation.",
+                "both (a) and (b)",
+                "niether (a) nor (b)"
+            ]
+        },
+        {
+            "question": "Identification of crops is affected by:",
+            "answers": [
+                "the spectral characteristics of the sensor",
+                "the spatial characteristics of the sensor",
+                "the radio metric characteristics of the sensor",
+                "All of these"
+            ]
+        },
+        {
+            "question": "In sun light, water rich in phytoplanktons appears :",
+            "answers": [
+                "red",
+                "green",
+                "brown",
+                "blue"
+            ]
+        },
+        {
+            "question": "The semi-infinite snow albedo is proportional to the square root of the grain radius :",
+            "answers": [
+                "in the 0.2 to 0.4 \u03bcm wave length region",
+                "in the 0.4 to 0.8 \u03bcm wave length region",
+                "in the 0.8 to 1.2 \u03bcm wave length",
+                "None of these"
+            ]
+        },
+        {
+            "question": "Depending upon the nature of the targeted object and the wave length of the electromagnetic radiation incident on it, the radiation gets :",
+            "answers": [
+                "reflected",
+                "absorbed",
+                "re-radiated",
+                "transmitted through",
+                "All of these"
+            ]
+        },
+        {
+            "question": "Which one of the following statements is correct ?",
+            "answers": [
+                "Each satellite of the GPS system transmits two L band signals.",
+                "The two L band signals are modulated by the Pseudorandom binary codes (PN).",
+                "The GPS receiver reads the specific code of the satellite.",
+                "The PN code determines the time taken by the receiver to reach the receiver which is converted into distance",
+                "All of these"
+            ]
+        },
+        {
+            "question": "\"All bodies at temperatures above absolute zero degree emit electromagnetic radiation at different wave length\", is known as:",
+            "answers": [
+                "Plank's law",
+                "Planktan's law",
+                "Lambert's cosine law",
+                "None of these"
+            ]
+        },
+        {
+            "question": "Assuming n as the frequency of radiation, n0 as the threshold frequency and k as a constant, the energy of the photo-electrons (E) is related as",
+            "answers": [
+                "E = k (n - n0)",
+                "E = k (n + n0)",
+                "E = k (n x n0)",
+                ""
+            ]
+        },
+        {
+            "question": "In which part of the reflective optical infrared region, the effect of multiple leaves in vegetation canopy is maximum ?",
+            "answers": [
+                "The near-IR (0.7 - 1.3 \u03bcm) region",
+                "The visible (0.4 - 0.7 \u03bcm) region",
+                "The short wave IR (1.3 - 2.7 \u03bcm) region",
+                "In all the above region"
+            ]
+        },
+        {
+            "question": "Which one of the following statements is correct ?",
+            "answers": [
+                "The ratio of the permitivity of a medium and the free space, is called relative permitivity.",
+                "Dielectric constant is a pure number and has no dimensions.",
+                "The dielectric constant of pure water is 80.",
+                "Higher the dielectric constant of a medium, the poorer is its electric conductivity.",
+                "All of these"
+            ]
+        },
+        {
+            "question": "The energy transported by the electromagnetic wave is proportional to :",
+            "answers": [
+                "the altitude of the wave",
+                "the square of the altitude of the wave",
+                "the cube of the altitude of the wave",
+                "the square roof of the amplitude"
+            ]
+        },
+        {
+            "question": "Which one of the following is incorrect statement? While passing through the atmosphere, the solar radiation,",
+            "answers": [
+                "remains unaffected",
+                "gets scattered",
+                "gets absorbed partially",
+                "None of these"
+            ]
+        },
+        {
+            "question": "The leaf area index (LAI) is :",
+            "answers": [
+                "one sided leaf area per unit area of the ground",
+                "two sided leaf area per -unit area of the ground",
+                "the average of the two sided area per unit area of the ground",
+                "None of these"
+            ]
+        },
+        {
+            "question": "In sun-light water poor in phyto plank tons appears :",
+            "answers": [
+                "deep blue",
+                "red",
+                "green",
+                "yellow"
+            ]
+        },
+        {
+            "question": "A remote sensor photographic camera :",
+            "answers": [
+                "responses spectrum up to about 0.9 \u03bc",
+                "does not cover short wave IR region",
+                "does not cover thermal IR region",
+                "All the above"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from to following:",
+            "answers": [
+                "For complete temporal coherence, the waves must be mono chromatic.",
+                "For spatial coherence, the phase difference between two points in space is constant with time.",
+                "Superposition of the coherent waves produce interference",
+                "With 0 phase difference, the constructive interference takes place.",
+                "All of these"
+            ]
+        },
+        {
+            "question": "Which one of the following statements is not correct?",
+            "answers": [
+                "GIS technology is the same as traditional mapping",
+                "GIS technology is a tool box for processing maps and fundamental concepts for spatial measurement",
+                "GIS technology contains analytic capabilities for overlaying maps",
+                "GIS technology is capable to study the environmental surrondings"
+            ]
+        },
+        {
+            "question": "With the increase of turbidity, the muddy water appears brown due to the shift of the upward radiance peak towards :",
+            "answers": [
+                "red",
+                "green",
+                "yellow",
+                "blue"
+            ]
+        },
+        {
+            "question": "Remote sensing techniques are being usefully employed for the purpose of:",
+            "answers": [
+                "improving natural resource management",
+                "land use",
+                "protection of the environment",
+                "All of these"
+            ]
+        },
+        {
+            "question": "Which one of the following can travel through empty space :",
+            "answers": [
+                "sound waves",
+                "water waves",
+                "electromagnetic waves",
+                "spring waves"
+            ]
+        },
+        {
+            "question": "The main functional blocks of a mul-tispectral scanner (MSS) are given below :1. Video processor2. Dispersive system3. Detector4. Signal conditioner5. Collecting opticsWhich one of the following sequences is correct?",
+            "answers": [
+                "1, 4, 5, 3, 2",
+                "5, 3, 2, 4, 1",
+                "5, 2, 3, 1, 4",
+                "1, 3, 2, 4, 5"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "Photography was developed in 1826",
+                "Balloons were used as stable platform for aerial photography in 1903",
+                "The first aerial photography from an aerocraft was made by Willeur Wright in 1909 in Italy.",
+                "All of these"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "Electromagnetic wave is composed of electric and magnetic fields",
+                "Electric and magnetic fields of electromagnetic wave remain mutually orthogonal and transverse to the direction of propagation.",
+                "If the electromagnetic wave moves in the z-direction, its electric vector remains in the XY plane along any direction.",
+                "Polirization defines the orientation of the fields",
+                "All of these"
+            ]
+        },
+        {
+            "question": "The information system is the chain of the following operations, 1. Collection of data2. Planning the observations3. Analysis of data4. Decision making process Which one of the chains is correct ?",
+            "answers": [
+                "4, 1, 2, 3",
+                "2, 1, 3, 4",
+                "3, 2, 1, 4",
+                "1, 3, 4, 2"
+            ]
+        },
+        {
+            "question": "Polarising angle (i) and refractive index (\u03bc) of the reflecting surface are related by:",
+            "answers": [
+                "sin i = \u03bc",
+                "cos i = \u03bc",
+                "tan i = \u03bc",
+                ""
+            ]
+        },
+        {
+            "question": "Pick up the incorrect statement regarding the optical infrared region of the electromagnetic spectrum from the following :",
+            "answers": [
+                "visible region, 0.4 \u03bcm - 0.7 \u03bcm",
+                "short wave infrared region, 0.7 \u03bc m - 1.5 \u03bcm",
+                "near infrared region, 1.5 \u03bc m - 3.0 \u03bcm",
+                "microwave infrared region, 3.0 \u03bc m - 8.0 \u03bcm"
+            ]
+        },
+        {
+            "question": "Phytoplanktons :",
+            "answers": [
+                "are microscopic plants",
+                "are the first link in all the aquatic and marine food chains",
+                "convert solar energy, dissolved carbon and nitrogen into organic biomass",
+                "All of these"
+            ]
+        },
+        {
+            "question": "The maximum absorption of solar radiation due to ozone occurs at wave lengths:",
+            "answers": [
+                "shorter than 0.3 \u03bcm",
+                "shorter than 0.2 \u03bcm",
+                "greater than 0.3 \u03bcm",
+                "None of these"
+            ]
+        },
+        {
+            "question": "Which one of the following statements is correct to remote sensing?",
+            "answers": [
+                "The basic property used to identify objects, is called signature.",
+                "The ratio of the reflected flux to incident flux is called reflectance which varies fron 0 to 1",
+                "The surface from which emergent radiance is constant in all directions is called Lambertian surface.",
+                "All of these."
+            ]
+        },
+        {
+            "question": "Which one of the following frequencies is a GPS ?",
+            "answers": [
+                "L1 with frequency 1520 MHz",
+                "L1 with frequency 1575.42 MHz",
+                "L1 with frequency 1227.6 MHz",
+                "L1 with frequency 1280.43 Hz"
+            ]
+        },
+        {
+            "question": "Snow cover on the earth surface :",
+            "answers": [
+                "gives the highest reflectance in the visible spectrum",
+                "shows marked variation in its reflectance characteristics",
+                "Shows side variation in the grain size",
+                "All the above"
+            ]
+        },
+        {
+            "question": "The emission of electrons from a metal plate exposed to light depends on the :",
+            "answers": [
+                "intensity of the light",
+                "frequency of light",
+                "both (a) and (b)",
+                "neither (a) nor (b)"
+            ]
+        },
+        {
+            "question": "The range measurements in GPS are made with :",
+            "answers": [
+                "3 L - band frequencies",
+                "2 L - band frequencies",
+                "2 C - band frequencies",
+                "3 C - band frequencies"
+            ]
+        },
+        {
+            "question": "'A time varying magnetic field produces an electric field'. This phenomenon is known as",
+            "answers": [
+                "Newton's law",
+                "Kirchofflaw",
+                "Ampere Maxwell law",
+                "Faraday's law"
+            ]
+        },
+        {
+            "question": "For obtaining accurate distance of the satellite",
+            "answers": [
+                "the GPS receiver slides its codes backwards until it synchronises with the satellite signals",
+                "the signal arrival time is corrected for tropospheric and ionospheric delays",
+                "the carrier phase measurement technique is adopted",
+                "All of these"
+            ]
+        },
+        {
+            "question": "GPS has been widely recognized as accurate, fast and cost-effective method for the following:",
+            "answers": [
+                "Collection of the geographic coordinate data used in GIS",
+                "for movement of navigation",
+                "For determination of precise orbit and altitude of low earth orbiting satellites",
+                "All of these"
+            ]
+        },
+        {
+            "question": "Electromagnetic waves are characterised by :",
+            "answers": [
+                "frequency",
+                "wave length",
+                "intensity",
+                "direction of travel and plane of polarisation.",
+                "All of these"
+            ]
+        },
+        {
+            "question": "The solid angle subtended by the sphere is :",
+            "answers": [
+                "2\u03c0",
+                "3\u03c0",
+                "4\u03c0",
+                "6\u03c0"
+            ]
+        },
+        {
+            "question": "For accurate position fix, the three satellites:",
+            "answers": [
+                "must be along a common arc",
+                "must be in vertical line above the receiver",
+                "must be widely separated and well distributed",
+                "must be such that one satellite is overhead of the receiver and other two widely separated"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "Water molecules and salt-ions in the ocean scatter the lower wave length more",
+                "An increase in the back scattering coefficient with shorter wave length gives a deep blue colour for clear oceanic water",
+                "The ratio of the upwelling irradiance just below the surface and downwelling irradiance just above the surface is called reflectance ratio.",
+                "All of these"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "The wave length of gamma rays is 10-10 m",
+                "The wave length of radio rays is 106 m",
+                "The visible length occupies a small portion of the electromagntic spectrum extending roughly from 0.4 \u03bc m to 0.7\u03bcm wave length.",
+                "All of these"
+            ]
+        },
+        {
+            "question": "The various stages of formation of snow are listed below :1. Formation of ice crystals2. Formation of snow pallets3. Formation of snow flakes4. Formationof snow crystals5. Formation of rimed crystalsWhich one of the following sequences is correct ?",
+            "answers": [
+                "3 2 5 1 4",
+                "5 3 1 2 4",
+                "1 4 3 5 2",
+                "1 3 4 2 5"
+            ]
+        },
+        {
+            "question": "Snow consists of",
+            "answers": [
+                "snow crystals",
+                "rimed snow crystals",
+                "snow flakes",
+                "All of these"
+            ]
+        },
+        {
+            "question": "For perfect coherent radiation, which one of the following statement is correct?",
+            "answers": [
+                "Both the waves must have single frequencies",
+                "The directions of motion of both waves are parallel.",
+                "The waves must be collimated",
+                "All of these"
+            ]
+        },
+        {
+            "question": "Fresh and pure snow reflectance",
+            "answers": [
+                "is very high in visible region",
+                "falls off steeply in the near-IR region",
+                "remains low for longer wave lengths",
+                "All of these"
+            ]
+        },
+        {
+            "question": "Snow albedo is affected by :",
+            "answers": [
+                "wave length",
+                "grain size",
+                "solar zenith angle",
+                "snow pack thickness",
+                "All of these"
+            ]
+        }
+    ]
+}

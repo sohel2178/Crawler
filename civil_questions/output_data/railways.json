@@ -1,0 +1,1679 @@
+{
+    "questions": [
+        {
+            "question": "Mr. W. Simms, the consulting Engineer to the Government of India recommended the gauge for Indian railways",
+            "answers": [
+                "1.435 m as adopted in England",
+                "1.800 m as per Indian conditions",
+                "1.676 m as a compromise gauge",
+                "1.000 m as a standard gauge"
+            ]
+        },
+        {
+            "question": "If absolute levels of rails at the consecutive axles A, B, and C separated by 1.8 metres are 100.505 m, 100.530 m, and 100.525 m respectively, the unevenness of rails, is",
+            "answers": [
+                "0.065 m",
+                "0.055 m",
+                "0.045 m",
+                "0.035 m"
+            ]
+        },
+        {
+            "question": "A CST-9 sleeper consists of",
+            "answers": [
+                "two inverted triangular pots on either side of rail seat",
+                "a central plate with a projected key and box on the top of plate",
+                "a tie bar and 4 cotters to connect two cast iron plates",
+                "a single two way key provided on the gauge side to hold the rail to sleeper",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Charles Vignoles invented the flat footed rails in",
+            "answers": [
+                "1814",
+                "1836",
+                "1846",
+                "1856",
+                "1873"
+            ]
+        },
+        {
+            "question": "To design a cross-over between parallel tracks, the required components are :",
+            "answers": [
+                "two switch, points, two acute angle crossings and two check rails",
+                "two switch points, two acute angle crossings and four check rails",
+                "two switch points, two acute angle crossings and six check rails",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The first Indian railway was laid in",
+            "answers": [
+                "1775",
+                "1804",
+                "1825",
+                "1853",
+                "1876"
+            ]
+        },
+        {
+            "question": "The weight of the rails depends upon",
+            "answers": [
+                "gauge of the tracks",
+                "speed of trains",
+                "spacing of sleepers",
+                "nature of traffic",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following :",
+            "answers": [
+                "Rails are directly laid over hard wooden sleepers and fixed with spikes",
+                "Adzing is done on hard wooden sleepers",
+                "Bearing plates are used on soft wooden sleepers",
+                "Chairs are used for bull headed rails",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Pick up the incorrect statement from the following:",
+            "answers": [
+                "Fish plates fit the underside of the rail head",
+                "Fish plates fit the top of the rail foot",
+                "Fish plates fit the web of the rail section",
+                "Cross sectional area of fish plates, is normally the same as that of the rail section."
+            ]
+        },
+        {
+            "question": "Minimum depth of ballast prescribed of B.G. trunk lines of Indian Railways, is",
+            "answers": [
+                "20 cm",
+                "15 cm",
+                "25 cm",
+                "30 cm",
+                "35 cm"
+            ]
+        },
+        {
+            "question": "Boxing of ballast is done",
+            "answers": [
+                "under rails",
+                "at the rails",
+                "in between two rails",
+                "in between two sleepers."
+            ]
+        },
+        {
+            "question": "Best ballast contains stones varying in size from",
+            "answers": [
+                "1.5 cm to 3 cm",
+                "2.0 cm to 4 cm",
+                "2.0 cm to 5 cm",
+                "2.5 cm to 6 cm"
+            ]
+        },
+        {
+            "question": "For holding a rail in position, no chairs are used for",
+            "answers": [
+                "flat footed rails",
+                "bull headed rails",
+                "double headed rails",
+                "both (a) and (b)"
+            ]
+        },
+        {
+            "question": "Distance between the inner rail and check rail provided on sharp curve, is",
+            "answers": [
+                "40 mm",
+                "42 mm",
+                "44 mm",
+                "46 mm",
+                "50 mm"
+            ]
+        },
+        {
+            "question": "Coal ash (or cinder) is used in initial stages of a new construction of railway for",
+            "answers": [
+                "wooden sleepers",
+                "steel sleepers",
+                "cast iron sleepers",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Pot sleepers are in the form of",
+            "answers": [
+                "a number of bowls connected together with a tie bar",
+                "two bowls placed under each rail and connected together with a tie bar",
+                "two bowls placed under two rails and the one between the rails",
+                "none of these."
+            ]
+        },
+        {
+            "question": "In railways a triangle is mainly provided for",
+            "answers": [
+                "diverting trains from the main line to branch line",
+                "crossing over between parallel tracks",
+                "changing direction of engines through 180\u00b0",
+                "shunting wagons in yards."
+            ]
+        },
+        {
+            "question": "A kink is made in stock rails, ahead of the toe of switch at a distance of",
+            "answers": [
+                "10 cm",
+                "15 cm",
+                "20 cm",
+                "30 cm"
+            ]
+        },
+        {
+            "question": "If L is length of a rail and R is the radius of a curve, the versine h for the curve, is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Rails are bent to correct curvature if the degree of curve, is more than",
+            "answers": [
+                "1\u00b0",
+                "2\u00b0",
+                "3\u00b0",
+                "4\u00b0",
+                "6\u00b0"
+            ]
+        },
+        {
+            "question": "In India the rails are manufactured by",
+            "answers": [
+                "open hearth process",
+                "duplex process",
+                "both (a) and (b)",
+                "neither (a) nor (b)"
+            ]
+        },
+        {
+            "question": "Rail section first designed on Indian railways, was",
+            "answers": [
+                "double headed",
+                "bull headed",
+                "flat footed",
+                "(a) and (b) simultaneously"
+            ]
+        },
+        {
+            "question": "A scissors cross-over consists of",
+            "answers": [
+                "two pairs of points, four acute angle crossings and two obtuse angle crossings",
+                "four pairs of points, four acute angle crossings and four obtuse angle crossings",
+                "four pairs of points, six acute angle crossings and two obtuse angle crossings",
+                "two pairs of points, six acute angle crossings and four obtuse angle crossings."
+            ]
+        },
+        {
+            "question": "To prevent percolation of water into formation, moorum is used as a blanket for",
+            "answers": [
+                "black cotton soil",
+                "sandy soil",
+                "clayey soil",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Distance between inner faces of the flanges, is kept",
+            "answers": [
+                "equal to the gauge distance",
+                "slightly less than the gauge distance",
+                "slightly more than the gauge distance",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Wooden sleepers used on the girders of bridges, are generally made of",
+            "answers": [
+                "sal",
+                "chir",
+                "teak",
+                "deodar."
+            ]
+        },
+        {
+            "question": "If L1 and L2 are actual and theoretical lengths of a tongue rail, d is heel divergence and t is thickness of tongue rail at toe, the switch angle \u03b1 is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "If D is distance between centres of two parallel track of gauge G, then, total length of cross-over (from the point of commencement to the point of termination) with an intermediate straight portion and N crossing, is given by",
+            "answers": [
+                "DN + G (N + 1 + N2)",
+                "DN + G (2N + 1 + N2)",
+                "DN + G (3N + 1 + N2)",
+                "DN + G (4N + l +N2)"
+            ]
+        },
+        {
+            "question": "If a 0.7% upgrade meets a 0.65% downgrade at a summit and the permissible rate of change of grade per chain length is 0.10%, the length of the vertical curve, is",
+            "answers": [
+                "10 chains",
+                "12 chains",
+                "14 chains",
+                "16 chains"
+            ]
+        },
+        {
+            "question": "Overall depth of a dog spike, is",
+            "answers": [
+                "120.6 mm",
+                "155.90 mm",
+                "135 mm",
+                "150 mm",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Best wood for wooden sleepers is",
+            "answers": [
+                "chir",
+                "deodar",
+                "sal",
+                "teak",
+                "shesham."
+            ]
+        },
+        {
+            "question": "The rail section which is not used on Indian metre gauge tracks, is",
+            "answers": [
+                "25 R",
+                "30 R",
+                "35 R",
+                "40 R"
+            ]
+        },
+        {
+            "question": "Dimensions of a plate girder, are :",
+            "answers": [
+                "851 mm x 851 mm",
+                "255 mm x 254 mm",
+                "851 mm x 254 mm",
+                "551 mm x 254 mm"
+            ]
+        },
+        {
+            "question": "Rail joint supported on a single sleeper, is known",
+            "answers": [
+                "suspended rail joint",
+                "bridge rail joint",
+                "supported rail joint",
+                "square rail joint."
+            ]
+        },
+        {
+            "question": "Maximum wheel base distance provided on Indian B.G. tracks, is",
+            "answers": [
+                "4.096 m",
+                "5.096 m",
+                "6.096 m",
+                "7.096 m",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The tread of wheels is provided an outward slope of",
+            "answers": [
+                "1 in 10",
+                "1 in 15",
+                "1 in 20",
+                "1 in 25",
+                "1 in 30"
+            ]
+        },
+        {
+            "question": "On a straight railway track, absolute levels at point A on two rails are 100.550 m and 100.530 m and the absolute levels at point B 100 m apart are 100.585 m and 100.515 m respectively, the value of twist of rails per metre run, is",
+            "answers": [
+                "0.4 mm",
+                "0.5 mm",
+                "0.7 mm",
+                "0.8 mm",
+                "1.0 mm"
+            ]
+        },
+        {
+            "question": "Bearing plates are used to fix",
+            "answers": [
+                "flat footed rails to the wooden sleepers",
+                "double headed rails to the wooden sleepers",
+                "bull headed rails to the wooden sleepers",
+                "flat footed rails to the cast iron sleepers",
+                "none of these."
+            ]
+        },
+        {
+            "question": "A welded rail joint is generally",
+            "answers": [
+                "supported on a sleeper",
+                "supported on a metal plate",
+                "suspended",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Safe speed (V) on a curve of radius 970 metres provided with two transition curves on Board Gauge track, is",
+            "answers": [
+                "112 km/hour",
+                "122 km/hour",
+                "132 km/hour",
+                "142 km/hour"
+            ]
+        },
+        {
+            "question": "Pick up the incorrect statement from the following:",
+            "answers": [
+                "Sleepers hold the rails at proper gauge on straights",
+                "Sleepers provide stability to the permanent way",
+                "Sleepers act as an elastic cushion between rails and ballast",
+                "Sleepers transfer load of moving trains to ballast",
+                "None of the these."
+            ]
+        },
+        {
+            "question": "If \u03b1 is switch angle and R is radius of the turnout, the length of the tongue rail, is",
+            "answers": [
+                "R sin \u03b1",
+                "R tan \u03b1",
+                "R sin \u03b1/2",
+                "R tan \u03b1/2",
+                "R cos \u03b1/2"
+            ]
+        },
+        {
+            "question": "The quantity of stone ballast required per metre tangent length, is",
+            "answers": [
+                "1.15 m3",
+                "1.14 m3",
+                "1.13 m3",
+                "1.12 m3",
+                "1.11 m3"
+            ]
+        },
+        {
+            "question": "The type of switch generally used for B.G. and M.G. tracks, is",
+            "answers": [
+                "articulated",
+                "undercut",
+                "over riding",
+                "straight cut."
+            ]
+        },
+        {
+            "question": "The difference in the lengths of two diagonals of a rail diamond is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "For flat bottom sleepers, maximum size of ballast, is",
+            "answers": [
+                "50 mm",
+                "40 mm",
+                "33 mm",
+                "25 mm",
+                "20 mm"
+            ]
+        },
+        {
+            "question": "Coning of wheels",
+            "answers": [
+                "prevent lateral movement of wheels",
+                "provide smooth running of trains",
+                "avoid excessive wear of inner faces of rail",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The sleepers which satisfy the requirements of an ideal sleeper, are",
+            "answers": [
+                "cast iron sleepers",
+                "R.C.C. sleepers",
+                "steel sleepers",
+                "wooden sleepers."
+            ]
+        },
+        {
+            "question": "Arrangement made to divert the trains from one track to another, is known as",
+            "answers": [
+                "railway point",
+                "railway crossing",
+                "turnout",
+                "railway junction",
+                "none of these."
+            ]
+        },
+        {
+            "question": "At a rail joint, the ends of adjoining rails, are connected with a pair of fish plates and",
+            "answers": [
+                "2 fish bolts",
+                "4 fish bolts",
+                "6 fish bolts",
+                "8 fish bolts"
+            ]
+        },
+        {
+            "question": "Width of the top portion of a flat footed, rail, is",
+            "answers": [
+                "69.85 mm",
+                "63.50 mm",
+                "66.77 mm",
+                "136.52 mm",
+                "none of these."
+            ]
+        },
+        {
+            "question": "For providing the required tilt of rails, adazing of wooden sleepers, is done for",
+            "answers": [
+                "bull headed rails",
+                "double headed rails",
+                "flat footed rails",
+                "any type of rails",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The life of a wooden sleeper depends upon",
+            "answers": [
+                "quality of its timber",
+                "ability to resist decay",
+                "resistance to weathering",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The spread between the point and splice rails at a distance of 4.25 rn is 50 cm. The size of the crossing is",
+            "answers": [
+                "1 in 6",
+                "1 in",
+                "1 in 12",
+                "1 in 16"
+            ]
+        },
+        {
+            "question": "Minimum packing space provided between two sleepers, is between",
+            "answers": [
+                "20 to 25 cm",
+                "25 to 30 cm",
+                "30 to 35 cm",
+                "35 to 40 cm"
+            ]
+        },
+        {
+            "question": "The overall length of a turn out is the distance between the end of stock rail and",
+            "answers": [
+                "heel of crossing",
+                "actual nose of crossing",
+                "throat of crossing",
+                "toe of crossing."
+            ]
+        },
+        {
+            "question": "According to Railway Board, no diamond crossing should be flatter than",
+            "answers": [
+                "1 in 6",
+                "1 in ",
+                "1 in 12",
+                "1 in 16"
+            ]
+        },
+        {
+            "question": "Coning of wheels is provided",
+            "answers": [
+                "to check lateral movement of wheels",
+                "to avoid damage to inner faces of rails",
+                "to avoid discomfort to passengers",
+                "All the above."
+            ]
+        },
+        {
+            "question": "A scissors cross over consists of one diamond and",
+            "answers": [
+                "one turn out",
+                "two turn outs",
+                "three turn outs",
+                "four turn outs",
+                "no turn out."
+            ]
+        },
+        {
+            "question": "Pick up the incorrect statement from the following:",
+            "answers": [
+                "Sleepers transfer the load of moving locomotive to the girders of the bridges",
+                "Sleepers act as a non-elastic medium between the rails and ballast",
+                "Sleepers hold the rails at 1 in 20 tilt inward",
+                "Sleepers hold the rails loose on curve."
+            ]
+        },
+        {
+            "question": "Heel divergency, the distance between the running faces of stock rail and gauge face of tongue rail, as recommended for Indian B.G. tracks, is",
+            "answers": [
+                "100 mm",
+                "119 mm",
+                "125 mm",
+                "155 mm",
+                "135 mm"
+            ]
+        },
+        {
+            "question": "Type of switch rails generally adopted for modern track, is",
+            "answers": [
+                "straight switch",
+                "curved switch",
+                "loose heel switch",
+                "bent switch."
+            ]
+        },
+        {
+            "question": "If sleeper density is M + 7 for 13 m rails, the minimum depth of ballast under wooden sleepers (25 cm x 13 cm), is",
+            "answers": [
+                "15 cm",
+                "20 cm",
+                "25 cm",
+                "30 cm",
+                "36 cm"
+            ]
+        },
+        {
+            "question": "By interchanging gibs and cotters of a pot sleeper, gauge may be slackened by",
+            "answers": [
+                "1.2 mm",
+                "2.2 mm",
+                "3.2 mm",
+                "4.2 mm",
+                "5.0 mm"
+            ]
+        },
+        {
+            "question": "Composite sleeper index determines",
+            "answers": [
+                "number of sleepers per rail length",
+                "suitability of wooden sleepers",
+                "permissible stresses in steel sleepers",
+                "none of these"
+            ]
+        },
+        {
+            "question": "If S is cant deficiency in centimetres and V is maximum permissible speed in km p.h,, the maximum length of transition curves, is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Indian Railways detects the rail flow by",
+            "answers": [
+                "Mitsubish Rail flow dector",
+                "Soni Rail flow dector",
+                "Audi-gauge Rail flow detector",
+                "Kraut Kramer Rail flow detector."
+            ]
+        },
+        {
+            "question": "The rail section which is not used on Indian Broad Gauge tracks, is",
+            "answers": [
+                "35 R",
+                "40 R",
+                "45 R",
+                "55 R"
+            ]
+        },
+        {
+            "question": "Ballast packed below and around the sleepers to transfer the load from sleepers to formation, generally consists of",
+            "answers": [
+                "broken stones",
+                "gravels",
+                "moorum",
+                "all the above."
+            ]
+        },
+        {
+            "question": "A wing rail is renewed or reconditioned if its maximum vertical wear is",
+            "answers": [
+                "9.5 m",
+                "7.5 m",
+                "5.5 m",
+                "5.0 m"
+            ]
+        },
+        {
+            "question": "The place where a railway line and a road cross each other at the same level, is known as",
+            "answers": [
+                "cross over",
+                "railway junction",
+                "road junction",
+                "level crossing",
+                "none of these."
+            ]
+        },
+        {
+            "question": "On Indian Railways standard length of rails for B.G. track, is",
+            "answers": [
+                "33 ft (10.06 m)",
+                "36 ft (10.97 m)",
+                "39 ft (11.89 m)",
+                "42 ft (12.8 m)"
+            ]
+        },
+        {
+            "question": "Heel of crossing is the line joining",
+            "answers": [
+                "ends of splice rail and point rail",
+                "ends of lead rails butting the crossing",
+                "ends of wing rails",
+                "throat and actual nose of crossing."
+            ]
+        },
+        {
+            "question": "A mono-block sleeper has",
+            "answers": [
+                "square section",
+                "rectangular section",
+                "trapezoidal section",
+                "semi-circular section",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Minimum length of a transition curve required for",
+            "answers": [
+                "2\u00b0 curves for a maximum permissible speed of 135 km/hr, is 220 metres",
+                "4\u00b0 curves for a maximum permissible speed of 95 km/hr, is 220 metres",
+                "6\u00b0 curves for a maximum permissible speed of 80 km/hr, is 220 metres",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The distance between the theoretical noses of crossing along the same rail, in case of diamond crossing, is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "A triangle used for turning the face of locomotives, consists of",
+            "answers": [
+                "three turn outs",
+                "one turn out and two splits",
+                "two turn outs and one split",
+                "three splits."
+            ]
+        },
+        {
+            "question": "Monnier, the inventor of R.C.C., suggested the introduction of reinforced cement concert sleepers for the railways in",
+            "answers": [
+                "1857",
+                "1867",
+                "1877",
+                "1887",
+                "1897"
+            ]
+        },
+        {
+            "question": "If D is the distance between the parallel sidings and \u03b1 is the angle of crossing, the distance between the noses of crossing measured parallel to the gathering line, is",
+            "answers": [
+                "D tan \u03b1",
+                "D cot \u03b1",
+                "D sin \u03b1",
+                "D cos \u03b1"
+            ]
+        },
+        {
+            "question": "Regional Indian railways use different types of sleepers according to their",
+            "answers": [
+                "availability",
+                "economy",
+                "suitability",
+                "design",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Minimum composite sleeper index for wooden sleepers used in cross-overs, is",
+            "answers": [
+                "1152",
+                "1252",
+                "1352",
+                "1452",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The spike commonly used to fix rails to wooden sleepers in Indian railways, is",
+            "answers": [
+                "dog spike",
+                "screw spike",
+                "round spike",
+                "all the above."
+            ]
+        },
+        {
+            "question": "If S and H are strength and hardness index of a timber at 12% moisture content, the composite sleeper index, is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "In Indian railways, plate laying is usually done by",
+            "answers": [
+                "side method",
+                "telescopic method",
+                "American method",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Stock rails are",
+            "answers": [
+                "parts of crossing",
+                "fitted against check rails",
+                "fitted against tongue rails",
+                "laid between heel of switch and nose of crossing."
+            ]
+        },
+        {
+            "question": "The grade compensation on B.G. tracks on Indian Railways, is",
+            "answers": [
+                "0.02%",
+                "0.03%",
+                "0.04%",
+                "0.05%",
+                "0.06%"
+            ]
+        },
+        {
+            "question": "Maximum cant deficiency prescribed on Indian Board Gauge Railways, is",
+            "answers": [
+                "40 mm",
+                "50 mm",
+                "75 mm",
+                "100 mm",
+                "25 mm"
+            ]
+        },
+        {
+            "question": "Gauge of a permanent way, is",
+            "answers": [
+                "minimum distance between running faces of rails",
+                "minimum distance between outer faces of rails",
+                "distance between centres of rails",
+                "width of formation",
+                "none of these."
+            ]
+        },
+        {
+            "question": "On Indian Railways standard length of rails for M.G. track, is",
+            "answers": [
+                "33 ft (10.06 m)",
+                "36 ft (10.97 m)",
+                "39 ft (11.89 m)",
+                "42 ft (12.8 m)"
+            ]
+        },
+        {
+            "question": "For calculating the length of curve lead (C.L.), the correct formula is",
+            "answers": [
+                "C.L. = G. cot \u03b1/2",
+                "C.L. = 2IG",
+                "C.L. = 2 GN",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The standard dimensions of a wooden sleeper for M.G. railway track are",
+            "answers": [
+                "2.74 m x 25 cm x 13 cm",
+                "1.83 m x 20 cm x 11 cm",
+                "1.52 m x 15 cm x 10 cm",
+                "1.75 m x 20 cm x 12 cm",
+                "none of these."
+            ]
+        },
+        {
+            "question": "If G is gauge is metres, V is speed of trains in km/hour and R is radius of a curve in metres, the equilibrium superelevation is",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The standard width of ballast for B.G.track in Indian Railways, is kept",
+            "answers": [
+                "3.35 m",
+                "3.53 m",
+                "2.35 m",
+                "2.53 m",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The angle between the gauge faces of the stock rail and tongue rail, is called",
+            "answers": [
+                "switch angle",
+                "angle of crossing",
+                "angle of turnout",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Top surface of steel sleepers, is",
+            "answers": [
+                "kept level throughout",
+                "provided a cant of 1 in 20 inward",
+                "provided a cant of 1 in 20 outward",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Wheels of a rolling stock are provided flanges on",
+            "answers": [
+                "outer side",
+                "inner side",
+                "both sides",
+                "neither side."
+            ]
+        },
+        {
+            "question": "The arrangement of rails which permit trains to cross another track and also to divert to the other track, is called",
+            "answers": [
+                "diamond crossing",
+                "diamond crossing with single slip",
+                "diamond crossing with double slip",
+                "cross over."
+            ]
+        },
+        {
+            "question": "To achieve best performance, the type of switch preferred to, is",
+            "answers": [
+                "undercut switch",
+                "straight-cut switch",
+                "overriding switch",
+                "both (a) and (b)",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Degree of a railway curve is defined as number of degrees subtended at the centre of a curve by an arc of",
+            "answers": [
+                "10 m",
+                "15 m",
+                "20 m",
+                "30.5 m",
+                "30 m"
+            ]
+        },
+        {
+            "question": "Pot sleepers are used if degree of the curve does not exceed",
+            "answers": [
+                "4\u00b0",
+                "5\u00b0",
+                "6\u00b0",
+                "7\u00b0",
+                "8\u00b0"
+            ]
+        },
+        {
+            "question": "For even distribution of load through ballast, load dispersal is assumed as",
+            "answers": [
+                "30\u00b0 to the vertical",
+                "45\u00b0 to the vertical",
+                "60\u00b0 to the vertical",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The side of a rail diamond may be obtained by dividing the gauge of track by",
+            "answers": [
+                "sine of acute crossing",
+                "consine of acute crossing",
+                "tangent of acute crossing",
+                "cotangent of acute crossing."
+            ]
+        },
+        {
+            "question": "The main advantage of a cement concrete sleeper, is :",
+            "answers": [
+                "its heavy weight which improves the track modulus",
+                "its capacity to maintain gauge",
+                "its suitability for track circuiting",
+                "its flat bottom which is very suitable for modern track",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Rail tops of a track are placed",
+            "answers": [
+                "horizontal",
+                "at an inward slope of 1 in 20",
+                "at an outward slope of 1 in 20",
+                "at an outward slope of 1 in 30",
+                "at an inward slope of 1 in 30"
+            ]
+        },
+        {
+            "question": "The gradient on which an additonal engine is required to negotiate the gradient, is called",
+            "answers": [
+                "momentum gradient",
+                "pusher gradient",
+                "ruling gradient",
+                "steep gradient."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "The line which connects a number of parallel tracks, and also provides an access to main track, is called a gathering line",
+                "With a diagonal gathering line, the length of the siding decreases with increase of its distance from main track",
+                "To have sidings of same length, a diagonal line is laid at one end and a parallel gathering line at the other end",
+                "For most economical layout of yards, the gathering lines are laid at the limiting angle",
+                "All the above."
+            ]
+        },
+        {
+            "question": "If D is the distance between the parallel sidings and \u03b2 is the limiting angle of crossings, the distance between the noses of crossing measured parallel to the main track, is",
+            "answers": [
+                "D sin \u03b2",
+                "D cot \u03b2",
+                "D tan \u03b2",
+                "D sec \u03b2"
+            ]
+        },
+        {
+            "question": "To avoid the damage of nose of crossing, the wing rails are ramped so that nose of crossing remains at a lower level by",
+            "answers": [
+                "3 mm",
+                "4 mm",
+                "5 mm",
+                "6 mm."
+            ]
+        },
+        {
+            "question": "Smitch diamond is provided if the angle of diamond is less than",
+            "answers": [
+                "2\u00b0",
+                "4\u00b0",
+                "6\u00b0",
+                "8\u00b0"
+            ]
+        },
+        {
+            "question": "The distance between theoretical nose of crossing and actual nose of crossing for practical purposes, is",
+            "answers": [
+                "Nose thickness x tan \u03b1",
+                "Nose thickness x cot \u03b1",
+                "Nose thickness x sin \u03b1",
+                "Nose thickness x cos \u03b1"
+            ]
+        },
+        {
+            "question": "The main advantage of a long rail over short one, is",
+            "answers": [
+                "it requires less number of rail fastenings",
+                "it provides smooth running of trains",
+                "it involves less maintenance cost",
+                "it provides conform to passengers",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Widening of gauge is provided if degree of the curve, is",
+            "answers": [
+                "3\u00b0 or less",
+                "3\u00b0 to ",
+                "more than ",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Continuity of electric current across welded rail joints, is maintained by",
+            "answers": [
+                "welding ends of a wire to each rail",
+                "placing an insulated plate underneath the rails",
+                "placing insulation in expansion gaps",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Sand may be used as ballast for",
+            "answers": [
+                "wooden sleepers",
+                "steel sleepers",
+                "cast iron sleepers",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Cast iron sleeper, is",
+            "answers": [
+                "pot sleeper",
+                "box sleeper",
+                "Duplex sleeper",
+                "plate sleeper",
+                "All the above."
+            ]
+        },
+        {
+            "question": "On Indian Railways, angle of crossing between gauge faces of Vee, is generally calculated by",
+            "answers": [
+                "Cole's method",
+                "Centre line method",
+                "Isosceles triangle method",
+                "both (a) and (b)"
+            ]
+        },
+        {
+            "question": "For an effective administration, Indian railway system has been divided into",
+            "answers": [
+                "four railway zones",
+                "six railway zones",
+                "seven railway zones",
+                "eight railway zones",
+                "nine railway zones."
+            ]
+        },
+        {
+            "question": "In a railway track, permissible gauge with tolerance under loaded condition, is",
+            "answers": [
+                "G + 0.1 mm",
+                "G + 1.5 mm",
+                "G - l.O mm",
+                "G - 1.5mm",
+                "G - 20 mm"
+            ]
+        },
+        {
+            "question": "A turn-in-curve is defined as",
+            "answers": [
+                "a curve introduced between two straights",
+                "a reverse curve",
+                "a reverse curve introduced in continuity of a turn out",
+                "a spiral transition curve."
+            ]
+        },
+        {
+            "question": "Advantage of automatic signalling, is:",
+            "answers": [
+                "increased safety",
+                "reduction in delays",
+                "increase in track capacity",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Track construction involves preparation of",
+            "answers": [
+                "subgrade",
+                "plate laying",
+                "ballasting",
+                "all the above."
+            ]
+        },
+        {
+            "question": "In permanent way, ballast",
+            "answers": [
+                "transfers load from sleepers to the formation",
+                "provides an elastic bed to the track",
+                "provides a drainage of track",
+                "all the above."
+            ]
+        },
+        {
+            "question": "The lengths of the standard crossings in India for Broad gauge and Metre gauge tracks is same for",
+            "answers": [
+                "1 in  B.G. and, in 12 M.G.",
+                "1 in 12 B.G. and, 1 in 16 M.G.",
+                "1 in 12 B.G. and 1 in   M.G.",
+                "1 in 16 B.G. and 1 in 12 M.G."
+            ]
+        },
+        {
+            "question": "If w is width of sleepers, s is sleeper spacing and d is depth of ballast then",
+            "answers": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "On either side of the centre line of rails, a cant of 1 in 20 in the sleeper is provided for a distance of",
+            "answers": [
+                "150 mm",
+                "165 mm",
+                "175 mm",
+                "185 mm"
+            ]
+        },
+        {
+            "question": "Anti-creep anchors are fixed to rails by",
+            "answers": [
+                "wedging",
+                "spring grip",
+                "clamping",
+                "all the above."
+            ]
+        },
+        {
+            "question": "On Indian Railways, the approximate weight of a rail section is determined from the formula",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Pick up the incorrect statement from the following. Required tilt of 1 in 20 is provided",
+            "answers": [
+                "to the tops of rails",
+                "at rail seats in bearing plates",
+                "at rail seats in chairs",
+                "at rail seats in metal sleepers."
+            ]
+        },
+        {
+            "question": "A triangle of railway consists of",
+            "answers": [
+                "three turn outs",
+                "one turn out and two diamonds",
+                "two turn outs and one split",
+                "one turn out, one split and one diamond."
+            ]
+        },
+        {
+            "question": "Steel sleepers are",
+            "answers": [
+                "rectangular is cross section throughout",
+                "hollow circular pipes",
+                "6 mm thick steel sheets with ends bent down",
+                "6 mm thick steel sheets with ends bent up."
+            ]
+        },
+        {
+            "question": "If D is distance between centres of two parallel tracks of gauge G with entire curved leads and equal angles of crossing, total length of crossover, is",
+            "answers": [
+                "D (4R - 2G - D)",
+                "D (3R - 2G -D)",
+                "D (3R + 2G - D) ",
+                "D (4 + 2G - D)"
+            ]
+        },
+        {
+            "question": "Pick up the incorrect statement from the following:",
+            "answers": [
+                "Ends of adjoining rails should be in true alignment",
+                "Rail joints should be as strong as the rail section itself",
+                "Rail joints should be elastic laterally as well as vertically",
+                "Ends of adjoining rails butt against to give a continuity",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Staggered rail joints are generally provided",
+            "answers": [
+                "on curves",
+                "on tangents",
+                "on bridges",
+                "in tunnels."
+            ]
+        },
+        {
+            "question": "Bull headed rails are generally provided on",
+            "answers": [
+                "points and crossing",
+                "straight tangents",
+                "curved tracks",
+                "metre gauge tracks",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The check rails are placed opposite the crossing so that",
+            "answers": [
+                "it is symmetrically placed opposite nose of crossing",
+                "its one-third length is ahead of the nose of crossing",
+                "its two-third length is ahead of the nose of crossing",
+                "its three fourth length is ahead of the nose of crossing."
+            ]
+        },
+        {
+            "question": "Weight and cross section of the rails are decided on",
+            "answers": [
+                "gauge of tracks",
+                "speed of trains",
+                "spacing of sleepers",
+                "type of rails",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Main disadvantage of steel sleepers, is :",
+            "answers": [
+                "it gets rusted quickly",
+                "its lugs some times get broken",
+                "its lugs some times get split",
+                "all the aboye."
+            ]
+        },
+        {
+            "question": "An extra 7.5 cm ballast width is not provided on outer side on a curve, if its degree is",
+            "answers": [
+                "6\u00b0",
+                "5\u00b0",
+                "4\u00b0",
+                "3\u00b0",
+                "2\u00b0"
+            ]
+        },
+        {
+            "question": "The factor for deciding the type of sleeper, is",
+            "answers": [
+                "easy fixing and removal of rails",
+                "provision of sufficient bearing area for rails",
+                "initial and maintenance costs",
+                "strength to act as a beam under loads",
+                "all the above."
+            ]
+        },
+        {
+            "question": "Spacing of sleepers",
+            "answers": [
+                "throughout the length of a rail is kept uniform",
+                "near rail joints, is kept closer",
+                "at the middle of rails, is kept closer",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Rail section is generally designated by its",
+            "answers": [
+                "total weight",
+                "total length",
+                "weight per metre length",
+                "area of its cross-section."
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "Length of tongue rail should be greater than rigid wheel base of vehicle",
+                "Stock rail should be longer than tongue rail",
+                "Length of stock rail ahead of the toe should be a minimum of 1.65 m",
+                "All the above."
+            ]
+        },
+        {
+            "question": "Total effective bearing area of both the bowls of a pot sleeper, is",
+            "answers": [
+                "slightly more than that of a wooden sleeper",
+                "slightly less than that of a wooden sleeper",
+                "equal to that of a wooden sleeper",
+                "none of these."
+            ]
+        },
+        {
+            "question": "For metal sleepers with rounded edges, maximum size of ballast, is",
+            "answers": [
+                "50 mm",
+                "40 mm",
+                "30 mm",
+                "25 cm",
+                "20 mm"
+            ]
+        },
+        {
+            "question": "If G is gauge distance and a is crossing, the distance between the nose of acute crossing and nose of obtuse crossing of a rail diamond, measured along the rail not forming the diamond, is",
+            "answers": [
+                "G cot \u03b1",
+                "G tan \u03b1",
+                "G sin \u03b1",
+                "G cos \u03b1"
+            ]
+        },
+        {
+            "question": "On Indian Railways, number of a crossing is defined as",
+            "answers": [
+                "sine of angle of crossing",
+                "consine of angle of crossing",
+                "tangent of angle of crossing",
+                "contangent of angle of crossing."
+            ]
+        },
+        {
+            "question": "If the standard length of a crossing is 480 cm, the number of crossing is",
+            "answers": [
+                "1 in   of B.G.",
+                "1 in   of M.G.",
+                "both (a) and (b)",
+                "none of these."
+            ]
+        },
+        {
+            "question": "In India, metre gauge permanent way was adopted in",
+            "answers": [
+                "1855",
+                "1860",
+                "1866",
+                "1871",
+                "1875"
+            ]
+        },
+        {
+            "question": "On a single line track, 10 goods trains loaded with iron ore run from A to B and empty wagons return from B to  A daily. Amount of creep of the rails will be",
+            "answers": [
+                "zero",
+                "more in the direction A to B",
+                "more in the direction B to A",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Check rails are provided on inner side of inner rails if sharpness of a B.G. curve, is more than",
+            "answers": [
+                "3\u00b0",
+                "5\u00b0",
+                "6\u00b0",
+                "8\u00b0"
+            ]
+        },
+        {
+            "question": "Wing rails are provided",
+            "answers": [
+                "near tongue rails",
+                "near check rails",
+                "near stock rails",
+                "in crossing."
+            ]
+        },
+        {
+            "question": "Burnettising is done for the preservation of",
+            "answers": [
+                "wooden sleepers",
+                "rails",
+                "ballast",
+                "none of these."
+            ]
+        },
+        {
+            "question": "30 m long rails are used in",
+            "answers": [
+                "India",
+                "Pakistan",
+                "Russia",
+                "U.S.A.",
+                "U.K."
+            ]
+        },
+        {
+            "question": "Minimum gradient in station yards is generally limited to",
+            "answers": [
+                "1 in 1000",
+                "1 in 750",
+                "1 in 500",
+                "1 in 400",
+                "zero"
+            ]
+        },
+        {
+            "question": "If n is length of a rail in metres, the number of sleepers per rail length generally varies from",
+            "answers": [
+                "n to (n + 2)",
+                "(n + 2) to (n + 4)",
+                "(n + 3) to (n + 6)",
+                "(n + 4) to (n + 5)"
+            ]
+        },
+        {
+            "question": "For inspection and packing of ballast, each pot sleeper is provided with",
+            "answers": [
+                "one hole",
+                "two holes",
+                "three holes",
+                "four holes."
+            ]
+        },
+        {
+            "question": "Each block of a two-block concrete sleeper is",
+            "answers": [
+                "722 mm x 295 mm x 271 mm and 215 kg in weight",
+                "250 mm x 154 mm x 196 mm and 260 kg in weight",
+                "525 mm x 350 mm x 275 mm and 280 kg in weight",
+                "none of these."
+            ]
+        },
+        {
+            "question": "The effective bearing area of all types of sleepers, is",
+            "answers": [
+                "0.40 m2",
+                "0.42 m2",
+                "0.44 m2",
+                "0.46 m2",
+                "0.50 m2"
+            ]
+        },
+        {
+            "question": "For points and crossings, maximum size of ballast, is",
+            "answers": [
+                "50 mm",
+                "40 mm",
+                "30 mm",
+                "25 mm",
+                "20 mm"
+            ]
+        },
+        {
+            "question": "The main function of sleepers, is",
+            "answers": [
+                "to support rails",
+                "to hold rails at correct gauge",
+                "to distribute load from the rails to ballast",
+                "all the above."
+            ]
+        },
+        {
+            "question": "If S is the switch angle and \u03b1 is diamond angle, r is the radius of slip, the distance between middle point slip and the nose of obtuse crossing, is",
+            "answers": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Packing of ballast is done",
+            "answers": [
+                "near the ends of sleepers",
+                "on the shoulders",
+                "under sleepers",
+                "between two rails."
+            ]
+        },
+        {
+            "question": "If the standard length of a B.G. crossing is 597 cm, the number of crossing, is",
+            "answers": [
+                "1 in ",
+                "1 in 12",
+                "1 in 16",
+                "none of these."
+            ]
+        },
+        {
+            "question": "Rails are fixed on steel sleepers",
+            "answers": [
+                "by bearing plates",
+                "by dog spikes",
+                "by keys in lugs or jaws",
+                "none of these."
+            ]
+        },
+        {
+            "question": "If a is average number of peaks more than 10 mm of uneveness per kilometre, b is average number peaks more than 6 mm for gauge variation per kilometre and c is average number of peaks more than 2 mm twist per metre, then composite current recording index (Ic), as recommended by Indian Northern Railways, is",
+            "answers": [
+                "Ic = 10 - a - b - c/4",
+                "Ic = 20 - a - b - c/4",
+                "Ic = 30 - a - b - c/4",
+                "Ic = 40 - a - b - c/4"
+            ]
+        },
+        {
+            "question": "Pick up the correct statement from the following:",
+            "answers": [
+                "An extra width of 7.5 cm ballast isprovided on outside a curve if track is laid with short welded rails",
+                "An extra width of 7.5 cm ballast isprovided on outside a curve sharper than 3\u00b0 on B.G. and M.G. tracks",
+                "An extra width of 15 cm ballast is provided on each shoulder if the track is laid with welded rails",
+                "All the above."
+            ]
+        },
+        {
+            "question": "The standard width of ballast for M.G. track in Indian Railways, is kept",
+            "answers": [
+                "3.35 m",
+                "3.53 m",
+                "2.30 m",
+                "2.50 m",
+                "none of these."
+            ]
+        },
+        {
+            "question": "To prevent creep in rails, the steel sleepers are fixed with rails by clips, bolts and",
+            "answers": [
+                "one key",
+                "two keys",
+                "three keys",
+                "four keys."
+            ]
+        },
+        {
+            "question": "The standard dimensions of a wooden sleeper for a B.G. railway track are",
+            "answers": [
+                "2.74 m x 25 cm x 13 cm",
+                "1.83 m x 20 cm x 11 cm",
+                "1.52 m x 15 cm x 10 cm",
+                "1.75 cm x 20 cm x 12 cm",
+                "none of these."
+            ]
+        },
+        {
+            "question": "In Indian railways, the ratio of axle load and weight of rail, is",
+            "answers": [
+                "312",
+                "412",
+                "512",
+                "600"
+            ]
+        },
+        {
+            "question": "If D is the distance between parallel tracks G is the gauge and \u03b1 is angle of crossings, the distance between theoretical noses of two crossings measured parallel to tracks, is",
+            "answers": [
+                "(D - G - G sec \u03b1) cot \u03b1",
+                "(D - G + G sec \u03b1) cot \u03b1",
+                "(D - G - G sec \u03b1) tan \u03b1",
+                "(D + G + G sec \u03b1) cot \u03b1"
+            ]
+        },
+        {
+            "question": "Minimum composite sleeper index for wooden sleepers used over bridge girders, is",
+            "answers": [
+                "1455",
+                "1355",
+                "1255",
+                "1155",
+                "none of these."
+            ]
+        },
+        {
+            "question": "In a diamond crossing, number of noses are",
+            "answers": [
+                "2",
+                "3",
+                "4",
+                "6"
+            ]
+        },
+        {
+            "question": "If the stock rails are B.H. rails, the type of switch generally provided, is",
+            "answers": [
+                "articulated",
+                "undercut",
+                "over riding",
+                "straight cut."
+            ]
+        },
+        {
+            "question": "Bending of rail ends due to loose packing under a joint and loose fish Bolts, is known",
+            "answers": [
+                "buckling",
+                "hogging",
+                "creeping",
+                "none of these."
+            ]
+        },
+        {
+            "question": "On Broad Gauge main lines with maximum traffic loads, the rail section preferred to, is",
+            "answers": [
+                "29.8 to 37.3 kg/m",
+                "32.5 to 42.5 kg/cm",
+                "44.7 to 56.8 kg/m",
+                "none of these"
+            ]
+        },
+        {
+            "question": "If D is the distance between the parallel sidings and \u03b1 is the angle of crossing, the distance between the noses of crossing measured parallel to the main track, is",
+            "answers": [
+                "D tan \u03b1",
+                "D sec \u03b1",
+                "D cosec \u03b1",
+                "D cot \u03b1"
+            ]
+        },
+        {
+            "question": "On B.G. tracks the distance of outer signal from station limit is kept",
+            "answers": [
+                "510 m",
+                "520 m",
+                "530 m",
+                "540 m",
+                "550 m"
+            ]
+        },
+        {
+            "question": "The rails get out of their original positions due to insufficient expansion gap. This phenomenon is known",
+            "answers": [
+                "hogging",
+                "buckling",
+                "creeping",
+                "none of these."
+            ]
+        }
+    ]
+}
