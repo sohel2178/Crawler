@@ -2,3 +2,4 @@
 [0126/153146.879:ERROR:exception_snapshot_win.cc(88)] thread ID 5352 not found in process
 [0126/154024.623:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
 [0126/154024.624:ERROR:exception_snapshot_win.cc(88)] thread ID 3784 not found in process
+[0127/144156.633:ERROR:file_io_win.cc(179)] CreateFile C:\Users\sohel\AppData\Local\Temp\scoped_dir4448_5753\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)

@@ -6,7 +6,7 @@ import time
 
 base_url = 'http://www.indiabix.com/civil-engineering'
 
-browser = webdriver.Chrome(r'C:\Users\sohel\Desktop\Selenium\chromedriver.exe')
+browser = webdriver.Chrome(r'C:\Users\sohel\ChromeDriver\chromedriver.exe')
 # browser = webdriver.Firefox()
 
 total_page = 10
